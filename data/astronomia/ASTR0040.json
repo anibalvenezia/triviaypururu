@@ -1,0 +1,19 @@
+{
+  "c": "Astronomía",
+  "t": "ord",
+  "p": 2,
+  "g": "astr-orden-planetas",
+  "q": "Ordená estos planetas del más cercano al más lejano del Sol.",
+  "o": [
+    "Mercurio",
+    "Marte",
+    "Saturno",
+    "Neptuno"
+  ],
+  "a": [
+    "Mercurio",
+    "Marte",
+    "Saturno",
+    "Neptuno"
+  ]
+}

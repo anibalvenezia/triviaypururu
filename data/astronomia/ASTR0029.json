@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-perihelio",
+  "q": "¿Cómo se llama el punto de la órbita de la Tierra en que está más cerca del Sol?",
+  "o": [
+    "Afelio",
+    "Perihelio",
+    "Apogeo",
+    "Perigeo"
+  ],
+  "a": "Perihelio",
+  "n": "Ocurre a comienzos de enero. Las estaciones no dependen de la distancia al Sol sino de la inclinación del eje terrestre."
+}

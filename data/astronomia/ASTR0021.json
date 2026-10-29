@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-sputnik",
+  "q": "¿Qué país lanzó en 1957 el primer satélite artificial, el Sputnik 1?",
+  "o": [
+    "Estados Unidos",
+    "China",
+    "Alemania",
+    "Unión Soviética"
+  ],
+  "a": "Unión Soviética",
+  "n": "Su lanzamiento, en octubre de 1957, dio comienzo a la carrera espacial."
+}

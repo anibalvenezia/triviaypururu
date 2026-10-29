@@ -312,7 +312,7 @@ const PRUEBAS_IMAGEN = [
 const RONDAS = [
   { nombre: "Letras, música y Córdoba", corto: "Letras y Córdoba", cats: ["Literatura", "Música", "Cultura general", "Córdoba", "Arte", "Mundo", "Banderas"] },
   { nombre: "Deportes, cine y espectáculos", corto: "Deportes y pantalla", cats: ["Deportes", "Cine y series", "TV y espectáculos"] },
-  { nombre: "Historia, ciencias y frases célebres", corto: "Historia y ciencias", cats: ["Historia", "Ciencia", "Quién dijo"] },
+  { nombre: "Historia, ciencias y frases célebres", corto: "Historia y ciencias", cats: ["Historia", "Ciencia", "Astronomía", "Quién dijo"] },
 ];
 
 // huella estable de una pregunta, para recordar cuáles ya salieron entre partidas
@@ -840,7 +840,7 @@ function Final({ pregunta, equipos, puntos, numero, onResolver }) {
    ============================================================ */
 
 const ICONOS = {
-  "Córdoba": "⛰️", Historia: "🏛️", Ciencia: "🔬", "Música": "🎵", Literatura: "📚",
+  "Córdoba": "⛰️", Historia: "🏛️", Ciencia: "🔬", "Astronomía": "🔭", "Música": "🎵", Literatura: "📚",
   "Cine y series": "🎬", "TV y espectáculos": "📺", Deportes: "⚽", Mundo: "🌍",
   Arte: "🎨", "Cultura general": "💡", Banderas: "🏳️", "Quién dijo": "💬",
 };

@@ -1,0 +1,14 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántos planetas tiene el Sistema Solar?",
+  "o": [
+    "Ocho",
+    "Nueve",
+    "Siete",
+    "Diez"
+  ],
+  "a": "Ocho",
+  "n": "Plutón dejó de ser planeta en 2006."
+}

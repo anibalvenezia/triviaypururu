@@ -1,0 +1,19 @@
+{
+  "c": "Astronomía",
+  "t": "ord",
+  "p": 2,
+  "g": "astr-cronologia",
+  "q": "Ordená estos hitos de la exploración espacial del más antiguo al más reciente.",
+  "o": [
+    "Lanzamiento del Sputnik 1",
+    "Primer viaje de un ser humano al espacio (Gagarin)",
+    "Llegada a la Luna del Apolo 11",
+    "Lanzamiento del telescopio Hubble"
+  ],
+  "a": [
+    "Lanzamiento del Sputnik 1",
+    "Primer viaje de un ser humano al espacio (Gagarin)",
+    "Llegada a la Luna del Apolo 11",
+    "Lanzamiento del telescopio Hubble"
+  ]
+}
