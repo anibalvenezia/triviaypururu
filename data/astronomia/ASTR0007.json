@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-cruz-sur",
+  "q": "¿Cuál de estas constelaciones sirve para orientarse hacia el sur en el hemisferio sur?",
+  "o": [
+    "Osa Mayor",
+    "Cruz del Sur",
+    "Casiopea",
+    "Cisne"
+  ],
+  "a": "Cruz del Sur",
+  "n": "Prolongando cuatro veces y media el palo mayor de la cruz se llega al polo sur celeste. Aparece en las banderas de Brasil, Australia y Nueva Zelanda."
+}

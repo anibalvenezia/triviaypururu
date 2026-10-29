@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-apolo11",
+  "q": "¿Cómo se llamaba el módulo lunar del Apolo 11 que alunizó en 1969?",
+  "o": [
+    "Columbia",
+    "Eagle (Águila)",
+    "Challenger",
+    "Odyssey"
+  ],
+  "a": "Eagle (Águila)",
+  "n": "«El Águila ha aterrizado», fue el aviso. Columbia era el módulo de comando, que se quedó orbitando la Luna."
+}

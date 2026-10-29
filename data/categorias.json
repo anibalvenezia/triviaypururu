@@ -15,6 +15,11 @@
     "carpeta": "ciencia"
   },
   {
+    "codigo": "ASTR",
+    "nombre": "Astronomía",
+    "carpeta": "astronomia"
+  },
+  {
     "codigo": "MUSI",
     "nombre": "Música",
     "carpeta": "musica"

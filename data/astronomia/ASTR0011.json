@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-big-bang",
+  "q": "¿Hace cuánto tiempo, aproximadamente, se produjo el Big Bang?",
+  "o": [
+    "4.600 millones de años",
+    "65 millones de años",
+    "13.800 millones de años",
+    "100.000 millones de años"
+  ],
+  "a": "13.800 millones de años",
+  "n": "La Tierra es mucho más joven: tiene unos 4.540 millones de años."
+}

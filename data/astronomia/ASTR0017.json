@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-eclipse-fase",
+  "q": "¿Qué fase tiene la Luna durante un eclipse solar?",
+  "o": [
+    "Luna llena",
+    "Cuarto creciente",
+    "Luna nueva",
+    "Cuarto menguante"
+  ],
+  "a": "Luna nueva",
+  "n": "El eclipse solar ocurre cuando la Luna se interpone entre el Sol y la Tierra, y por eso su cara iluminada mira hacia el otro lado."
+}

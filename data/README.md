@@ -20,7 +20,7 @@ orden es el orden de las categorías en el juego** (ruleta, etc.).
 | MUSI | Música | CULT | Cultura general |
 | LITE | Literatura | BAND | Banderas |
 | CINE | Cine y series | QDIJ | Quién dijo |
-| TVES | TV y espectáculos | | |
+| TVES | TV y espectáculos | ASTR | Astronomía |
 
 ## Agregar una pregunta
 

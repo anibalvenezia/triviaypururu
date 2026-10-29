@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-venus-dia",
+  "q": "¿Qué planeta tiene un día más largo que su año?",
+  "o": [
+    "Mercurio",
+    "Venus",
+    "Marte",
+    "Neptuno"
+  ],
+  "a": "Venus",
+  "n": "Tarda unos 243 días terrestres en rotar y 225 en dar la vuelta al Sol. Además gira al revés que casi todos los planetas."
+}
