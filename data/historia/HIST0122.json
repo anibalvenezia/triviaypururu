@@ -1,0 +1,15 @@
+{
+  "c": "Historia",
+  "t": "mc",
+  "p": 1,
+  "g": "stanford",
+  "q": "¿En qué universidad se hizo el experimento de la cárcel simulada de 1971?",
+  "o": [
+    "Stanford",
+    "Yale",
+    "Harvard",
+    "Berkeley"
+  ],
+  "a": "Stanford",
+  "n": "Lo dirigió Philip Zimbardo en el sótano del edificio de Psicología, no en una cárcel real. Sus resultados hoy están muy discutidos metodológicamente."
+}

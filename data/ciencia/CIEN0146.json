@@ -1,0 +1,15 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "g": "queratocono",
+  "q": "¿Cuál de estas afecciones oculares se agrava al frotarse los ojos?",
+  "o": [
+    "el queratocono",
+    "el glaucoma",
+    "las cataratas",
+    "la presbicia"
+  ],
+  "a": "el queratocono",
+  "n": "La córnea se adelgaza y se deforma en forma de cono; el frotado mecánico acelera el proceso."
+}

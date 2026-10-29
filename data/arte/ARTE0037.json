@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-roulin",
+  "img": [
+    "obras/roulin.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vincent_van_Gogh_-_The_Schoolboy_(Camille_Roulin)%2C_1888.jpg/960px-Vincent_van_Gogh_-_The_Schoolboy_(Camille_Roulin)%2C_1888.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vincent_van_Gogh_-_The_Schoolboy_(Camille_Roulin)%2C_1888.jpg/500px-Vincent_van_Gogh_-_The_Schoolboy_(Camille_Roulin)%2C_1888.jpg"
+  ],
+  "q": "¿Quién pintó este retrato de un chico con gorra?",
+  "o": [
+    "Vincent van Gogh",
+    "Amedeo Modigliani",
+    "Paul Cézanne",
+    "Henri Rousseau"
+  ],
+  "a": "Vincent van Gogh",
+  "n": "Es Camille Roulin, hijo del cartero de Arlés al que también retrató.",
+  "titulo": "El escolar (Camille Roulin) · Vincent van Gogh, 1888"
+}

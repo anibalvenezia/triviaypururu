@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió 'El señor de los anillos'?",
+  "o": [
+    "J. R. R. Tolkien",
+    "C. S. Lewis",
+    "Ursula K. Le Guin",
+    "Terry Pratchett"
+  ],
+  "a": "J. R. R. Tolkien"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué película de 1999 popularizó el efecto visual conocido como bullet time?",
+  "o": [
+    "Matrix",
+    "Fight Club",
+    "El sexto sentido",
+    "eXistenZ"
+  ],
+  "a": "Matrix"
+}

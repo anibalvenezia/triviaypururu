@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-autorretrato-vg",
+  "img": [
+    "obras/autorretrato-vg.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg/960px-Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg/500px-Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg"
+  ],
+  "q": "¿A quién le dedicó Van Gogh este autorretrato?",
+  "o": [
+    "A Paul Gauguin",
+    "A su hermano Theo",
+    "A Camille Pissarro",
+    "A Émile Bernard"
+  ],
+  "a": "A Paul Gauguin",
+  "n": "Arlés, 1888, antes de que Gauguin fuera a vivir con él.",
+  "titulo": "Autorretrato dedicado a Gauguin · Vincent van Gogh, 1888"
+}

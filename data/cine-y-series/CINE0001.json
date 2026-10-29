@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántas temporadas tiene 'Breaking Bad'?",
+  "o": [
+    "5",
+    "4",
+    "6",
+    "7"
+  ],
+  "a": "5"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántos jugadores tiene un equipo de vóley en cancha?",
+  "o": [
+    "6",
+    "5",
+    "7",
+    "8"
+  ],
+  "a": "6"
+}

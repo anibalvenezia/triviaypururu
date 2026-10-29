@@ -1,0 +1,13 @@
+{
+  "c": "Córdoba",
+  "t": "mc",
+  "p": 1,
+  "q": "¿De qué país es originario el fernet?",
+  "o": [
+    "Italia",
+    "Francia",
+    "España",
+    "Argentina"
+  ],
+  "a": "Italia"
+}

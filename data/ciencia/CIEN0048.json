@@ -1,0 +1,14 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el planeta más caliente del Sistema Solar?",
+  "o": [
+    "Venus",
+    "Mercurio",
+    "Marte",
+    "Júpiter"
+  ],
+  "a": "Venus",
+  "n": "Su atmósfera densa produce un efecto invernadero extremo."
+}

@@ -1,0 +1,14 @@
+{
+  "c": "Quién dijo",
+  "t": "mc",
+  "p": 1,
+  "g": "qd-starwars",
+  "q": "«Que la Fuerza te acompañe». ¿De qué saga cinematográfica es la frase?",
+  "o": [
+    "Star Wars",
+    "Star Trek",
+    "Dune",
+    "Battlestar Galactica"
+  ],
+  "a": "Star Wars"
+}

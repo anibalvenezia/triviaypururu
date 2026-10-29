@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-rusia",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/500px-Flag_of_Russia.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/250px-Flag_of_Russia.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Rusia",
+    "Países Bajos",
+    "Eslovenia",
+    "Serbia"
+  ],
+  "a": "Rusia"
+}

@@ -1,0 +1,14 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "g": "hervor",
+  "q": "¿A qué temperatura hierve el agua a nivel del mar?",
+  "o": [
+    "100 grados",
+    "90 grados",
+    "120 grados",
+    "80 grados"
+  ],
+  "a": "100 grados"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió 'La Odisea' según la tradición?",
+  "o": [
+    "Homero",
+    "Virgilio",
+    "Sófocles",
+    "Herodoto"
+  ],
+  "a": "Homero"
+}

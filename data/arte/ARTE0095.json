@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-mercaderes",
+  "img": [
+    "obras/mercaderes.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_(Domenikos_Theotokopoulos)_-_Christ_Driving_the_Money_Changers_from_the_Temple_-_Google_Art_Project.jpg/960px-El_Greco_(Domenikos_Theotokopoulos)_-_Christ_Driving_the_Money_Changers_from_the_Temple_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_(Domenikos_Theotokopoulos)_-_Christ_Driving_the_Money_Changers_from_the_Temple_-_Google_Art_Project.jpg/500px-El_Greco_(Domenikos_Theotokopoulos)_-_Christ_Driving_the_Money_Changers_from_the_Temple_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué escena bíblica representa este cuadro de El Greco?",
+  "o": [
+    "Cristo expulsando a los mercaderes del templo",
+    "La última cena",
+    "La resurrección de Lázaro",
+    "Las bodas de Caná"
+  ],
+  "a": "Cristo expulsando a los mercaderes del templo",
+  "titulo": "Cristo expulsando a los mercaderes del templo · El Greco"
+}

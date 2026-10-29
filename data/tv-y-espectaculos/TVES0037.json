@@ -1,0 +1,19 @@
+{
+  "c": "TV y espectáculos",
+  "t": "ord",
+  "p": 2,
+  "q": "Ordená estas series por año de estreno, de la más antigua a la más reciente.",
+  "o": [
+    "Los Simpson",
+    "Los Soprano",
+    "Breaking Bad",
+    "Stranger Things"
+  ],
+  "a": [
+    "Los Simpson",
+    "Los Soprano",
+    "Breaking Bad",
+    "Stranger Things"
+  ],
+  "n": "1989, 1999, 2008 y 2016."
+}

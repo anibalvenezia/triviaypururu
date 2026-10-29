@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-charing",
+  "img": [
+    "obras/charing.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Claude_Monet_-_Charing-Cross_Bridge_in_London_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Charing-Cross_Bridge_in_London_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Claude_Monet_-_Charing-Cross_Bridge_in_London_-_Google_Art_Project.jpg/500px-Claude_Monet_-_Charing-Cross_Bridge_in_London_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿En qué ciudad pintó Monet este puente entre la bruma?",
+  "o": [
+    "Londres",
+    "París",
+    "Venecia",
+    "Ámsterdam"
+  ],
+  "a": "Londres",
+  "titulo": "El puente de Charing Cross · Claude Monet, 1900"
+}

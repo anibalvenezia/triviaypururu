@@ -1,0 +1,14 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿De qué provincia es Abel Pintos?",
+  "o": [
+    "Buenos Aires",
+    "Santa Fe",
+    "Salta",
+    "Córdoba"
+  ],
+  "a": "Buenos Aires",
+  "n": "Nació en Bahía Blanca."
+}

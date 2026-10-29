@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-noche",
+  "img": [
+    "obras/noche.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VanGogh-starry_night_ballance1.jpg/960px-VanGogh-starry_night_ballance1.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VanGogh-starry_night_ballance1.jpg/500px-VanGogh-starry_night_ballance1.jpg"
+  ],
+  "q": "¿Quién pintó este cielo nocturno con un ciprés en primer plano?",
+  "o": [
+    "Vincent van Gogh",
+    "Paul Cézanne",
+    "Edvard Munch",
+    "Claude Monet"
+  ],
+  "a": "Vincent van Gogh",
+  "n": "'La noche estrellada', 1889, en el MoMA.",
+  "titulo": "La noche estrellada · Vincent van Gogh, 1889"
+}

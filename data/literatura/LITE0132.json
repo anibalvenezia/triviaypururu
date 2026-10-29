@@ -1,0 +1,15 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "g": "whitman",
+  "q": "¿Quién escribió 'Hojas de hierba'?",
+  "o": [
+    "Walt Whitman",
+    "Emily Dickinson",
+    "Edgar Allan Poe",
+    "Ralph Waldo Emerson"
+  ],
+  "a": "Walt Whitman",
+  "n": "Lo reescribió y amplió durante casi cuarenta años, desde 1855."
+}

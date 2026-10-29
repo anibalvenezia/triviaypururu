@@ -1,0 +1,15 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "g": "varietal-85",
+  "q": "¿Qué porcentaje mínimo de una variedad de uva debe tener un vino argentino para llevar su nombre en la etiqueta?",
+  "o": [
+    "85%",
+    "70%",
+    "50%",
+    "100%"
+  ],
+  "a": "85%",
+  "n": "Lo fija el INV: 'deberá contener como mínimo ochenta y cinco por ciento (85%) del vino elaborado con uvas de la variedad citada'."
+}

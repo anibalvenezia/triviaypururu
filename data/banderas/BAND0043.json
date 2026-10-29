@@ -1,0 +1,20 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-australia",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/500px-Flag_of_Australia.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_(converted).svg/500px-Flag_of_Australia_(converted).svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/250px-Flag_of_Australia.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Australia",
+    "Nueva Zelanda",
+    "Fiyi",
+    "Reino Unido"
+  ],
+  "a": "Australia",
+  "n": "Tiene seis estrellas; la de Nueva Zelanda tiene cuatro y son rojas."
+}

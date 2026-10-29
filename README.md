@@ -21,7 +21,7 @@ falta a mano, se arrastra la carpeta `dist` a Netlify Drop).
 | Archivo | Qué es |
 |---|---|
 | `app.jsx` | La app: lógica de rondas, ruleta, semifinal, final y estilos. Un solo componente React con hooks, sin router. |
-| `data/` | **El banco de preguntas**, un `.json` por categoría. Ver `data/README.md`. |
+| `data/` | **El banco de preguntas**: una carpeta por categoría, un `.json` por pregunta (`HIST0001.json`). Ver `data/README.md`. |
 | `scripts/validar.mjs` | Revisa el banco (`npm run validar`). Corre solo en cada pull request. |
 | `netlify.toml` | Le dice a Netlify cómo compilar y qué carpeta publicar. |
 | `entry.jsx` | Punto de montaje y **shim de almacenamiento**. Ver la advertencia de abajo. |
@@ -57,7 +57,7 @@ responder una pregunta, no quedarse en la pantalla de inicio.
 }
 ```
 
-Las preguntas viven en `data/<categoría>.json` y `data/index.js` las junta.
+Las preguntas viven en `data/<categoría>/<CODIGO>0001.json`, una por archivo. `build.mjs` las junta al compilar.
 
 ## Dos mecanismos que conviene no romper
 
@@ -123,5 +123,5 @@ El camino de un cambio:
 
 Nadie sube directo a `main` ni a `testing`: todo entra por pull request.
 
-Para agregar preguntas no hace falta programar: alcanza con editar el `.json` de la
-categoría desde la web de GitHub. Ver `data/README.md`.
+Para agregar una pregunta no hace falta programar: alcanza con crear un archivo nuevo en
+la carpeta de su categoría desde la web de GitHub. Ver `data/README.md`.

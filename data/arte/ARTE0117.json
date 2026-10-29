@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-helene",
+  "img": [
+    "obras/helene.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Peter_Paul_Rubens_-_Portrait_of_H%C3%A9l%C3%A8ne_Fourment_-_Google_Art_Project.jpg/960px-Peter_Paul_Rubens_-_Portrait_of_H%C3%A9l%C3%A8ne_Fourment_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Peter_Paul_Rubens_-_Portrait_of_H%C3%A9l%C3%A8ne_Fourment_-_Google_Art_Project.jpg/500px-Peter_Paul_Rubens_-_Portrait_of_H%C3%A9l%C3%A8ne_Fourment_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Quién pintó este retrato de su joven segunda esposa?",
+  "o": [
+    "Peter Paul Rubens",
+    "Anthony van Dyck",
+    "Rembrandt",
+    "Frans Hals"
+  ],
+  "a": "Peter Paul Rubens",
+  "n": "Hélène Fourment, con quien Rubens se casó a los 53 años.",
+  "titulo": "Retrato de Hélène Fourment · Peter Paul Rubens, 1630"
+}

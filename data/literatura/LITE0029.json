@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué escritor colombiano ganó el Nobel de Literatura en 1982?",
+  "o": [
+    "Gabriel García Márquez",
+    "Álvaro Mutis",
+    "Mario Vargas Llosa",
+    "Juan Gabriel Vásquez"
+  ],
+  "a": "Gabriel García Márquez"
+}

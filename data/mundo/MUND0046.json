@@ -1,0 +1,14 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué ciudad es considerada la más austral del mundo?",
+  "o": [
+    "Ushuaia",
+    "Punta Arenas",
+    "Río Grande",
+    "Puerto Williams"
+  ],
+  "a": "Ushuaia",
+  "n": "Puerto Williams, en Chile, disputa el título como localidad."
+}

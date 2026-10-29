@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-velero",
+  "img": [
+    "obras/velero.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Winslow_Homer_-_Breezing_Up_(A_Fair_Wind)_-_Google_Art_Project.jpg/960px-Winslow_Homer_-_Breezing_Up_(A_Fair_Wind)_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Winslow_Homer_-_Breezing_Up_(A_Fair_Wind)_-_Google_Art_Project.jpg/500px-Winslow_Homer_-_Breezing_Up_(A_Fair_Wind)_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿De qué país era Winslow Homer, el autor de esta marina?",
+  "o": [
+    "Estados Unidos",
+    "Inglaterra",
+    "Canadá",
+    "Australia"
+  ],
+  "a": "Estados Unidos",
+  "n": "Pintó esta obra en 1876, el año del centenario de la independencia.",
+  "titulo": "Viento a favor · Winslow Homer, 1876"
+}

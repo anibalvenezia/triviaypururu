@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-jamaica",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/500px-Flag_of_Jamaica.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/250px-Flag_of_Jamaica.svg.png"
+  ],
+  "q": "¿De qué país caribeño es esta bandera?",
+  "o": [
+    "Jamaica",
+    "Barbados",
+    "Bahamas",
+    "Trinidad y Tobago"
+  ],
+  "a": "Jamaica"
+}

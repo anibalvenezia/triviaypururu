@@ -1,0 +1,13 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "q": "¿De qué país es el escultor y pintor Fernando Botero?",
+  "o": [
+    "Colombia",
+    "México",
+    "Venezuela",
+    "Perú"
+  ],
+  "a": "Colombia"
+}

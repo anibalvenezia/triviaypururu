@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué actor protagoniza el episodio de 'Bombita' en 'Relatos salvajes'?",
+  "o": [
+    "Ricardo Darín",
+    "Leonardo Sbaraglia",
+    "Oscar Martínez",
+    "Darío Grandinetti"
+  ],
+  "a": "Ricardo Darín"
+}

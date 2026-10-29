@@ -1,0 +1,67 @@
+[
+  {
+    "codigo": "CORD",
+    "nombre": "Córdoba",
+    "carpeta": "cordoba"
+  },
+  {
+    "codigo": "HIST",
+    "nombre": "Historia",
+    "carpeta": "historia"
+  },
+  {
+    "codigo": "CIEN",
+    "nombre": "Ciencia",
+    "carpeta": "ciencia"
+  },
+  {
+    "codigo": "MUSI",
+    "nombre": "Música",
+    "carpeta": "musica"
+  },
+  {
+    "codigo": "LITE",
+    "nombre": "Literatura",
+    "carpeta": "literatura"
+  },
+  {
+    "codigo": "CINE",
+    "nombre": "Cine y series",
+    "carpeta": "cine-y-series"
+  },
+  {
+    "codigo": "TVES",
+    "nombre": "TV y espectáculos",
+    "carpeta": "tv-y-espectaculos"
+  },
+  {
+    "codigo": "DEPO",
+    "nombre": "Deportes",
+    "carpeta": "deportes"
+  },
+  {
+    "codigo": "MUND",
+    "nombre": "Mundo",
+    "carpeta": "mundo"
+  },
+  {
+    "codigo": "ARTE",
+    "nombre": "Arte",
+    "carpeta": "arte"
+  },
+  {
+    "codigo": "CULT",
+    "nombre": "Cultura general",
+    "carpeta": "cultura-general"
+  },
+  {
+    "codigo": "BAND",
+    "nombre": "Banderas",
+    "carpeta": "banderas"
+  },
+  {
+    "codigo": "QDIJ",
+    "nombre": "Quién dijo",
+    "carpeta": "quien-dijo"
+  }
+]

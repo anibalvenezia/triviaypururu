@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-giuliano",
+  "img": [
+    "obras/giuliano.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jacopo_Tintoretto_-_Head_of_Giuliano_de'_Medici_-_Google_Art_Project.jpg/960px-Jacopo_Tintoretto_-_Head_of_Giuliano_de'_Medici_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jacopo_Tintoretto_-_Head_of_Giuliano_de'_Medici_-_Google_Art_Project.jpg/500px-Jacopo_Tintoretto_-_Head_of_Giuliano_de'_Medici_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué familia gobernó Florencia y aparece nombrada en el título de esta obra?",
+  "o": [
+    "Los Médici",
+    "Los Borgia",
+    "Los Sforza",
+    "Los Habsburgo"
+  ],
+  "a": "Los Médici",
+  "titulo": "Cabeza de Giuliano de Médici · Tintoretto"
+}

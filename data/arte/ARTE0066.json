@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-jeronimo-lee",
+  "img": [
+    "obras/jeronimo-lee.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rembrandt_Harmensz._van_Rijn_-_Saint_Jerome_Reading_in_an_Italian_Landscape_-_Google_Art_Project.jpg/960px-Rembrandt_Harmensz._van_Rijn_-_Saint_Jerome_Reading_in_an_Italian_Landscape_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rembrandt_Harmensz._van_Rijn_-_Saint_Jerome_Reading_in_an_Italian_Landscape_-_Google_Art_Project.jpg/500px-Rembrandt_Harmensz._van_Rijn_-_Saint_Jerome_Reading_in_an_Italian_Landscape_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué recurso de luz y sombra caracteriza a este pintor?",
+  "o": [
+    "El claroscuro",
+    "El puntillismo",
+    "La perspectiva aérea",
+    "El esfumado"
+  ],
+  "a": "El claroscuro",
+  "n": "Rembrandt es uno de los grandes maestros del claroscuro.",
+  "titulo": "San Jerónimo leyendo en un paisaje italiano · Rembrandt, 1653"
+}

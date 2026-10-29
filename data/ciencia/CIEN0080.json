@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué parte del cerebro coordina el equilibrio y los movimientos finos?",
+  "o": [
+    "El cerebelo",
+    "El hipocampo",
+    "El bulbo raquídeo",
+    "La corteza frontal"
+  ],
+  "a": "El cerebelo"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el mar más salado del mundo?",
+  "o": [
+    "El mar Muerto",
+    "El mar Rojo",
+    "El mar Caspio",
+    "El mar Negro"
+  ],
+  "a": "El mar Muerto"
+}

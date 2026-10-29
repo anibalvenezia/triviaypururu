@@ -1,0 +1,14 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "Entre un globo inflado y uno desinflado, ¿cuál tiene más masa?",
+  "o": [
+    "El inflado",
+    "El desinflado",
+    "Tienen la misma",
+    "Depende del material"
+  ],
+  "a": "El inflado",
+  "n": "El aire también tiene masa."
+}

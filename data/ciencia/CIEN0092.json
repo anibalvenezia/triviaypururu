@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué disciplina estudia los fósiles?",
+  "o": [
+    "La paleontología",
+    "La arqueología",
+    "La geología",
+    "La antropología"
+  ],
+  "a": "La paleontología"
+}

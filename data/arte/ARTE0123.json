@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-babel",
+  "img": [
+    "obras/babel.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Rotterdam)_-_Google_Art_Project.jpg/960px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Rotterdam)_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Rotterdam)_-_Google_Art_Project.jpg/500px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Rotterdam)_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué construcción bíblica representa esta obra?",
+  "o": [
+    "La torre de Babel",
+    "El arca de Noé",
+    "El templo de Salomón",
+    "Las murallas de Jericó"
+  ],
+  "a": "La torre de Babel",
+  "n": "De Pieter Bruegel el Viejo. Pintó al menos dos versiones.",
+  "titulo": "La torre de Babel · Pieter Bruegel el Viejo, 1565"
+}

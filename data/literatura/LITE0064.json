@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió 'Cumbres borrascosas'?",
+  "o": [
+    "Emily Brontë",
+    "Charlotte Brontë",
+    "Jane Austen",
+    "Mary Shelley"
+  ],
+  "a": "Emily Brontë"
+}

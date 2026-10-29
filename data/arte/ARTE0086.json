@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-antonio",
+  "img": [
+    "obras/antonio.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Raphael_-_Saint_Anthony_of_Padua_-_Google_Art_Project.jpg/960px-Raphael_-_Saint_Anthony_of_Padua_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Raphael_-_Saint_Anthony_of_Padua_-_Google_Art_Project.jpg/500px-Raphael_-_Saint_Anthony_of_Padua_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿De qué pintor es esta tabla de San Antonio de Padua?",
+  "o": [
+    "Rafael",
+    "El Greco",
+    "Francisco de Zurbarán",
+    "Fra Angelico"
+  ],
+  "a": "Rafael",
+  "titulo": "San Antonio de Padua · Rafael, 1501"
+}

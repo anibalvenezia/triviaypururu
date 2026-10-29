@@ -1,0 +1,14 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué tres colores de tinta, junto con el negro, usan las impresoras a color?",
+  "o": [
+    "Cian, magenta y amarillo",
+    "Rojo, verde y azul",
+    "Rojo, amarillo y azul",
+    "Naranja, violeta y verde"
+  ],
+  "a": "Cian, magenta y amarillo",
+  "n": "Rojo, verde y azul son los primarios de la luz, no de la tinta."
+}

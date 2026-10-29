@@ -1,0 +1,13 @@
+{
+  "c": "Historia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué año estalló la Revolución Francesa?",
+  "o": [
+    "1789",
+    "1776",
+    "1804",
+    "1815"
+  ],
+  "a": "1789"
+}

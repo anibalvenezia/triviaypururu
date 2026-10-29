@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-patinadores",
+  "img": [
+    "obras/patinadores.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hendrick_Avercamp_-_A_Scene_on_the_Ice_-_Google_Art_Project.jpg/960px-Hendrick_Avercamp_-_A_Scene_on_the_Ice_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hendrick_Avercamp_-_A_Scene_on_the_Ice_-_Google_Art_Project.jpg/500px-Hendrick_Avercamp_-_A_Scene_on_the_Ice_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué período climático europeo explica que los canales holandeses se congelaran así?",
+  "o": [
+    "La Pequeña Edad de Hielo",
+    "El Óptimo Climático Medieval",
+    "El deshielo del Rin",
+    "El invierno nuclear"
+  ],
+  "a": "La Pequeña Edad de Hielo",
+  "n": "De Hendrick Avercamp, que pintó estas escenas en el siglo XVII.",
+  "titulo": "Escena sobre el hielo · Hendrick Avercamp"
+}

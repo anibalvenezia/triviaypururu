@@ -1,0 +1,15 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "g": "mascherano-clubes",
+  "q": "¿En cuál de estos clubes no jugó Javier Mascherano?",
+  "o": [
+    "Atlético de Madrid",
+    "River Plate",
+    "Corinthians",
+    "West Ham"
+  ],
+  "a": "Atlético de Madrid",
+  "n": "Sí jugó en Liverpool, Barcelona, Hebei y Estudiantes."
+}

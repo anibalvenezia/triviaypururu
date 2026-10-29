@@ -1,0 +1,15 @@
+{
+  "c": "Historia",
+  "t": "mc",
+  "p": 1,
+  "g": "bandera",
+  "q": "¿En qué ciudad enarboló Belgrano por primera vez la bandera argentina?",
+  "o": [
+    "Rosario",
+    "Buenos Aires",
+    "San Nicolás",
+    "Santa Fe"
+  ],
+  "a": "Rosario",
+  "n": "El 27 de febrero de 1812, a orillas del Paraná."
+}

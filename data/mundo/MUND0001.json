@@ -1,0 +1,14 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el país con más pirámides?",
+  "o": [
+    "Sudán",
+    "Egipto",
+    "México",
+    "Perú"
+  ],
+  "a": "Sudán",
+  "n": "Las pirámides nubias de Meroe superan largamente en cantidad a las egipcias."
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién formuló la ley de gravitación universal?",
+  "o": [
+    "Isaac Newton",
+    "Galileo Galilei",
+    "Johannes Kepler",
+    "Nicolás Copérnico"
+  ],
+  "a": "Isaac Newton"
+}

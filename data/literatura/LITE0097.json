@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió 'La casa de los espíritus'?",
+  "o": [
+    "Isabel Allende",
+    "Laura Esquivel",
+    "Elena Poniatowska",
+    "Gioconda Belli"
+  ],
+  "a": "Isabel Allende"
+}

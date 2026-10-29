@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-dinamarca",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/500px-Flag_of_Denmark.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/250px-Flag_of_Denmark.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera, considerada la más antigua en uso continuo?",
+  "o": [
+    "Dinamarca",
+    "Suecia",
+    "Austria",
+    "Escocia"
+  ],
+  "a": "Dinamarca"
+}

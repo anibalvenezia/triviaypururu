@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántos días tiene un año bisiesto?",
+  "o": [
+    "366",
+    "365",
+    "364",
+    "367"
+  ],
+  "a": "366"
+}

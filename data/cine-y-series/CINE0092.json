@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién dirigió 'Ladrón de bicicletas', emblema del neorrealismo italiano?",
+  "o": [
+    "Vittorio De Sica",
+    "Roberto Rossellini",
+    "Luchino Visconti",
+    "Federico Fellini"
+  ],
+  "a": "Vittorio De Sica"
+}

@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-malasia",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/500px-Flag_of_Malaysia.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/250px-Flag_of_Malaysia.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Malasia",
+    "Estados Unidos",
+    "Liberia",
+    "Chile"
+  ],
+  "a": "Malasia"
+}

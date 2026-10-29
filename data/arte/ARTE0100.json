@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-tiziano",
+  "img": [
+    "obras/baco.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Titian_-_Bacchus_and_Ariadne_-_Google_Art_Project.jpg/960px-Titian_-_Bacchus_and_Ariadne_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Titian_-_Bacchus_and_Ariadne_-_Google_Art_Project.jpg/500px-Titian_-_Bacchus_and_Ariadne_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Quién pintó esta escena mitológica de Baco y Ariadna?",
+  "o": [
+    "Tiziano",
+    "Rubens",
+    "Rafael",
+    "Veronés"
+  ],
+  "a": "Tiziano",
+  "n": "1523, en la National Gallery de Londres.",
+  "titulo": "Baco y Ariadna · Tiziano, 1523"
+}

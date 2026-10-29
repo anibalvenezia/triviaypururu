@@ -1,0 +1,15 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "g": "mercator",
+  "q": "¿Cuál es el principal problema de la proyección de Mercator usada en los mapas?",
+  "o": [
+    "distorsiona las superficies y agranda los países lejanos del ecuador",
+    "invierte los hemisferios",
+    "no sirve para navegar",
+    "deforma las costas"
+  ],
+  "a": "distorsiona las superficies y agranda los países lejanos del ecuador",
+  "n": "Groenlandia parece del tamaño de África, cuando en realidad es unas 14 veces más chica."
+}

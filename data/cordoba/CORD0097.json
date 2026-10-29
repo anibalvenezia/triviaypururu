@@ -1,0 +1,13 @@
+{
+  "c": "Córdoba",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué barrio de la ciudad de Córdoba es famoso por sus casonas y por el Paseo del Buen Pastor?",
+  "o": [
+    "Nueva Córdoba",
+    "Güemes",
+    "Alberdi",
+    "General Paz"
+  ],
+  "a": "Nueva Córdoba"
+}

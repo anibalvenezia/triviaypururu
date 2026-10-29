@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué provincia argentina están las Salinas Grandes que se visitan desde Purmamarca?",
+  "o": [
+    "Jujuy y Salta",
+    "Córdoba y La Rioja",
+    "Catamarca y Tucumán",
+    "San Juan y Mendoza"
+  ],
+  "a": "Jujuy y Salta"
+}

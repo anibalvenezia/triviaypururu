@@ -1,0 +1,14 @@
+{
+  "c": "Córdoba",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué compositor argentino vivió en Alta Gracia y tiene allí un museo?",
+  "o": [
+    "Manuel de Falla",
+    "Carlos Guastavino",
+    "Alberto Ginastera",
+    "Astor Piazzolla"
+  ],
+  "a": "Manuel de Falla",
+  "n": "Era español, pero pasó sus últimos años en Alta Gracia."
+}

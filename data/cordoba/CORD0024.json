@@ -1,0 +1,13 @@
+{
+  "c": "Córdoba",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué barrio está La Boutique, la cancha de Talleres?",
+  "o": [
+    "Barrio Jardín",
+    "Alta Córdoba",
+    "Alberdi",
+    "General Paz"
+  ],
+  "a": "Barrio Jardín"
+}

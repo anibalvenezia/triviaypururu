@@ -1,0 +1,14 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué premio, considerado el más importante de las letras en español, se entrega cada 23 de abril en Alcalá de Henares?",
+  "o": [
+    "El Premio Cervantes",
+    "El Premio Planeta",
+    "El Premio Alfaguara",
+    "El Premio Nadal"
+  ],
+  "a": "El Premio Cervantes",
+  "n": "El 23 de abril es el aniversario de la muerte de Cervantes."
+}

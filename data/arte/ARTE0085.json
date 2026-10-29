@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-madonna-rafael",
+  "img": [
+    "obras/madonna-rafael.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Raffaello_Santi_-_Madonna_and_Child_with_the_Infant_Saint_John_-_Google_Art_Project.jpg/960px-Raffaello_Santi_-_Madonna_and_Child_with_the_Infant_Saint_John_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Raffaello_Santi_-_Madonna_and_Child_with_the_Infant_Saint_John_-_Google_Art_Project.jpg/500px-Raffaello_Santi_-_Madonna_and_Child_with_the_Infant_Saint_John_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué pintor italiano se hizo célebre por sus numerosas madonas como esta?",
+  "o": [
+    "Rafael",
+    "Caravaggio",
+    "Tintoretto",
+    "Giotto"
+  ],
+  "a": "Rafael",
+  "titulo": "La Virgen con el Niño y san Juanito · Rafael"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántos meses del año tienen 31 días?",
+  "o": [
+    "Siete",
+    "Seis",
+    "Ocho",
+    "Cinco"
+  ],
+  "a": "Siete"
+}

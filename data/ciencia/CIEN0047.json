@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el planeta más cercano al Sol?",
+  "o": [
+    "Mercurio",
+    "Venus",
+    "La Tierra",
+    "Marte"
+  ],
+  "a": "Mercurio"
+}

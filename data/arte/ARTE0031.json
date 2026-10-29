@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-trigo",
+  "img": [
+    "obras/trigo.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wheat_Field_with_Cypresses_MET_DT1567.jpg/960px-Wheat_Field_with_Cypresses_MET_DT1567.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wheat_Field_with_Cypresses_MET_DT1567.jpg/500px-Wheat_Field_with_Cypresses_MET_DT1567.jpg"
+  ],
+  "q": "¿De qué pintor es este campo de trigo con cipreses?",
+  "o": [
+    "Vincent van Gogh",
+    "Paul Gauguin",
+    "Camille Pissarro",
+    "Georges Seurat"
+  ],
+  "a": "Vincent van Gogh",
+  "n": "Pintado en Saint-Rémy en 1889. Está en el Met.",
+  "titulo": "Campo de trigo con cipreses · Vincent van Gogh, 1889"
+}

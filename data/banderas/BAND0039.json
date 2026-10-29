@@ -1,0 +1,19 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-sudafrica",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/500px-Flag_of_South_Africa.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/250px-Flag_of_South_Africa.svg.png"
+  ],
+  "q": "¿A qué país pertenece esta bandera de seis colores?",
+  "o": [
+    "Sudáfrica",
+    "Kenia",
+    "Zimbabue",
+    "Mozambique"
+  ],
+  "a": "Sudáfrica",
+  "n": "Adoptada en 1994, con el fin del apartheid."
+}

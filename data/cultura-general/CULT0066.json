@@ -1,0 +1,14 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántos signos de tierra hay en el zodíaco?",
+  "o": [
+    "Tres",
+    "Cuatro",
+    "Dos",
+    "Seis"
+  ],
+  "a": "Tres",
+  "n": "Tauro, Virgo y Capricornio. Cada elemento tiene tres signos."
+}

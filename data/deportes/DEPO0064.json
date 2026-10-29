@@ -1,0 +1,13 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántos sets se necesitan para ganar un partido de tenis masculino en un Grand Slam?",
+  "o": [
+    "Tres",
+    "Dos",
+    "Cuatro",
+    "Cinco"
+  ],
+  "a": "Tres"
+}

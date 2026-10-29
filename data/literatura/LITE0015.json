@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió el relato 'El matadero'?",
+  "o": [
+    "Esteban Echeverría",
+    "Domingo F. Sarmiento",
+    "José Mármol",
+    "Juan Bautista Alberdi"
+  ],
+  "a": "Esteban Echeverría"
+}

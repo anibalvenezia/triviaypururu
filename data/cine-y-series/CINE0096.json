@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué película de Kurosawa se inspiró 'Los siete magníficos'?",
+  "o": [
+    "Los siete samuráis",
+    "Rashomon",
+    "Trono de sangre",
+    "Ran"
+  ],
+  "a": "Los siete samuráis"
+}

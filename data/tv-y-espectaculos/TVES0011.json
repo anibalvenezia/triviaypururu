@@ -1,0 +1,14 @@
+{
+  "c": "TV y espectáculos",
+  "t": "mc",
+  "p": 1,
+  "g": "bcs",
+  "q": "¿Qué serie es una precuela de 'Breaking Bad'?",
+  "o": [
+    "Better Call Saul",
+    "Ozark",
+    "Narcos",
+    "El Marginal"
+  ],
+  "a": "Better Call Saul"
+}

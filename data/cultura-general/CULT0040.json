@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué bebida se prepara con yerba, agua caliente y bombilla?",
+  "o": [
+    "El mate",
+    "El tereré",
+    "El té de tilo",
+    "La infusión de boldo"
+  ],
+  "a": "El mate"
+}

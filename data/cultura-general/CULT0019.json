@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántos trabajos debió cumplir Hércules?",
+  "o": [
+    "Doce",
+    "Diez",
+    "Siete",
+    "Nueve"
+  ],
+  "a": "Doce"
+}

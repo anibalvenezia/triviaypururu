@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿De qué ciudad era Quino?",
+  "o": [
+    "Mendoza",
+    "Buenos Aires",
+    "Córdoba",
+    "Rosario"
+  ],
+  "a": "Mendoza"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué obras se atribuyen a Homero?",
+  "o": [
+    "La Ilíada y la Odisea",
+    "La Eneida y las Geórgicas",
+    "Antígona y Edipo Rey",
+    "Las Bacantes y Medea"
+  ],
+  "a": "La Ilíada y la Odisea"
+}

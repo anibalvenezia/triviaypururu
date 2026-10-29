@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué director sueco dirigió 'El séptimo sello', con la partida de ajedrez contra la Muerte?",
+  "o": [
+    "Ingmar Bergman",
+    "Lars von Trier",
+    "Carl Theodor Dreyer",
+    "Roy Andersson"
+  ],
+  "a": "Ingmar Bergman"
+}

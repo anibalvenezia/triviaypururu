@@ -1,0 +1,14 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el árbol nacional argentino?",
+  "o": [
+    "El quebracho colorado chaqueño",
+    "El algarrobo blanco",
+    "El lapacho rosado",
+    "El ceibo"
+  ],
+  "a": "El quebracho colorado chaqueño",
+  "n": "El ceibo es la flor nacional, no el árbol."
+}

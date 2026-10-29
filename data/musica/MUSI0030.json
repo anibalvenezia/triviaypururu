@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién compuso 'Las cuatro estaciones'?",
+  "o": [
+    "Antonio Vivaldi",
+    "Johann Sebastian Bach",
+    "Wolfgang Amadeus Mozart",
+    "Joseph Haydn"
+  ],
+  "a": "Antonio Vivaldi"
+}

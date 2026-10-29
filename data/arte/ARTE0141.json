@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-zapatilla",
+  "img": [
+    "obras/zapatilla.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Edgar_Degas_-_Dancer_Adjusting_Her_Slipper_-_Google_Art_Project.jpg/960px-Edgar_Degas_-_Dancer_Adjusting_Her_Slipper_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Edgar_Degas_-_Dancer_Adjusting_Her_Slipper_-_Google_Art_Project.jpg/500px-Edgar_Degas_-_Dancer_Adjusting_Her_Slipper_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿A qué grupo de artistas perteneció el autor de este dibujo?",
+  "o": [
+    "A los impresionistas",
+    "A los prerrafaelitas",
+    "A los fauvistas",
+    "A los nazarenos"
+  ],
+  "a": "A los impresionistas",
+  "titulo": "Bailarina ajustándose la zapatilla · Edgar Degas"
+}

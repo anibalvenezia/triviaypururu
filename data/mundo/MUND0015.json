@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el océano más extenso?",
+  "o": [
+    "Pacífico",
+    "Atlántico",
+    "Índico",
+    "Glacial Ártico"
+  ],
+  "a": "Pacífico"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué instrumento caracteriza el sonido de Julieta Venegas?",
+  "o": [
+    "El acordeón",
+    "El violín",
+    "El saxo",
+    "El arpa"
+  ],
+  "a": "El acordeón"
+}

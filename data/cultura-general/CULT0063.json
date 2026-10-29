@@ -1,0 +1,14 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cómo se llama el laberinto donde estaba encerrado el Minotauro?",
+  "o": [
+    "El laberinto de Creta",
+    "El laberinto de Micenas",
+    "El laberinto de Delos",
+    "El laberinto de Tebas"
+  ],
+  "a": "El laberinto de Creta",
+  "n": "Lo construyó Dédalo para el rey Minos."
+}

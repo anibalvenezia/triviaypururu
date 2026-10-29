@@ -1,0 +1,15 @@
+{
+  "c": "Quién dijo",
+  "t": "mc",
+  "p": 1,
+  "g": "qd-padrino",
+  "q": "«Le haré una oferta que no podrá rechazar». ¿De qué película es?",
+  "o": [
+    "El padrino",
+    "Buenos muchachos",
+    "Scarface",
+    "Casino"
+  ],
+  "a": "El padrino",
+  "n": "La dice Vito Corleone, interpretado por Marlon Brando."
+}

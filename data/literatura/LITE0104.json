@@ -1,0 +1,14 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió 'La vuelta al día en ochenta mundos'?",
+  "o": [
+    "Julio Cortázar",
+    "Julio Verne",
+    "Adolfo Bioy Casares",
+    "Roberto Arlt"
+  ],
+  "a": "Julio Cortázar",
+  "n": "No confundir con 'La vuelta al mundo en ochenta días', de Verne."
+}

@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-margarita",
+  "img": [
+    "obras/margarita.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Diego_Rodriguez_de_Silva_y_Vel%C3%A1zquez_-_Infanta_Margarita_Teresa_in_a_Blue_Dress_-_Google_Art_Project.jpg/960px-Diego_Rodriguez_de_Silva_y_Vel%C3%A1zquez_-_Infanta_Margarita_Teresa_in_a_Blue_Dress_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Diego_Rodriguez_de_Silva_y_Vel%C3%A1zquez_-_Infanta_Margarita_Teresa_in_a_Blue_Dress_-_Google_Art_Project.jpg/500px-Diego_Rodriguez_de_Silva_y_Vel%C3%A1zquez_-_Infanta_Margarita_Teresa_in_a_Blue_Dress_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿A quién retrató Velázquez en este cuadro del vestido azul?",
+  "o": [
+    "A la infanta Margarita Teresa",
+    "A la reina Isabel de Borbón",
+    "A una dama de la corte francesa",
+    "A su propia hija"
+  ],
+  "a": "A la infanta Margarita Teresa",
+  "n": "Es la misma niña que aparece en el centro de 'Las meninas'.",
+  "titulo": "La infanta Margarita Teresa de vestido azul · Diego Velázquez, 1659"
+}

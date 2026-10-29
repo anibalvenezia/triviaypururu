@@ -1,0 +1,15 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "g": "liszt",
+  "q": "¿Qué compositor del siglo XIX fue el primero en provocar un fenómeno de fanatismo de masas, al punto de que se acuñó un término para describirlo?",
+  "o": [
+    "Franz Liszt",
+    "Niccolò Paganini",
+    "Richard Wagner",
+    "Frédéric Chopin"
+  ],
+  "a": "Franz Liszt",
+  "n": "El poeta Heinrich Heine acuñó 'Lisztomanía' en 1844."
+}

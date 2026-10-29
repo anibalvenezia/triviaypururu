@@ -1,0 +1,13 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Sobre qué superficie se juega Wimbledon?",
+  "o": [
+    "Césped",
+    "Polvo de ladrillo",
+    "Cemento",
+    "Sintético"
+  ],
+  "a": "Césped"
+}

@@ -1,0 +1,14 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué club argentino ganó más Copas Libertadores?",
+  "o": [
+    "Independiente",
+    "Boca Juniors",
+    "River Plate",
+    "Estudiantes"
+  ],
+  "a": "Independiente",
+  "n": "Siete títulos."
+}

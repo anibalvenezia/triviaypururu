@@ -1,0 +1,15 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "g": "copaamerica",
+  "q": "¿Qué selección ganó más Copas América?",
+  "o": [
+    "Argentina",
+    "Uruguay",
+    "Brasil",
+    "Chile"
+  ],
+  "a": "Argentina",
+  "n": "Con la de 2024 llegó a 16, una más que Uruguay."
+}

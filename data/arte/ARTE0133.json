@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-cafelamie",
+  "img": [
+    "obras/cafelamie.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Henri_de_Toulouse-Lautrec_-_At_the_Caf%C3%A9_La_Mie_-_Google_Art_Project.jpg/960px-Henri_de_Toulouse-Lautrec_-_At_the_Caf%C3%A9_La_Mie_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Henri_de_Toulouse-Lautrec_-_At_the_Caf%C3%A9_La_Mie_-_Google_Art_Project.jpg/500px-Henri_de_Toulouse-Lautrec_-_At_the_Caf%C3%A9_La_Mie_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿A qué período pertenece esta escena de café parisino?",
+  "o": [
+    "Al posimpresionismo",
+    "Al Renacimiento",
+    "Al Barroco",
+    "Al Romanticismo"
+  ],
+  "a": "Al posimpresionismo",
+  "titulo": "En el café La Mie · Henri de Toulouse-Lautrec, 1891"
+}

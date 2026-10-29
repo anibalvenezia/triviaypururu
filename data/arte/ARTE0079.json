@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-tondo",
+  "img": [
+    "obras/tondo.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botticelli_-_Madonna_Adoring_the_Child_with_Five_Angels_-_Baltimore_Museum_of_Art_2.jpg/960px-Botticelli_-_Madonna_Adoring_the_Child_with_Five_Angels_-_Baltimore_Museum_of_Art_2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botticelli_-_Madonna_Adoring_the_Child_with_Five_Angels_-_Baltimore_Museum_of_Art_2.jpg/500px-Botticelli_-_Madonna_Adoring_the_Child_with_Five_Angels_-_Baltimore_Museum_of_Art_2.jpg"
+  ],
+  "q": "¿Cómo se llama el formato circular de este cuadro, típico del Renacimiento italiano?",
+  "o": [
+    "Tondo",
+    "Políptico",
+    "Retablo",
+    "Predela"
+  ],
+  "a": "Tondo",
+  "n": "De Botticelli. El tondo fue muy usado en la Florencia del siglo XV.",
+  "titulo": "Virgen adorando al Niño con cinco ángeles · Sandro Botticelli"
+}

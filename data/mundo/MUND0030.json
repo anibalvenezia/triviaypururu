@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el desierto más árido del mundo?",
+  "o": [
+    "El de Atacama",
+    "El Sahara",
+    "El de Gobi",
+    "El de Kalahari"
+  ],
+  "a": "El de Atacama"
+}

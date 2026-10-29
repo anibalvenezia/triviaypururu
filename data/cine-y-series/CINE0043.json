@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué película argentina de 2001 dirigida por Fabián Bielinsky trata sobre dos estafadores?",
+  "o": [
+    "Nueve reinas",
+    "El aura",
+    "Plata quemada",
+    "Un oso rojo"
+  ],
+  "a": "Nueve reinas"
+}

@@ -1,0 +1,19 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-mexico",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/500px-Flag_of_Mexico.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "México",
+    "Italia",
+    "Irlanda",
+    "Costa de Marfil"
+  ],
+  "a": "México",
+  "n": "En el centro, el águila devorando una serpiente sobre un nopal."
+}

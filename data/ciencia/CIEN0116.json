@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué parte del ojo regula la cantidad de luz que entra?",
+  "o": [
+    "El iris",
+    "La córnea",
+    "La retina",
+    "El cristalino"
+  ],
+  "a": "El iris"
+}

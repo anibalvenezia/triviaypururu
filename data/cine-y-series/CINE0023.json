@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién dirigió 'Taxi Driver' y 'Buenos muchachos'?",
+  "o": [
+    "Martin Scorsese",
+    "Francis Ford Coppola",
+    "Brian De Palma",
+    "Sidney Lumet"
+  ],
+  "a": "Martin Scorsese"
+}

@@ -1,0 +1,15 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "g": "hedwig",
+  "q": "¿Qué animal lleva Harry Potter a Hogwarts como mascota?",
+  "o": [
+    "una lechuza",
+    "un sapo",
+    "un gato",
+    "una rata"
+  ],
+  "a": "una lechuza",
+  "n": "Hedwig, una lechuza blanca que le regala Hagrid."
+}

@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-noli",
+  "img": [
+    "obras/noli.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Titian_-_Noli_me_Tangere_-_Google_Art_Project.jpg/960px-Titian_-_Noli_me_Tangere_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Titian_-_Noli_me_Tangere_-_Google_Art_Project.jpg/500px-Titian_-_Noli_me_Tangere_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Cómo se conoce el episodio evangélico que muestra este cuadro de Tiziano?",
+  "o": [
+    "Noli me tangere",
+    "Ecce homo",
+    "Pietà",
+    "Anunciación"
+  ],
+  "a": "Noli me tangere",
+  "n": "El encuentro de María Magdalena con Cristo resucitado.",
+  "titulo": "Noli me tangere · Tiziano, 1514"
+}

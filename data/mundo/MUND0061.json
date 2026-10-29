@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es la capital de la provincia de Tierra del Fuego?",
+  "o": [
+    "Ushuaia",
+    "Río Grande",
+    "Tolhuin",
+    "Puerto Williams"
+  ],
+  "a": "Ushuaia"
+}

@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-etiopia",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/500px-Flag_of_Ethiopia.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/250px-Flag_of_Ethiopia.svg.png"
+  ],
+  "q": "¿Qué país tiene esta bandera?",
+  "o": [
+    "Etiopía",
+    "Bolivia",
+    "Ghana",
+    "Lituania"
+  ],
+  "a": "Etiopía"
+}

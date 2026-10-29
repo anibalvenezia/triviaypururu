@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-melancolia",
+  "img": [
+    "obras/melancolia.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_(_AGDdr3EHmNGyA).jpg/960px-Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_(_AGDdr3EHmNGyA).jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_(_AGDdr3EHmNGyA).jpg/500px-Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_(_AGDdr3EHmNGyA).jpg"
+  ],
+  "q": "¿Quién grabó esta figura alada rodeada de instrumentos?",
+  "o": [
+    "Alberto Durero",
+    "Rembrandt",
+    "Hans Holbein",
+    "Lucas Cranach"
+  ],
+  "a": "Alberto Durero",
+  "n": "'Melancolía I', 1514, uno de los grabados más analizados de la historia.",
+  "titulo": "Melancolía I · Alberto Durero, 1514"
+}

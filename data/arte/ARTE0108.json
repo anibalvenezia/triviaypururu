@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-emaus",
+  "img": [
+    "obras/emaus.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Jacopo_Tintoretto_-_The_Supper_at_Emmaus_-_Google_Art_Project.jpg/960px-Jacopo_Tintoretto_-_The_Supper_at_Emmaus_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Jacopo_Tintoretto_-_The_Supper_at_Emmaus_-_Google_Art_Project.jpg/500px-Jacopo_Tintoretto_-_The_Supper_at_Emmaus_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿De qué ciudad era el pintor de esta cena en Emaús?",
+  "o": [
+    "De Venecia",
+    "De Florencia",
+    "De Roma",
+    "De Nápoles"
+  ],
+  "a": "De Venecia",
+  "n": "Tintoretto, cuyo apodo viene del oficio de su padre, tintorero.",
+  "titulo": "La cena de Emaús · Tintoretto"
+}

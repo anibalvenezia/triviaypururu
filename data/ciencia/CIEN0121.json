@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué órgano filtra la sangre y produce la orina?",
+  "o": [
+    "El riñón",
+    "El hígado",
+    "El bazo",
+    "El páncreas"
+  ],
+  "a": "El riñón"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Córdoba",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué valle cordobés está Mina Clavero?",
+  "o": [
+    "Traslasierra",
+    "Punilla",
+    "Calamuchita",
+    "Paravachasca"
+  ],
+  "a": "Traslasierra"
+}

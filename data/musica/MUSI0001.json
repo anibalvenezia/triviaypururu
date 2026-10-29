@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué disco de The Beatles está 'Lucy in the Sky with Diamonds'?",
+  "o": [
+    "Sgt. Pepper's Lonely Hearts Club Band",
+    "Magical Mystery Tour",
+    "A Hard Day's Night",
+    "With the Beatles"
+  ],
+  "a": "Sgt. Pepper's Lonely Hearts Club Band"
+}

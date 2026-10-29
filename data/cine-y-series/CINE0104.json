@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quiénes dirigieron 'Fargo' y 'El gran Lebowski'?",
+  "o": [
+    "Los hermanos Coen",
+    "Los hermanos Wachowski",
+    "Los hermanos Dardenne",
+    "Los hermanos Safdie"
+  ],
+  "a": "Los hermanos Coen"
+}

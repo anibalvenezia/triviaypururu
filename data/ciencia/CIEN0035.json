@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién formuló la teoría de la evolución por selección natural?",
+  "o": [
+    "Charles Darwin",
+    "Jean-Baptiste Lamarck",
+    "Gregor Mendel",
+    "Alfred Wegener"
+  ],
+  "a": "Charles Darwin"
+}

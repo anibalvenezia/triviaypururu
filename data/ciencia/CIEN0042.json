@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es la fórmula química de la sal de mesa?",
+  "o": [
+    "NaCl",
+    "H2O",
+    "CO2",
+    "KCl"
+  ],
+  "a": "NaCl"
+}

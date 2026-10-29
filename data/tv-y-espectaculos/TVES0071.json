@@ -1,0 +1,19 @@
+{
+  "c": "TV y espectáculos",
+  "t": "ord",
+  "p": 2,
+  "q": "Ordená estos programas argentinos por año de estreno, del más antiguo al más reciente.",
+  "o": [
+    "Videomatch",
+    "Los Simuladores",
+    "Casados con hijos",
+    "El Encargado"
+  ],
+  "a": [
+    "Videomatch",
+    "Casados con hijos",
+    "Los Simuladores",
+    "El Encargado"
+  ],
+  "n": "1990, 2000, 2002 y 2022."
+}

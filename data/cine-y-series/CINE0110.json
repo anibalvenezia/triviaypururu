@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién dirigió 'Amores perros' y 'Birdman'?",
+  "o": [
+    "Alejandro González Iñárritu",
+    "Alfonso Cuarón",
+    "Guillermo del Toro",
+    "Carlos Reygadas"
+  ],
+  "a": "Alejandro González Iñárritu"
+}

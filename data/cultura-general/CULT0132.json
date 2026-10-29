@@ -1,0 +1,15 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "g": "hadouken",
+  "q": "¿Cómo se llama la técnica de Ryu y Ken en 'Street Fighter'?",
+  "o": [
+    "hadouken",
+    "shoryuken",
+    "kamehameha",
+    "tatsumaki"
+  ],
+  "a": "hadouken",
+  "n": "El shoryuken también es suyo, pero es el uppercut, no la bola de energía."
+}

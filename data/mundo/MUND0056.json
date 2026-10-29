@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el país más pequeño de América del Sur?",
+  "o": [
+    "Surinam",
+    "Uruguay",
+    "Guyana",
+    "Ecuador"
+  ],
+  "a": "Surinam"
+}

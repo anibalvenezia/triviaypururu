@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-callecita",
+  "img": [
+    "obras/callecita.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_'Het_straatje'_-_Google_Art_Project.jpg/960px-Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_'Het_straatje'_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_'Het_straatje'_-_Google_Art_Project.jpg/500px-Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_'Het_straatje'_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿En qué ciudad neerlandesa vivió y pintó el autor de esta callecita?",
+  "o": [
+    "Delft",
+    "Ámsterdam",
+    "Utrecht",
+    "Haarlem"
+  ],
+  "a": "Delft",
+  "n": "'La callecita' de Vermeer, hacia 1658.",
+  "titulo": "La callecita · Johannes Vermeer, 1658"
+}

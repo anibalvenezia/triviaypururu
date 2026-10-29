@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántos jugadores forman un equipo de truco en la modalidad más común de a pares?",
+  "o": [
+    "Dos por equipo",
+    "Tres por equipo",
+    "Uno por equipo",
+    "Cuatro por equipo"
+  ],
+  "a": "Dos por equipo"
+}

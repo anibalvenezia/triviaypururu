@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-puertorico",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/500px-Flag_of_Puerto_Rico.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/250px-Flag_of_Puerto_Rico.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Puerto Rico",
+    "Cuba",
+    "República Dominicana",
+    "Panamá"
+  ],
+  "a": "Puerto Rico"
+}

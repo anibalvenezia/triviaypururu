@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió 'Crimen y castigo'?",
+  "o": [
+    "Fiódor Dostoievski",
+    "León Tolstói",
+    "Antón Chéjov",
+    "Nikolái Gógol"
+  ],
+  "a": "Fiódor Dostoievski"
+}

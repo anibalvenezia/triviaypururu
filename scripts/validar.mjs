@@ -1,4 +1,4 @@
-/* Revisa el banco de preguntas (data/*.json). Sale con error si algo
+/* Revisa el banco de preguntas (data/<categoría>/<CODIGO>0000.json). Sale con error si algo
    rompería el juego; los avisos son cosas raras pero no fatales.
    Uso: npm run validar */
 import { readdirSync, readFileSync } from "node:fs";
@@ -10,34 +10,55 @@ const avisos = [];
 const huellas = new Map();
 let total = 0;
 
-const indice = readFileSync(`${DIR}/index.js`, "utf8");
-const archivos = readdirSync(DIR).filter((f) => f.endsWith(".json")).sort();
+const categorias = JSON.parse(readFileSync(`${DIR}/categorias.json`, "utf8"));
+const codigos = new Set();
+const carpetas = new Set();
+const porArchivo = []; // { archivo, categoria, lista }
 
-for (const archivo of archivos) {
-  if (!indice.includes(`./${archivo}`)) {
-    errores.push(`${archivo}: no está importado en data/index.js, sus preguntas no aparecerían en el juego`);
-  }
-  let lista;
+for (const cat of categorias) {
+  if (!/^[A-Z]{3,5}$/.test(cat.codigo || "")) errores.push(`categorias.json: el código «${cat.codigo}» tiene que ser de 3 a 5 letras mayúsculas`);
+  if (codigos.has(cat.codigo)) errores.push(`categorias.json: código repetido ${cat.codigo}`);
+  if (carpetas.has(cat.carpeta)) errores.push(`categorias.json: carpeta repetida ${cat.carpeta}`);
+  codigos.add(cat.codigo);
+  carpetas.add(cat.carpeta);
+  let nombres;
   try {
-    lista = JSON.parse(readFileSync(`${DIR}/${archivo}`, "utf8"));
-  } catch (e) {
-    errores.push(`${archivo}: JSON inválido (${e.message})`);
+    nombres = readdirSync(`${DIR}/${cat.carpeta}`).sort();
+  } catch {
+    errores.push(`categorias.json: no existe la carpeta data/${cat.carpeta}`);
     continue;
   }
-  if (!Array.isArray(lista)) {
-    errores.push(`${archivo}: tiene que ser una lista de preguntas []`);
-    continue;
+  for (const nombre of nombres) {
+    const archivo = `${cat.carpeta}/${nombre}`;
+    if (!nombre.endsWith(".json")) {
+      avisos.push(`${archivo}: no es .json, el juego lo ignora`);
+      continue;
+    }
+    if (!new RegExp(`^${cat.codigo}\\d{4}\\.json$`).test(nombre))
+      errores.push(`${archivo}: el nombre tiene que ser ${cat.codigo} + 4 dígitos, por ejemplo ${cat.codigo}0001.json`);
+    let x;
+    try {
+      x = JSON.parse(readFileSync(`${DIR}/${archivo}`, "utf8"));
+    } catch (e) {
+      errores.push(`${archivo}: JSON inválido (${e.message})`);
+      continue;
+    }
+    if (x?.c !== cat.nombre) errores.push(`${archivo}: la categoría (c) es ${JSON.stringify(x?.c)} y debería ser «${cat.nombre}»`);
+    porArchivo.push({ archivo, x });
   }
-  const categorias = new Set(lista.map((x) => x?.c));
-  if (categorias.size > 1) avisos.push(`${archivo}: mezcla categorías (${[...categorias].join(", ")})`);
+}
+for (const d of readdirSync(DIR, { withFileTypes: true })) {
+  if (d.isDirectory() && !carpetas.has(d.name)) errores.push(`data/${d.name}: carpeta que no está en categorias.json, sus preguntas no aparecerían`);
+}
+const archivos = porArchivo;
 
-  lista.forEach((x, i) => {
+for (const { archivo, x } of porArchivo) {
+  {
     total++;
-    const donde = `${archivo} #${i + 1}` + (typeof x?.q === "string" ? ` «${x.q.slice(0, 50)}»` : "");
+    const donde = archivo + (typeof x?.q === "string" ? ` «${x.q.slice(0, 50)}»` : "");
     const err = (m) => errores.push(`${donde}: ${m}`);
     const av = (m) => avisos.push(`${donde}: ${m}`);
-
-    if (typeof x !== "object" || x === null) return err("no es un objeto");
+    if (typeof x !== "object" || x === null) { err("no es un objeto"); continue; }
     if (typeof x.c !== "string" || !x.c.trim()) err("falta la categoría (c)");
     if (!TIPOS.includes(x.t)) err(`tipo (t) inválido: ${JSON.stringify(x.t)}; tiene que ser ${TIPOS.join(" | ")}`);
     if (![1, 2].includes(x.p)) err(`puntaje (p) tiene que ser 1 o 2, vino ${JSON.stringify(x.p)}`);
@@ -72,10 +93,10 @@ for (const archivo of archivos) {
     const huella = String(x.q) + (x.g || "");
     if (huellas.has(huella)) err(`repetida con ${huellas.get(huella)} (mismo texto y grupo)`);
     else huellas.set(huella, donde);
-  });
+  }
 }
 
 for (const a of avisos) console.warn("aviso  ", a);
 for (const e of errores) console.error("ERROR  ", e);
-console.log(`\n${total} preguntas en ${archivos.length} archivos · ${errores.length} errores · ${avisos.length} avisos`);
+console.log(`\n${total} preguntas en ${categorias.length} categorías · ${errores.length} errores · ${avisos.length} avisos`);
 process.exit(errores.length ? 1 : 0);

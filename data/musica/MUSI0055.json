@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué instrumento tocaba Aníbal Troilo, Pichuco?",
+  "o": [
+    "El bandoneón",
+    "El piano",
+    "El violín",
+    "La guitarra"
+  ],
+  "a": "El bandoneón"
+}

@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-ola",
+  "img": [
+    "obras/ola.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Katsushika_Hokusai_-_Thirty-Six_Views_of_Mount_Fuji-_The_Great_Wave_Off_the_Coast_of_Kanagawa_-_Google_Art_Project.jpg/960px-Katsushika_Hokusai_-_Thirty-Six_Views_of_Mount_Fuji-_The_Great_Wave_Off_the_Coast_of_Kanagawa_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Katsushika_Hokusai_-_Thirty-Six_Views_of_Mount_Fuji-_The_Great_Wave_Off_the_Coast_of_Kanagawa_-_Google_Art_Project.jpg/500px-Katsushika_Hokusai_-_Thirty-Six_Views_of_Mount_Fuji-_The_Great_Wave_Off_the_Coast_of_Kanagawa_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué montaña asoma detrás de esta ola?",
+  "o": [
+    "El monte Fuji",
+    "El Everest",
+    "El Kilimanjaro",
+    "El monte Olimpo"
+  ],
+  "a": "El monte Fuji",
+  "n": "'La gran ola de Kanagawa', de Hokusai, hacia 1831.",
+  "titulo": "La gran ola de Kanagawa · Katsushika Hokusai, 1831"
+}

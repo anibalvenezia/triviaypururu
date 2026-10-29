@@ -1,0 +1,13 @@
+{
+  "c": "TV y espectáculos",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el nombre de pila del doctor House?",
+  "o": [
+    "Gregory",
+    "James",
+    "Robert",
+    "Eric"
+  ],
+  "a": "Gregory"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es la provincia argentina de menor superficie?",
+  "o": [
+    "Tucumán",
+    "Misiones",
+    "Jujuy",
+    "San Luis"
+  ],
+  "a": "Tucumán"
+}

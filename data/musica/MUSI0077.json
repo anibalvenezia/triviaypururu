@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió la letra del Himno Nacional Argentino?",
+  "o": [
+    "Vicente López y Planes",
+    "Blas Parera",
+    "Esteban de Luca",
+    "Bartolomé Hidalgo"
+  ],
+  "a": "Vicente López y Planes"
+}

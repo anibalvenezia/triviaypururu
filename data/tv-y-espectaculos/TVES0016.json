@@ -1,0 +1,13 @@
+{
+  "c": "TV y espectáculos",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué ciudad ficticia viven Los Simpson?",
+  "o": [
+    "Springfield",
+    "Shelbyville",
+    "Quahog",
+    "Langley Falls"
+  ],
+  "a": "Springfield"
+}

@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-anunciacion",
+  "img": [
+    "obras/anunciacion.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Domenikos_Theotokopoulos%2C_El_Greco_-_The_Annunciation_-_Google_Art_Project.jpg/960px-Domenikos_Theotokopoulos%2C_El_Greco_-_The_Annunciation_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Domenikos_Theotokopoulos%2C_El_Greco_-_The_Annunciation_-_Google_Art_Project.jpg/500px-Domenikos_Theotokopoulos%2C_El_Greco_-_The_Annunciation_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿En qué ciudad española vivió y trabajó El Greco casi toda su vida adulta?",
+  "o": [
+    "Toledo",
+    "Sevilla",
+    "Madrid",
+    "Valencia"
+  ],
+  "a": "Toledo",
+  "n": "Nació en Creta, se formó en Venecia y se instaló en Toledo en 1577.",
+  "titulo": "La Anunciación · El Greco"
+}

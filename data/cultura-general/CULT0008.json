@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántas cartas tiene el mazo español con el que se juega al truco?",
+  "o": [
+    "40",
+    "48",
+    "52",
+    "36"
+  ],
+  "a": "40"
+}

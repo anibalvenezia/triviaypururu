@@ -1,0 +1,19 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-eeuu",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/500px-Flag_of_the_United_States.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/250px-Flag_of_the_United_States.svg.png"
+  ],
+  "q": "¿Cuántas estrellas tiene hoy esta bandera?",
+  "o": [
+    "50",
+    "48",
+    "52",
+    "13"
+  ],
+  "a": "50",
+  "n": "Una por cada estado; las franjas son las trece colonias originales."
+}

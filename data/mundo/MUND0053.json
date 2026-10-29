@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué provincia están las ruinas jesuíticas de San Ignacio?",
+  "o": [
+    "Misiones",
+    "Corrientes",
+    "Formosa",
+    "Chaco"
+  ],
+  "a": "Misiones"
+}

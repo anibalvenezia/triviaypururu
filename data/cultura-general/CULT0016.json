@@ -1,0 +1,14 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántos husos horarios tiene la Argentina?",
+  "o": [
+    "Uno",
+    "Dos",
+    "Tres",
+    "Cuatro"
+  ],
+  "a": "Uno",
+  "n": "Todo el país usa UTC-3."
+}

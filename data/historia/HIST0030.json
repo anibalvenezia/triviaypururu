@@ -1,0 +1,14 @@
+{
+  "c": "Historia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Sobre qué territorio regía la Ley 1420 de educación común?",
+  "o": [
+    "La Capital Federal y los territorios nacionales",
+    "Todo el país por igual",
+    "Solo la provincia de Buenos Aires",
+    "Las provincias del interior"
+  ],
+  "a": "La Capital Federal y los territorios nacionales",
+  "n": "La educación era facultad de cada provincia; varias dictaron después sus propias leyes."
+}

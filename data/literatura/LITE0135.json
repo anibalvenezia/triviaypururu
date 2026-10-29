@@ -1,0 +1,15 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "g": "cortazar-perseguidor",
+  "q": "¿Qué cuento de Cortázar está inspirado en el saxofonista Charlie Parker?",
+  "o": [
+    "'El perseguidor'",
+    "'Casa tomada'",
+    "'Las babas del diablo'",
+    "'La noche boca arriba'"
+  ],
+  "a": "'El perseguidor'",
+  "n": "El personaje se llama Johnny Carter."
+}

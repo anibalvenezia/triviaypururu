@@ -1,0 +1,13 @@
+{
+  "c": "Historia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué batalla fue derrotado definitivamente Napoleón en 1815?",
+  "o": [
+    "Waterloo",
+    "Austerlitz",
+    "Trafalgar",
+    "Leipzig"
+  ],
+  "a": "Waterloo"
+}

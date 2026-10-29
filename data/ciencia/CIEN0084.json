@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el estado de la materia del vapor de agua?",
+  "o": [
+    "Gaseoso",
+    "Líquido",
+    "Sólido",
+    "Plasma"
+  ],
+  "a": "Gaseoso"
+}

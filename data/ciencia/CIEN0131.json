@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué velocidad alcanza la luz en el vacío, aproximadamente?",
+  "o": [
+    "300.000 kilómetros por segundo",
+    "300.000 kilómetros por hora",
+    "3.000 kilómetros por segundo",
+    "30.000 kilómetros por segundo"
+  ],
+  "a": "300.000 kilómetros por segundo"
+}

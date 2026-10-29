@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-colombia",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/500px-Flag_of_Colombia.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/250px-Flag_of_Colombia.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Colombia",
+    "Ecuador",
+    "Venezuela",
+    "Rumania"
+  ],
+  "a": "Colombia"
+}

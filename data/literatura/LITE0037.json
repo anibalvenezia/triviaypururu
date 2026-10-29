@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué libro de cuentos de Cortázar está 'Casa tomada'?",
+  "o": [
+    "Bestiario",
+    "Final del juego",
+    "Todos los fuegos el fuego",
+    "Historias de cronopios y de famas"
+  ],
+  "a": "Bestiario"
+}

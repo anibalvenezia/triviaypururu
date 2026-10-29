@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió 'El principito'?",
+  "o": [
+    "Antoine de Saint-Exupéry",
+    "Albert Camus",
+    "Jean-Paul Sartre",
+    "André Gide"
+  ],
+  "a": "Antoine de Saint-Exupéry"
+}

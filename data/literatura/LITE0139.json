@@ -1,0 +1,15 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "g": "welsh",
+  "q": "¿Quién escribió la novela en la que se basa la película 'Trainspotting'?",
+  "o": [
+    "Irvine Welsh",
+    "Nick Hornby",
+    "Martin Amis",
+    "Ian McEwan"
+  ],
+  "a": "Irvine Welsh",
+  "n": "Novela de 1993, película de Danny Boyle de 1996."
+}

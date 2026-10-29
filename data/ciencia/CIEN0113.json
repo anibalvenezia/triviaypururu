@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué insecto transmite el mal de Chagas?",
+  "o": [
+    "La vinchuca",
+    "El mosquito Aedes",
+    "La pulga",
+    "La garrapata"
+  ],
+  "a": "La vinchuca"
+}

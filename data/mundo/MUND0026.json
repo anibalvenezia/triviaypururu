@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué provincia argentina están las Cataratas del Iguazú?",
+  "o": [
+    "Misiones",
+    "Corrientes",
+    "Formosa",
+    "Chaco"
+  ],
+  "a": "Misiones"
+}

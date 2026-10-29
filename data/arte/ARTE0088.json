@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-vieja-huevos",
+  "img": [
+    "obras/vieja-huevos.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg/960px-Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg/500px-Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Quién pintó esta escena de cocina con una anciana friendo huevos?",
+  "o": [
+    "Diego Velázquez",
+    "Francisco de Zurbarán",
+    "Bartolomé Esteban Murillo",
+    "José de Ribera"
+  ],
+  "a": "Diego Velázquez",
+  "n": "'Vieja friendo huevos', 1618, de su etapa sevillana.",
+  "titulo": "Vieja friendo huevos · Diego Velázquez, 1618"
+}

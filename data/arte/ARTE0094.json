@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-paravicino",
+  "img": [
+    "obras/paravicino.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/El_Greco_(Domenikos_Theotokopoulos)_-_Fray_Hortensio_F%C3%A9lix_Paravicino_-_Google_Art_Project.jpg/960px-El_Greco_(Domenikos_Theotokopoulos)_-_Fray_Hortensio_F%C3%A9lix_Paravicino_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/El_Greco_(Domenikos_Theotokopoulos)_-_Fray_Hortensio_F%C3%A9lix_Paravicino_-_Google_Art_Project.jpg/500px-El_Greco_(Domenikos_Theotokopoulos)_-_Fray_Hortensio_F%C3%A9lix_Paravicino_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Quién pintó este retrato de un fraile de manos alargadas?",
+  "o": [
+    "El Greco",
+    "Diego Velázquez",
+    "Francisco de Zurbarán",
+    "José de Ribera"
+  ],
+  "a": "El Greco",
+  "n": "Retrato de Fray Hortensio Félix Paravicino, hacia 1609.",
+  "titulo": "Fray Hortensio Félix Paravicino · El Greco, 1609"
+}
