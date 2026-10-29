@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-titan",
+  "q": "¿Cuál es el satélite natural más grande de Saturno?",
+  "o": [
+    "Encélado",
+    "Europa",
+    "Ganímedes",
+    "Titán"
+  ],
+  "a": "Titán",
+  "n": "Es la única luna del Sistema Solar con una atmósfera densa. Europa y Ganímedes son lunas de Júpiter."
+}

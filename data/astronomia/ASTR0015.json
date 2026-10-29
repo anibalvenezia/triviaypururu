@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-ganimedes",
+  "q": "¿Cuál es la luna más grande de todo el Sistema Solar?",
+  "o": [
+    "Titán",
+    "Ganímedes",
+    "Calisto",
+    "La Luna"
+  ],
+  "a": "Ganímedes",
+  "n": "Orbita a Júpiter y es incluso más grande que el planeta Mercurio."
+}

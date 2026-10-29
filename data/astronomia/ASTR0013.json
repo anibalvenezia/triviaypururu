@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-urano-inclinado",
+  "q": "¿Cuál de estos planetas gira prácticamente «acostado», con su eje casi paralelo a su órbita?",
+  "o": [
+    "Neptuno",
+    "Saturno",
+    "Urano",
+    "Venus"
+  ],
+  "a": "Urano",
+  "n": "Su eje está inclinado unos 98 grados: durante décadas, cada polo recibe luz solar continua."
+}

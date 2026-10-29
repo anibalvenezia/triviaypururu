@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-arsat",
+  "q": "¿Cómo se llama el primer satélite geoestacionario de telecomunicaciones diseñado y construido en la Argentina?",
+  "o": [
+    "SAOCOM 1A",
+    "SAC-D",
+    "Nahuel 1A",
+    "ARSAT-1"
+  ],
+  "a": "ARSAT-1",
+  "n": "Fue lanzado en octubre de 2014 desde Kourou, en la Guayana Francesa."
+}

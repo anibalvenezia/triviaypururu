@@ -1,0 +1,9 @@
+{
+  "c": "Astronomía",
+  "t": "vf",
+  "p": 1,
+  "g": "astr-sonido",
+  "q": "En el espacio no se puede escuchar el sonido.",
+  "a": "Verdadero",
+  "n": "El sonido necesita un medio, como el aire, para propagarse. En el vacío del espacio no hay nada que vibre."
+}

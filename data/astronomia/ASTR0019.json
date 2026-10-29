@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-apolo-total",
+  "q": "¿Cuántas personas, en total, caminaron sobre la Luna durante el programa Apolo?",
+  "o": [
+    "6",
+    "9",
+    "12",
+    "24"
+  ],
+  "a": "12",
+  "n": "Fueron seis misiones con alunizaje, entre 1969 y 1972, con dos astronautas cada una."
+}

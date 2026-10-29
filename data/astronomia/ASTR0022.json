@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-sputnik",
+  "q": "¿Cómo se llamaba la perra que, en 1957, fue el primer ser vivo en orbitar la Tierra?",
+  "o": [
+    "Belka",
+    "Laika",
+    "Strelka",
+    "Dezik"
+  ],
+  "a": "Laika",
+  "n": "Viajó a bordo del Sputnik 2."
+}

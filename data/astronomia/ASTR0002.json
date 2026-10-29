@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-marte-color",
+  "q": "¿Qué le da a Marte su color rojizo?",
+  "o": [
+    "Lava volcánica",
+    "Óxido de hierro",
+    "Vegetación seca",
+    "Polvo de azufre"
+  ],
+  "a": "Óxido de hierro",
+  "n": "El polvo de su superficie es rico en óxido de hierro: básicamente, Marte está oxidado."
+}

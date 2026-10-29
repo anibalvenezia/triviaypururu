@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-estrella-cercana",
+  "q": "Sin contar el Sol, ¿cuál es la estrella más cercana a la Tierra?",
+  "o": [
+    "Sirio",
+    "Vega",
+    "Próxima Centauri",
+    "Polaris"
+  ],
+  "a": "Próxima Centauri",
+  "n": "Está a unos 4,2 años luz."
+}

@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-luz-sol",
+  "q": "¿Cuánto tarda la luz del Sol en llegar a la Tierra?",
+  "o": [
+    "Unos 8 segundos",
+    "Unas 8 horas",
+    "Unos 8 minutos",
+    "Unos 8 días"
+  ],
+  "a": "Unos 8 minutos",
+  "n": "Unos 8 minutos y 20 segundos: el Sol que vemos es el de hace ocho minutos."
+}

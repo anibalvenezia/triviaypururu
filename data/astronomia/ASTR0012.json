@@ -1,0 +1,15 @@
+{
+  "c": "Astronomía",
+  "t": "mc",
+  "p": 1,
+  "g": "astr-hubble",
+  "q": "¿Cómo se llama el telescopio espacial lanzado en 1990 que lleva el nombre de un astrónomo estadounidense?",
+  "o": [
+    "Kepler",
+    "Hubble",
+    "Spitzer",
+    "James Webb"
+  ],
+  "a": "Hubble",
+  "n": "Fue lanzado el 24 de abril de 1990 y sigue aportando imágenes del universo profundo."
+}
