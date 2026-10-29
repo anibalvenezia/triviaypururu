@@ -1,0 +1,6 @@
+node_modules/
+dist/
+# builds viejos sueltos (el sitio se compila desde el código)
+trivia-y-pururu-*.html
+trivia-y-pururu.html
+.DS_Store

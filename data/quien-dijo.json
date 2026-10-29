@@ -1,0 +1,691 @@
+[
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-perongobierno",
+    "q": "«La única verdad es la realidad». ¿Quién lo dijo?",
+    "o": [
+      "Juan Domingo Perón",
+      "Hipólito Yrigoyen",
+      "Arturo Frondizi",
+      "Raúl Alfonsín"
+    ],
+    "a": "Juan Domingo Perón",
+    "n": "Es una de sus máximas más repetidas, tomada del pensamiento aristotélico."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-alfonsin",
+    "q": "«Con la democracia se come, se cura y se educa». ¿De quién es la frase?",
+    "o": [
+      "Raúl Alfonsín",
+      "Juan Domingo Perón",
+      "Néstor Kirchner",
+      "Arturo Illia"
+    ],
+    "a": "Raúl Alfonsín",
+    "n": "De su campaña presidencial de 1983."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-sarmiento",
+    "q": "«Civilización o barbarie» es la fórmula con la que un autor argentino resumió su libro. ¿Quién?",
+    "o": [
+      "Domingo Faustino Sarmiento",
+      "Juan Bautista Alberdi",
+      "Esteban Echeverría",
+      "Bartolomé Mitre"
+    ],
+    "a": "Domingo Faustino Sarmiento",
+    "n": "En 'Facundo', de 1845."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-maradona",
+    "q": "«La pelota no se mancha». ¿Quién lo dijo y dónde?",
+    "o": [
+      "Maradona, en su partido homenaje en la Bombonera",
+      "Messi, al retirarse de la Selección",
+      "Bilardo, tras el Mundial 86",
+      "Bochini, en su despedida"
+    ],
+    "a": "Maradona, en su partido homenaje en la Bombonera",
+    "n": "En 2001."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-borges",
+    "q": "«He cometido el peor de los pecados: no he sido feliz». ¿De quién es el verso?",
+    "o": [
+      "Jorge Luis Borges",
+      "Roberto Arlt",
+      "Ernesto Sabato",
+      "Alejandra Pizarnik"
+    ],
+    "a": "Jorge Luis Borges",
+    "n": "Del poema 'El remordimiento'."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-armstrong",
+    "q": "«Un pequeño paso para el hombre, un gran salto para la humanidad». ¿Quién lo dijo?",
+    "o": [
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Buzz Aldrin",
+      "John Glenn"
+    ],
+    "a": "Neil Armstrong",
+    "n": "Al pisar la Luna, en julio de 1969."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-kennedy",
+    "q": "«No preguntes qué puede hacer tu país por vos». ¿Quién abrió así su discurso de asunción?",
+    "o": [
+      "John F. Kennedy",
+      "Franklin D. Roosevelt",
+      "Barack Obama",
+      "Abraham Lincoln"
+    ],
+    "a": "John F. Kennedy",
+    "n": "En 1961."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-mlk",
+    "q": "«Tengo un sueño». ¿Quién pronunció ese discurso en Washington en 1963?",
+    "o": [
+      "Martin Luther King",
+      "Malcolm X",
+      "Rosa Parks",
+      "Nelson Mandela"
+    ],
+    "a": "Martin Luther King"
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-churchill",
+    "q": "«No tengo nada que ofrecer salvo sangre, esfuerzo, lágrimas y sudor». ¿Quién lo dijo?",
+    "o": [
+      "Winston Churchill",
+      "Charles de Gaulle",
+      "Franklin D. Roosevelt",
+      "Neville Chamberlain"
+    ],
+    "a": "Winston Churchill",
+    "n": "En su primer discurso como primer ministro, en 1940."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-newton",
+    "q": "«Si he visto más lejos es porque estoy parado sobre hombros de gigantes». ¿De quién es?",
+    "o": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Albert Einstein",
+      "Nicolás Copérnico"
+    ],
+    "a": "Isaac Newton"
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-curie",
+    "q": "«Nada en la vida debe ser temido, solo comprendido». ¿Quién lo dijo?",
+    "o": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Ada Lovelace",
+      "Hipatia"
+    ],
+    "a": "Marie Curie"
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-einstein",
+    "q": "«Dios no juega a los dados». ¿Quién lo escribió, discutiendo la física cuántica?",
+    "o": [
+      "Albert Einstein",
+      "Niels Bohr",
+      "Max Planck",
+      "Werner Heisenberg"
+    ],
+    "a": "Albert Einstein",
+    "n": "Bohr le habría respondido que dejara de decirle a Dios qué hacer."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-cesar",
+    "q": "«La suerte está echada». ¿Quién lo habría dicho al cruzar el Rubicón?",
+    "o": [
+      "Julio César",
+      "Marco Antonio",
+      "Augusto",
+      "Pompeyo"
+    ],
+    "a": "Julio César",
+    "n": "En latín, 'alea iacta est', según el relato de Suetonio."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-socrates",
+    "q": "«Solo sé que no sé nada» se le atribuye a un filósofo griego. ¿A cuál?",
+    "o": [
+      "Sócrates",
+      "Platón",
+      "Aristóteles",
+      "Diógenes"
+    ],
+    "a": "Sócrates",
+    "n": "La frase no aparece literal en ningún texto: es una síntesis posterior de su método."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-galileo",
+    "q": "«Y sin embargo, se mueve». ¿A quién se le atribuye esta frase tras abjurar ante la Inquisición?",
+    "o": [
+      "Galileo Galilei",
+      "Giordano Bruno",
+      "Nicolás Copérnico",
+      "Johannes Kepler"
+    ],
+    "a": "Galileo Galilei",
+    "n": "No hay registro de que la haya dicho: aparece recién más de un siglo después."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-descartes-cogito",
+    "q": "«Pienso, luego existo» resume el punto de partida de un filósofo. ¿Cuál?",
+    "o": [
+      "René Descartes",
+      "Baruch Spinoza",
+      "Immanuel Kant",
+      "John Locke"
+    ],
+    "a": "René Descartes"
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-marx",
+    "q": "«La religión es el opio del pueblo». ¿Quién lo escribió?",
+    "o": [
+      "Karl Marx",
+      "Friedrich Nietzsche",
+      "Sigmund Freud",
+      "Mijaíl Bakunin"
+    ],
+    "a": "Karl Marx"
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-nietzsche-dios",
+    "q": "«Dios ha muerto». ¿Qué filósofo escribió esa sentencia?",
+    "o": [
+      "Friedrich Nietzsche",
+      "Arthur Schopenhauer",
+      "Jean-Paul Sartre",
+      "Martin Heidegger"
+    ],
+    "a": "Friedrich Nietzsche"
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-sartre",
+    "q": "«El infierno son los otros». ¿De qué filósofo y dramaturgo francés es?",
+    "o": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir",
+      "Michel Foucault"
+    ],
+    "a": "Jean-Paul Sartre",
+    "n": "De su obra teatral 'A puerta cerrada'."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-beauvoir",
+    "q": "«No se nace mujer: se llega a serlo». ¿Quién lo escribió?",
+    "o": [
+      "Simone de Beauvoir",
+      "Virginia Woolf",
+      "Judith Butler",
+      "Hannah Arendt"
+    ],
+    "a": "Simone de Beauvoir",
+    "n": "En 'El segundo sexo', de 1949."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-gandhi",
+    "q": "«Ojo por ojo y el mundo quedará ciego» se le atribuye a un líder pacifista. ¿A quién?",
+    "o": [
+      "Mahatma Gandhi",
+      "Nelson Mandela",
+      "Martin Luther King",
+      "Dalái Lama"
+    ],
+    "a": "Mahatma Gandhi",
+    "n": "No está documentada en sus escritos, pero la atribución es la más extendida."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-che",
+    "q": "«Hasta la victoria siempre». ¿Quién cerraba así sus cartas?",
+    "o": [
+      "Ernesto 'Che' Guevara",
+      "Fidel Castro",
+      "Camilo Cienfuegos",
+      "Salvador Allende"
+    ],
+    "a": "Ernesto 'Che' Guevara"
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-allende",
+    "q": "«Las grandes alamedas» aparecen en el último discurso de un presidente latinoamericano. ¿Cuál?",
+    "o": [
+      "Salvador Allende",
+      "Juan Domingo Perón",
+      "Getúlio Vargas",
+      "Jacobo Árbenz"
+    ],
+    "a": "Salvador Allende",
+    "n": "En su mensaje radial del 11 de septiembre de 1973."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-mandela",
+    "q": "«La educación es el arma más poderosa para cambiar el mundo». ¿A quién se atribuye?",
+    "o": [
+      "Nelson Mandela",
+      "Paulo Freire",
+      "Malala Yousafzai",
+      "Kofi Annan"
+    ],
+    "a": "Nelson Mandela"
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-freire",
+    "q": "«Nadie educa a nadie, nadie se educa solo». ¿De qué pedagogo es?",
+    "o": [
+      "Paulo Freire",
+      "Jean Piaget",
+      "Lev Vygotski",
+      "John Dewey"
+    ],
+    "a": "Paulo Freire",
+    "n": "De 'Pedagogía del oprimido', de 1970."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-quijote",
+    "q": "«En un lugar de la Mancha, de cuyo nombre no quiero acordarme». ¿Qué obra empieza así?",
+    "o": [
+      "Don Quijote de la Mancha",
+      "Lazarillo de Tormes",
+      "La Celestina",
+      "El Buscón"
+    ],
+    "a": "Don Quijote de la Mancha",
+    "n": "De Miguel de Cervantes, 1605."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-tolstoi",
+    "q": "«Todas las familias felices se parecen». ¿Qué novela empieza con esa idea?",
+    "o": [
+      "Ana Karenina",
+      "Guerra y paz",
+      "Madame Bovary",
+      "Crimen y castigo"
+    ],
+    "a": "Ana Karenina",
+    "n": "De León Tolstói."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-melville",
+    "q": "«Llamadme Ismael». ¿Qué novela arranca con esas palabras?",
+    "o": [
+      "Moby Dick",
+      "La isla del tesoro",
+      "Robinson Crusoe",
+      "Los viajes de Gulliver"
+    ],
+    "a": "Moby Dick",
+    "n": "De Herman Melville, 1851."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-cienanos",
+    "q": "¿Qué novela empieza con un coronel frente al pelotón de fusilamiento recordando cuando conoció el hielo?",
+    "o": [
+      "Cien años de soledad",
+      "Pedro Páramo",
+      "La casa de los espíritus",
+      "Rayuela"
+    ],
+    "a": "Cien años de soledad",
+    "n": "De Gabriel García Márquez, 1967."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-hamlet",
+    "q": "«Ser o no ser». ¿De qué obra de Shakespeare es ese monólogo?",
+    "o": [
+      "Hamlet",
+      "Macbeth",
+      "Otelo",
+      "El rey Lear"
+    ],
+    "a": "Hamlet"
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-casablanca",
+    "q": "«Siempre nos quedará París». ¿De qué película es esa frase?",
+    "o": [
+      "Casablanca",
+      "Lo que el viento se llevó",
+      "Ciudadano Kane",
+      "El tercer hombre"
+    ],
+    "a": "Casablanca",
+    "n": "La dice Rick, interpretado por Humphrey Bogart."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-padrino",
+    "q": "«Le haré una oferta que no podrá rechazar». ¿De qué película es?",
+    "o": [
+      "El padrino",
+      "Buenos muchachos",
+      "Scarface",
+      "Casino"
+    ],
+    "a": "El padrino",
+    "n": "La dice Vito Corleone, interpretado por Marlon Brando."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-starwars",
+    "q": "«Que la Fuerza te acompañe». ¿De qué saga cinematográfica es la frase?",
+    "o": [
+      "Star Wars",
+      "Star Trek",
+      "Dune",
+      "Battlestar Galactica"
+    ],
+    "a": "Star Wars"
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-terminator",
+    "q": "«Hasta la vista, baby». ¿Qué película popularizó esa despedida?",
+    "o": [
+      "Terminator 2",
+      "RoboCop",
+      "Duro de matar",
+      "Depredador"
+    ],
+    "a": "Terminator 2",
+    "n": "La dice el personaje de Arnold Schwarzenegger."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-titanic",
+    "q": "«Soy el rey del mundo». ¿En qué película se grita esa frase desde la proa de un barco?",
+    "o": [
+      "Titanic",
+      "Náufrago",
+      "Master and Commander",
+      "La tormenta perfecta"
+    ],
+    "a": "Titanic"
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-simpson",
+    "q": "«¡Multiplícate por cero!». ¿Qué personaje de la televisión repite esa frase en el doblaje latino?",
+    "o": [
+      "Bart Simpson",
+      "Homero Simpson",
+      "Eric Cartman",
+      "Stewie Griffin"
+    ],
+    "a": "Bart Simpson"
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-olmedo",
+    "q": "«¡Qué momento!» era una muletilla de un cómico argentino. ¿Cuál?",
+    "o": [
+      "Alberto Olmedo",
+      "Jorge Porcel",
+      "Juan Carlos Calabró",
+      "Carlitos Balá"
+    ],
+    "a": "Alberto Olmedo"
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-fangio",
+    "q": "«El mejor auto es el que gana». ¿A qué piloto argentino se le atribuye esa idea?",
+    "o": [
+      "Juan Manuel Fangio",
+      "Carlos Reutemann",
+      "Froilán González",
+      "Oscar Gálvez"
+    ],
+    "a": "Juan Manuel Fangio"
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-galeano",
+    "q": "«La utopía sirve para caminar». ¿Qué escritor uruguayo desarrolló esa idea?",
+    "o": [
+      "Eduardo Galeano",
+      "Mario Benedetti",
+      "Juan Carlos Onetti",
+      "Idea Vilariño"
+    ],
+    "a": "Eduardo Galeano"
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-cerati",
+    "q": "«Gracias totales». ¿Quién cerró con esa frase el último recital de su banda?",
+    "o": [
+      "Gustavo Cerati",
+      "Charly García",
+      "Luis Alberto Spinetta",
+      "Fito Páez"
+    ],
+    "a": "Gustavo Cerati",
+    "n": "En el último show de Soda Stereo, en 1997."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-evita",
+    "q": "«Volveré y seré millones» se atribuye popularmente a Eva Perón. ¿Qué dicen los historiadores?",
+    "o": [
+      "Que no hay registro de que la haya dicho",
+      "Que la dijo en su último discurso",
+      "Que la escribió en su testamento",
+      "Que la dijo por radio en 1951"
+    ],
+    "a": "Que no hay registro de que la haya dicho",
+    "n": "La frase circula desde los años 70 y no aparece en sus discursos ni escritos."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-antonieta",
+    "q": "«Que coman pasteles» se le atribuye a María Antonieta. ¿Qué sabemos hoy?",
+    "o": [
+      "Que la frase ya circulaba antes de que ella llegara a Francia",
+      "Que la dijo desde el balcón de Versalles",
+      "Que la escribió en una carta",
+      "Que la dijo camino a la guillotina"
+    ],
+    "a": "Que la frase ya circulaba antes de que ella llegara a Francia",
+    "n": "Rousseau la menciona cuando María Antonieta era una niña."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-holmes",
+    "q": "«Elemental, mi querido Watson». ¿Dónde aparece esa frase?",
+    "o": [
+      "En ninguna novela de Conan Doyle",
+      "En 'Estudio en escarlata'",
+      "En 'El sabueso de los Baskerville'",
+      "En 'El signo de los cuatro'"
+    ],
+    "a": "En ninguna novela de Conan Doyle",
+    "n": "Se popularizó en el cine y el teatro, no en los libros originales."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-vader",
+    "q": "«Luke, yo soy tu padre». ¿Qué pasa con esa frase de Star Wars?",
+    "o": [
+      "En la película no se dice así",
+      "Es la primera línea de la escena",
+      "La dice Obi-Wan",
+      "Fue eliminada del montaje final"
+    ],
+    "a": "En la película no se dice así",
+    "n": "La línea real es 'No, yo soy tu padre'."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-shakira",
+    "q": "«Las caderas no mienten». ¿Qué cantante colombiana popularizó esa idea en una canción de 2005?",
+    "o": [
+      "Shakira",
+      "Karol G",
+      "Juanes",
+      "Carlos Vives"
+    ],
+    "a": "Shakira"
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-fontanarrosa2",
+    "q": "«Son malas por costumbre». ¿Sobre qué hablaba Fontanarrosa en el Congreso de la Lengua?",
+    "o": [
+      "Sobre las malas palabras",
+      "Sobre las hinchadas",
+      "Sobre las suegras",
+      "Sobre los arqueros"
+    ],
+    "a": "Sobre las malas palabras",
+    "n": "En Rosario, en 2004."
+  },
+  {
+    "c": "Quién dijo",
+    "t": "mc",
+    "p": 1,
+    "g": "qd-passarella",
+    "q": "«La pelota no dobla». ¿Quién instaló esta frase para explicar una derrota en la altura?",
+    "o": [
+      "Daniel Passarella",
+      "Carlos Bilardo",
+      "Diego Maradona",
+      "Marcelo Bielsa"
+    ],
+    "a": "Daniel Passarella",
+    "n": "Como técnico de la Selección, tras perder 2 a 0 en Quito en las eliminatorias para Francia 98."
+  }
+]

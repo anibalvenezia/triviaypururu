@@ -1,0 +1,1583 @@
+[
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "Las uñas y el pelo siguen creciendo después de la muerte.",
+    "a": "Falso",
+    "n": "Es una ilusión: la piel se retrae al deshidratarse y deja más expuestos uñas y pelo."
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "Estamos formados por polvo de estrellas.",
+    "a": "Verdadero",
+    "n": "Casi todos los elementos más pesados que el hidrógeno se formaron dentro de estrellas."
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "El pulpo tiene tres corazones.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué demuestra el péndulo de Foucault?",
+    "o": [
+      "La rotación de la Tierra",
+      "La traslación de la Tierra",
+      "La atracción de la Luna",
+      "El campo magnético terrestre"
+    ],
+    "a": "La rotación de la Tierra"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué es un equinoccio?",
+    "a": "El momento en que el Sol cruza el ecuador celeste y el día y la noche duran aproximadamente lo mismo en todo el planeta"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué elemento tiene por símbolo Sn?",
+    "a": "El estaño"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué elemento tiene por símbolo Pb?",
+    "o": [
+      "Plomo",
+      "Potasio",
+      "Paladio",
+      "Platino"
+    ],
+    "a": "Plomo"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué elemento tiene por símbolo Au?",
+    "o": [
+      "Oro",
+      "Plata",
+      "Aluminio",
+      "Azufre"
+    ],
+    "a": "Oro"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el único mamífero capaz de volar de forma sostenida?",
+    "a": "El murciélago"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué significa petricor?",
+    "a": "El olor característico de la tierra mojada después de la lluvia"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se escribe 72 en números romanos?",
+    "a": "LXXII"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cómo se escribe 400 en números romanos?",
+    "o": [
+      "CD",
+      "CM",
+      "DC",
+      "LD"
+    ],
+    "a": "CD"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la pirámide que ordena jerárquicamente las necesidades humanas?",
+    "a": "La pirámide de Maslow"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué corriente filosófica sostiene que todo el conocimiento proviene de la experiencia sensorial?",
+    "a": "El empirismo"
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "Hay más árboles en la Tierra que estrellas en la Vía Láctea.",
+    "a": "Verdadero",
+    "n": "Se estiman unos tres billones de árboles frente a cientos de miles de millones de estrellas en nuestra galaxia."
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el órgano más extenso del cuerpo humano?",
+    "o": [
+      "La piel",
+      "El hígado",
+      "El intestino",
+      "El pulmón"
+    ],
+    "a": "La piel"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el hueso más largo del cuerpo humano?",
+    "a": "El fémur"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántas cavidades tiene el corazón humano?",
+    "o": [
+      "Cuatro",
+      "Dos",
+      "Tres",
+      "Seis"
+    ],
+    "a": "Cuatro"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuántos cromosomas tiene una célula somática humana?",
+    "a": "46, es decir 23 pares",
+    "n": "Los gametos, óvulos y espermatozoides, tienen la mitad: 23."
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el elemento más abundante del universo?",
+    "a": "El hidrógeno"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué es la gentrificación?",
+    "a": "El proceso por el cual un barrio popular se revaloriza y sus habitantes originales terminan desplazados por el aumento de los precios"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué nombra la aporofobia?",
+    "a": "El rechazo o la aversión hacia las personas pobres"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Quién obtuvo la imagen de difracción de rayos X clave para describir la estructura del ADN?",
+    "o": [
+      "Rosalind Franklin",
+      "Barbara McClintock",
+      "Marie Curie",
+      "Lise Meitner"
+    ],
+    "a": "Rosalind Franklin"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál de estas palabras es grave?",
+    "o": [
+      "Árbol",
+      "Sofá",
+      "Camión",
+      "Reloj"
+    ],
+    "a": "Árbol",
+    "n": "Grave o llana: acento en la penúltima sílaba."
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál de estas palabras es esdrújula?",
+    "o": [
+      "Brújula",
+      "Cráter",
+      "Bailé",
+      "Cárcel"
+    ],
+    "a": "Brújula"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el planeta más denso del Sistema Solar?",
+    "o": [
+      "La Tierra",
+      "Júpiter",
+      "Mercurio",
+      "Saturno"
+    ],
+    "a": "La Tierra"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el planeta más grande del Sistema Solar?",
+    "o": [
+      "Júpiter",
+      "Saturno",
+      "Neptuno",
+      "Urano"
+    ],
+    "a": "Júpiter"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuánto tarda aproximadamente la luz del Sol en llegar a la Tierra?",
+    "a": "Unos ocho minutos"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué es un año luz?",
+    "a": "La distancia que recorre la luz en un año, no una unidad de tiempo"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Quién ordenó los elementos en la primera tabla periódica moderna?",
+    "o": [
+      "Dmitri Mendeléyev",
+      "Antoine Lavoisier",
+      "John Dalton",
+      "Niels Bohr"
+    ],
+    "a": "Dmitri Mendeléyev"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué mide la escala de Mohs?",
+    "o": [
+      "La dureza de los minerales",
+      "La intensidad de los sismos",
+      "La acidez",
+      "La radiación"
+    ],
+    "a": "La dureza de los minerales"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién descubrió la penicilina?",
+    "a": "Alexander Fleming, en 1928"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién fue la primera persona en ganar dos premios Nobel en dos disciplinas científicas distintas?",
+    "a": "Marie Curie, en Física y en Química"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué argentino ganó el Premio Nobel de Química en 1970?",
+    "o": [
+      "Luis Federico Leloir",
+      "Bernardo Houssay",
+      "César Milstein",
+      "Adolfo Pérez Esquivel"
+    ],
+    "a": "Luis Federico Leloir"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Quién formuló la teoría de la evolución por selección natural?",
+    "o": [
+      "Charles Darwin",
+      "Jean-Baptiste Lamarck",
+      "Gregor Mendel",
+      "Alfred Wegener"
+    ],
+    "a": "Charles Darwin"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el único metal líquido a temperatura ambiente?",
+    "a": "El mercurio",
+    "n": "El galio y el cesio se funden apenas por encima, cerca de los 29 grados."
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el animal terrestre más rápido?",
+    "o": [
+      "El guepardo",
+      "El leopardo",
+      "El antílope",
+      "El caballo"
+    ],
+    "a": "El guepardo"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el animal más grande que existe en el planeta?",
+    "a": "La ballena azul"
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "El sonido puede propagarse en el vacío.",
+    "a": "Falso",
+    "n": "Necesita un medio material; la luz, en cambio, no."
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué es la sinestesia?",
+    "a": "La percepción en la que un estímulo dispara además una sensación de otro sentido, como ver colores al escuchar sonidos"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué describe el efecto Dunning-Kruger?",
+    "a": "La tendencia de quienes tienen poca competencia en un área a sobreestimar su propio nivel"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la fórmula química de la sal de mesa?",
+    "o": [
+      "NaCl",
+      "H2O",
+      "CO2",
+      "KCl"
+    ],
+    "a": "NaCl"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué elemento tiene por símbolo Fe?",
+    "o": [
+      "Hierro",
+      "Flúor",
+      "Fósforo",
+      "Fermio"
+    ],
+    "a": "Hierro"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué elemento tiene por símbolo K?",
+    "o": [
+      "Potasio",
+      "Kriptón",
+      "Calcio",
+      "Carbono"
+    ],
+    "a": "Potasio"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué elemento tiene por símbolo Ag?",
+    "a": "La plata"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántos planetas tiene el Sistema Solar?",
+    "o": [
+      "Ocho",
+      "Nueve",
+      "Siete",
+      "Diez"
+    ],
+    "a": "Ocho",
+    "n": "Plutón dejó de ser planeta en 2006."
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el planeta más cercano al Sol?",
+    "o": [
+      "Mercurio",
+      "Venus",
+      "La Tierra",
+      "Marte"
+    ],
+    "a": "Mercurio"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el planeta más caliente del Sistema Solar?",
+    "o": [
+      "Venus",
+      "Mercurio",
+      "Marte",
+      "Júpiter"
+    ],
+    "a": "Venus",
+    "n": "Su atmósfera densa produce un efecto invernadero extremo."
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿En qué año Plutón dejó de ser considerado planeta?",
+    "a": "En 2006"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién formuló la teoría de la relatividad?",
+    "a": "Albert Einstein"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Quién formuló la ley de gravitación universal?",
+    "o": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Nicolás Copérnico"
+    ],
+    "a": "Isaac Newton"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué astrónomo propuso que la Tierra giraba alrededor del Sol y no al revés?",
+    "a": "Nicolás Copérnico"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "g": "hervor",
+    "q": "¿A qué temperatura hierve el agua a nivel del mar?",
+    "o": [
+      "100 grados",
+      "90 grados",
+      "120 grados",
+      "80 grados"
+    ],
+    "a": "100 grados"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el valor aproximado del número pi con cuatro decimales?",
+    "a": "3,1416"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuánto suman los ángulos interiores de un triángulo?",
+    "o": [
+      "180 grados",
+      "360 grados",
+      "90 grados",
+      "270 grados"
+    ],
+    "a": "180 grados"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué teorema relaciona los lados de un triángulo rectángulo?",
+    "a": "El teorema de Pitágoras"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué pigmento permite a las plantas capturar la luz para la fotosíntesis?",
+    "a": "La clorofila"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué gas absorben las plantas durante la fotosíntesis?",
+    "o": [
+      "Dióxido de carbono",
+      "Oxígeno",
+      "Nitrógeno",
+      "Metano"
+    ],
+    "a": "Dióxido de carbono"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué orgánulo se conoce como la central energética de la célula?",
+    "o": [
+      "La mitocondria",
+      "El ribosoma",
+      "El núcleo",
+      "El lisosoma"
+    ],
+    "a": "La mitocondria"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Con qué planta hizo Gregor Mendel sus experimentos sobre la herencia?",
+    "a": "Con la arveja o guisante"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué proteína de los glóbulos rojos transporta el oxígeno?",
+    "a": "La hemoglobina"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué órgano produce la insulina?",
+    "o": [
+      "El páncreas",
+      "El hígado",
+      "El riñón",
+      "La tiroides"
+    ],
+    "a": "El páncreas"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿La falta de qué vitamina provoca escorbuto?",
+    "o": [
+      "Vitamina C",
+      "Vitamina D",
+      "Vitamina A",
+      "Vitamina B12"
+    ],
+    "a": "Vitamina C"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién desarrolló la primera vacuna, contra la viruela?",
+    "a": "Edward Jenner"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántas vértebras cervicales tiene una jirafa?",
+    "o": [
+      "Siete",
+      "Doce",
+      "Veinte",
+      "Treinta"
+    ],
+    "a": "Siete",
+    "n": "Las mismas que un ser humano, pero mucho más largas."
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿De qué está hecho el esqueleto de un tiburón?",
+    "o": [
+      "Cartílago",
+      "Hueso",
+      "Queratina",
+      "Calcio puro"
+    ],
+    "a": "Cartílago"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el animal terrestre más grande que existe hoy?",
+    "a": "El elefante africano"
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "Los murciélagos son ciegos.",
+    "a": "Falso",
+    "n": "Ven, aunque se orientan sobre todo por ecolocalización."
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "La Gran Muralla China se ve a simple vista desde el espacio.",
+    "a": "Falso"
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "Usamos solo el diez por ciento de nuestro cerebro.",
+    "a": "Falso",
+    "n": "Es un mito: la actividad se distribuye por todo el cerebro."
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién creó la World Wide Web en 1989?",
+    "a": "Tim Berners-Lee"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántos bits tiene un byte?",
+    "o": [
+      "8",
+      "4",
+      "16",
+      "32"
+    ],
+    "a": "8"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién creó el núcleo del sistema operativo Linux?",
+    "a": "Linus Torvalds"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿En qué año se difundió la primera imagen de un agujero negro?",
+    "a": "En 2019"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué teoría explica el origen y la expansión del universo?",
+    "o": [
+      "El Big Bang",
+      "La deriva continental",
+      "El estado estacionario",
+      "La panspermia"
+    ],
+    "a": "El Big Bang"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué científico propuso la teoría de la deriva continental?",
+    "a": "Alfred Wegener"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué escala se usa para medir la acidez de una sustancia?",
+    "o": [
+      "La escala de pH",
+      "La escala Mohs",
+      "La escala Richter",
+      "La escala Kelvin"
+    ],
+    "a": "La escala de pH"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es la unidad de temperatura del Sistema Internacional?",
+    "a": "El kelvin"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué proceso de conservación de alimentos lleva el nombre de Louis Pasteur?",
+    "a": "La pasteurización"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué parte del cerebro coordina el equilibrio y los movimientos finos?",
+    "o": [
+      "El cerebelo",
+      "El hipocampo",
+      "El bulbo raquídeo",
+      "La corteza frontal"
+    ],
+    "a": "El cerebelo"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la célula básica del sistema nervioso?",
+    "a": "La neurona"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué instrumento mide la presión atmosférica?",
+    "o": [
+      "El barómetro",
+      "El termómetro",
+      "El higrómetro",
+      "El anemómetro"
+    ],
+    "a": "El barómetro"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué instrumento mide la velocidad del viento?",
+    "a": "El anemómetro"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el estado de la materia del vapor de agua?",
+    "o": [
+      "Gaseoso",
+      "Líquido",
+      "Sólido",
+      "Plasma"
+    ],
+    "a": "Gaseoso"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama el paso directo de sólido a gas sin pasar por líquido?",
+    "a": "Sublimación"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama el proceso por el cual una oruga se transforma en mariposa?",
+    "a": "La metamorfosis"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué animal es el único que no puede saltar entre estos?",
+    "o": [
+      "El elefante",
+      "El canguro",
+      "La liebre",
+      "La rana"
+    ],
+    "a": "El elefante"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué nombre recibe el estudio científico de las aves?",
+    "a": "La ornitología"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el hueso más pequeño del cuerpo humano?",
+    "o": [
+      "El estribo",
+      "El martillo",
+      "El yunque",
+      "La falange distal"
+    ],
+    "a": "El estribo",
+    "n": "Está en el oído medio."
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuántos litros de sangre tiene aproximadamente un adulto?",
+    "a": "Entre cuatro y seis litros"
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "El corazón está ubicado exactamente en el centro del pecho.",
+    "a": "Falso",
+    "n": "Está algo desplazado hacia la izquierda."
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué disciplina estudia los fósiles?",
+    "o": [
+      "La paleontología",
+      "La arqueología",
+      "La geología",
+      "La antropología"
+    ],
+    "a": "La paleontología"
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "g": "hervor",
+    "q": "En la altura, el agua hierve a menor temperatura que a nivel del mar.",
+    "a": "Verdadero",
+    "n": "Por la menor presión atmosférica."
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "El diamante y el grafito están formados por el mismo elemento.",
+    "a": "Verdadero",
+    "n": "Ambos son carbono puro con estructuras distintas."
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "Un rayo es más caliente que la superficie del Sol.",
+    "a": "Verdadero",
+    "n": "Un rayo ronda los 30.000 grados; la superficie solar, unos 5.500."
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "Las venas transportan siempre sangre sin oxígeno.",
+    "a": "Falso",
+    "n": "Las venas pulmonares llevan sangre oxigenada al corazón."
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "El vidrio de las ventanas antiguas es un líquido que fluye lentamente.",
+    "a": "Falso",
+    "n": "Es un mito: el vidrio es un sólido amorfo."
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "Los antibióticos curan infecciones virales como la gripe.",
+    "a": "Falso",
+    "n": "Solo actúan contra bacterias."
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "La Luna muestra siempre la misma cara a la Tierra.",
+    "a": "Verdadero",
+    "n": "Su rotación y su traslación duran lo mismo."
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "El Sol es una estrella.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál de estos animales no es un mamífero?",
+    "o": [
+      "El pingüino",
+      "El ornitorrinco",
+      "El delfín",
+      "El murciélago"
+    ],
+    "a": "El pingüino"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál de estos números no es primo?",
+    "o": [
+      "33",
+      "31",
+      "37",
+      "41"
+    ],
+    "a": "33",
+    "n": "33 es 3 por 11."
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué nombre recibe el conjunto completo de genes de un organismo?",
+    "a": "El genoma"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el gas que más respiramos?",
+    "o": [
+      "Nitrógeno",
+      "Oxígeno",
+      "Dióxido de carbono",
+      "Argón"
+    ],
+    "a": "Nitrógeno",
+    "n": "Compone alrededor del 78 % del aire."
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el grupo sanguíneo considerado donante universal?",
+    "o": [
+      "0 negativo",
+      "AB positivo",
+      "A positivo",
+      "B negativo"
+    ],
+    "a": "0 negativo"
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "Estamos hechos de átomos formados en el interior de las estrellas.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué es el equinoccio?",
+    "o": [
+      "El momento en que el día y la noche duran casi lo mismo",
+      "El día más largo del año",
+      "El día más corto del año",
+      "El punto más cercano de la Tierra al Sol"
+    ],
+    "a": "El momento en que el día y la noche duran casi lo mismo"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué significa la palabra petricor?",
+    "a": "El olor a tierra mojada después de la lluvia"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué ciencia estudia los insectos?",
+    "a": "La entomología"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "Entre un globo inflado y uno desinflado, ¿cuál tiene más masa?",
+    "o": [
+      "El inflado",
+      "El desinflado",
+      "Tienen la misma",
+      "Depende del material"
+    ],
+    "a": "El inflado",
+    "n": "El aire también tiene masa."
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué científico argentino ganó el Nobel de Medicina en 1984 por sus trabajos sobre anticuerpos monoclonales?",
+    "o": [
+      "César Milstein",
+      "Bernardo Houssay",
+      "Luis Federico Leloir",
+      "Salvador Mazza"
+    ],
+    "a": "César Milstein"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué médico argentino dedicó su vida a estudiar y combatir el mal de Chagas?",
+    "a": "Salvador Mazza"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué insecto transmite el mal de Chagas?",
+    "o": [
+      "La vinchuca",
+      "El mosquito Aedes",
+      "La pulga",
+      "La garrapata"
+    ],
+    "a": "La vinchuca"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué mosquito transmite el dengue?",
+    "a": "El Aedes aegypti"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuántos huesos tiene aproximadamente un adulto?",
+    "a": "206"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué parte del ojo regula la cantidad de luz que entra?",
+    "o": [
+      "El iris",
+      "La córnea",
+      "La retina",
+      "El cristalino"
+    ],
+    "a": "El iris"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué animal tiene la mordida más potente del mundo actual?",
+    "a": "El cocodrilo marino"
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "El agua caliente puede congelarse más rápido que el agua fría en ciertas condiciones.",
+    "a": "Verdadero",
+    "n": "Se conoce como efecto Mpemba y todavía se discute su explicación."
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué unidad mide la potencia?",
+    "o": [
+      "El vatio",
+      "El julio",
+      "El newton",
+      "El amperio"
+    ],
+    "a": "El vatio"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué sustancia producen las abejas obreras para alimentar a las larvas destinadas a ser reinas?",
+    "a": "La jalea real"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué órgano filtra la sangre y produce la orina?",
+    "o": [
+      "El riñón",
+      "El hígado",
+      "El bazo",
+      "El páncreas"
+    ],
+    "a": "El riñón"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama el conducto que lleva el aire desde la laringe a los bronquios?",
+    "a": "La tráquea"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué tipo de sangre es receptor universal?",
+    "o": [
+      "AB positivo",
+      "0 negativo",
+      "A negativo",
+      "B positivo"
+    ],
+    "a": "AB positivo"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué gas produce el efecto invernadero en mayor medida por la actividad humana?",
+    "a": "El dióxido de carbono"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué capa de la atmósfera nos protege de la radiación ultravioleta?",
+    "o": [
+      "La capa de ozono",
+      "La troposfera",
+      "La ionosfera",
+      "La exosfera"
+    ],
+    "a": "La capa de ozono"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la unidad básica de la herencia?",
+    "a": "El gen"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué forma tiene la molécula de ADN?",
+    "o": [
+      "Doble hélice",
+      "Cadena lineal",
+      "Anillo cerrado",
+      "Estrella"
+    ],
+    "a": "Doble hélice"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué dos científicos publicaron la estructura del ADN en 1953?",
+    "a": "James Watson y Francis Crick"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué científica hizo las imágenes de difracción clave para descubrir la estructura del ADN?",
+    "o": [
+      "Rosalind Franklin",
+      "Marie Curie",
+      "Barbara McClintock",
+      "Lise Meitner"
+    ],
+    "a": "Rosalind Franklin"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuántos premios Nobel ganó Marie Curie y en qué disciplinas?",
+    "a": "Dos: Física en 1903 y Química en 1911"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué velocidad alcanza la luz en el vacío, aproximadamente?",
+    "o": [
+      "300.000 kilómetros por segundo",
+      "300.000 kilómetros por hora",
+      "3.000 kilómetros por segundo",
+      "30.000 kilómetros por segundo"
+    ],
+    "a": "300.000 kilómetros por segundo"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué planeta tiene el sistema de anillos más visible?",
+    "o": [
+      "Saturno",
+      "Júpiter",
+      "Urano",
+      "Neptuno"
+    ],
+    "a": "Saturno"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la galaxia en la que está el Sistema Solar?",
+    "a": "La Vía Láctea"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?",
+    "o": [
+      "La gravedad",
+      "El magnetismo",
+      "La fuerza nuclear fuerte",
+      "La presión solar"
+    ],
+    "a": "La gravedad"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué instrumento inventado por Galileo le permitió observar las lunas de Júpiter?",
+    "a": "El telescopio, que perfeccionó pero no inventó"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántas lunas galileanas tiene Júpiter?",
+    "o": [
+      "Cuatro",
+      "Dos",
+      "Seis",
+      "Doce"
+    ],
+    "a": "Cuatro",
+    "n": "Ío, Europa, Ganimedes y Calisto."
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "El agua se expande al congelarse.",
+    "a": "Verdadero",
+    "n": "Por eso el hielo flota."
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "Los seres humanos y los chimpancés comparten más del 90 % del ADN.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "El sonido viaja más rápido en el agua que en el aire.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "Los dinosaurios y los primeros humanos convivieron.",
+    "a": "Falso",
+    "n": "Los separan unos 65 millones de años."
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "q": "Las aves descienden de los dinosaurios.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué provoca las mareas?",
+    "o": [
+      "La atracción de la Luna y el Sol",
+      "Los vientos",
+      "La rotación de la Tierra sola",
+      "Las corrientes submarinas"
+    ],
+    "a": "La atracción de la Luna y el Sol"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la capa más externa de la Tierra sobre la que están los continentes?",
+    "a": "La corteza terrestre"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué escala mide la magnitud de los terremotos y reemplazó a la de Richter en el uso científico?",
+    "o": [
+      "La escala de magnitud de momento",
+      "La escala Mercalli",
+      "La escala Beaufort",
+      "La escala Mohs"
+    ],
+    "a": "La escala de magnitud de momento"
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué mineral es el más duro según la escala de Mohs?",
+    "a": "El diamante"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "g": "queratocono",
+    "q": "¿Cuál de estas afecciones oculares se agrava al frotarse los ojos?",
+    "o": [
+      "el queratocono",
+      "el glaucoma",
+      "las cataratas",
+      "la presbicia"
+    ],
+    "a": "el queratocono",
+    "n": "La córnea se adelgaza y se deforma en forma de cono; el frotado mecánico acelera el proceso."
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "g": "hioides",
+    "q": "¿Cuál es el único hueso del cuerpo humano que no se articula con ningún otro?",
+    "a": "el hioides",
+    "n": "Está en el cuello y se sostiene sólo por músculos y ligamentos."
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "g": "melatonina",
+    "q": "¿Qué hormona regula el ciclo del sueño?",
+    "o": [
+      "la melatonina",
+      "la serotonina",
+      "el cortisol",
+      "la oxitocina"
+    ],
+    "a": "la melatonina",
+    "n": "La produce la glándula pineal y su secreción aumenta con la oscuridad."
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "g": "mitosis",
+    "q": "¿Cómo se llama el proceso de división celular que da dos células hijas idénticas a la original?",
+    "o": [
+      "la mitosis",
+      "la meiosis",
+      "la apoptosis",
+      "la mitocondria"
+    ],
+    "a": "la mitosis",
+    "n": "La meiosis, en cambio, reduce a la mitad los cromosomas y produce gametos."
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "g": "tendon",
+    "q": "¿Cómo se llama el tejido que une los músculos con los huesos?",
+    "o": [
+      "el tendón",
+      "el ligamento",
+      "el cartílago",
+      "la fascia"
+    ],
+    "a": "el tendón",
+    "n": "Los ligamentos unen hueso con hueso."
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "g": "mateina",
+    "q": "La mateína es una molécula distinta de la cafeína.",
+    "a": "falso",
+    "n": "Es exactamente la misma molécula. 'Mateína' es sólo el nombre comercial de la cafeína del mate."
+  },
+  {
+    "c": "Ciencia",
+    "t": "ab",
+    "p": 2,
+    "g": "cardumen",
+    "q": "¿Cómo se llama el conjunto de peces que nadan juntos?",
+    "a": "un cardumen"
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "g": "turing",
+    "q": "¿Para qué servía originalmente el test de Turing?",
+    "o": [
+      "para saber si una máquina puede pasar por humana en una conversación",
+      "para medir la velocidad de cálculo de una computadora",
+      "para descifrar la máquina Enigma",
+      "para medir el coeficiente intelectual"
+    ],
+    "a": "para saber si una máquina puede pasar por humana en una conversación",
+    "n": "Turing lo llamó 'el juego de la imitación' en 1950, para reemplazar la pregunta '¿pueden pensar las máquinas?'."
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "g": "tunel-tierra",
+    "q": "Si cavaras un túnel que pase por el centro de la Tierra y te tiraras, ¿cuánto tardarías en llegar al otro lado?",
+    "o": [
+      "unos 42 minutos",
+      "unas 3 horas",
+      "unos 10 minutos",
+      "unos 8 días"
+    ],
+    "a": "unos 42 minutos",
+    "n": "Es el 'tren de gravedad': la caída libre sin rozamiento da unos 42 minutos, independientemente de por dónde se cave."
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "g": "auto-a-la-luna",
+    "q": "¿Cuánto tardaría un auto a 100 km/h constantes en llegar a la Luna?",
+    "o": [
+      "unos 160 días",
+      "unos 20 días",
+      "unos 3 años",
+      "unas 40 horas"
+    ],
+    "a": "unos 160 días",
+    "n": "384.400 km dividido 100 km/h son 3.844 horas, es decir unos 160 días."
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "g": "nacimientos-dia",
+    "q": "¿Cuántos bebés nacen aproximadamente por día en todo el planeta?",
+    "o": [
+      "unos 385.000",
+      "unos 50.000",
+      "unos 90.000",
+      "unos 2 millones"
+    ],
+    "a": "unos 385.000",
+    "n": "UNICEF estimó unos 386.000 nacimientos para un 1 de enero."
+  },
+  {
+    "c": "Ciencia",
+    "t": "mc",
+    "p": 1,
+    "g": "mercator",
+    "q": "¿Cuál es el principal problema de la proyección de Mercator usada en los mapas?",
+    "o": [
+      "distorsiona las superficies y agranda los países lejanos del ecuador",
+      "invierte los hemisferios",
+      "no sirve para navegar",
+      "deforma las costas"
+    ],
+    "a": "distorsiona las superficies y agranda los países lejanos del ecuador",
+    "n": "Groenlandia parece del tamaño de África, cuando en realidad es unas 14 veces más chica."
+  },
+  {
+    "c": "Ciencia",
+    "t": "vf",
+    "p": 1,
+    "g": "cocodrilos-huevo",
+    "q": "Los cocodrilos nacen de un huevo.",
+    "a": "verdadero",
+    "n": "Son ovíparos, y el sexo de las crías depende de la temperatura del nido."
+  }
+]

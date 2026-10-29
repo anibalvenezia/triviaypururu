@@ -1,0 +1,1506 @@
+[
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el nombre romano de Odiseo?",
+    "a": "Ulises"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llamaba el laberinto donde estaba encerrado el Minotauro y quién lo construyó?",
+    "a": "El laberinto de Creta, construido por Dédalo"
+  },
+  {
+    "c": "Cultura general",
+    "t": "vf",
+    "p": 1,
+    "q": "El Talmud es el libro sagrado de los musulmanes.",
+    "a": "Falso",
+    "n": "El Talmud pertenece a la tradición judía; el libro sagrado del islam es el Corán."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cómo se llama el conjunto de escrituras canónicas del budismo theravada?",
+    "o": [
+      "Tipitaka",
+      "Vedas",
+      "Talmud",
+      "Avesta"
+    ],
+    "a": "Tipitaka",
+    "n": "El budismo no tiene un único libro sagrado equivalente a la Biblia o al Corán."
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuáles son los tres signos de tierra?",
+    "a": "Tauro, Virgo y Capricornio",
+    "n": "Son tres por elemento, no cuatro: doce signos divididos en cuatro elementos."
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuántos apóstoles tuvo Jesús según los Evangelios?",
+    "a": "Doce"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué dios griego reinaba sobre el mar?",
+    "o": [
+      "Poseidón",
+      "Hades",
+      "Apolo",
+      "Hermes"
+    ],
+    "a": "Poseidón"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántas cartas tiene el mazo español con el que se juega al truco?",
+    "o": [
+      "40",
+      "48",
+      "52",
+      "36"
+    ],
+    "a": "40"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "g": "truco",
+    "q": "¿Cuál es la carta más alta del truco?",
+    "a": "El as de espadas"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántas casillas tiene un tablero de ajedrez?",
+    "o": [
+      "64",
+      "81",
+      "49",
+      "100"
+    ],
+    "a": "64"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuántas teclas tiene un piano estándar?",
+    "a": "88"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el ave nacional argentina?",
+    "o": [
+      "El hornero",
+      "El cóndor",
+      "El chajá",
+      "El zorzal"
+    ],
+    "a": "El hornero"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el árbol nacional argentino?",
+    "o": [
+      "El quebracho colorado chaqueño",
+      "El algarrobo blanco",
+      "El lapacho rosado",
+      "El ceibo"
+    ],
+    "a": "El quebracho colorado chaqueño",
+    "n": "El ceibo es la flor nacional, no el árbol."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el deporte nacional argentino por ley?",
+    "o": [
+      "El pato",
+      "El fútbol",
+      "El rugby",
+      "El polo"
+    ],
+    "a": "El pato"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué se conmemora en Argentina el 24 de marzo?",
+    "a": "El Día Nacional de la Memoria por la Verdad y la Justicia"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántos husos horarios tiene la Argentina?",
+    "o": [
+      "Uno",
+      "Dos",
+      "Tres",
+      "Cuatro"
+    ],
+    "a": "Uno",
+    "n": "Todo el país usa UTC-3."
+  },
+  {
+    "c": "Cultura general",
+    "t": "vf",
+    "p": 1,
+    "q": "En el nombre con que Juan de Garay refundó Buenos Aires en 1580 aparecía la palabra Trinidad.",
+    "a": "Verdadero",
+    "n": "Ciudad de la Santísima Trinidad y Puerto de Santa María de los Buenos Ayres."
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué significa la sigla OMS?",
+    "a": "Organización Mundial de la Salud"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántos trabajos debió cumplir Hércules?",
+    "o": [
+      "Doce",
+      "Diez",
+      "Siete",
+      "Nueve"
+    ],
+    "a": "Doce"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué le robó Prometeo a los dioses para dárselo a los humanos?",
+    "a": "El fuego"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Por qué cayó Ícaro según el mito?",
+    "o": [
+      "Voló demasiado cerca del Sol y se derritió la cera de sus alas",
+      "Lo derribó Zeus con un rayo por desafiar a los dioses",
+      "Se quedó dormido en pleno vuelo y cayó al mar",
+      "Una bandada de aves destrozó sus alas en el aire"
+    ],
+    "a": "Voló demasiado cerca del Sol y se derritió la cera de sus alas"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué parte del cuerpo de Aquiles era su único punto vulnerable?",
+    "a": "El talón"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué le pasaba a quien miraba a Medusa a los ojos?",
+    "o": [
+      "Se convertía en piedra",
+      "Perdía la memoria",
+      "Quedaba ciego",
+      "Se transformaba en animal"
+    ],
+    "a": "Se convertía en piedra"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llamaba el perro de tres cabezas que guardaba el inframundo griego?",
+    "a": "Cerbero"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el equivalente romano de la diosa griega Afrodita?",
+    "o": [
+      "Venus",
+      "Juno",
+      "Minerva",
+      "Diana"
+    ],
+    "a": "Venus"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿De qué país era el papa Francisco?",
+    "a": "De Argentina"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cómo se llama el mes de ayuno del islam?",
+    "o": [
+      "Ramadán",
+      "Janucá",
+      "Yom Kipur",
+      "Diwali"
+    ],
+    "a": "Ramadán"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántas letras tiene el alfabeto español?",
+    "o": [
+      "27",
+      "26",
+      "28",
+      "29"
+    ],
+    "a": "27"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué institución regula la lengua española?",
+    "a": "La Real Academia Española, junto con las academias americanas"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la lengua materna más hablada del mundo?",
+    "o": [
+      "El chino mandarín",
+      "El inglés",
+      "El español",
+      "El hindi"
+    ],
+    "a": "El chino mandarín"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué comida tradicional se prepara en Argentina cada 25 de mayo?",
+    "a": "El locro"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué se conmemora el 20 de junio en Argentina?",
+    "o": [
+      "El Día de la Bandera",
+      "El Día de la Independencia",
+      "El Día del Trabajador",
+      "El Día de la Soberanía"
+    ],
+    "a": "El Día de la Bandera"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué se conmemora el 9 de julio en Argentina?",
+    "a": "La Declaración de la Independencia, en 1816"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántos días tiene un año bisiesto?",
+    "o": [
+      "366",
+      "365",
+      "364",
+      "367"
+    ],
+    "a": "366"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuántos años son un lustro?",
+    "a": "Cinco"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántos colores tiene tradicionalmente el arcoíris?",
+    "o": [
+      "Siete",
+      "Cinco",
+      "Seis",
+      "Ocho"
+    ],
+    "a": "Siete"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué tres colores de tinta, junto con el negro, usan las impresoras a color?",
+    "o": [
+      "Cian, magenta y amarillo",
+      "Rojo, verde y azul",
+      "Rojo, amarillo y azul",
+      "Naranja, violeta y verde"
+    ],
+    "a": "Cian, magenta y amarillo",
+    "n": "Rojo, verde y azul son los primarios de la luz, no de la tinta."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántas piezas tiene cada jugador al empezar una partida de ajedrez?",
+    "o": [
+      "16",
+      "12",
+      "18",
+      "20"
+    ],
+    "a": "16"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuántos puntos vale el envido ganado en el truco?",
+    "a": "Dos"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué bebida se prepara con yerba, agua caliente y bombilla?",
+    "o": [
+      "El mate",
+      "El tereré",
+      "El té de tilo",
+      "La infusión de boldo"
+    ],
+    "a": "El mate"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿En qué país se inventó la milanesa a la napolitana?",
+    "a": "En Argentina",
+    "n": "Pese al nombre, no viene de Nápoles: nació en un restaurante porteño."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el símbolo patrio que se usa como distintivo prendido en la ropa?",
+    "o": [
+      "La escarapela",
+      "El escudo",
+      "El sol de mayo",
+      "La bandera de ceremonia"
+    ],
+    "a": "La escarapela"
+  },
+  {
+    "c": "Cultura general",
+    "t": "vf",
+    "p": 1,
+    "q": "El signo zodiacal Escorpio corresponde al elemento agua.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuáles son los tres signos de fuego?",
+    "a": "Aries, Leo y Sagitario"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántos meses del año tienen 31 días?",
+    "o": [
+      "Siete",
+      "Seis",
+      "Ocho",
+      "Cinco"
+    ],
+    "a": "Siete"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué significa la sigla ONU?",
+    "a": "Organización de las Naciones Unidas"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué significa la sigla UNESCO en español?",
+    "o": [
+      "Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura",
+      "Unión de Estados para la Cooperación Educativa y Social",
+      "Organización Universal para la Enseñanza y la Ciencia",
+      "Unidad de las Naciones para la Educación y el Desarrollo"
+    ],
+    "a": "Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántos lados tiene un hexágono?",
+    "o": [
+      "Seis",
+      "Cinco",
+      "Siete",
+      "Ocho"
+    ],
+    "a": "Seis"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la figura de doce lados?",
+    "a": "El dodecágono"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué significa la sigla ADN?",
+    "o": [
+      "Ácido desoxirribonucleico",
+      "Ácido dinucleico",
+      "Agente de núcleo",
+      "Aminoácido nuclear"
+    ],
+    "a": "Ácido desoxirribonucleico"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué significa la sigla PBI?",
+    "a": "Producto Bruto Interno"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la moneda de Japón?",
+    "o": [
+      "El yen",
+      "El won",
+      "El yuan",
+      "El baht"
+    ],
+    "a": "El yen"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es la moneda de Brasil?",
+    "a": "El real"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué animal aparece en el escudo de la bandera de México?",
+    "o": [
+      "Un águila",
+      "Un jaguar",
+      "Una serpiente sola",
+      "Un cóndor"
+    ],
+    "a": "Un águila",
+    "n": "Un águila devorando una serpiente sobre un nopal."
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué instrumento aparece en la bandera de la India en el centro?",
+    "a": "Ninguno: en el centro hay una rueda, el chakra de Ashoka"
+  },
+  {
+    "c": "Cultura general",
+    "t": "vf",
+    "p": 1,
+    "q": "El Vaticano es el país más pequeño del mundo y a la vez un Estado independiente.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántos husos horarios hay en el mundo?",
+    "o": [
+      "24",
+      "12",
+      "36",
+      "18"
+    ],
+    "a": "24"
+  },
+  {
+    "c": "Cultura general",
+    "t": "vf",
+    "p": 1,
+    "g": "truco",
+    "q": "En el truco, el as de bastos es más alto que el as de espadas.",
+    "a": "Falso"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué significa la sigla INTA?",
+    "o": [
+      "Instituto Nacional de Tecnología Agropecuaria",
+      "Instituto Nacional de Trabajo Agrario",
+      "Instituto Nacional de Tierras Argentinas",
+      "Instituto Nacional de Transporte Automotor"
+    ],
+    "a": "Instituto Nacional de Tecnología Agropecuaria"
+  },
+  {
+    "c": "Cultura general",
+    "t": "vf",
+    "p": 1,
+    "q": "En el budismo, Buda es un dios creador.",
+    "a": "Falso",
+    "n": "Es un maestro que alcanzó la iluminación; el budismo no postula un dios creador."
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién dijo 'pienso, luego existo'?",
+    "a": "René Descartes"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Quién escribió que la vida sin música sería un error?",
+    "o": [
+      "Friedrich Nietzsche",
+      "Arthur Schopenhauer",
+      "Immanuel Kant",
+      "Jean-Paul Sartre"
+    ],
+    "a": "Friedrich Nietzsche",
+    "n": "Aparece en 'El crepúsculo de los ídolos'."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cómo se llama el laberinto donde estaba encerrado el Minotauro?",
+    "o": [
+      "El laberinto de Creta",
+      "El laberinto de Micenas",
+      "El laberinto de Delos",
+      "El laberinto de Tebas"
+    ],
+    "a": "El laberinto de Creta",
+    "n": "Lo construyó Dédalo para el rey Minos."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el equivalente romano del dios griego Zeus?",
+    "o": [
+      "Júpiter",
+      "Marte",
+      "Neptuno",
+      "Apolo"
+    ],
+    "a": "Júpiter"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿De qué signo del zodíaco es alguien que nació el 4 de marzo?",
+    "a": "Piscis"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántos signos de tierra hay en el zodíaco?",
+    "o": [
+      "Tres",
+      "Cuatro",
+      "Dos",
+      "Seis"
+    ],
+    "a": "Tres",
+    "n": "Tauro, Virgo y Capricornio. Cada elemento tiene tres signos."
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué significa gentrificación?",
+    "a": "El proceso por el cual un barrio popular se encarece y desplaza a sus habitantes originales"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ord",
+    "p": 2,
+    "q": "Ordená estas redes sociales por año de creación, de la más antigua a la más reciente.",
+    "o": [
+      "Facebook",
+      "YouTube",
+      "Instagram",
+      "TikTok"
+    ],
+    "a": [
+      "Facebook",
+      "YouTube",
+      "Instagram",
+      "TikTok"
+    ],
+    "n": "2004, 2005, 2010 y 2016."
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llaman las palabras que se acentúan en la antepenúltima sílaba?",
+    "a": "Esdrújulas"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántas sílabas tiene un verso endecasílabo?",
+    "o": [
+      "Once",
+      "Nueve",
+      "Trece",
+      "Diez"
+    ],
+    "a": "Once"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la figura retórica que compara dos elementos usando 'como'?",
+    "a": "El símil o comparación"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué significa la sigla ONG?",
+    "a": "Organización No Gubernamental"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la moneda de Perú?",
+    "o": [
+      "El sol",
+      "El peso",
+      "El bolívar",
+      "El quetzal"
+    ],
+    "a": "El sol"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es la moneda de Paraguay?",
+    "a": "El guaraní"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué idioma es oficial en Brasil?",
+    "o": [
+      "El portugués",
+      "El español",
+      "El portuñol",
+      "El brasileño"
+    ],
+    "a": "El portugués"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuáles son los idiomas oficiales de Paraguay?",
+    "a": "El español y el guaraní"
+  },
+  {
+    "c": "Cultura general",
+    "t": "vf",
+    "p": 1,
+    "q": "El español es el idioma con más hablantes nativos del mundo.",
+    "a": "Falso",
+    "n": "Es el segundo, después del chino mandarín."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántas cartas tiene una baraja española completa de naipes criollos?",
+    "o": [
+      "50",
+      "40",
+      "48",
+      "52"
+    ],
+    "a": "50",
+    "n": "Las de 40 son las que se usan para el truco, sin ochos, nueves ni comodines."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué significa la sigla FMI?",
+    "o": [
+      "Fondo Monetario Internacional",
+      "Federación Mundial de Industrias",
+      "Fondo Mundial de Inversión",
+      "Foro Monetario Internacional"
+    ],
+    "a": "Fondo Monetario Internacional"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué significa la sigla OTAN?",
+    "a": "Organización del Tratado del Atlántico Norte"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántos jugadores forman un equipo de truco en la modalidad más común de a pares?",
+    "o": [
+      "Dos por equipo",
+      "Tres por equipo",
+      "Uno por equipo",
+      "Cuatro por equipo"
+    ],
+    "a": "Dos por equipo"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuántos puntos hay que hacer para ganar una partida larga de truco?",
+    "a": "Treinta"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué se celebra en México el 2 de noviembre?",
+    "o": [
+      "El Día de Muertos",
+      "La Independencia",
+      "La Revolución",
+      "El Día de la Virgen"
+    ],
+    "a": "El Día de Muertos"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la fiesta hindú de las luces?",
+    "a": "Diwali"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué animal representa el año en el horóscopo chino que se repite cada doce años junto al dragón y el tigre?",
+    "o": [
+      "Cualquiera de los doce animales del ciclo",
+      "Solo el dragón",
+      "Solo el tigre",
+      "Ninguno: el ciclo es de diez años"
+    ],
+    "a": "Cualquiera de los doce animales del ciclo"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuántos elementos tiene la tabla periódica actualmente?",
+    "a": "118"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el idioma con más hablantes totales del mundo, sumando nativos y no nativos?",
+    "o": [
+      "El inglés",
+      "El chino mandarín",
+      "El español",
+      "El hindi"
+    ],
+    "a": "El inglés"
+  },
+  {
+    "c": "Cultura general",
+    "t": "vf",
+    "p": 1,
+    "q": "El guaraní es lengua oficial en Paraguay junto con el español.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Cultura general",
+    "t": "vf",
+    "p": 1,
+    "q": "En Argentina el voto es obligatorio desde los 16 años.",
+    "a": "Falso",
+    "n": "Es optativo entre los 16 y 17, y obligatorio de los 18 a los 70."
+  },
+  {
+    "c": "Cultura general",
+    "t": "vf",
+    "p": 1,
+    "q": "El mate se toma tradicionalmente con bombilla y yerba en una calabaza.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué nombre recibe el conjunto de reglas de urbanidad que escribió Manuel Antonio Carreño?",
+    "a": "El Manual de Carreño"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántas cuerdas tiene un arpa paraguaya, aproximadamente?",
+    "o": [
+      "Entre 32 y 46",
+      "Doce",
+      "Seis",
+      "Más de cien"
+    ],
+    "a": "Entre 32 y 46"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Quién es el rey de los dioses en la mitología griega?",
+    "o": [
+      "Zeus",
+      "Cronos",
+      "Poseidón",
+      "Apolo"
+    ],
+    "a": "Zeus"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién es la esposa de Zeus y diosa del matrimonio?",
+    "a": "Hera"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿De qué es dios Poseidón?",
+    "o": [
+      "Del mar",
+      "Del inframundo",
+      "Del fuego",
+      "De la guerra"
+    ],
+    "a": "Del mar"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué dios griego gobierna el inframundo?",
+    "a": "Hades"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué diosa griega nació de la cabeza de Zeus?",
+    "o": [
+      "Atenea",
+      "Afrodita",
+      "Artemisa",
+      "Deméter"
+    ],
+    "a": "Atenea"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué diosa griega representa la caza y la Luna?",
+    "a": "Artemisa"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué dios griego es el herrero de los dioses?",
+    "o": [
+      "Hefesto",
+      "Ares",
+      "Hermes",
+      "Dioniso"
+    ],
+    "a": "Hefesto"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué dios griego es el mensajero de los dioses y lleva sandalias aladas?",
+    "a": "Hermes"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cómo se llama la montaña donde habitaban los dioses griegos?",
+    "o": [
+      "El monte Olimpo",
+      "El monte Parnaso",
+      "El monte Ida",
+      "El monte Athos"
+    ],
+    "a": "El monte Olimpo"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama el río que las almas debían cruzar para entrar al inframundo griego?",
+    "a": "La laguna Estigia, cruzada por el barquero Caronte"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué le pagaban los muertos a Caronte para cruzar al inframundo?",
+    "o": [
+      "Una moneda",
+      "Una joya",
+      "Un cordero",
+      "Una espiga de trigo"
+    ],
+    "a": "Una moneda",
+    "n": "Por eso se enterraba a los muertos con un óbolo en la boca."
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llaman las tres hermanas que hilaban, medían y cortaban el hilo de la vida?",
+    "a": "Las Moiras"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué criatura tenía cuerpo de león, cabeza de mujer y proponía un enigma a los viajeros?",
+    "o": [
+      "La Esfinge",
+      "La Quimera",
+      "La Hidra",
+      "La Arpía"
+    ],
+    "a": "La Esfinge"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién resolvió el enigma de la Esfinge?",
+    "a": "Edipo"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué monstruo de muchas cabezas volvía a crecerlas al ser cortadas?",
+    "o": [
+      "La Hidra de Lerna",
+      "La Quimera",
+      "Escila",
+      "El Minotauro"
+    ],
+    "a": "La Hidra de Lerna"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién mató al Minotauro en el laberinto?",
+    "a": "Teseo"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Quién le dio a Teseo el hilo para salir del laberinto?",
+    "o": [
+      "Ariadna",
+      "Medea",
+      "Fedra",
+      "Andrómeda"
+    ],
+    "a": "Ariadna"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién cortó la cabeza de Medusa?",
+    "a": "Perseo"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué caballo alado nació de la sangre de Medusa?",
+    "o": [
+      "Pegaso",
+      "Bucéfalo",
+      "Centauro",
+      "Quirón"
+    ],
+    "a": "Pegaso"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué héroe griego buscó el vellocino de oro a bordo del Argo?",
+    "a": "Jasón"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué castigo recibió Prometeo por robar el fuego?",
+    "o": [
+      "Un águila le devoraba el hígado cada día",
+      "Cargar el cielo sobre los hombros",
+      "Empujar una roca cuesta arriba eternamente",
+      "Ser transformado en piedra"
+    ],
+    "a": "Un águila le devoraba el hígado cada día"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué titán fue condenado a sostener la bóveda celeste sobre sus hombros?",
+    "a": "Atlas"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál era el castigo de Sísifo?",
+    "o": [
+      "Empujar eternamente una roca cuesta arriba",
+      "Tener sed junto al agua sin poder beber",
+      "Ser devorado por perros",
+      "Vagar ciego por el desierto"
+    ],
+    "a": "Empujar eternamente una roca cuesta arriba"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué rey fue condenado a tener comida y agua al alcance sin poder tomarlas nunca?",
+    "a": "Tántalo"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué le pasó a Narciso según el mito?",
+    "o": [
+      "Se enamoró de su propio reflejo",
+      "Fue convertido en árbol",
+      "Perdió la vista por mirar al Sol",
+      "Fue devorado por sus perros"
+    ],
+    "a": "Se enamoró de su propio reflejo"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué músico bajó al inframundo a buscar a su esposa Eurídice?",
+    "a": "Orfeo"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué condición le pusieron a Orfeo para sacar a Eurídice del inframundo?",
+    "o": [
+      "No mirar atrás hasta salir",
+      "No hablarle en el camino",
+      "No tocar su lira",
+      "No soltarle la mano"
+    ],
+    "a": "No mirar atrás hasta salir"
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué contenía la caja que abrió Pandora?",
+    "a": "Todos los males del mundo, y en el fondo la esperanza"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué diosa provocó la guerra de Troya al ser elegida la más bella?",
+    "o": [
+      "Afrodita",
+      "Hera",
+      "Atenea",
+      "Artemisa"
+    ],
+    "a": "Afrodita",
+    "n": "En el juicio de Paris, que le prometió a Helena."
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué mujer fue el detonante de la guerra de Troya al ser raptada por Paris?",
+    "a": "Helena de Esparta"
+  },
+  {
+    "c": "Cultura general",
+    "t": "vf",
+    "p": 1,
+    "q": "El caballo de Troya aparece narrado en la Ilíada.",
+    "a": "Falso",
+    "n": "La Ilíada termina antes; el episodio se cuenta en la Odisea y en la Eneida."
+  },
+  {
+    "c": "Cultura general",
+    "t": "vf",
+    "p": 1,
+    "q": "Los centauros eran mitad humanos y mitad caballos.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Cultura general",
+    "t": "vf",
+    "p": 1,
+    "q": "Las sirenas de la Odisea eran mitad mujeres y mitad peces.",
+    "a": "Falso",
+    "n": "En la tradición griega eran mitad aves; la cola de pez es medieval."
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo hizo Odiseo para escuchar el canto de las sirenas sin morir?",
+    "a": "Se hizo atar al mástil mientras su tripulación se tapaba los oídos con cera"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "g": "bull-market",
+    "q": "¿A qué animal hace referencia el término financiero 'bull market'?",
+    "o": [
+      "al toro",
+      "al oso",
+      "al lobo",
+      "al halcón"
+    ],
+    "a": "al toro",
+    "n": "El toro embiste hacia arriba, el oso golpea hacia abajo: mercado en alza y en baja."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "g": "orsai",
+    "q": "¿Cómo se llama la revista que edita Hernán Casciari?",
+    "o": [
+      "Orsai",
+      "Barcelona",
+      "Anfibia",
+      "Crisis"
+    ],
+    "a": "Orsai",
+    "n": "El nombre viene de la pronunciación rioplatense de 'offside'."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "g": "mastropiero",
+    "q": "Si digo Marcos Mundstock y Mauricio Marona, ¿a qué grupo humorístico me refiero?",
+    "o": [
+      "Les Luthiers",
+      "Midachi",
+      "Los Macocos",
+      "Doble Sentido"
+    ],
+    "a": "Les Luthiers",
+    "n": "Su compositor ficticio era Johann Sebastian Mastropiero."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "g": "varietal-85",
+    "q": "¿Qué porcentaje mínimo de una variedad de uva debe tener un vino argentino para llevar su nombre en la etiqueta?",
+    "o": [
+      "85%",
+      "70%",
+      "50%",
+      "100%"
+    ],
+    "a": "85%",
+    "n": "Lo fija el INV: 'deberá contener como mínimo ochenta y cinco por ciento (85%) del vino elaborado con uvas de la variedad citada'."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "g": "fortnite",
+    "q": "¿Cómo se llama el videojuego en el que caés en una isla con 99 jugadores más y gana el último que queda en pie?",
+    "o": [
+      "Fortnite",
+      "Minecraft",
+      "Valorant",
+      "Overwatch"
+    ],
+    "a": "Fortnite",
+    "n": "Su modo 'Battle Royale' salió en 2017."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "g": "hadouken",
+    "q": "¿Cómo se llama la técnica de Ryu y Ken en 'Street Fighter'?",
+    "o": [
+      "hadouken",
+      "shoryuken",
+      "kamehameha",
+      "tatsumaki"
+    ],
+    "a": "hadouken",
+    "n": "El shoryuken también es suyo, pero es el uppercut, no la bola de energía."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "g": "donkey-kong",
+    "q": "¿Cómo se llama el simio de Nintendo que apareció por primera vez en un videojuego de 1981 junto a Mario?",
+    "o": [
+      "Donkey Kong",
+      "Diddy Kong",
+      "King K. Rool",
+      "Kremling"
+    ],
+    "a": "Donkey Kong",
+    "n": "Mario debutó justamente ahí, como 'Jumpman'."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "g": "mortal-kombat",
+    "q": "¿Cómo se llama el movimiento de 'Mortal Kombat' en el que, en lugar de rematar al rival, se hace un gesto amistoso?",
+    "o": [
+      "friendship",
+      "babality",
+      "brutality",
+      "animality"
+    ],
+    "a": "friendship",
+    "n": "Apareció en Mortal Kombat II como respuesta a las críticas por la violencia del juego."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "g": "poker-manos",
+    "q": "¿Cuál de estas manos vale más en el póker?",
+    "o": [
+      "el full",
+      "el color",
+      "la escalera",
+      "el trío"
+    ],
+    "a": "el full",
+    "n": "El orden de menor a mayor es trío, escalera, color y full."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "g": "manolito",
+    "q": "¿Cómo se llama el amigo de Mafalda que ayuda a su padre en el almacén?",
+    "o": [
+      "Manolito",
+      "Felipe",
+      "Miguelito",
+      "Guille"
+    ],
+    "a": "Manolito",
+    "n": "Manuel Goreiro, hijo de gallegos, dueño del almacén Don Manolo."
+  },
+  {
+    "c": "Cultura general",
+    "t": "vf",
+    "p": 1,
+    "g": "walsh-facio",
+    "q": "María Elena Walsh fue pareja de la fotógrafa Sara Facio.",
+    "a": "verdadero",
+    "n": "Vivieron juntas más de treinta años, hasta la muerte de Walsh en 2011."
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "g": "primer-iphone",
+    "q": "¿En qué año salió el primer iPhone?",
+    "o": [
+      "2007",
+      "2005",
+      "2009",
+      "2010"
+    ],
+    "a": "2007",
+    "n": "Steve Jobs lo presentó en enero y salió a la venta en junio."
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "g": "sigla-anses",
+    "q": "¿Qué significa la sigla ANSES?",
+    "a": "Administración Nacional de la Seguridad Social"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "g": "sigla-arca",
+    "q": "¿Qué significa la sigla ARCA, el organismo que reemplazó a la AFIP?",
+    "o": [
+      "Agencia de Recaudación y Control Aduanero",
+      "Administración Recaudadora y de Control Arancelario",
+      "Agencia de Registro y Control Administrativo",
+      "Autoridad de Recaudación y Comercio Argentino"
+    ],
+    "a": "Agencia de Recaudación y Control Aduanero",
+    "n": "La AFIP se disolvió y se creó ARCA por el decreto 953/2024."
+  },
+  {
+    "c": "Cultura general",
+    "t": "ab",
+    "p": 2,
+    "g": "sigla-conicet",
+    "q": "¿Qué significa la sigla CONICET?",
+    "a": "Consejo Nacional de Investigaciones Científicas y Técnicas"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "g": "sigla-sube",
+    "q": "¿Qué significa la sigla SUBE?",
+    "o": [
+      "Sistema Único de Boleto Electrónico",
+      "Servicio Unificado de Boleto Estatal",
+      "Sistema Urbano de Boleto Electrónico",
+      "Subsidio Unificado de Boleto Económico"
+    ],
+    "a": "Sistema Único de Boleto Electrónico"
+  },
+  {
+    "c": "Cultura general",
+    "t": "mc",
+    "p": 1,
+    "g": "sigla-pami",
+    "q": "PAMI es el nombre con el que se conoce a la obra social de los jubilados. ¿Qué organismo la administra?",
+    "o": [
+      "el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados",
+      "la ANSES",
+      "el Ministerio de Salud",
+      "la Superintendencia de Servicios de Salud"
+    ],
+    "a": "el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados",
+    "n": "El INSSJP, creado por la ley 19.032, es una persona jurídica de derecho público no estatal."
+  }
+]

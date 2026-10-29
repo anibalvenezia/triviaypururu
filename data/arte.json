@@ -1,0 +1,2863 @@
+[
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién pintó 'Saturno devorando a su hijo'?",
+    "a": "Francisco de Goya"
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién fue el arquitecto de la Sagrada Familia de Barcelona?",
+    "a": "Antoni Gaudí"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué bombardeo retrató Picasso en el 'Guernica'?",
+    "o": [
+      "El de Guernica en 1937",
+      "El de Madrid en 1936",
+      "El de Dresde en 1945",
+      "El de Barcelona en 1938"
+    ],
+    "a": "El de Guernica en 1937"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Quién pintó 'La noche estrellada'?",
+    "o": [
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Paul Cézanne",
+      "Edvard Munch"
+    ],
+    "a": "Vincent van Gogh"
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué artista argentino creó los personajes de Juanito Laguna y Ramona Montiel?",
+    "a": "Antonio Berni"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué museo se exhibe la Mona Lisa?",
+    "o": [
+      "El Louvre",
+      "El Prado",
+      "El British Museum",
+      "Los Uffizi"
+    ],
+    "a": "El Louvre"
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién pintó la bóveda de la Capilla Sixtina?",
+    "a": "Miguel Ángel"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Quién pintó 'El grito'?",
+    "o": [
+      "Edvard Munch",
+      "Egon Schiele",
+      "Gustav Klimt",
+      "James Ensor"
+    ],
+    "a": "Edvard Munch"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Quién pintó 'Las meninas'?",
+    "o": [
+      "Diego Velázquez",
+      "Francisco de Goya",
+      "El Greco",
+      "Bartolomé Murillo"
+    ],
+    "a": "Diego Velázquez"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "q": "¿De qué país era la pintora Frida Kahlo?",
+    "o": [
+      "México",
+      "Colombia",
+      "España",
+      "Perú"
+    ],
+    "a": "México"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "q": "¿De qué cuadro tomó su nombre el movimiento impresionista?",
+    "o": [
+      "Impresión, sol naciente",
+      "Los nenúfares",
+      "El almuerzo campestre",
+      "Baile en el Moulin de la Galette"
+    ],
+    "a": "Impresión, sol naciente",
+    "n": "Es de Claude Monet, expuesto en 1874. El nombre salió de la burla de un crítico."
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién pintó 'La última cena'?",
+    "a": "Leonardo da Vinci"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Quién esculpió el 'David' de Florencia?",
+    "o": [
+      "Miguel Ángel",
+      "Donatello",
+      "Bernini",
+      "Rodin"
+    ],
+    "a": "Miguel Ángel"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Quién pintó 'El nacimiento de Venus'?",
+    "o": [
+      "Sandro Botticelli",
+      "Rafael",
+      "Tiziano",
+      "Caravaggio"
+    ],
+    "a": "Sandro Botticelli"
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién pintó 'La joven de la perla'?",
+    "a": "Johannes Vermeer"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Quién pintó 'El beso', con su característico uso del dorado?",
+    "o": [
+      "Gustav Klimt",
+      "Egon Schiele",
+      "Marc Chagall",
+      "Henri Matisse"
+    ],
+    "a": "Gustav Klimt"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué artista es el máximo referente del pop art con sus latas de sopa?",
+    "o": [
+      "Andy Warhol",
+      "Roy Lichtenstein",
+      "Jasper Johns",
+      "Keith Haring"
+    ],
+    "a": "Andy Warhol"
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué pintor argentino es célebre por sus escenas del puerto de La Boca?",
+    "a": "Benito Quinquela Martín"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "q": "¿De qué país es el escultor y pintor Fernando Botero?",
+    "o": [
+      "Colombia",
+      "México",
+      "Venezuela",
+      "Perú"
+    ],
+    "a": "Colombia"
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué artista argentina construyó el Partenón de libros prohibidos en 1983?",
+    "a": "Marta Minujín"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué museo de Madrid se exhibe el 'Guernica'?",
+    "o": [
+      "El Reina Sofía",
+      "El Prado",
+      "El Thyssen",
+      "El Museo Arqueológico"
+    ],
+    "a": "El Reina Sofía"
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué muralista mexicano estuvo casado con Frida Kahlo?",
+    "a": "Diego Rivera"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué movimiento artístico integró Salvador Dalí?",
+    "o": [
+      "El surrealismo",
+      "El cubismo",
+      "El expresionismo",
+      "El futurismo"
+    ],
+    "a": "El surrealismo"
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué movimiento pictórico fundaron Picasso y Braque?",
+    "a": "El cubismo"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué artista callejero británico es famoso por sus esténciles anónimos?",
+    "o": [
+      "Banksy",
+      "Shepard Fairey",
+      "Jean-Michel Basquiat",
+      "Keith Haring"
+    ],
+    "a": "Banksy"
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué artista argentino inventó un lenguaje visual con banderas, runas y astrología?",
+    "a": "Xul Solar"
+  },
+  {
+    "c": "Arte",
+    "t": "vf",
+    "p": 1,
+    "q": "La Mona Lisa fue robada del Louvre a principios del siglo XX.",
+    "a": "Verdadero",
+    "n": "En 1911; apareció dos años después."
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién pintó 'El jardín de las delicias'?",
+    "a": "El Bosco"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Quién pintó 'La persistencia de la memoria', el cuadro de los relojes blandos?",
+    "o": [
+      "Salvador Dalí",
+      "René Magritte",
+      "Joan Miró",
+      "Max Ernst"
+    ],
+    "a": "Salvador Dalí"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-noche",
+    "img": [
+      "obras/noche.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VanGogh-starry_night_ballance1.jpg/960px-VanGogh-starry_night_ballance1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VanGogh-starry_night_ballance1.jpg/500px-VanGogh-starry_night_ballance1.jpg"
+    ],
+    "q": "¿Quién pintó este cielo nocturno con un ciprés en primer plano?",
+    "o": [
+      "Vincent van Gogh",
+      "Paul Cézanne",
+      "Edvard Munch",
+      "Claude Monet"
+    ],
+    "a": "Vincent van Gogh",
+    "n": "'La noche estrellada', 1889, en el MoMA.",
+    "titulo": "La noche estrellada · Vincent van Gogh, 1889"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-trigo",
+    "img": [
+      "obras/trigo.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wheat_Field_with_Cypresses_MET_DT1567.jpg/960px-Wheat_Field_with_Cypresses_MET_DT1567.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wheat_Field_with_Cypresses_MET_DT1567.jpg/500px-Wheat_Field_with_Cypresses_MET_DT1567.jpg"
+    ],
+    "q": "¿De qué pintor es este campo de trigo con cipreses?",
+    "o": [
+      "Vincent van Gogh",
+      "Paul Gauguin",
+      "Camille Pissarro",
+      "Georges Seurat"
+    ],
+    "a": "Vincent van Gogh",
+    "n": "Pintado en Saint-Rémy en 1889. Está en el Met.",
+    "titulo": "Campo de trigo con cipreses · Vincent van Gogh, 1889"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-girasoles",
+    "img": [
+      "obras/girasoles.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vincent_Willem_van_Gogh_127.jpg/960px-Vincent_Willem_van_Gogh_127.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vincent_Willem_van_Gogh_127.jpg/500px-Vincent_Willem_van_Gogh_127.jpg"
+    ],
+    "q": "¿Qué pintor hizo célebre este motivo floral en Arlés?",
+    "o": [
+      "Vincent van Gogh",
+      "Paul Gauguin",
+      "Pierre-Auguste Renoir",
+      "Édouard Manet"
+    ],
+    "a": "Vincent van Gogh",
+    "n": "Los girasoles. Pintó varias versiones entre 1888 y 1889.",
+    "titulo": "Jarrón con quince girasoles · Vincent van Gogh, 1888"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-autorretrato-vg",
+    "img": [
+      "obras/autorretrato-vg.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg/960px-Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg/500px-Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg"
+    ],
+    "q": "¿A quién le dedicó Van Gogh este autorretrato?",
+    "o": [
+      "A Paul Gauguin",
+      "A su hermano Theo",
+      "A Camille Pissarro",
+      "A Émile Bernard"
+    ],
+    "a": "A Paul Gauguin",
+    "n": "Arlés, 1888, antes de que Gauguin fuera a vivir con él.",
+    "titulo": "Autorretrato dedicado a Gauguin · Vincent van Gogh, 1888"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-olivos",
+    "img": [
+      "obras/olivos.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Vincent_van_Gogh_-_Olive_Orchard_-_Google_Art_Project.jpg/960px-Vincent_van_Gogh_-_Olive_Orchard_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Vincent_van_Gogh_-_Olive_Orchard_-_Google_Art_Project.jpg/500px-Vincent_van_Gogh_-_Olive_Orchard_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó este olivar?",
+    "o": [
+      "Vincent van Gogh",
+      "Paul Cézanne",
+      "Alfred Sisley",
+      "Camille Corot"
+    ],
+    "a": "Vincent van Gogh",
+    "n": "Los olivos fueron uno de sus motivos favoritos en Provenza.",
+    "titulo": "El olivar · Vincent van Gogh, 1889"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-segador",
+    "img": [
+      "obras/segador.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vincent_van_Gogh_-_Wheat_Fields_with_Reaper%2C_Auvers_-_Google_Art_Project.jpg/960px-Vincent_van_Gogh_-_Wheat_Fields_with_Reaper%2C_Auvers_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vincent_van_Gogh_-_Wheat_Fields_with_Reaper%2C_Auvers_-_Google_Art_Project.jpg/500px-Vincent_van_Gogh_-_Wheat_Fields_with_Reaper%2C_Auvers_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó este trigal con un segador?",
+    "o": [
+      "Vincent van Gogh",
+      "Jean-François Millet",
+      "Gustave Courbet",
+      "Camille Pissarro"
+    ],
+    "a": "Vincent van Gogh",
+    "n": "De sus últimos meses en Auvers-sur-Oise, 1890.",
+    "titulo": "Trigal con segador · Vincent van Gogh, 1889"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-auvers",
+    "img": [
+      "obras/auvers.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Vincent_van_Gogh_-_View_of_Auvers_-_Google_Art_Project.jpg/960px-Vincent_van_Gogh_-_View_of_Auvers_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Vincent_van_Gogh_-_View_of_Auvers_-_Google_Art_Project.jpg/500px-Vincent_van_Gogh_-_View_of_Auvers_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿En qué pueblo francés murió el pintor de esta vista?",
+    "o": [
+      "Auvers-sur-Oise",
+      "Arlés",
+      "Saint-Rémy",
+      "Giverny"
+    ],
+    "a": "Auvers-sur-Oise",
+    "n": "Van Gogh murió allí en julio de 1890.",
+    "titulo": "Vista de Auvers · Vincent van Gogh, 1890"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-roulin",
+    "img": [
+      "obras/roulin.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vincent_van_Gogh_-_The_Schoolboy_(Camille_Roulin)%2C_1888.jpg/960px-Vincent_van_Gogh_-_The_Schoolboy_(Camille_Roulin)%2C_1888.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vincent_van_Gogh_-_The_Schoolboy_(Camille_Roulin)%2C_1888.jpg/500px-Vincent_van_Gogh_-_The_Schoolboy_(Camille_Roulin)%2C_1888.jpg"
+    ],
+    "q": "¿Quién pintó este retrato de un chico con gorra?",
+    "o": [
+      "Vincent van Gogh",
+      "Amedeo Modigliani",
+      "Paul Cézanne",
+      "Henri Rousseau"
+    ],
+    "a": "Vincent van Gogh",
+    "n": "Es Camille Roulin, hijo del cartero de Arlés al que también retrató.",
+    "titulo": "El escolar (Camille Roulin) · Vincent van Gogh, 1888"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-botas",
+    "img": [
+      "obras/botas.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vincent_van_Gogh_-_A_Pair_of_Boots%2C_1887_(Baltimore_Museum_of_Art).jpg/960px-Vincent_van_Gogh_-_A_Pair_of_Boots%2C_1887_(Baltimore_Museum_of_Art).jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vincent_van_Gogh_-_A_Pair_of_Boots%2C_1887_(Baltimore_Museum_of_Art).jpg/500px-Vincent_van_Gogh_-_A_Pair_of_Boots%2C_1887_(Baltimore_Museum_of_Art).jpg"
+    ],
+    "q": "¿De qué pintor es esta naturaleza muerta con un par de botas?",
+    "o": [
+      "Vincent van Gogh",
+      "Paul Cézanne",
+      "Édouard Vuillard",
+      "Giorgio Morandi"
+    ],
+    "a": "Vincent van Gogh",
+    "n": "Van Gogh pintó varias veces zapatos gastados.",
+    "titulo": "Un par de botas · Vincent van Gogh, 1887"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-scheveningen",
+    "img": [
+      "obras/scheveningen.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Vincent_van_Gogh_-_Beach_at_Scheveningen%2C_1882_(Baltimore_Museum_of_Art).jpg/960px-Vincent_van_Gogh_-_Beach_at_Scheveningen%2C_1882_(Baltimore_Museum_of_Art).jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Vincent_van_Gogh_-_Beach_at_Scheveningen%2C_1882_(Baltimore_Museum_of_Art).jpg/500px-Vincent_van_Gogh_-_Beach_at_Scheveningen%2C_1882_(Baltimore_Museum_of_Art).jpg"
+    ],
+    "q": "¿En qué país está la playa de Scheveningen que pintó Van Gogh?",
+    "o": [
+      "Países Bajos",
+      "Bélgica",
+      "Francia",
+      "Dinamarca"
+    ],
+    "a": "Países Bajos",
+    "n": "De su etapa en La Haya, 1882.",
+    "titulo": "Playa de Scheveningen · Vincent van Gogh, 1882"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-cipres",
+    "img": [
+      "obras/cipres.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vincent_van_Gogh_-_Paysage_avec_cypr%C3%A8s_(1889).jpg/960px-Vincent_van_Gogh_-_Paysage_avec_cypr%C3%A8s_(1889).jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vincent_van_Gogh_-_Paysage_avec_cypr%C3%A8s_(1889).jpg/500px-Vincent_van_Gogh_-_Paysage_avec_cypr%C3%A8s_(1889).jpg"
+    ],
+    "q": "¿En qué localidad provenzal pintó Van Gogh esta serie de cipreses?",
+    "o": [
+      "Saint-Rémy",
+      "Auvers-sur-Oise",
+      "Giverny",
+      "Pont-Aven"
+    ],
+    "a": "Saint-Rémy",
+    "n": "Los pintó durante su internación en el sanatorio, en 1889.",
+    "titulo": "Paisaje con ciprés · Vincent van Gogh, 1889"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-crau",
+    "img": [
+      "obras/crau.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Vincent_van_Gogh_-_Vue_de_la_Crau_(1888).jpg/960px-Vincent_van_Gogh_-_Vue_de_la_Crau_(1888).jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Vincent_van_Gogh_-_Vue_de_la_Crau_(1888).jpg/500px-Vincent_van_Gogh_-_Vue_de_la_Crau_(1888).jpg"
+    ],
+    "q": "¿De quién es esta vista de la llanura de la Crau, en Provenza?",
+    "o": [
+      "Vincent van Gogh",
+      "Paul Cézanne",
+      "Camille Pissarro",
+      "Alfred Sisley"
+    ],
+    "a": "Vincent van Gogh",
+    "titulo": "Vista de la Crau · Vincent van Gogh, 1888"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-mariposas",
+    "img": [
+      "obras/mariposas.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Vincent_van_Gogh_-_Grass_and_butterflies_-_Google_Art_Project.jpg/960px-Vincent_van_Gogh_-_Grass_and_butterflies_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Vincent_van_Gogh_-_Grass_and_butterflies_-_Google_Art_Project.jpg/500px-Vincent_van_Gogh_-_Grass_and_butterflies_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó este pastizal con mariposas?",
+    "o": [
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Berthe Morisot",
+      "Odilon Redon"
+    ],
+    "a": "Vincent van Gogh",
+    "titulo": "Hierba y mariposas · Vincent van Gogh, 1889"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-puente",
+    "img": [
+      "obras/puente.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bridge_Over_a_Pond_of_Water_Lilies%2C_Claude_Monet_1899.jpg/960px-Bridge_Over_a_Pond_of_Water_Lilies%2C_Claude_Monet_1899.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bridge_Over_a_Pond_of_Water_Lilies%2C_Claude_Monet_1899.jpg/500px-Bridge_Over_a_Pond_of_Water_Lilies%2C_Claude_Monet_1899.jpg"
+    ],
+    "q": "¿Quién pintó este puente japonés de su jardín?",
+    "o": [
+      "Claude Monet",
+      "Édouard Manet",
+      "Alfred Sisley",
+      "Camille Pissarro"
+    ],
+    "a": "Claude Monet",
+    "n": "El puente de Giverny, 1899.",
+    "titulo": "El puente japonés · Claude Monet, 1899"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-almiares",
+    "img": [
+      "obras/almiares.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Claude_Monet_-_Haystacks_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Haystacks_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Claude_Monet_-_Haystacks_-_Google_Art_Project.jpg/500px-Claude_Monet_-_Haystacks_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Por qué pintó Monet esta misma pila de heno muchas veces?",
+    "o": [
+      "Para estudiar cómo cambia la luz según la hora y la estación",
+      "Porque era un encargo del dueño del campo",
+      "Porque no podía salir de su casa",
+      "Para enseñar a sus alumnos"
+    ],
+    "a": "Para estudiar cómo cambia la luz según la hora y la estación",
+    "n": "La serie de los almiares, de 1890 y 1891.",
+    "titulo": "Almiares · Claude Monet, 1890"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-almiares-nieve",
+    "img": [
+      "obras/almiares-nieve.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Claude_Monet_-_Haystacks-_Snow_Effect_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Haystacks-_Snow_Effect_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Claude_Monet_-_Haystacks-_Snow_Effect_-_Google_Art_Project.jpg/500px-Claude_Monet_-_Haystacks-_Snow_Effect_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó estos almiares bajo la nieve?",
+    "o": [
+      "Claude Monet",
+      "Camille Pissarro",
+      "Alfred Sisley",
+      "Gustave Caillebotte"
+    ],
+    "a": "Claude Monet",
+    "titulo": "Almiares, efecto de nieve · Claude Monet, 1891"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-almiares-sol",
+    "img": [
+      "obras/almiares-sol.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Claude_Monet_-_Grainstacks_in_Bright_Sunlight_(1890)_Google_Art_Project.jpg/960px-Claude_Monet_-_Grainstacks_in_Bright_Sunlight_(1890)_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Claude_Monet_-_Grainstacks_in_Bright_Sunlight_(1890)_Google_Art_Project.jpg/500px-Claude_Monet_-_Grainstacks_in_Bright_Sunlight_(1890)_Google_Art_Project.jpg"
+    ],
+    "q": "¿A qué movimiento pertenece esta obra?",
+    "o": [
+      "El impresionismo",
+      "El realismo",
+      "El simbolismo",
+      "El expresionismo"
+    ],
+    "a": "El impresionismo",
+    "n": "Los almiares de Monet a pleno sol, 1890.",
+    "titulo": "Almiares a pleno sol · Claude Monet, 1890"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-parlamento",
+    "img": [
+      "obras/parlamento.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Claude_Monet_-_Houses_of_Parliament%2C_Sunlight_Effect_(Le_Parlement%2C_effet_de_soleil)_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Houses_of_Parliament%2C_Sunlight_Effect_(Le_Parlement%2C_effet_de_soleil)_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Claude_Monet_-_Houses_of_Parliament%2C_Sunlight_Effect_(Le_Parlement%2C_effet_de_soleil)_-_Google_Art_Project.jpg/500px-Claude_Monet_-_Houses_of_Parliament%2C_Sunlight_Effect_(Le_Parlement%2C_effet_de_soleil)_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué edificio pintó Monet entre la niebla en esta serie?",
+    "o": [
+      "El Parlamento de Londres",
+      "La Ópera de París",
+      "El Palacio de Versalles",
+      "La Bolsa de Ámsterdam"
+    ],
+    "a": "El Parlamento de Londres",
+    "titulo": "El Parlamento de Londres, efecto de sol · Claude Monet, 1903"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-charing",
+    "img": [
+      "obras/charing.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Claude_Monet_-_Charing-Cross_Bridge_in_London_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Charing-Cross_Bridge_in_London_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Claude_Monet_-_Charing-Cross_Bridge_in_London_-_Google_Art_Project.jpg/500px-Claude_Monet_-_Charing-Cross_Bridge_in_London_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿En qué ciudad pintó Monet este puente entre la bruma?",
+    "o": [
+      "Londres",
+      "París",
+      "Venecia",
+      "Ámsterdam"
+    ],
+    "a": "Londres",
+    "titulo": "El puente de Charing Cross · Claude Monet, 1900"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-argenteuil",
+    "img": [
+      "obras/argenteuil.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Claude_Monet_-_Bassin_d'Argenteuil_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Bassin_d'Argenteuil_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Claude_Monet_-_Bassin_d'Argenteuil_-_Google_Art_Project.jpg/500px-Claude_Monet_-_Bassin_d'Argenteuil_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué pintor impresionista es esta vista del Sena en Argenteuil?",
+    "o": [
+      "Claude Monet",
+      "Édouard Manet",
+      "Georges Seurat",
+      "Eugène Boudin"
+    ],
+    "a": "Claude Monet",
+    "titulo": "La cuenca de Argenteuil · Claude Monet, 1872"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-pourville",
+    "img": [
+      "obras/pourville.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Claude_Monet_-_Heavy_Sea_at_Pourville_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Heavy_Sea_at_Pourville_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Claude_Monet_-_Heavy_Sea_at_Pourville_-_Google_Art_Project.jpg/500px-Claude_Monet_-_Heavy_Sea_at_Pourville_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó este mar embravecido en la costa normanda?",
+    "o": [
+      "Claude Monet",
+      "J. M. W. Turner",
+      "Gustave Courbet",
+      "Winslow Homer"
+    ],
+    "a": "Claude Monet",
+    "titulo": "Mar gruesa en Pourville · Claude Monet, 1897"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-marina-luna",
+    "img": [
+      "obras/marina-luna.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Claude_Monet_-_A_Seascape%2C_Shipping_by_Moonlight_-_Google_Art_Project.jpg/960px-Claude_Monet_-_A_Seascape%2C_Shipping_by_Moonlight_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Claude_Monet_-_A_Seascape%2C_Shipping_by_Moonlight_-_Google_Art_Project.jpg/500px-Claude_Monet_-_A_Seascape%2C_Shipping_by_Moonlight_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De quién es esta marina bajo la luna?",
+    "o": [
+      "Claude Monet",
+      "J. M. W. Turner",
+      "Caspar David Friedrich",
+      "Ivan Aivazovsky"
+    ],
+    "a": "Claude Monet",
+    "titulo": "Marina, barcos a la luz de la luna · Claude Monet"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-vetheuil",
+    "img": [
+      "obras/vetheuil.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Claude_Monet_-_Flower_Beds_at_V%C3%A9theuil_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Flower_Beds_at_V%C3%A9theuil_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Claude_Monet_-_Flower_Beds_at_V%C3%A9theuil_-_Google_Art_Project.jpg/500px-Claude_Monet_-_Flower_Beds_at_V%C3%A9theuil_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De quién es este jardín florecido en Vétheuil?",
+    "o": [
+      "Claude Monet",
+      "Pierre-Auguste Renoir",
+      "Berthe Morisot",
+      "Mary Cassatt"
+    ],
+    "a": "Claude Monet",
+    "titulo": "Macizos de flores en Vétheuil · Claude Monet, 1881"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-bordighera",
+    "img": [
+      "obras/bordighera.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Claude_Monet_-_Villas_at_Bordighera_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Villas_at_Bordighera_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Claude_Monet_-_Villas_at_Bordighera_-_Google_Art_Project.jpg/500px-Claude_Monet_-_Villas_at_Bordighera_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿En qué país está Bordighera, el pueblo que pintó Monet acá?",
+    "o": [
+      "Italia",
+      "Francia",
+      "España",
+      "Grecia"
+    ],
+    "a": "Italia",
+    "n": "Monet viajó a la Riviera italiana en 1884.",
+    "titulo": "Villas en Bordighera · Claude Monet, 1884"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-jarra",
+    "img": [
+      "obras/jarra.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johannes_Vermeer_(Dutch%2C_Delft_1632%E2%80%931675_Delft)_-_Young_Woman_with_a_Water_Pitcher_-_Google_Art_Project.jpg/960px-Johannes_Vermeer_(Dutch%2C_Delft_1632%E2%80%931675_Delft)_-_Young_Woman_with_a_Water_Pitcher_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johannes_Vermeer_(Dutch%2C_Delft_1632%E2%80%931675_Delft)_-_Young_Woman_with_a_Water_Pitcher_-_Google_Art_Project.jpg/500px-Johannes_Vermeer_(Dutch%2C_Delft_1632%E2%80%931675_Delft)_-_Young_Woman_with_a_Water_Pitcher_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó esta mujer junto a la ventana con una jarra?",
+    "o": [
+      "Johannes Vermeer",
+      "Rembrandt",
+      "Frans Hals",
+      "Pieter de Hooch"
+    ],
+    "a": "Johannes Vermeer",
+    "n": "'Joven con una jarra de agua', hacia 1662, en el Met.",
+    "titulo": "Joven con una jarra de agua · Johannes Vermeer, 1662"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-escribiendo",
+    "img": [
+      "obras/escribiendo.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Johannes_Vermeer_-_A_Lady_Writing_-_Google_Art_Project.jpg/960px-Johannes_Vermeer_-_A_Lady_Writing_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Johannes_Vermeer_-_A_Lady_Writing_-_Google_Art_Project.jpg/500px-Johannes_Vermeer_-_A_Lady_Writing_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué pintor holandés es esta mujer escribiendo una carta?",
+    "o": [
+      "Johannes Vermeer",
+      "Rembrandt",
+      "Gerard ter Borch",
+      "Jan Steen"
+    ],
+    "a": "Johannes Vermeer",
+    "titulo": "Mujer escribiendo una carta · Johannes Vermeer, 1665"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-vino",
+    "img": [
+      "obras/vino.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg/960px-Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg/500px-Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿A qué siglo pertenece esta escena de interior holandesa?",
+    "o": [
+      "Al siglo XVII",
+      "Al siglo XV",
+      "Al siglo XIX",
+      "Al siglo XVIII"
+    ],
+    "a": "Al siglo XVII",
+    "n": "'La copa de vino' de Vermeer, hacia 1660, en pleno Siglo de Oro holandés.",
+    "titulo": "La copa de vino · Johannes Vermeer, 1660"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-collar",
+    "img": [
+      "obras/collar.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg/960px-Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg/500px-Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué objeto aparece una y otra vez en los interiores de Vermeer, también acá?",
+    "o": [
+      "Una ventana a la izquierda como única fuente de luz",
+      "Un reloj de pie",
+      "Un espejo circular",
+      "Una chimenea encendida"
+    ],
+    "a": "Una ventana a la izquierda como única fuente de luz",
+    "titulo": "Mujer con collar de perlas · Johannes Vermeer, 1664"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-callecita",
+    "img": [
+      "obras/callecita.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_'Het_straatje'_-_Google_Art_Project.jpg/960px-Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_'Het_straatje'_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_'Het_straatje'_-_Google_Art_Project.jpg/500px-Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_'Het_straatje'_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿En qué ciudad neerlandesa vivió y pintó el autor de esta callecita?",
+    "o": [
+      "Delft",
+      "Ámsterdam",
+      "Utrecht",
+      "Haarlem"
+    ],
+    "a": "Delft",
+    "n": "'La callecita' de Vermeer, hacia 1658.",
+    "titulo": "La callecita · Johannes Vermeer, 1658"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-leccion",
+    "img": [
+      "obras/leccion.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman%2C_'The_Music_Lesson'_-_Google_Art_Project.jpg/960px-Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman%2C_'The_Music_Lesson'_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman%2C_'The_Music_Lesson'_-_Google_Art_Project.jpg/500px-Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman%2C_'The_Music_Lesson'_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Cómo se llama el instrumento de teclado que aparece en esta obra de Vermeer?",
+    "o": [
+      "Virginal",
+      "Clavicémbalo de cola",
+      "Órgano positivo",
+      "Fortepiano"
+    ],
+    "a": "Virginal",
+    "n": "'La lección de música'. El virginal es un pariente pequeño del clave.",
+    "titulo": "La lección de música · Johannes Vermeer, 1662"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-soldado",
+    "img": [
+      "obras/soldado.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Johannes_Vermeer_-_De_Soldaat_en_het_Lachende_Meisje_-_Google_Art_Project.jpg/960px-Johannes_Vermeer_-_De_Soldaat_en_het_Lachende_Meisje_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Johannes_Vermeer_-_De_Soldaat_en_het_Lachende_Meisje_-_Google_Art_Project.jpg/500px-Johannes_Vermeer_-_De_Soldaat_en_het_Lachende_Meisje_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De quién es esta escena de un soldado y una muchacha que ríe?",
+    "o": [
+      "Johannes Vermeer",
+      "Frans Hals",
+      "Jan Steen",
+      "Rembrandt"
+    ],
+    "a": "Johannes Vermeer",
+    "titulo": "El soldado y la muchacha que ríe · Johannes Vermeer, 1658"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-marta",
+    "img": [
+      "obras/marta.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Johannes_(Jan)_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project_(cropped2).jpg/960px-Johannes_(Jan)_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project_(cropped2).jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Johannes_(Jan)_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project_(cropped2).jpg/500px-Johannes_(Jan)_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project_(cropped2).jpg"
+    ],
+    "q": "¿De qué relato bíblico es esta escena pintada por Vermeer?",
+    "o": [
+      "Cristo en casa de Marta y María",
+      "La última cena",
+      "Las bodas de Caná",
+      "La Anunciación"
+    ],
+    "a": "Cristo en casa de Marta y María",
+    "n": "Es una de sus pocas pinturas de tema religioso.",
+    "titulo": "Cristo en casa de Marta y María · Johannes Vermeer, 1655"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-autorretrato-rem",
+    "img": [
+      "obras/autorretrato-rem.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rembrandt_Harmensz._van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg/960px-Rembrandt_Harmensz._van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rembrandt_Harmensz._van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg/500px-Rembrandt_Harmensz._van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué pintor holandés se retrató a sí mismo casi cien veces a lo largo de su vida?",
+    "o": [
+      "Rembrandt",
+      "Johannes Vermeer",
+      "Frans Hals",
+      "Jan van Eyck"
+    ],
+    "a": "Rembrandt",
+    "titulo": "Autorretrato · Rembrandt"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-novia",
+    "img": [
+      "obras/novia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren%2C_genaamd_'Het_Joodse_bruidje'_-_Google_Art_ProjectFXD.jpg/960px-Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren%2C_genaamd_'Het_Joodse_bruidje'_-_Google_Art_ProjectFXD.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren%2C_genaamd_'Het_Joodse_bruidje'_-_Google_Art_ProjectFXD.jpg/500px-Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren%2C_genaamd_'Het_Joodse_bruidje'_-_Google_Art_ProjectFXD.jpg"
+    ],
+    "q": "¿Quién pintó esta pareja conocida como 'La novia judía'?",
+    "o": [
+      "Rembrandt",
+      "Peter Paul Rubens",
+      "Anthony van Dyck",
+      "Johannes Vermeer"
+    ],
+    "a": "Rembrandt",
+    "n": "Van Gogh dijo que daría diez años de vida por poder sentarse frente a este cuadro.",
+    "titulo": "La novia judía · Rembrandt, 1667"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-titus",
+    "img": [
+      "obras/titus.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rembrandt_-_Titus%2C_the_Artist's_Son%2C_1660_(Baltimore_Museum_of_Art).jpg/960px-Rembrandt_-_Titus%2C_the_Artist's_Son%2C_1660_(Baltimore_Museum_of_Art).jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rembrandt_-_Titus%2C_the_Artist's_Son%2C_1660_(Baltimore_Museum_of_Art).jpg/500px-Rembrandt_-_Titus%2C_the_Artist's_Son%2C_1660_(Baltimore_Museum_of_Art).jpg"
+    ],
+    "q": "¿A quién retrató Rembrandt en este cuadro?",
+    "o": [
+      "A su hijo Titus",
+      "A su maestro",
+      "A un mecenas",
+      "A un rey"
+    ],
+    "a": "A su hijo Titus",
+    "titulo": "Titus, el hijo del artista · Rembrandt, 1660"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-jeronimo",
+    "img": [
+      "obras/jeronimo.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rembrandt_Harmensz._van_Rijn_-_Saint_Jerome_in_an_Italian_Landscape_-_Google_Art_Project.jpg/960px-Rembrandt_Harmensz._van_Rijn_-_Saint_Jerome_in_an_Italian_Landscape_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rembrandt_Harmensz._van_Rijn_-_Saint_Jerome_in_an_Italian_Landscape_-_Google_Art_Project.jpg/500px-Rembrandt_Harmensz._van_Rijn_-_Saint_Jerome_in_an_Italian_Landscape_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué pintor es este San Jerónimo en un paisaje?",
+    "o": [
+      "Rembrandt",
+      "Caravaggio",
+      "El Greco",
+      "Alberto Durero"
+    ],
+    "a": "Rembrandt",
+    "titulo": "San Jerónimo en un paisaje italiano · Rembrandt"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-jeronimo-lee",
+    "img": [
+      "obras/jeronimo-lee.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rembrandt_Harmensz._van_Rijn_-_Saint_Jerome_Reading_in_an_Italian_Landscape_-_Google_Art_Project.jpg/960px-Rembrandt_Harmensz._van_Rijn_-_Saint_Jerome_Reading_in_an_Italian_Landscape_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rembrandt_Harmensz._van_Rijn_-_Saint_Jerome_Reading_in_an_Italian_Landscape_-_Google_Art_Project.jpg/500px-Rembrandt_Harmensz._van_Rijn_-_Saint_Jerome_Reading_in_an_Italian_Landscape_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué recurso de luz y sombra caracteriza a este pintor?",
+    "o": [
+      "El claroscuro",
+      "El puntillismo",
+      "La perspectiva aérea",
+      "El esfumado"
+    ],
+    "a": "El claroscuro",
+    "n": "Rembrandt es uno de los grandes maestros del claroscuro.",
+    "titulo": "San Jerónimo leyendo en un paisaje italiano · Rembrandt, 1653"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-ganimedes",
+    "img": [
+      "obras/ganimedes.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Rembrandt_Harmensz._van_Rijn_-_The_Rape_of_Ganymede_-_Google_Art_Project.jpg/960px-Rembrandt_Harmensz._van_Rijn_-_The_Rape_of_Ganymede_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Rembrandt_Harmensz._van_Rijn_-_The_Rape_of_Ganymede_-_Google_Art_Project.jpg/500px-Rembrandt_Harmensz._van_Rijn_-_The_Rape_of_Ganymede_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué mitología proviene la escena de este cuadro de Rembrandt?",
+    "o": [
+      "De la griega",
+      "De la egipcia",
+      "De la nórdica",
+      "De la mesopotámica"
+    ],
+    "a": "De la griega",
+    "n": "'El rapto de Ganimedes', 1635. Zeus, convertido en águila, se lleva al joven.",
+    "titulo": "El rapto de Ganimedes · Rembrandt, 1635"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-dama-perro",
+    "img": [
+      "obras/dama-perro.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rembrandt_Harmensz_van_Rijn_-_Portrait_of_a_Lady_with_a_Lap_Dog_-_Google_Art_Project.jpg/960px-Rembrandt_Harmensz_van_Rijn_-_Portrait_of_a_Lady_with_a_Lap_Dog_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rembrandt_Harmensz_van_Rijn_-_Portrait_of_a_Lady_with_a_Lap_Dog_-_Google_Art_Project.jpg/500px-Rembrandt_Harmensz_van_Rijn_-_Portrait_of_a_Lady_with_a_Lap_Dog_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿A qué período pertenece este retrato holandés?",
+    "o": [
+      "Al Barroco",
+      "Al Renacimiento",
+      "Al Rococó",
+      "Al Romanticismo"
+    ],
+    "a": "Al Barroco",
+    "n": "Rembrandt es la gran figura del Siglo de Oro holandés.",
+    "titulo": "Retrato de dama con perrito · Rembrandt"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-nino",
+    "img": [
+      "obras/nino.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rembrandt_-_The_Unruly_child_-_Google_Art_Project.jpg/960px-Rembrandt_-_The_Unruly_child_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rembrandt_-_The_Unruly_child_-_Google_Art_Project.jpg/500px-Rembrandt_-_The_Unruly_child_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién dibujó esta escena de un chico haciendo un berrinche?",
+    "o": [
+      "Rembrandt",
+      "Pieter Bruegel el Viejo",
+      "Jan Steen",
+      "Honoré Daumier"
+    ],
+    "a": "Rembrandt",
+    "titulo": "El niño rebelde · Rembrandt"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-joven",
+    "img": [
+      "obras/joven.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Harmensz_van_Rijn_Rembrandt_-_Ritratto_di_giovane_-_Google_Art_Project.jpg/960px-Harmensz_van_Rijn_Rembrandt_-_Ritratto_di_giovane_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Harmensz_van_Rijn_Rembrandt_-_Ritratto_di_giovane_-_Google_Art_Project.jpg/500px-Harmensz_van_Rijn_Rembrandt_-_Ritratto_di_giovane_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué pintor es este retrato de un joven?",
+    "o": [
+      "Rembrandt",
+      "Tiziano",
+      "Diego Velázquez",
+      "Anthony van Dyck"
+    ],
+    "a": "Rembrandt",
+    "titulo": "Retrato de un joven · Rembrandt"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-predicador",
+    "img": [
+      "obras/predicador.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Rembrandt_Harmensz._van_Rijn_-_Portret_van_Johannes_Wtenbogaert_(1557-1644)%2C_Remonstrants_predikant_-_Google_Art_Project.jpg/960px-Rembrandt_Harmensz._van_Rijn_-_Portret_van_Johannes_Wtenbogaert_(1557-1644)%2C_Remonstrants_predikant_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Rembrandt_Harmensz._van_Rijn_-_Portret_van_Johannes_Wtenbogaert_(1557-1644)%2C_Remonstrants_predikant_-_Google_Art_Project.jpg/500px-Rembrandt_Harmensz._van_Rijn_-_Portret_van_Johannes_Wtenbogaert_(1557-1644)%2C_Remonstrants_predikant_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿En qué siglo pintó Rembrandt este retrato de un predicador?",
+    "o": [
+      "En el siglo XVII",
+      "En el siglo XV",
+      "En el siglo XVIII",
+      "En el siglo XIX"
+    ],
+    "a": "En el siglo XVII",
+    "titulo": "Retrato de Johannes Wtenbogaert · Rembrandt, 1633"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-ola",
+    "img": [
+      "obras/ola.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Katsushika_Hokusai_-_Thirty-Six_Views_of_Mount_Fuji-_The_Great_Wave_Off_the_Coast_of_Kanagawa_-_Google_Art_Project.jpg/960px-Katsushika_Hokusai_-_Thirty-Six_Views_of_Mount_Fuji-_The_Great_Wave_Off_the_Coast_of_Kanagawa_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Katsushika_Hokusai_-_Thirty-Six_Views_of_Mount_Fuji-_The_Great_Wave_Off_the_Coast_of_Kanagawa_-_Google_Art_Project.jpg/500px-Katsushika_Hokusai_-_Thirty-Six_Views_of_Mount_Fuji-_The_Great_Wave_Off_the_Coast_of_Kanagawa_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué montaña asoma detrás de esta ola?",
+    "o": [
+      "El monte Fuji",
+      "El Everest",
+      "El Kilimanjaro",
+      "El monte Olimpo"
+    ],
+    "a": "El monte Fuji",
+    "n": "'La gran ola de Kanagawa', de Hokusai, hacia 1831.",
+    "titulo": "La gran ola de Kanagawa · Katsushika Hokusai, 1831"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-fuji-rojo",
+    "img": [
+      "obras/fuji-rojo.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Katsushika_Hokusai_-_Fine_Wind%2C_Clear_Morning_(Gaif%C5%AB_kaisei)_-_Google_Art_Project.jpg/960px-Katsushika_Hokusai_-_Fine_Wind%2C_Clear_Morning_(Gaif%C5%AB_kaisei)_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Katsushika_Hokusai_-_Fine_Wind%2C_Clear_Morning_(Gaif%C5%AB_kaisei)_-_Google_Art_Project.jpg/500px-Katsushika_Hokusai_-_Fine_Wind%2C_Clear_Morning_(Gaif%C5%AB_kaisei)_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué montaña es esta, de la misma serie que 'La gran ola'?",
+    "o": [
+      "El monte Fuji",
+      "El monte Aso",
+      "El monte Hiei",
+      "El monte Koya"
+    ],
+    "a": "El monte Fuji",
+    "n": "Conocida como 'El Fuji rojo', de las Treinta y seis vistas del monte Fuji.",
+    "titulo": "Viento fresco, mañana clara (el Fuji rojo) · Katsushika Hokusai, 1831"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-cortesana",
+    "img": [
+      "obras/cortesana.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Katsushika_Hokusai_-_Courtesan_asleep_-_Google_Art_Project.jpg/960px-Katsushika_Hokusai_-_Courtesan_asleep_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Katsushika_Hokusai_-_Courtesan_asleep_-_Google_Art_Project.jpg/500px-Katsushika_Hokusai_-_Courtesan_asleep_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué país es esta estampa?",
+    "o": [
+      "Japón",
+      "China",
+      "Corea",
+      "Tailandia"
+    ],
+    "a": "Japón",
+    "n": "Es una xilografía de Katsushika Hokusai.",
+    "titulo": "Cortesana dormida · Katsushika Hokusai"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-anguilas",
+    "img": [
+      "obras/anguilas.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Katsushika_Hokusai_-_Big_Eels_-_Google_Art_Project.jpg/960px-Katsushika_Hokusai_-_Big_Eels_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Katsushika_Hokusai_-_Big_Eels_-_Google_Art_Project.jpg/500px-Katsushika_Hokusai_-_Big_Eels_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Cómo se llama la técnica japonesa de grabado en madera de esta obra?",
+    "o": [
+      "Ukiyo-e",
+      "Origami",
+      "Sumi-e",
+      "Kintsugi"
+    ],
+    "a": "Ukiyo-e",
+    "n": "Literalmente, 'imágenes del mundo flotante'.",
+    "titulo": "Anguilas grandes · Katsushika Hokusai"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-venus",
+    "img": [
+      "obras/venus.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/960px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/500px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg"
+    ],
+    "q": "¿Quién pintó esta Venus saliendo del mar sobre una caracola?",
+    "o": [
+      "Sandro Botticelli",
+      "Rafael",
+      "Tiziano",
+      "Piero della Francesca"
+    ],
+    "a": "Sandro Botticelli",
+    "n": "'El nacimiento de Venus', hacia 1485, en la Galería Uffizi de Florencia.",
+    "titulo": "El nacimiento de Venus · Sandro Botticelli, 1485"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-simonetta",
+    "img": [
+      "obras/simonetta.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sandro_Botticelli_-_Idealized_Portrait_of_a_Lady_(Portrait_of_Simonetta_Vespucci_as_Nymph)_-_Google_Art_ProjectFXD.jpg/960px-Sandro_Botticelli_-_Idealized_Portrait_of_a_Lady_(Portrait_of_Simonetta_Vespucci_as_Nymph)_-_Google_Art_ProjectFXD.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sandro_Botticelli_-_Idealized_Portrait_of_a_Lady_(Portrait_of_Simonetta_Vespucci_as_Nymph)_-_Google_Art_ProjectFXD.jpg/500px-Sandro_Botticelli_-_Idealized_Portrait_of_a_Lady_(Portrait_of_Simonetta_Vespucci_as_Nymph)_-_Google_Art_ProjectFXD.jpg"
+    ],
+    "q": "¿A qué período pertenece este retrato femenino de perfil?",
+    "o": [
+      "Al Renacimiento italiano",
+      "Al Barroco",
+      "Al Gótico",
+      "Al Neoclasicismo"
+    ],
+    "a": "Al Renacimiento italiano",
+    "n": "De Botticelli. Se cree que retrata a Simonetta Vespucci.",
+    "titulo": "Retrato idealizado de una dama (Simonetta Vespucci) · Sandro Botticelli"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-angeles",
+    "img": [
+      "obras/angeles.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sandro_Botticelli_-_Mary_with_the_Child_and_Singing_Angels_-_Google_Art_Project.jpg/960px-Sandro_Botticelli_-_Mary_with_the_Child_and_Singing_Angels_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sandro_Botticelli_-_Mary_with_the_Child_and_Singing_Angels_-_Google_Art_Project.jpg/500px-Sandro_Botticelli_-_Mary_with_the_Child_and_Singing_Angels_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué pintor florentino es esta Virgen rodeada de ángeles?",
+    "o": [
+      "Sandro Botticelli",
+      "Fra Angelico",
+      "Rafael",
+      "Andrea Mantegna"
+    ],
+    "a": "Sandro Botticelli",
+    "titulo": "La Virgen con el Niño y ángeles cantores · Sandro Botticelli, 1477"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-tondo",
+    "img": [
+      "obras/tondo.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botticelli_-_Madonna_Adoring_the_Child_with_Five_Angels_-_Baltimore_Museum_of_Art_2.jpg/960px-Botticelli_-_Madonna_Adoring_the_Child_with_Five_Angels_-_Baltimore_Museum_of_Art_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botticelli_-_Madonna_Adoring_the_Child_with_Five_Angels_-_Baltimore_Museum_of_Art_2.jpg/500px-Botticelli_-_Madonna_Adoring_the_Child_with_Five_Angels_-_Baltimore_Museum_of_Art_2.jpg"
+    ],
+    "q": "¿Cómo se llama el formato circular de este cuadro, típico del Renacimiento italiano?",
+    "o": [
+      "Tondo",
+      "Políptico",
+      "Retablo",
+      "Predela"
+    ],
+    "a": "Tondo",
+    "n": "De Botticelli. El tondo fue muy usado en la Florencia del siglo XV.",
+    "titulo": "Virgen adorando al Niño con cinco ángeles · Sandro Botticelli"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-dante",
+    "img": [
+      "obras/dante.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sandro_Botticelli_-_Drawings_for_Dante%C2%B4s_Divine_Comedy_(Purgatorio_17)_-_Google_Art_Project.jpg/960px-Sandro_Botticelli_-_Drawings_for_Dante%C2%B4s_Divine_Comedy_(Purgatorio_17)_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sandro_Botticelli_-_Drawings_for_Dante%C2%B4s_Divine_Comedy_(Purgatorio_17)_-_Google_Art_Project.jpg/500px-Sandro_Botticelli_-_Drawings_for_Dante%C2%B4s_Divine_Comedy_(Purgatorio_17)_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué obra literaria ilustró Botticelli con esta serie de dibujos?",
+    "o": [
+      "La Divina Comedia",
+      "El Decamerón",
+      "La Eneida",
+      "El Cantar de Roldán"
+    ],
+    "a": "La Divina Comedia",
+    "n": "Botticelli dibujó casi cien láminas para el poema de Dante.",
+    "titulo": "Dibujos para la Divina Comedia (Purgatorio 17) · Sandro Botticelli"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-altoviti",
+    "img": [
+      "obras/altoviti.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Raphael_-_Bindo_Altoviti_-_Google_Art_Project.jpg/960px-Raphael_-_Bindo_Altoviti_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Raphael_-_Bindo_Altoviti_-_Google_Art_Project.jpg/500px-Raphael_-_Bindo_Altoviti_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó este retrato de un joven florentino de melena rubia?",
+    "o": [
+      "Rafael",
+      "Tiziano",
+      "Leonardo da Vinci",
+      "Parmigianino"
+    ],
+    "a": "Rafael",
+    "n": "'Bindo Altoviti', hacia 1515.",
+    "titulo": "Bindo Altoviti · Rafael, 1515"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-leonx",
+    "img": [
+      "obras/leonx.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Raffaello_Sanzio_-_Ritratto_di_Leone_X_coi_cardinali_Giulio_de'_Medici_e_Luigi_de'_Rossi_-_Google_Art_Project.jpg/960px-Raffaello_Sanzio_-_Ritratto_di_Leone_X_coi_cardinali_Giulio_de'_Medici_e_Luigi_de'_Rossi_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Raffaello_Sanzio_-_Ritratto_di_Leone_X_coi_cardinali_Giulio_de'_Medici_e_Luigi_de'_Rossi_-_Google_Art_Project.jpg/500px-Raffaello_Sanzio_-_Ritratto_di_Leone_X_coi_cardinali_Giulio_de'_Medici_e_Luigi_de'_Rossi_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué familia florentina era el papa retratado por Rafael en esta obra?",
+    "o": [
+      "De los Médici",
+      "De los Borgia",
+      "De los Farnesio",
+      "De los Della Rovere"
+    ],
+    "a": "De los Médici",
+    "n": "León X era hijo de Lorenzo el Magnífico.",
+    "titulo": "Retrato de León X con dos cardenales · Rafael, 1518"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-bembo",
+    "img": [
+      "obras/bembo.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Raffaello_Santi_-_Portrait_of_Pietro_Bembo_-_Google_Art_Project.jpg/960px-Raffaello_Santi_-_Portrait_of_Pietro_Bembo_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Raffaello_Santi_-_Portrait_of_Pietro_Bembo_-_Google_Art_Project.jpg/500px-Raffaello_Santi_-_Portrait_of_Pietro_Bembo_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué pintor del Alto Renacimiento es este retrato?",
+    "o": [
+      "Rafael",
+      "Sandro Botticelli",
+      "El Greco",
+      "Alberto Durero"
+    ],
+    "a": "Rafael",
+    "titulo": "Retrato de Pietro Bembo · Rafael, 1504"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-gracias",
+    "img": [
+      "obras/gracias.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rapha%C3%ABl_-_Les_Trois_Gr%C3%A2ces_-_Google_Art_ProjectFXD.jpg/960px-Rapha%C3%ABl_-_Les_Trois_Gr%C3%A2ces_-_Google_Art_ProjectFXD.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rapha%C3%ABl_-_Les_Trois_Gr%C3%A2ces_-_Google_Art_ProjectFXD.jpg/500px-Rapha%C3%ABl_-_Les_Trois_Gr%C3%A2ces_-_Google_Art_ProjectFXD.jpg"
+    ],
+    "q": "¿Qué frutas sostienen las figuras de esta obra de Rafael?",
+    "o": [
+      "Manzanas doradas",
+      "Uvas",
+      "Granadas",
+      "Higos"
+    ],
+    "a": "Manzanas doradas",
+    "n": "'Las tres Gracias', hacia 1504: se cree que son las manzanas del jardín de las Hespérides.",
+    "titulo": "Las tres Gracias · Rafael, 1504"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-madonna-rafael",
+    "img": [
+      "obras/madonna-rafael.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Raffaello_Santi_-_Madonna_and_Child_with_the_Infant_Saint_John_-_Google_Art_Project.jpg/960px-Raffaello_Santi_-_Madonna_and_Child_with_the_Infant_Saint_John_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Raffaello_Santi_-_Madonna_and_Child_with_the_Infant_Saint_John_-_Google_Art_Project.jpg/500px-Raffaello_Santi_-_Madonna_and_Child_with_the_Infant_Saint_John_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué pintor italiano se hizo célebre por sus numerosas madonas como esta?",
+    "o": [
+      "Rafael",
+      "Caravaggio",
+      "Tintoretto",
+      "Giotto"
+    ],
+    "a": "Rafael",
+    "titulo": "La Virgen con el Niño y san Juanito · Rafael"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-antonio",
+    "img": [
+      "obras/antonio.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Raphael_-_Saint_Anthony_of_Padua_-_Google_Art_Project.jpg/960px-Raphael_-_Saint_Anthony_of_Padua_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Raphael_-_Saint_Anthony_of_Padua_-_Google_Art_Project.jpg/500px-Raphael_-_Saint_Anthony_of_Padua_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué pintor es esta tabla de San Antonio de Padua?",
+    "o": [
+      "Rafael",
+      "El Greco",
+      "Francisco de Zurbarán",
+      "Fra Angelico"
+    ],
+    "a": "Rafael",
+    "titulo": "San Antonio de Padua · Rafael, 1501"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-apostol",
+    "img": [
+      "obras/apostol.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Raphael_-_Head_of_An_Apostle_in_the_Transfiguration%2C_1519-1520_-_Google_Art_Project.jpg/960px-Raphael_-_Head_of_An_Apostle_in_the_Transfiguration%2C_1519-1520_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Raphael_-_Head_of_An_Apostle_in_the_Transfiguration%2C_1519-1520_-_Google_Art_Project.jpg/500px-Raphael_-_Head_of_An_Apostle_in_the_Transfiguration%2C_1519-1520_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Para qué obra hizo Rafael este estudio, la última que pintó antes de morir?",
+    "o": [
+      "La transfiguración",
+      "La escuela de Atenas",
+      "El Parnaso",
+      "La Madonna Sixtina"
+    ],
+    "a": "La transfiguración",
+    "n": "Quedó inconclusa a su muerte, en 1520.",
+    "titulo": "Cabeza de apóstol, estudio para La transfiguración · Rafael, 1519"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-vieja-huevos",
+    "img": [
+      "obras/vieja-huevos.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg/960px-Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg/500px-Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó esta escena de cocina con una anciana friendo huevos?",
+    "o": [
+      "Diego Velázquez",
+      "Francisco de Zurbarán",
+      "Bartolomé Esteban Murillo",
+      "José de Ribera"
+    ],
+    "a": "Diego Velázquez",
+    "n": "'Vieja friendo huevos', 1618, de su etapa sevillana.",
+    "titulo": "Vieja friendo huevos · Diego Velázquez, 1618"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-margarita",
+    "img": [
+      "obras/margarita.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Diego_Rodriguez_de_Silva_y_Vel%C3%A1zquez_-_Infanta_Margarita_Teresa_in_a_Blue_Dress_-_Google_Art_Project.jpg/960px-Diego_Rodriguez_de_Silva_y_Vel%C3%A1zquez_-_Infanta_Margarita_Teresa_in_a_Blue_Dress_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Diego_Rodriguez_de_Silva_y_Vel%C3%A1zquez_-_Infanta_Margarita_Teresa_in_a_Blue_Dress_-_Google_Art_Project.jpg/500px-Diego_Rodriguez_de_Silva_y_Vel%C3%A1zquez_-_Infanta_Margarita_Teresa_in_a_Blue_Dress_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿A quién retrató Velázquez en este cuadro del vestido azul?",
+    "o": [
+      "A la infanta Margarita Teresa",
+      "A la reina Isabel de Borbón",
+      "A una dama de la corte francesa",
+      "A su propia hija"
+    ],
+    "a": "A la infanta Margarita Teresa",
+    "n": "Es la misma niña que aparece en el centro de 'Las meninas'.",
+    "titulo": "La infanta Margarita Teresa de vestido azul · Diego Velázquez, 1659"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-baltasar",
+    "img": [
+      "obras/baltasar.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Diego_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez_-_Don_Baltasar_Carlos_with_a_Dwarf_-_Google_Art_Project.jpg/960px-Diego_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez_-_Don_Baltasar_Carlos_with_a_Dwarf_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Diego_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez_-_Don_Baltasar_Carlos_with_a_Dwarf_-_Google_Art_Project.jpg/500px-Diego_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez_-_Don_Baltasar_Carlos_with_a_Dwarf_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué corte europea era pintor el autor de este retrato infantil?",
+    "o": [
+      "De la corte española",
+      "De la corte francesa",
+      "De la corte inglesa",
+      "De la corte austríaca"
+    ],
+    "a": "De la corte española",
+    "n": "Velázquez fue pintor de cámara de Felipe IV.",
+    "titulo": "El príncipe Baltasar Carlos con un enano · Diego Velázquez, 1631"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-gongora",
+    "img": [
+      "obras/gongora.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Diego_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez_-_Luis_de_G%C3%B3ngora_y_Argote_-_Google_Art_Project.jpg/960px-Diego_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez_-_Luis_de_G%C3%B3ngora_y_Argote_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Diego_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez_-_Luis_de_G%C3%B3ngora_y_Argote_-_Google_Art_Project.jpg/500px-Diego_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez_-_Luis_de_G%C3%B3ngora_y_Argote_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿A qué poeta del Siglo de Oro español retrató Velázquez acá?",
+    "o": [
+      "Luis de Góngora",
+      "Francisco de Quevedo",
+      "Lope de Vega",
+      "Garcilaso de la Vega"
+    ],
+    "a": "Luis de Góngora",
+    "titulo": "Retrato de Luis de Góngora · Diego Velázquez, 1622"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-barberana",
+    "img": [
+      "obras/barberana.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Diego_Vel%C3%A1zquez_-_Portrait_of_Don_Pedro_de_Barberana_-_Google_Art_Project.jpg/960px-Diego_Vel%C3%A1zquez_-_Portrait_of_Don_Pedro_de_Barberana_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Diego_Vel%C3%A1zquez_-_Portrait_of_Don_Pedro_de_Barberana_-_Google_Art_Project.jpg/500px-Diego_Vel%C3%A1zquez_-_Portrait_of_Don_Pedro_de_Barberana_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿A qué siglo pertenece este retrato español?",
+    "o": [
+      "Al siglo XVII",
+      "Al siglo XV",
+      "Al siglo XIX",
+      "Al siglo XVIII"
+    ],
+    "a": "Al siglo XVII",
+    "n": "De Velázquez, hacia 1632, en pleno Siglo de Oro.",
+    "titulo": "Retrato de Pedro de Barberana · Diego Velázquez, 1632"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-pablo",
+    "img": [
+      "obras/pablo.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Diego_Vel%C3%A1zquez_-_Saint_Paul_-_Google_Art_Project.jpg/960px-Diego_Vel%C3%A1zquez_-_Saint_Paul_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Diego_Vel%C3%A1zquez_-_Saint_Paul_-_Google_Art_Project.jpg/500px-Diego_Vel%C3%A1zquez_-_Saint_Paul_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué pintor sevillano es este San Pablo?",
+    "o": [
+      "Diego Velázquez",
+      "El Greco",
+      "Francisco de Goya",
+      "Juan de Valdés Leal"
+    ],
+    "a": "Diego Velázquez",
+    "titulo": "San Pablo · Diego Velázquez, 1619"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-paravicino",
+    "img": [
+      "obras/paravicino.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/El_Greco_(Domenikos_Theotokopoulos)_-_Fray_Hortensio_F%C3%A9lix_Paravicino_-_Google_Art_Project.jpg/960px-El_Greco_(Domenikos_Theotokopoulos)_-_Fray_Hortensio_F%C3%A9lix_Paravicino_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/El_Greco_(Domenikos_Theotokopoulos)_-_Fray_Hortensio_F%C3%A9lix_Paravicino_-_Google_Art_Project.jpg/500px-El_Greco_(Domenikos_Theotokopoulos)_-_Fray_Hortensio_F%C3%A9lix_Paravicino_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó este retrato de un fraile de manos alargadas?",
+    "o": [
+      "El Greco",
+      "Diego Velázquez",
+      "Francisco de Zurbarán",
+      "José de Ribera"
+    ],
+    "a": "El Greco",
+    "n": "Retrato de Fray Hortensio Félix Paravicino, hacia 1609.",
+    "titulo": "Fray Hortensio Félix Paravicino · El Greco, 1609"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-mercaderes",
+    "img": [
+      "obras/mercaderes.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_(Domenikos_Theotokopoulos)_-_Christ_Driving_the_Money_Changers_from_the_Temple_-_Google_Art_Project.jpg/960px-El_Greco_(Domenikos_Theotokopoulos)_-_Christ_Driving_the_Money_Changers_from_the_Temple_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_(Domenikos_Theotokopoulos)_-_Christ_Driving_the_Money_Changers_from_the_Temple_-_Google_Art_Project.jpg/500px-El_Greco_(Domenikos_Theotokopoulos)_-_Christ_Driving_the_Money_Changers_from_the_Temple_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué escena bíblica representa este cuadro de El Greco?",
+    "o": [
+      "Cristo expulsando a los mercaderes del templo",
+      "La última cena",
+      "La resurrección de Lázaro",
+      "Las bodas de Caná"
+    ],
+    "a": "Cristo expulsando a los mercaderes del templo",
+    "titulo": "Cristo expulsando a los mercaderes del templo · El Greco"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-salvador",
+    "img": [
+      "obras/salvador.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/El_Greco_(Domenikos_Theotokopoulos)_-_Christ_Blessing_('The_Saviour_of_the_World')_-_Google_Art_Project.jpg/960px-El_Greco_(Domenikos_Theotokopoulos)_-_Christ_Blessing_('The_Saviour_of_the_World')_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/El_Greco_(Domenikos_Theotokopoulos)_-_Christ_Blessing_('The_Saviour_of_the_World')_-_Google_Art_Project.jpg/500px-El_Greco_(Domenikos_Theotokopoulos)_-_Christ_Blessing_('The_Saviour_of_the_World')_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué pintor son estas figuras estilizadas y alargadas, con colores fríos?",
+    "o": [
+      "El Greco",
+      "Rafael",
+      "Caravaggio",
+      "Tiziano"
+    ],
+    "a": "El Greco",
+    "n": "El alargamiento de las figuras es su rasgo más reconocible.",
+    "titulo": "Cristo bendiciendo (El Salvador del mundo) · El Greco"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-anunciacion",
+    "img": [
+      "obras/anunciacion.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Domenikos_Theotokopoulos%2C_El_Greco_-_The_Annunciation_-_Google_Art_Project.jpg/960px-Domenikos_Theotokopoulos%2C_El_Greco_-_The_Annunciation_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Domenikos_Theotokopoulos%2C_El_Greco_-_The_Annunciation_-_Google_Art_Project.jpg/500px-Domenikos_Theotokopoulos%2C_El_Greco_-_The_Annunciation_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿En qué ciudad española vivió y trabajó El Greco casi toda su vida adulta?",
+    "o": [
+      "Toledo",
+      "Sevilla",
+      "Madrid",
+      "Valencia"
+    ],
+    "a": "Toledo",
+    "n": "Nació en Creta, se formó en Venecia y se instaló en Toledo en 1577.",
+    "titulo": "La Anunciación · El Greco"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-pisa",
+    "img": [
+      "obras/pisa.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/El_Greco_(Domenikos_Theotokopoulos)_-_Portrait_of_Dr._Francisco_de_Pisa_-_Google_Art_Project.jpg/960px-El_Greco_(Domenikos_Theotokopoulos)_-_Portrait_of_Dr._Francisco_de_Pisa_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/El_Greco_(Domenikos_Theotokopoulos)_-_Portrait_of_Dr._Francisco_de_Pisa_-_Google_Art_Project.jpg/500px-El_Greco_(Domenikos_Theotokopoulos)_-_Portrait_of_Dr._Francisco_de_Pisa_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De dónde era originario El Greco, el autor de este retrato?",
+    "o": [
+      "De la isla de Creta",
+      "De Grecia continental",
+      "De Chipre",
+      "De Sicilia"
+    ],
+    "a": "De la isla de Creta",
+    "n": "Su nombre real era Doménikos Theotokópoulos.",
+    "titulo": "Retrato del doctor Francisco de Pisa · El Greco"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-oracion",
+    "img": [
+      "obras/oracion.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dom%C3%A9nikos_Theotok%C3%B3pulos_(called_El_Greco)_-_Christ_in_Prayer_-_Google_Art_Project.jpg/960px-Dom%C3%A9nikos_Theotok%C3%B3pulos_(called_El_Greco)_-_Christ_in_Prayer_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dom%C3%A9nikos_Theotok%C3%B3pulos_(called_El_Greco)_-_Christ_in_Prayer_-_Google_Art_Project.jpg/500px-Dom%C3%A9nikos_Theotok%C3%B3pulos_(called_El_Greco)_-_Christ_in_Prayer_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿A qué corriente se asocia habitualmente la obra de El Greco?",
+    "o": [
+      "Al manierismo",
+      "Al impresionismo",
+      "Al rococó",
+      "Al realismo"
+    ],
+    "a": "Al manierismo",
+    "titulo": "Cristo en oración · El Greco"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-tiziano",
+    "img": [
+      "obras/baco.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Titian_-_Bacchus_and_Ariadne_-_Google_Art_Project.jpg/960px-Titian_-_Bacchus_and_Ariadne_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Titian_-_Bacchus_and_Ariadne_-_Google_Art_Project.jpg/500px-Titian_-_Bacchus_and_Ariadne_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó esta escena mitológica de Baco y Ariadna?",
+    "o": [
+      "Tiziano",
+      "Rubens",
+      "Rafael",
+      "Veronés"
+    ],
+    "a": "Tiziano",
+    "n": "1523, en la National Gallery de Londres.",
+    "titulo": "Baco y Ariadna · Tiziano, 1523"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-europa",
+    "img": [
+      "obras/europa.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Titian_-_Rape_of_Europa_-_Google_Art_Project.jpg/960px-Titian_-_Rape_of_Europa_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Titian_-_Rape_of_Europa_-_Google_Art_Project.jpg/500px-Titian_-_Rape_of_Europa_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿En qué animal se transforma Zeus en el mito que ilustra este cuadro de Tiziano?",
+    "o": [
+      "En un toro",
+      "En un cisne",
+      "En un águila",
+      "En una lluvia de oro"
+    ],
+    "a": "En un toro",
+    "n": "'El rapto de Europa', 1562.",
+    "titulo": "El rapto de Europa · Tiziano, 1562"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-piel",
+    "img": [
+      "obras/piel.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Titian_-_Girl_in_a_Fur_Coat_-_Google_Art_Project.jpg/960px-Titian_-_Girl_in_a_Fur_Coat_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Titian_-_Girl_in_a_Fur_Coat_-_Google_Art_Project.jpg/500px-Titian_-_Girl_in_a_Fur_Coat_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué escuela pictórica del Renacimiento es este pintor?",
+    "o": [
+      "De la escuela veneciana",
+      "De la escuela florentina",
+      "De la escuela flamenca",
+      "De la escuela de Toledo"
+    ],
+    "a": "De la escuela veneciana",
+    "n": "Tiziano fue la gran figura de la pintura veneciana del siglo XVI.",
+    "titulo": "Muchacha con abrigo de piel · Tiziano, 1535"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-felipeii",
+    "img": [
+      "obras/felipeii.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Titian_-_King_Philip_II_of_Spain_-_Google_Art_Project.jpg/960px-Titian_-_King_Philip_II_of_Spain_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Titian_-_King_Philip_II_of_Spain_-_Google_Art_Project.jpg/500px-Titian_-_King_Philip_II_of_Spain_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿A qué rey retrató Tiziano en este cuadro?",
+    "o": [
+      "A Felipe II de España",
+      "A Enrique VIII de Inglaterra",
+      "A Francisco I de Francia",
+      "A Luis XIV de Francia"
+    ],
+    "a": "A Felipe II de España",
+    "titulo": "Retrato de Felipe II · Tiziano, 1551"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-tiziano",
+    "img": [
+      "obras/acteon.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Titian_-_The_Death_of_Actaeon_-_Google_Art_Project.jpg/960px-Titian_-_The_Death_of_Actaeon_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Titian_-_The_Death_of_Actaeon_-_Google_Art_Project.jpg/500px-Titian_-_The_Death_of_Actaeon_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó esta escena mitológica de una cacería?",
+    "o": [
+      "Tiziano",
+      "Peter Paul Rubens",
+      "Nicolas Poussin",
+      "Diego Velázquez"
+    ],
+    "a": "Tiziano",
+    "n": "'La muerte de Acteón', obra tardía y de pincelada muy suelta.",
+    "titulo": "La muerte de Acteón · Tiziano, 1575"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-noli",
+    "img": [
+      "obras/noli.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Titian_-_Noli_me_Tangere_-_Google_Art_Project.jpg/960px-Titian_-_Noli_me_Tangere_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Titian_-_Noli_me_Tangere_-_Google_Art_Project.jpg/500px-Titian_-_Noli_me_Tangere_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Cómo se conoce el episodio evangélico que muestra este cuadro de Tiziano?",
+    "o": [
+      "Noli me tangere",
+      "Ecce homo",
+      "Pietà",
+      "Anunciación"
+    ],
+    "a": "Noli me tangere",
+    "n": "El encuentro de María Magdalena con Cristo resucitado.",
+    "titulo": "Noli me tangere · Tiziano, 1514"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-vialactea",
+    "img": [
+      "obras/vialactea.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jacopo_Tintoretto_-_The_Origin_of_the_Milky_Way_-_Google_Art_Project.jpg/960px-Jacopo_Tintoretto_-_The_Origin_of_the_Milky_Way_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jacopo_Tintoretto_-_The_Origin_of_the_Milky_Way_-_Google_Art_Project.jpg/500px-Jacopo_Tintoretto_-_The_Origin_of_the_Milky_Way_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué fenómeno explica el mito representado en este cuadro?",
+    "o": [
+      "El origen de la Vía Láctea",
+      "El origen de las mareas",
+      "El origen de los eclipses",
+      "El origen del arcoíris"
+    ],
+    "a": "El origen de la Vía Láctea",
+    "n": "De Tintoretto: la leche de Hera derramada al amamantar a Hércules.",
+    "titulo": "El origen de la Vía Láctea · Tintoretto, 1575"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-susana",
+    "img": [
+      "obras/susana.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jacopo_Robusti%2C_called_Tintoretto_-_Susanna_and_the_Elders_-_Google_Art_Project.jpg/960px-Jacopo_Robusti%2C_called_Tintoretto_-_Susanna_and_the_Elders_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jacopo_Robusti%2C_called_Tintoretto_-_Susanna_and_the_Elders_-_Google_Art_Project.jpg/500px-Jacopo_Robusti%2C_called_Tintoretto_-_Susanna_and_the_Elders_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó esta escena de Susana y los viejos?",
+    "o": [
+      "Tintoretto",
+      "Artemisia Gentileschi",
+      "Rubens",
+      "Rembrandt"
+    ],
+    "a": "Tintoretto",
+    "titulo": "Susana y los viejos · Tintoretto, 1556"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-emaus",
+    "img": [
+      "obras/emaus.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Jacopo_Tintoretto_-_The_Supper_at_Emmaus_-_Google_Art_Project.jpg/960px-Jacopo_Tintoretto_-_The_Supper_at_Emmaus_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Jacopo_Tintoretto_-_The_Supper_at_Emmaus_-_Google_Art_Project.jpg/500px-Jacopo_Tintoretto_-_The_Supper_at_Emmaus_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué ciudad era el pintor de esta cena en Emaús?",
+    "o": [
+      "De Venecia",
+      "De Florencia",
+      "De Roma",
+      "De Nápoles"
+    ],
+    "a": "De Venecia",
+    "n": "Tintoretto, cuyo apodo viene del oficio de su padre, tintorero.",
+    "titulo": "La cena de Emaús · Tintoretto"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-bautismo",
+    "img": [
+      "obras/bautismo.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tintoretto_-_Baptism_of_Christ_-_Google_Art_Project.jpg/960px-Tintoretto_-_Baptism_of_Christ_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tintoretto_-_Baptism_of_Christ_-_Google_Art_Project.jpg/500px-Tintoretto_-_Baptism_of_Christ_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué escena de la vida de Cristo muestra este cuadro de Tintoretto?",
+    "o": [
+      "El bautismo",
+      "La crucifixión",
+      "La ascensión",
+      "La entrada en Jerusalén"
+    ],
+    "a": "El bautismo",
+    "titulo": "El bautismo de Cristo · Tintoretto"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-david-tinto",
+    "img": [
+      "obras/david-tinto.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tintoretto_(Jacopo_Robusti)_-_Portrait_of_a_Young_Man_as_David_-_Google_Art_Project.jpg/960px-Tintoretto_(Jacopo_Robusti)_-_Portrait_of_a_Young_Man_as_David_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tintoretto_(Jacopo_Robusti)_-_Portrait_of_a_Young_Man_as_David_-_Google_Art_Project.jpg/500px-Tintoretto_(Jacopo_Robusti)_-_Portrait_of_a_Young_Man_as_David_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿A qué siglo pertenece este retrato veneciano?",
+    "o": [
+      "Al siglo XVI",
+      "Al siglo XIV",
+      "Al siglo XVIII",
+      "Al siglo XIX"
+    ],
+    "a": "Al siglo XVI",
+    "titulo": "Retrato de un joven como David · Tintoretto"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-giuliano",
+    "img": [
+      "obras/giuliano.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jacopo_Tintoretto_-_Head_of_Giuliano_de'_Medici_-_Google_Art_Project.jpg/960px-Jacopo_Tintoretto_-_Head_of_Giuliano_de'_Medici_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jacopo_Tintoretto_-_Head_of_Giuliano_de'_Medici_-_Google_Art_Project.jpg/500px-Jacopo_Tintoretto_-_Head_of_Giuliano_de'_Medici_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué familia gobernó Florencia y aparece nombrada en el título de esta obra?",
+    "o": [
+      "Los Médici",
+      "Los Borgia",
+      "Los Sforza",
+      "Los Habsburgo"
+    ],
+    "a": "Los Médici",
+    "titulo": "Cabeza de Giuliano de Médici · Tintoretto"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-medusa",
+    "img": [
+      "obras/medusa.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Caravaggio_-_Medusa_-_Google_Art_Project.jpg/960px-Caravaggio_-_Medusa_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Caravaggio_-_Medusa_-_Google_Art_Project.jpg/500px-Caravaggio_-_Medusa_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué personaje mitológico pintó Caravaggio sobre un escudo redondo?",
+    "o": [
+      "Medusa",
+      "Atenea",
+      "Circe",
+      "Hera"
+    ],
+    "a": "Medusa",
+    "n": "1597, en la Galería Uffizi. Está pintado sobre un escudo de torneo.",
+    "titulo": "Medusa · Caravaggio, 1597"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-tahures",
+    "img": [
+      "obras/tahures.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Caravaggio_(Michelangelo_Merisi)_-_The_Cardsharps_-_Google_Art_Project.jpg/960px-Caravaggio_(Michelangelo_Merisi)_-_The_Cardsharps_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Caravaggio_(Michelangelo_Merisi)_-_The_Cardsharps_-_Google_Art_Project.jpg/500px-Caravaggio_(Michelangelo_Merisi)_-_The_Cardsharps_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó esta escena de tahúres y jóvenes incautos?",
+    "o": [
+      "Caravaggio",
+      "Georges de La Tour",
+      "Diego Velázquez",
+      "Jan Steen"
+    ],
+    "a": "Caravaggio",
+    "n": "'Los tahúres', hacia 1594. Fue el cuadro que le consiguió su primer mecenas.",
+    "titulo": "Los tahúres · Caravaggio, 1594"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-baco-carav",
+    "img": [
+      "obras/baco-carav.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Caravaggio_-_Bacco_adolescente_-_Google_Art_Project.jpg/960px-Caravaggio_-_Bacco_adolescente_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Caravaggio_-_Bacco_adolescente_-_Google_Art_Project.jpg/500px-Caravaggio_-_Bacco_adolescente_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué detalle escondido descubrieron los restauradores en el reflejo de la jarra de este cuadro?",
+    "o": [
+      "Un autorretrato en miniatura del pintor",
+      "Una firma",
+      "Una fecha",
+      "Un segundo rostro femenino"
+    ],
+    "a": "Un autorretrato en miniatura del pintor",
+    "n": "'Baco adolescente' de Caravaggio, hacia 1596.",
+    "titulo": "Baco adolescente · Caravaggio, 1596"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-eccehomo",
+    "img": [
+      "obras/eccehomo.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Caravaggio_(Michelangelo_Merisi)_-_Ecce_Homo_-_Google_Art_Project.jpg/960px-Caravaggio_(Michelangelo_Merisi)_-_Ecce_Homo_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Caravaggio_(Michelangelo_Merisi)_-_Ecce_Homo_-_Google_Art_Project.jpg/500px-Caravaggio_(Michelangelo_Merisi)_-_Ecce_Homo_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué recurso hizo célebre al pintor de esta obra?",
+    "o": [
+      "El contraste violento entre luz y sombra",
+      "El puntillismo",
+      "La perspectiva aérea",
+      "El dorado de fondo"
+    ],
+    "a": "El contraste violento entre luz y sombra",
+    "n": "El tenebrismo de Caravaggio.",
+    "titulo": "Ecce Homo · Caravaggio, 1605"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-isaac",
+    "img": [
+      "obras/isaac.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Caravaggio_-_Sacrificio_di_Isacco_-_Google_Art_Project.jpg/960px-Caravaggio_-_Sacrificio_di_Isacco_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Caravaggio_-_Sacrificio_di_Isacco_-_Google_Art_Project.jpg/500px-Caravaggio_-_Sacrificio_di_Isacco_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué episodio bíblico muestra este cuadro de Caravaggio?",
+    "o": [
+      "El sacrificio de Isaac",
+      "El diluvio",
+      "La torre de Babel",
+      "David y Goliat"
+    ],
+    "a": "El sacrificio de Isaac",
+    "titulo": "El sacrificio de Isaac · Caravaggio, 1603"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-helene",
+    "img": [
+      "obras/helene.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Peter_Paul_Rubens_-_Portrait_of_H%C3%A9l%C3%A8ne_Fourment_-_Google_Art_Project.jpg/960px-Peter_Paul_Rubens_-_Portrait_of_H%C3%A9l%C3%A8ne_Fourment_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Peter_Paul_Rubens_-_Portrait_of_H%C3%A9l%C3%A8ne_Fourment_-_Google_Art_Project.jpg/500px-Peter_Paul_Rubens_-_Portrait_of_H%C3%A9l%C3%A8ne_Fourment_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó este retrato de su joven segunda esposa?",
+    "o": [
+      "Peter Paul Rubens",
+      "Anthony van Dyck",
+      "Rembrandt",
+      "Frans Hals"
+    ],
+    "a": "Peter Paul Rubens",
+    "n": "Hélène Fourment, con quien Rubens se casó a los 53 años.",
+    "titulo": "Retrato de Hélène Fourment · Peter Paul Rubens, 1630"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-bacanal",
+    "img": [
+      "obras/bacanal.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Peter_Paul_Rubens_-_Bacchanalia_-_Google_Art_Project.jpg/960px-Peter_Paul_Rubens_-_Bacchanalia_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Peter_Paul_Rubens_-_Bacchanalia_-_Google_Art_Project.jpg/500px-Peter_Paul_Rubens_-_Bacchanalia_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué país era el pintor barroco de esta bacanal?",
+    "o": [
+      "Flandes",
+      "Italia",
+      "España",
+      "Francia"
+    ],
+    "a": "Flandes",
+    "n": "Rubens, el gran maestro del barroco flamenco.",
+    "titulo": "Bacanal · Peter Paul Rubens"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-susana-rubens",
+    "img": [
+      "obras/susana-rubens.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pedro_Pablo_Rubens_-_Susana_y_los_viejos_-_Google_Art_Project.jpg/960px-Pedro_Pablo_Rubens_-_Susana_y_los_viejos_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pedro_Pablo_Rubens_-_Susana_y_los_viejos_-_Google_Art_Project.jpg/500px-Pedro_Pablo_Rubens_-_Susana_y_los_viejos_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué escena bíblica representa este cuadro de Rubens?",
+    "o": [
+      "Susana y los viejos",
+      "Judit y Holofernes",
+      "Betsabé en el baño",
+      "Rut y Booz"
+    ],
+    "a": "Susana y los viejos",
+    "titulo": "Susana y los viejos · Peter Paul Rubens, 1608"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-aurora",
+    "img": [
+      "obras/aurora.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Peter_Paul_Rubens_-_Aurora_abducting_Cephalus_-_Google_Art_Project.jpg/960px-Peter_Paul_Rubens_-_Aurora_abducting_Cephalus_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Peter_Paul_Rubens_-_Aurora_abducting_Cephalus_-_Google_Art_Project.jpg/500px-Peter_Paul_Rubens_-_Aurora_abducting_Cephalus_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿A qué movimiento pertenece esta escena mitológica de figuras exuberantes?",
+    "o": [
+      "Al Barroco",
+      "Al Renacimiento",
+      "Al Neoclasicismo",
+      "Al Rococó"
+    ],
+    "a": "Al Barroco",
+    "titulo": "Aurora raptando a Céfalo · Peter Paul Rubens, 1636"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-entierro",
+    "img": [
+      "obras/entierro.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Peter_Paul_Rubens_(Flemish_-_The_Entombment_-_Google_Art_Project.jpg/960px-Peter_Paul_Rubens_(Flemish_-_The_Entombment_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Peter_Paul_Rubens_(Flemish_-_The_Entombment_-_Google_Art_Project.jpg/500px-Peter_Paul_Rubens_(Flemish_-_The_Entombment_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó este entierro de Cristo?",
+    "o": [
+      "Peter Paul Rubens",
+      "Caravaggio",
+      "El Greco",
+      "Tiziano"
+    ],
+    "a": "Peter Paul Rubens",
+    "titulo": "El entierro de Cristo · Peter Paul Rubens"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-cazadores",
+    "img": [
+      "obras/cazadores.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_(Winter)_-_Google_Art_Project.jpg/960px-Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_(Winter)_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_(Winter)_-_Google_Art_Project.jpg/500px-Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_(Winter)_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó esta escena invernal de cazadores volviendo al pueblo?",
+    "o": [
+      "Pieter Bruegel el Viejo",
+      "El Bosco",
+      "Rembrandt",
+      "Alberto Durero"
+    ],
+    "a": "Pieter Bruegel el Viejo",
+    "n": "'Los cazadores en la nieve', 1565.",
+    "titulo": "Los cazadores en la nieve · Pieter Bruegel el Viejo, 1565"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-babel",
+    "img": [
+      "obras/babel.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Rotterdam)_-_Google_Art_Project.jpg/960px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Rotterdam)_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Rotterdam)_-_Google_Art_Project.jpg/500px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Rotterdam)_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué construcción bíblica representa esta obra?",
+    "o": [
+      "La torre de Babel",
+      "El arca de Noé",
+      "El templo de Salomón",
+      "Las murallas de Jericó"
+    ],
+    "a": "La torre de Babel",
+    "n": "De Pieter Bruegel el Viejo. Pintó al menos dos versiones.",
+    "titulo": "La torre de Babel · Pieter Bruegel el Viejo, 1565"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-juegos",
+    "img": [
+      "obras/juegos.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg/960px-Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg/500px-Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Cuántos juegos distintos identificaron los estudiosos en este cuadro?",
+    "o": [
+      "Más de ochenta",
+      "Menos de diez",
+      "Alrededor de veinte",
+      "Exactamente cuarenta"
+    ],
+    "a": "Más de ochenta",
+    "n": "'Juegos de niños' de Bruegel, 1560, funciona como un catálogo de la infancia del siglo XVI.",
+    "titulo": "Juegos de niños · Pieter Bruegel el Viejo, 1560"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-peces",
+    "img": [
+      "obras/peces.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pieter_Bruegel_the_Elder_-_Big_Fish_Eat_Little_Fish%2C_1556_-_Google_Art_Project.jpg/960px-Pieter_Bruegel_the_Elder_-_Big_Fish_Eat_Little_Fish%2C_1556_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pieter_Bruegel_the_Elder_-_Big_Fish_Eat_Little_Fish%2C_1556_-_Google_Art_Project.jpg/500px-Pieter_Bruegel_the_Elder_-_Big_Fish_Eat_Little_Fish%2C_1556_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué género recorre buena parte de la obra de Bruegel, también acá?",
+    "o": [
+      "La ilustración de refranes populares",
+      "El retrato de corte",
+      "La pintura de batallas navales",
+      "El desnudo mitológico"
+    ],
+    "a": "La ilustración de refranes populares",
+    "n": "Acá, el pez grande que se come al chico.",
+    "titulo": "El pez grande se come al chico · Pieter Bruegel el Viejo, 1556"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-melancolia",
+    "img": [
+      "obras/melancolia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_(_AGDdr3EHmNGyA).jpg/960px-Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_(_AGDdr3EHmNGyA).jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_(_AGDdr3EHmNGyA).jpg/500px-Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_(_AGDdr3EHmNGyA).jpg"
+    ],
+    "q": "¿Quién grabó esta figura alada rodeada de instrumentos?",
+    "o": [
+      "Alberto Durero",
+      "Rembrandt",
+      "Hans Holbein",
+      "Lucas Cranach"
+    ],
+    "a": "Alberto Durero",
+    "n": "'Melancolía I', 1514, uno de los grabados más analizados de la historia.",
+    "titulo": "Melancolía I · Alberto Durero, 1514"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-durero-madonna",
+    "img": [
+      "obras/durero-madonna.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Albrecht_D%C3%BCrer_-_Madonna_and_Child_(obverse)_-_Google_Art_Project.jpg/960px-Albrecht_D%C3%BCrer_-_Madonna_and_Child_(obverse)_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Albrecht_D%C3%BCrer_-_Madonna_and_Child_(obverse)_-_Google_Art_Project.jpg/500px-Albrecht_D%C3%BCrer_-_Madonna_and_Child_(obverse)_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué país era el autor de esta obra del Renacimiento?",
+    "o": [
+      "Alemania",
+      "Italia",
+      "Países Bajos",
+      "Francia"
+    ],
+    "a": "Alemania",
+    "n": "Alberto Durero, de Núremberg.",
+    "titulo": "La Virgen con el Niño · Alberto Durero, 1496"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-arrieta",
+    "img": [
+      "obras/arrieta.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Francisco_de_Goya_-_Self-Portrait_with_Dr._Arrieta_-_Google_Art_Project.jpg/960px-Francisco_de_Goya_-_Self-Portrait_with_Dr._Arrieta_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Francisco_de_Goya_-_Self-Portrait_with_Dr._Arrieta_-_Google_Art_Project.jpg/500px-Francisco_de_Goya_-_Self-Portrait_with_Dr._Arrieta_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué hizo Goya con este cuadro una vez terminado?",
+    "o": [
+      "Se lo regaló a su médico en agradecimiento",
+      "Lo vendió a la corte",
+      "Lo destruyó",
+      "Lo escondió durante veinte años"
+    ],
+    "a": "Se lo regaló a su médico en agradecimiento",
+    "n": "Lo pintó en 1820, tras una enfermedad que casi lo mata.",
+    "titulo": "Autorretrato con el doctor Arrieta · Francisco de Goya, 1820"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-gigante",
+    "img": [
+      "obras/gigante.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Francisco_Goya_y_Lucientes_-_Seated_Giant_-_Google_Art_Project.jpg/960px-Francisco_Goya_y_Lucientes_-_Seated_Giant_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Francisco_Goya_y_Lucientes_-_Seated_Giant_-_Google_Art_Project.jpg/500px-Francisco_Goya_y_Lucientes_-_Seated_Giant_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién es el autor de esta figura de un gigante sentado?",
+    "o": [
+      "Francisco de Goya",
+      "Gustave Doré",
+      "William Blake",
+      "Honoré Daumier"
+    ],
+    "a": "Francisco de Goya",
+    "titulo": "El gigante sentado · Francisco de Goya, 1818"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-sureda",
+    "img": [
+      "obras/sureda.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Francisco_de_Goya_-_Bartolom%C3%A9_Sureda_y_Miserol_-_Google_Art_Project.jpg/960px-Francisco_de_Goya_-_Bartolom%C3%A9_Sureda_y_Miserol_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Francisco_de_Goya_-_Bartolom%C3%A9_Sureda_y_Miserol_-_Google_Art_Project.jpg/500px-Francisco_de_Goya_-_Bartolom%C3%A9_Sureda_y_Miserol_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué país era el pintor de este retrato?",
+    "o": [
+      "España",
+      "Francia",
+      "Italia",
+      "Portugal"
+    ],
+    "a": "España",
+    "n": "Goya, nacido en Fuendetodos, Aragón.",
+    "titulo": "Retrato de Bartolomé Sureda · Francisco de Goya, 1804"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-divan",
+    "img": [
+      "obras/divan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Henri_de_Toulouse-Lautrec_-_Divan_Japonais_-_Google_Art_Project.jpg/960px-Henri_de_Toulouse-Lautrec_-_Divan_Japonais_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Henri_de_Toulouse-Lautrec_-_Divan_Japonais_-_Google_Art_Project.jpg/500px-Henri_de_Toulouse-Lautrec_-_Divan_Japonais_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién hizo este afiche de un local nocturno parisino?",
+    "o": [
+      "Henri de Toulouse-Lautrec",
+      "Alphonse Mucha",
+      "Paul Gauguin",
+      "Édouard Manet"
+    ],
+    "a": "Henri de Toulouse-Lautrec",
+    "n": "'Divan Japonais', 1893. Lautrec revolucionó el cartel publicitario.",
+    "titulo": "Divan Japonais · Henri de Toulouse-Lautrec, 1893"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-moulinrouge",
+    "img": [
+      "obras/moulinrouge.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Henri_de_Toulouse-Lautrec_-_The_Englishman_at_the_Moulin_Rouge_-_Google_Art_Project.jpg/960px-Henri_de_Toulouse-Lautrec_-_The_Englishman_at_the_Moulin_Rouge_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Henri_de_Toulouse-Lautrec_-_The_Englishman_at_the_Moulin_Rouge_-_Google_Art_Project.jpg/500px-Henri_de_Toulouse-Lautrec_-_The_Englishman_at_the_Moulin_Rouge_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué cabaret parisino retrató obsesivamente este pintor?",
+    "o": [
+      "El Moulin Rouge",
+      "El Lido",
+      "El Folies Bergère",
+      "El Crazy Horse"
+    ],
+    "a": "El Moulin Rouge",
+    "n": "Toulouse-Lautrec era un habitué de Montmartre.",
+    "titulo": "El inglés en el Moulin Rouge · Henri de Toulouse-Lautrec, 1892"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-cafelamie",
+    "img": [
+      "obras/cafelamie.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Henri_de_Toulouse-Lautrec_-_At_the_Caf%C3%A9_La_Mie_-_Google_Art_Project.jpg/960px-Henri_de_Toulouse-Lautrec_-_At_the_Caf%C3%A9_La_Mie_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Henri_de_Toulouse-Lautrec_-_At_the_Caf%C3%A9_La_Mie_-_Google_Art_Project.jpg/500px-Henri_de_Toulouse-Lautrec_-_At_the_Caf%C3%A9_La_Mie_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿A qué período pertenece esta escena de café parisino?",
+    "o": [
+      "Al posimpresionismo",
+      "Al Renacimiento",
+      "Al Barroco",
+      "Al Romanticismo"
+    ],
+    "a": "Al posimpresionismo",
+    "titulo": "En el café La Mie · Henri de Toulouse-Lautrec, 1891"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-banistas",
+    "img": [
+      "obras/banistas.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pierre_Auguste_Renoir_-_The_Bathers_-_Google_Art_Project.jpg/960px-Pierre_Auguste_Renoir_-_The_Bathers_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pierre_Auguste_Renoir_-_The_Bathers_-_Google_Art_Project.jpg/500px-Pierre_Auguste_Renoir_-_The_Bathers_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó estas bañistas de carnes rosadas?",
+    "o": [
+      "Pierre-Auguste Renoir",
+      "Edgar Degas",
+      "Paul Cézanne",
+      "Camille Pissarro"
+    ],
+    "a": "Pierre-Auguste Renoir",
+    "titulo": "Las bañistas · Pierre-Auguste Renoir, 1887"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-promenade",
+    "img": [
+      "obras/promenade.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pierre-Auguste_Renoir_(French_-_La_Promenade_-_Google_Art_Project.jpg/960px-Pierre-Auguste_Renoir_(French_-_La_Promenade_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pierre-Auguste_Renoir_(French_-_La_Promenade_-_Google_Art_Project.jpg/500px-Pierre-Auguste_Renoir_(French_-_La_Promenade_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿A qué movimiento pertenece esta escena de una pareja en el bosque?",
+    "o": [
+      "Al impresionismo",
+      "Al realismo",
+      "Al simbolismo",
+      "Al fauvismo"
+    ],
+    "a": "Al impresionismo",
+    "n": "'La promenade' de Renoir, 1870.",
+    "titulo": "La promenade · Pierre-Auguste Renoir, 1870"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-sombrero",
+    "img": [
+      "obras/sombrero.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pierre_Auguste_Renoir_-_Woman_in_a_Flowered_Hat_-_Google_Art_Project.jpg/960px-Pierre_Auguste_Renoir_-_Woman_in_a_Flowered_Hat_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pierre_Auguste_Renoir_-_Woman_in_a_Flowered_Hat_-_Google_Art_Project.jpg/500px-Pierre_Auguste_Renoir_-_Woman_in_a_Flowered_Hat_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué pintor impresionista es este retrato femenino?",
+    "o": [
+      "Pierre-Auguste Renoir",
+      "Berthe Morisot",
+      "Mary Cassatt",
+      "Édouard Manet"
+    ],
+    "a": "Pierre-Auguste Renoir",
+    "titulo": "Mujer con sombrero florido · Pierre-Auguste Renoir"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-sanmarco",
+    "img": [
+      "obras/sanmarco.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pierre_Auguste_Renoir_-_The_Piazza_San_Marco%2C_Venice_-_Google_Art_Project.jpg/960px-Pierre_Auguste_Renoir_-_The_Piazza_San_Marco%2C_Venice_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pierre_Auguste_Renoir_-_The_Piazza_San_Marco%2C_Venice_-_Google_Art_Project.jpg/500px-Pierre_Auguste_Renoir_-_The_Piazza_San_Marco%2C_Venice_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué plaza famosa pintó Renoir en este cuadro?",
+    "o": [
+      "La plaza de San Marcos, en Venecia",
+      "La plaza Navona, en Roma",
+      "La plaza Mayor, en Madrid",
+      "La plaza de la Concordia, en París"
+    ],
+    "a": "La plaza de San Marcos, en Venecia",
+    "titulo": "La plaza de San Marcos, Venecia · Pierre-Auguste Renoir, 1881"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-bailarinas",
+    "img": [
+      "obras/bailarinas.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Edgar_Degas_-_Four_Dancers_-_Google_Art_Project.jpg/960px-Edgar_Degas_-_Four_Dancers_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Edgar_Degas_-_Four_Dancers_-_Google_Art_Project.jpg/500px-Edgar_Degas_-_Four_Dancers_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué pintor francés hizo de las bailarinas de ballet su tema central?",
+    "o": [
+      "Edgar Degas",
+      "Pierre-Auguste Renoir",
+      "Claude Monet",
+      "Georges Seurat"
+    ],
+    "a": "Edgar Degas",
+    "titulo": "Cuatro bailarinas · Edgar Degas, 1899"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-barra",
+    "img": [
+      "obras/barra.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Edgar_Degas_-_Dancers_at_the_Barre_-_Google_Art_Project.jpg/960px-Edgar_Degas_-_Dancers_at_the_Barre_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Edgar_Degas_-_Dancers_at_the_Barre_-_Google_Art_Project.jpg/500px-Edgar_Degas_-_Dancers_at_the_Barre_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿En qué ciudad vivió y trabajó el pintor de estas bailarinas?",
+    "o": [
+      "París",
+      "Viena",
+      "Londres",
+      "San Petersburgo"
+    ],
+    "a": "París",
+    "n": "Degas frecuentaba los ensayos de la Ópera de París.",
+    "titulo": "Bailarinas en la barra · Edgar Degas"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-planchadora",
+    "img": [
+      "obras/planchadora.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Edgar_Degas_-_Woman_Ironing_-_Google_Art_Project_(27443345).jpg/960px-Edgar_Degas_-_Woman_Ironing_-_Google_Art_Project_(27443345).jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Edgar_Degas_-_Woman_Ironing_-_Google_Art_Project_(27443345).jpg/500px-Edgar_Degas_-_Woman_Ironing_-_Google_Art_Project_(27443345).jpg"
+    ],
+    "q": "¿Quién pintó esta mujer planchando?",
+    "o": [
+      "Edgar Degas",
+      "Gustave Caillebotte",
+      "Honoré Daumier",
+      "Jean-François Millet"
+    ],
+    "a": "Edgar Degas",
+    "n": "Degas también retrató el trabajo urbano, no solo el ballet.",
+    "titulo": "Mujer planchando · Edgar Degas, 1873"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-zapatilla",
+    "img": [
+      "obras/zapatilla.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Edgar_Degas_-_Dancer_Adjusting_Her_Slipper_-_Google_Art_Project.jpg/960px-Edgar_Degas_-_Dancer_Adjusting_Her_Slipper_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Edgar_Degas_-_Dancer_Adjusting_Her_Slipper_-_Google_Art_Project.jpg/500px-Edgar_Degas_-_Dancer_Adjusting_Her_Slipper_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿A qué grupo de artistas perteneció el autor de este dibujo?",
+    "o": [
+      "A los impresionistas",
+      "A los prerrafaelitas",
+      "A los fauvistas",
+      "A los nazarenos"
+    ],
+    "a": "A los impresionistas",
+    "titulo": "Bailarina ajustándose la zapatilla · Edgar Degas"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-ciruela",
+    "img": [
+      "obras/ciruela.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Edouard_Manet_-_Plum_Brandy_-_Google_Art_Project.jpg/960px-Edouard_Manet_-_Plum_Brandy_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Edouard_Manet_-_Plum_Brandy_-_Google_Art_Project.jpg/500px-Edouard_Manet_-_Plum_Brandy_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién pintó esta mujer sola en un café?",
+    "o": [
+      "Édouard Manet",
+      "Edgar Degas",
+      "Henri de Toulouse-Lautrec",
+      "Gustave Caillebotte"
+    ],
+    "a": "Édouard Manet",
+    "titulo": "La ciruela · Édouard Manet, 1877"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-ferrocarril",
+    "img": [
+      "obras/ferrocarril.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Edouard_Manet_-_The_Railway_-_Google_Art_Project.jpg/960px-Edouard_Manet_-_The_Railway_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Edouard_Manet_-_The_Railway_-_Google_Art_Project.jpg/500px-Edouard_Manet_-_The_Railway_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Junto a qué estación parisina pintó Manet esta escena?",
+    "o": [
+      "Saint-Lazare",
+      "Montparnasse",
+      "Gare du Nord",
+      "Austerlitz"
+    ],
+    "a": "Saint-Lazare",
+    "n": "La misma estación que Monet pintaría en una serie pocos años después.",
+    "titulo": "El ferrocarril · Édouard Manet, 1873"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-osny",
+    "img": [
+      "obras/osny.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Paul_Gauguin_-_Entrance_to_the_Village_of_Osny_-_Google_Art_Project.jpg/960px-Paul_Gauguin_-_Entrance_to_the_Village_of_Osny_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Paul_Gauguin_-_Entrance_to_the_Village_of_Osny_-_Google_Art_Project.jpg/500px-Paul_Gauguin_-_Entrance_to_the_Village_of_Osny_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué pintor francés terminó instalándose en Tahití?",
+    "o": [
+      "Paul Gauguin",
+      "Paul Cézanne",
+      "Camille Pissarro",
+      "Georges Seurat"
+    ],
+    "a": "Paul Gauguin",
+    "titulo": "Entrada al pueblo de Osny · Paul Gauguin, 1883"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-ciervos",
+    "img": [
+      "obras/ciervos.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gustave_Courbet_-_Deer_in_the_Forest_-_Google_Art_Project.jpg/960px-Gustave_Courbet_-_Deer_in_the_Forest_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gustave_Courbet_-_Deer_in_the_Forest_-_Google_Art_Project.jpg/500px-Gustave_Courbet_-_Deer_in_the_Forest_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿A qué movimiento del siglo XIX se asocia a Gustave Courbet, autor de esta obra?",
+    "o": [
+      "Al realismo",
+      "Al impresionismo",
+      "Al romanticismo",
+      "Al simbolismo"
+    ],
+    "a": "Al realismo",
+    "titulo": "Ciervos en el bosque · Gustave Courbet"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-kimono",
+    "img": [
+      "obras/kimono.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gustav_Klimt_-_Woman_in_Kimono%2C_left_shoulder_bare_-_Google_Art_Project.jpg/960px-Gustav_Klimt_-_Woman_in_Kimono%2C_left_shoulder_bare_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gustav_Klimt_-_Woman_in_Kimono%2C_left_shoulder_bare_-_Google_Art_Project.jpg/500px-Gustav_Klimt_-_Woman_in_Kimono%2C_left_shoulder_bare_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién dibujó esta mujer en kimono?",
+    "o": [
+      "Gustav Klimt",
+      "Egon Schiele",
+      "Henri Matisse",
+      "Amedeo Modigliani"
+    ],
+    "a": "Gustav Klimt",
+    "titulo": "Mujer en kimono · Gustav Klimt"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-lechuzas",
+    "img": [
+      "obras/lechuzas.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jheronimus_Bosch_-_The_Owl's_Nest_-_Google_Art_Project.jpg/960px-Jheronimus_Bosch_-_The_Owl's_Nest_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jheronimus_Bosch_-_The_Owl's_Nest_-_Google_Art_Project.jpg/500px-Jheronimus_Bosch_-_The_Owl's_Nest_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Quién dibujó este nido de lechuzas?",
+    "o": [
+      "El Bosco",
+      "Pieter Bruegel el Viejo",
+      "Alberto Durero",
+      "Lucas van Leyden"
+    ],
+    "a": "El Bosco",
+    "n": "Jheronimus Bosch, el pintor de 'El jardín de las delicias'.",
+    "titulo": "El nido de lechuzas · El Bosco"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-patinadores",
+    "img": [
+      "obras/patinadores.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hendrick_Avercamp_-_A_Scene_on_the_Ice_-_Google_Art_Project.jpg/960px-Hendrick_Avercamp_-_A_Scene_on_the_Ice_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hendrick_Avercamp_-_A_Scene_on_the_Ice_-_Google_Art_Project.jpg/500px-Hendrick_Avercamp_-_A_Scene_on_the_Ice_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿Qué período climático europeo explica que los canales holandeses se congelaran así?",
+    "o": [
+      "La Pequeña Edad de Hielo",
+      "El Óptimo Climático Medieval",
+      "El deshielo del Rin",
+      "El invierno nuclear"
+    ],
+    "a": "La Pequeña Edad de Hielo",
+    "n": "De Hendrick Avercamp, que pintó estas escenas en el siglo XVII.",
+    "titulo": "Escena sobre el hielo · Hendrick Avercamp"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "o-velero",
+    "img": [
+      "obras/velero.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Winslow_Homer_-_Breezing_Up_(A_Fair_Wind)_-_Google_Art_Project.jpg/960px-Winslow_Homer_-_Breezing_Up_(A_Fair_Wind)_-_Google_Art_Project.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Winslow_Homer_-_Breezing_Up_(A_Fair_Wind)_-_Google_Art_Project.jpg/500px-Winslow_Homer_-_Breezing_Up_(A_Fair_Wind)_-_Google_Art_Project.jpg"
+    ],
+    "q": "¿De qué país era Winslow Homer, el autor de esta marina?",
+    "o": [
+      "Estados Unidos",
+      "Inglaterra",
+      "Canadá",
+      "Australia"
+    ],
+    "a": "Estados Unidos",
+    "n": "Pintó esta obra en 1876, el año del centenario de la independencia.",
+    "titulo": "Viento a favor · Winslow Homer, 1876"
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué técnica pictórica usa pigmentos diluidos en agua sobre papel, dejando ver el blanco del soporte?",
+    "a": "La acuarela"
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué técnica de pintura mural sobre yeso fresco usaron los grandes maestros del Renacimiento?",
+    "a": "El fresco"
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama el estilo arquitectónico de las catedrales con arcos apuntados y vitrales?",
+    "a": "El gótico"
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿En qué museo de Madrid está 'Las meninas'?",
+    "a": "En el Museo del Prado"
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué escultor francés hizo 'El pensador'?",
+    "a": "Auguste Rodin"
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la corriente artística que buscaba representar el subconsciente y los sueños?",
+    "a": "El surrealismo"
+  },
+  {
+    "c": "Arte",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué museo neoyorquino tiene una famosa rampa en espiral diseñada por Frank Lloyd Wright?",
+    "a": "El Guggenheim"
+  },
+  {
+    "c": "Arte",
+    "t": "vf",
+    "p": 1,
+    "q": "La Capilla Sixtina está en el Vaticano.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Arte",
+    "t": "vf",
+    "p": 1,
+    "q": "Van Gogh vendió muchos cuadros en vida.",
+    "a": "Falso",
+    "n": "Se le reconoce la venta de muy pocos."
+  },
+  {
+    "c": "Arte",
+    "t": "vf",
+    "p": 1,
+    "q": "El Museo del Louvre funciona en un antiguo palacio real.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Arte",
+    "t": "mc",
+    "p": 1,
+    "g": "zanetti",
+    "q": "¿Qué pintor y escenógrafo argentino, ganador de un Oscar, murió en septiembre de 2026?",
+    "o": [
+      "Eugenio Zanetti",
+      "Guillermo Kuitca",
+      "Luis Felipe Noé",
+      "Carlos Alonso"
+    ],
+    "a": "Eugenio Zanetti",
+    "n": "Nació en Córdoba en 1946 y murió a los 79 años; ganó el Oscar a mejor dirección de arte en 1996 por 'Restauración'."
+  }
+]

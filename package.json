@@ -1,0 +1,18 @@
+{
+  "name": "trivia-y-pururu",
+  "version": "1.0.0",
+  "description": "Juego de práctica para noches de trivia. Compila a un único HTML autocontenido.",
+  "private": true,
+  "scripts": {
+    "validar": "node scripts/validar.mjs",
+    "build": "node build.mjs",
+    "test": "npm run validar && npm run build"
+  },
+  "devDependencies": {
+    "esbuild": "0.21.5"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}

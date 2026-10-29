@@ -1,0 +1,1223 @@
+[
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el país con más pirámides?",
+    "o": [
+      "Sudán",
+      "Egipto",
+      "México",
+      "Perú"
+    ],
+    "a": "Sudán",
+    "n": "Las pirámides nubias de Meroe superan largamente en cantidad a las egipcias."
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el país más poblado del mundo?",
+    "o": [
+      "India",
+      "China",
+      "Estados Unidos",
+      "Indonesia"
+    ],
+    "a": "India",
+    "n": "Superó a China en 2023."
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es la provincia argentina de mayor superficie?",
+    "a": "Buenos Aires"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la provincia argentina de menor superficie?",
+    "o": [
+      "Tucumán",
+      "Misiones",
+      "Jujuy",
+      "San Luis"
+    ],
+    "a": "Tucumán"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Sobre qué océano está Mar del Plata?",
+    "o": [
+      "Atlántico",
+      "Pacífico",
+      "Índico",
+      "Ártico"
+    ],
+    "a": "Atlántico"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es la cepa de vino típica de Salta?",
+    "a": "El Torrontés"
+  },
+  {
+    "c": "Mundo",
+    "t": "ord",
+    "p": 2,
+    "q": "Ordená estas plataformas de la más antigua a la más nueva.",
+    "o": [
+      "Facebook",
+      "YouTube",
+      "Instagram",
+      "TikTok"
+    ],
+    "a": [
+      "Facebook",
+      "YouTube",
+      "Instagram",
+      "TikTok"
+    ],
+    "n": "2004, 2005, 2010 y 2016."
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el país más pequeño del mundo?",
+    "a": "La Ciudad del Vaticano"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el río más caudaloso del mundo?",
+    "a": "El Amazonas"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la capital de Australia?",
+    "o": [
+      "Canberra",
+      "Sídney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "a": "Canberra"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la capital de Canadá?",
+    "o": [
+      "Ottawa",
+      "Toronto",
+      "Montreal",
+      "Vancouver"
+    ],
+    "a": "Ottawa"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántas provincias tiene Argentina?",
+    "o": [
+      "23",
+      "24",
+      "22",
+      "25"
+    ],
+    "a": "23",
+    "n": "23 provincias más la Ciudad Autónoma de Buenos Aires."
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el punto más alto de América?",
+    "a": "El cerro Aconcagua"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué país abarca más husos horarios, contando sus territorios de ultramar?",
+    "o": [
+      "Francia",
+      "Rusia",
+      "Estados Unidos",
+      "Reino Unido"
+    ],
+    "a": "Francia",
+    "n": "Doce husos gracias a sus territorios de ultramar. Rusia, con once, es el que más abarca en territorio continuo."
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el océano más extenso?",
+    "o": [
+      "Pacífico",
+      "Atlántico",
+      "Índico",
+      "Glacial Ártico"
+    ],
+    "a": "Pacífico"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el país más extenso del mundo?",
+    "o": [
+      "Rusia",
+      "Canadá",
+      "China",
+      "Estados Unidos"
+    ],
+    "a": "Rusia"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es la montaña más alta del mundo medida sobre el nivel del mar?",
+    "a": "El Everest",
+    "n": "Medido desde su base, el más alto es el Mauna Kea; desde el centro de la Tierra, el Chimborazo."
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Entre qué dos países se reparte el lago Titicaca?",
+    "o": [
+      "Perú y Bolivia",
+      "Bolivia y Chile",
+      "Perú y Ecuador",
+      "Bolivia y Paraguay"
+    ],
+    "a": "Perú y Bolivia"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "sinmar",
+    "q": "¿Cuáles son los dos países de Sudamérica sin salida al mar?",
+    "o": [
+      "Bolivia y Paraguay",
+      "Bolivia y Uruguay",
+      "Paraguay y Ecuador",
+      "Paraguay y Guyana"
+    ],
+    "a": "Bolivia y Paraguay"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿En qué provincia argentina está Ushuaia?",
+    "a": "En Tierra del Fuego"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué país está el Salto Ángel, la cascada más alta del mundo?",
+    "o": [
+      "Venezuela",
+      "Brasil",
+      "Colombia",
+      "Guyana"
+    ],
+    "a": "Venezuela"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la moneda del Reino Unido?",
+    "o": [
+      "La libra esterlina",
+      "El euro",
+      "La corona",
+      "El chelín"
+    ],
+    "a": "La libra esterlina"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la capital de Ecuador?",
+    "o": [
+      "Quito",
+      "Guayaquil",
+      "Cuenca",
+      "Loja"
+    ],
+    "a": "Quito"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la capital constitucional de Bolivia?",
+    "o": [
+      "Sucre",
+      "La Paz",
+      "Santa Cruz",
+      "Cochabamba"
+    ],
+    "a": "Sucre",
+    "n": "La Paz es la sede del gobierno."
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es la capital de Paraguay?",
+    "a": "Asunción"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué provincia argentina están las Cataratas del Iguazú?",
+    "o": [
+      "Misiones",
+      "Corrientes",
+      "Formosa",
+      "Chaco"
+    ],
+    "a": "Misiones"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿En qué provincia está el glaciar Perito Moreno?",
+    "a": "En Santa Cruz"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué provincia está el Parque Nacional Ischigualasto, el Valle de la Luna?",
+    "o": [
+      "San Juan",
+      "La Rioja",
+      "Mendoza",
+      "Catamarca"
+    ],
+    "a": "San Juan"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué ballena llega cada año a Península Valdés?",
+    "a": "La ballena franca austral"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el desierto más árido del mundo?",
+    "o": [
+      "El de Atacama",
+      "El Sahara",
+      "El de Gobi",
+      "El de Kalahari"
+    ],
+    "a": "El de Atacama"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "desiertos",
+    "q": "¿Cuál es el desierto cálido más extenso del mundo?",
+    "o": [
+      "El Sahara",
+      "El de Atacama",
+      "El de Gobi",
+      "El de Arabia"
+    ],
+    "a": "El Sahara",
+    "n": "El mayor desierto del planeta, si se cuentan los fríos, es la Antártida."
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Entre qué dos países se reparte el Everest?",
+    "a": "Entre Nepal y China"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la capital de Uruguay?",
+    "o": [
+      "Montevideo",
+      "Punta del Este",
+      "Salto",
+      "Colonia"
+    ],
+    "a": "Montevideo"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es la capital de la provincia argentina de Chubut?",
+    "a": "Rawson"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la capital de la provincia de Misiones?",
+    "o": [
+      "Posadas",
+      "Oberá",
+      "Eldorado",
+      "Iguazú"
+    ],
+    "a": "Posadas"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿En qué año el Reino Unido salió formalmente de la Unión Europea?",
+    "a": "En 2020"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuántos países integran América del Sur?",
+    "o": [
+      "Doce",
+      "Diez",
+      "Trece",
+      "Catorce"
+    ],
+    "a": "Doce"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué río es el segundo más largo de América del Sur, después del Amazonas?",
+    "a": "El Paraná"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué provincia argentina está la Quebrada de Humahuaca?",
+    "o": [
+      "Jujuy",
+      "Salta",
+      "Tucumán",
+      "Catamarca"
+    ],
+    "a": "Jujuy"
+  },
+  {
+    "c": "Mundo",
+    "t": "vf",
+    "p": 1,
+    "q": "Australia es a la vez un país, un continente y una isla.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Mundo",
+    "t": "ord",
+    "p": 2,
+    "q": "Ordená estas ciudades argentinas de norte a sur.",
+    "o": [
+      "Salta",
+      "Córdoba",
+      "Bariloche",
+      "Ushuaia"
+    ],
+    "a": [
+      "Salta",
+      "Córdoba",
+      "Bariloche",
+      "Ushuaia"
+    ]
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la capital de la provincia de Santa Cruz?",
+    "o": [
+      "Río Gallegos",
+      "El Calafate",
+      "Caleta Olivia",
+      "Puerto Deseado"
+    ],
+    "a": "Río Gallegos"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es la capital de la provincia de Entre Ríos?",
+    "a": "Paraná"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué provincia argentina están las Salinas Grandes que se visitan desde Purmamarca?",
+    "o": [
+      "Jujuy y Salta",
+      "Córdoba y La Rioja",
+      "Catamarca y Tucumán",
+      "San Juan y Mendoza"
+    ],
+    "a": "Jujuy y Salta"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿En qué provincia está el Parque Nacional Talampaya?",
+    "a": "En La Rioja"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué ciudad es considerada la más austral del mundo?",
+    "o": [
+      "Ushuaia",
+      "Punta Arenas",
+      "Río Grande",
+      "Puerto Williams"
+    ],
+    "a": "Ushuaia",
+    "n": "Puerto Williams, en Chile, disputa el título como localidad."
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué cordillera recorre el oeste de América del Sur?",
+    "a": "La cordillera de los Andes"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el mar más salado del mundo?",
+    "o": [
+      "El mar Muerto",
+      "El mar Rojo",
+      "El mar Caspio",
+      "El mar Negro"
+    ],
+    "a": "El mar Muerto"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué canal une el océano Atlántico con el Pacífico en América Central?",
+    "a": "El canal de Panamá"
+  },
+  {
+    "c": "Mundo",
+    "t": "vf",
+    "p": 1,
+    "g": "sinmar",
+    "q": "Bolivia tiene salida al mar.",
+    "a": "Falso"
+  },
+  {
+    "c": "Mundo",
+    "t": "vf",
+    "p": 1,
+    "q": "África es el continente con más países.",
+    "a": "Verdadero",
+    "n": "Tiene 54 Estados reconocidos."
+  },
+  {
+    "c": "Mundo",
+    "t": "vf",
+    "p": 1,
+    "g": "desiertos",
+    "q": "La Antártida es el desierto más extenso del planeta.",
+    "a": "Verdadero",
+    "n": "Un desierto se define por sus precipitaciones, no por el calor."
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué provincia están las ruinas jesuíticas de San Ignacio?",
+    "o": [
+      "Misiones",
+      "Corrientes",
+      "Formosa",
+      "Chaco"
+    ],
+    "a": "Misiones"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llaman las canaletas de riego que corren al costado de las calles en Mendoza?",
+    "a": "Acequias"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la cepa de vino blanco más asociada a Salta y los Valles Calchaquíes?",
+    "o": [
+      "Torrontés",
+      "Chardonnay",
+      "Sauvignon Blanc",
+      "Semillón"
+    ],
+    "a": "Torrontés"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el país más pequeño de América del Sur?",
+    "o": [
+      "Surinam",
+      "Uruguay",
+      "Guyana",
+      "Ecuador"
+    ],
+    "a": "Surinam"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el único país de América del Sur donde se habla neerlandés?",
+    "a": "Surinam"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué país tiene más costa sobre el mar Caribe?",
+    "o": [
+      "Venezuela",
+      "Colombia",
+      "México",
+      "Cuba"
+    ],
+    "a": "Venezuela"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el lago navegable más alto del mundo?",
+    "a": "El lago Titicaca"
+  },
+  {
+    "c": "Mundo",
+    "t": "vf",
+    "p": 1,
+    "q": "Estambul está en dos continentes.",
+    "a": "Verdadero",
+    "n": "El Bósforo separa su parte europea de la asiática."
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la capital de la provincia de Tierra del Fuego?",
+    "o": [
+      "Ushuaia",
+      "Río Grande",
+      "Tolhuin",
+      "Puerto Williams"
+    ],
+    "a": "Ushuaia"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es la capital de la provincia de Neuquén?",
+    "a": "Neuquén"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la capital de la provincia de Santiago del Estero?",
+    "o": [
+      "Santiago del Estero",
+      "La Banda",
+      "Termas de Río Hondo",
+      "Añatuya"
+    ],
+    "a": "Santiago del Estero"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué provincias argentinas limitan con Bolivia?",
+    "a": "Jujuy y Salta"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Con cuántos países limita Argentina?",
+    "o": [
+      "Cinco",
+      "Cuatro",
+      "Seis",
+      "Tres"
+    ],
+    "a": "Cinco",
+    "n": "Chile, Bolivia, Paraguay, Brasil y Uruguay."
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el pico más alto de América?",
+    "a": "El Aconcagua"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué provincia está el Aconcagua?",
+    "o": [
+      "Mendoza",
+      "San Juan",
+      "La Rioja",
+      "Neuquén"
+    ],
+    "a": "Mendoza"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama el estrecho que separa la Patagonia continental de Tierra del Fuego?",
+    "a": "El estrecho de Magallanes"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el río más largo del mundo según la medición más aceptada?",
+    "a": "El Nilo, aunque la discusión con el Amazonas sigue abierta"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el océano más grande del planeta?",
+    "o": [
+      "El Pacífico",
+      "El Atlántico",
+      "El Índico",
+      "El Ártico"
+    ],
+    "a": "El Pacífico"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué cordillera separa Europa de Asia por el este?",
+    "a": "Los montes Urales"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el país más poblado de África?",
+    "o": [
+      "Nigeria",
+      "Egipto",
+      "Etiopía",
+      "Sudáfrica"
+    ],
+    "a": "Nigeria"
+  },
+  {
+    "c": "Mundo",
+    "t": "vf",
+    "p": 1,
+    "q": "Rusia tiene territorio en Europa y en Asia.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Mundo",
+    "t": "vf",
+    "p": 1,
+    "q": "Groenlandia es un país independiente.",
+    "a": "Falso",
+    "n": "Es un territorio autónomo del Reino de Dinamarca."
+  },
+  {
+    "c": "Mundo",
+    "t": "vf",
+    "p": 1,
+    "q": "El Amazonas atraviesa territorio argentino.",
+    "a": "Falso"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué país tiene la mayor superficie del mundo?",
+    "a": "Rusia"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué ciudad es la capital de Sudáfrica donde funciona el Poder Ejecutivo?",
+    "o": [
+      "Pretoria",
+      "Ciudad del Cabo",
+      "Johannesburgo",
+      "Durban"
+    ],
+    "a": "Pretoria",
+    "n": "Sudáfrica tiene tres capitales: ejecutiva, legislativa y judicial."
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "g": "sigla-oea",
+    "q": "¿Qué significa la sigla OEA?",
+    "a": "Organización de los Estados Americanos"
+  },
+  {
+    "c": "Mundo",
+    "t": "ab",
+    "p": 2,
+    "g": "sigla-mercosur",
+    "q": "¿Qué significa la sigla MERCOSUR?",
+    "a": "Mercado Común del Sur"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-ba",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M100.9%20401.8L103.7%20401.8L119.1%20393.5L125.3%20381.4L119.4%20383.5L118.8%20380.0L121.9%20381.7L122.0%20377.7L116.1%20373.3L113.1%20365.7L118.3%20359.9L120.4%20341.2L125.9%20343.5L127.9%20341.7L130.2%20323.5L126.3%20322.2L121.2%20316.5L125.0%20316.5L130.2%20321.5L131.5%20319.2L125.8%20315.1L119.6%20313.7L122.3%20313.8L119.1%20310.7L118.3%20306.2L121.6%20298.9L119.8%20299.2L119.2%20296.1L117.7%20296.2L117.5%20291.2L126.2%20291.8L129.9%20297.4L138.7%20300.2L166.1%20301.2L219.0%20293.2L247.9%20286.1L276.7%20276.2L295.1%20266.4L307.1%20257.8L309.9%20243.6L326.8%20222.9L342.1%20197.3L340.9%20172.8L339.2%20168.9L331.4%20172.2L331.5%20170.6L324.8%20167.2L319.3%20161.7L314.5%20152.1L313.6%20146.5L315.2%20139.8L324.0%20125.7L319.3%20116.2L308.5%20104.6L294.8%2095.6L291.1%2095.3L277.3%2087.1L272.3%2092.9L268.4%2089.7L268.5%2082.6L271.1%2080.4L269.6%2076.1L271.8%2072.7L267.3%2068.9L271.6%2068.1L274.8%2063.9L274.2%2056.2L272.1%2055.0L264.6%2057.0L249.1%2046.3L241.3%2044.7L239.8%2040.9L234.9%2041.8L229.9%2037.7L225.2%2038.4L199.5%2018.0L200.1%2020.5L197.7%2022.4L192.3%2036.0L188.8%2036.9L184.6%2033.8L175.2%2033.1L173.2%2038.7L143.8%2073.2L79.7%2073.4L78.4%2075.0L77.8%20385.4L89.0%20387.6L98.5%20396.7L100.9%20401.8Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Buenos Aires",
+      "La Pampa",
+      "Santa Fe",
+      "Río Negro"
+    ],
+    "a": "Buenos Aires"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-cb",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M307.3%2068.4L298.2%2044.3L295.5%2042.3L231.4%2041.9L230.7%2038.9L227.1%2038.0L226.8%2033.9L206.6%2033.5L193.8%2026.3L192.5%2021.4L180.5%2018.0L139.7%2028.6L140.2%2049.3L128.8%2062.0L113.4%2067.3L92.0%20133.1L92.4%20187.4L99.4%20188.0L118.7%20199.5L122.5%20203.9L125.8%20217.9L139.7%20215.4L141.6%20216.5L143.7%20238.0L136.0%20260.6L135.0%20271.8L131.5%20273.6L129.2%20278.3L131.8%20330.4L131.8%20402.0L231.4%20402.0L232.0%20361.5L234.0%20359.2L262.4%20359.3L317.1%20272.0L325.3%20266.2L327.5%20250.2L322.2%20241.9L318.6%20240.7L320.2%20235.7L317.3%20226.9L311.5%20221.9L307.8%20212.1L299.6%20204.9L301.6%20192.8L299.8%20189.0L298.6%20176.0L305.3%20168.4L320.8%20108.0L304.7%2088.0L307.3%2068.4Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Córdoba",
+      "Santiago del Estero",
+      "San Luis",
+      "La Pampa"
+    ],
+    "a": "Córdoba"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-cc",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M402.0%20279.7L399.7%20276.3L393.9%20275.3L385.4%20263.5L363.0%20247.4L356.2%20239.1L345.4%20234.4L341.1%20229.8L332.5%20234.1L326.2%20233.5L323.6%20230.4L320.7%20220.4L302.2%20216.0L301.4%20205.9L299.1%20205.5L294.1%20198.1L287.7%20193.5L286.6%20189.4L275.4%20182.4L273.6%20179.2L263.0%20176.5L258.4%20166.3L258.4%20162.1L254.6%20161.1L253.4%20157.8L250.4%20156.1L249.1%20150.9L244.2%20147.2L238.6%20137.9L227.5%20134.1L215.7%20126.6L197.9%20111.6L194.7%20111.4L189.4%2097.0L184.6%2092.0L166.7%2088.4L158.6%2080.5L156.9%2076.8L150.7%2076.5L146.8%2069.1L141.5%2064.5L131.9%2062.5L122.4%2053.9L98.6%2045.8L99.0%2069.7L18.0%20176.0L143.1%20176.2L145.5%20183.1L146.4%20217.2L146.5%20374.0L362.9%20373.9L366.7%20350.0L361.4%20335.9L361.3%20329.9L382.8%20316.1L383.0%20310.1L379.1%20306.1L379.0%20302.6L381.8%20299.8L385.7%20299.2L387.2%20292.8L389.8%20294.4L393.2%20287.3L392.6%20284.1L402.0%20279.7Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Chaco",
+      "Formosa",
+      "Santiago del Estero",
+      "Corrientes"
+    ],
+    "a": "Chaco"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-ch",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M35.0%2085.5L35.9%2092.0L28.1%2096.5L24.2%2093.3L19.1%20101.9L22.9%20115.5L19.2%20118.5L18.0%20122.4L18.9%20150.4L22.2%20154.3L30.8%20156.1L36.2%20159.6L35.8%20166.2L29.1%20167.8L26.7%20175.4L30.5%20176.6L30.3%20181.3L33.6%20181.7L37.5%20185.3L37.7%20190.4L32.8%20195.0L35.6%20195.8L35.3%20199.3L39.9%20205.4L35.3%20214.0L31.0%20216.7L33.4%20222.8L32.2%20226.8L33.4%20229.6L30.9%20233.5L32.6%20235.1L60.1%20236.6L64.0%20243.0L63.6%20245.6L58.9%20249.8L58.8%20256.6L56.1%20259.6L47.2%20256.3L41.2%20258.6L35.3%20257.0L31.2%20259.3L22.5%20257.0L20.7%20258.8L21.4%20266.2L29.6%20269.0L34.4%20267.8L38.0%20270.6L43.1%20270.9L47.6%20280.0L55.3%20288.9L55.5%20290.9L52.0%20295.4L46.7%20297.7L47.6%20303.3L37.5%20305.5L35.2%20307.9L36.2%20309.3L33.7%20318.4L35.9%20321.3L35.5%20325.1L41.5%20330.4L42.0%20332.7L40.4%20334.5L222.6%20334.5L228.3%20323.7L232.4%20321.3L233.8%20310.5L251.9%20288.3L270.0%20285.7L267.2%20281.0L272.3%20282.8L273.1%20281.6L270.0%20280.5L271.3%20277.8L277.9%20275.0L280.9%20275.9L284.5%20271.8L292.8%20272.5L296.4%20275.3L300.6%20272.5L301.7%20274.8L304.7%20273.8L307.4%20276.2L311.3%20274.0L311.2%20270.6L315.0%20268.0L312.7%20265.8L306.3%20264.2L305.8%20260.4L309.5%20251.6L317.7%20247.4L317.6%20245.9L321.8%20246.5L321.6%20242.2L325.8%20242.2L323.5%20238.7L328.6%20232.8L324.5%20222.5L325.7%20219.6L328.7%20218.6L327.7%20215.3L330.0%20212.2L327.5%20211.7L328.1%20208.5L326.2%20207.8L323.5%20189.1L336.6%20172.4L336.9%20166.4L340.9%20162.7L348.9%20156.9L363.1%20152.0L369.6%20146.6L369.0%20144.7L363.7%20146.3L360.6%20143.9L354.2%20143.1L338.5%20134.4L337.5%20132.0L340.8%20126.2L347.1%20124.2L350.2%20120.2L355.6%20117.6L365.8%20117.7L374.1%20125.1L371.9%20133.8L378.3%20140.5L397.9%20135.5L400.2%20132.3L402.0%20122.4L401.2%20104.2L395.1%2092.1L391.7%2089.9L375.9%2098.6L367.9%20100.3L380.1%20102.3L380.8%20108.7L378.5%20112.1L363.2%20113.3L356.2%20111.8L362.3%20102.7L361.6%20101.4L356.1%20101.6L344.7%2097.6L339.6%2093.4L335.9%2086.2L332.6%2085.5L35.0%2085.5Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Chubut",
+      "Santa Cruz",
+      "Río Negro",
+      "Neuquén"
+    ],
+    "a": "Chubut"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-cn",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M242.0%2040.0L237.3%2037.2L222.8%2038.3L204.2%2029.2L174.5%2021.6L164.4%2022.7L154.0%2021.3L128.2%2023.7L114.4%2029.4L92.6%2045.3L92.7%2053.1L99.3%2071.0L96.6%2084.5L96.8%2092.6L91.8%20109.3L86.5%20113.8L76.1%20115.7L73.5%20120.6L73.2%20136.5L75.5%20145.0L73.2%20159.1L73.5%20169.5L68.2%20182.3L67.3%20193.4L63.4%20201.3L63.1%20212.1L61.6%20215.0L47.8%20225.3L33.3%20232.2L29.9%20237.8L26.5%20250.6L25.7%20276.2L18.0%20301.3L25.3%20323.2L21.3%20334.1L18.3%20349.6L19.1%20354.3L45.0%20350.9L58.9%20355.0L81.3%20339.9L93.5%20342.4L116.9%20334.3L120.9%20334.4L127.1%20337.7L133.5%20337.8L151.9%20342.8L154.8%20345.2L160.3%20354.7L170.2%20363.4L173.1%20374.3L177.8%20383.1L194.8%20398.7L187.1%20377.4L190.9%20370.3L209.5%20353.4L212.3%20345.8L211.3%20337.7L217.5%20337.0L223.4%20333.5L232.4%20322.2L240.6%20315.8L243.8%20297.9L250.6%20293.9L260.7%20292.6L269.5%20283.6L274.7%20274.7L288.6%20261.1L293.3%20250.7L301.0%20245.4L304.6%20236.9L304.6%20232.4L307.7%20227.2L314.3%20221.7L325.7%20217.3L329.1%20204.6L335.6%20200.7L337.7%20196.9L339.1%20186.0L348.7%20182.1L356.5%20171.7L362.4%20167.5L364.2%20165.0L365.2%20155.3L375.5%20151.9L375.2%20142.5L381.2%20139.1L391.4%20141.2L394.2%20145.7L396.2%20143.6L398.2%20137.0L396.9%20134.3L388.4%20129.5L387.8%20126.7L396.2%20122.9L402.0%20117.3L391.2%20108.8L386.9%2098.6L381.6%2091.6L378.3%2070.9L364.6%2042.4L366.2%2032.5L369.5%2029.4L356.9%2026.0L352.0%2027.3L346.8%2032.7L339.7%2035.7L338.1%2045.5L331.4%2056.3L328.4%2057.0L322.5%2053.4L314.4%2042.7L308.1%2041.8L293.1%2048.3L280.5%2038.8L261.1%2046.6L253.3%2045.9L242.0%2040.0Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Corrientes",
+      "Entre Ríos",
+      "Misiones",
+      "Chaco"
+    ],
+    "a": "Corrientes"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-ct",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M104.2%2028.1L100.5%2043.7L104.2%2049.8L103.9%2056.8L108.0%2063.9L114.1%2093.9L113.4%2096.6L102.8%20106.2L101.4%20118.0L103.1%20125.2L120.2%20149.9L121.5%20154.2L119.5%20163.3L106.7%20165.8L102.0%20172.4L93.0%20168.1L86.4%20169.2L82.5%20175.2L81.7%20182.6L78.4%20190.3L72.5%20195.4L71.8%20202.4L67.4%20209.2L68.5%20213.6L65.6%20215.6L64.5%20219.4L84.0%20221.1L97.2%20217.9L102.7%20219.5L107.3%20216.8L111.9%20217.2L111.9%20236.9L118.3%20238.5L123.2%20243.6L131.8%20245.1L135.8%20248.9L146.8%20246.5L148.0%20256.2L154.2%20266.5L162.4%20263.1L197.8%20264.5L203.8%20263.3L207.6%20258.9L212.2%20257.6L239.0%20268.1L245.1%20275.5L247.2%20285.6L255.9%20293.7L253.0%20300.5L254.2%20302.9L270.7%20311.8L293.2%20333.4L295.7%20338.4L297.5%20352.8L319.9%20402.0L338.0%20396.1L352.0%20380.5L350.1%20361.2L350.8%20358.7L355.5%20357.0L345.0%20336.7L341.1%20292.6L335.1%20286.7L335.2%20283.6L342.1%20274.1L342.5%20269.7L342.0%20258.2L335.9%20230.0L331.9%20231.1L323.5%20226.4L313.4%20234.0L308.4%20240.9L301.9%20232.8L299.3%20222.9L295.5%20220.7L291.2%20222.0L289.2%20220.0L287.4%20213.6L283.8%20210.3L280.2%20190.2L265.7%20184.5L268.9%20178.2L286.9%20155.3L289.1%20139.1L277.9%20129.1L268.6%20124.2L272.1%20107.6L275.3%20102.3L268.2%2095.9L263.6%2096.0L258.4%20101.7L254.2%20111.5L250.9%20112.3L242.5%20102.8L236.6%2090.2L224.1%2071.9L223.1%2065.2L224.3%2061.0L228.7%2057.6L239.9%2057.1L245.1%2052.6L246.9%2042.7L243.4%2037.0L241.3%2027.2L155.4%2027.5L108.2%2018.0L104.2%2028.1Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Catamarca",
+      "La Rioja",
+      "Salta",
+      "Santiago del Estero"
+    ],
+    "a": "Catamarca"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-er",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M300.3%20244.2L308.9%20227.8L301.4%20215.2L304.9%20201.9L303.7%20194.6L300.1%20189.6L304.2%20184.0L312.1%20181.6L317.9%20164.9L318.1%20156.2L310.7%20148.4L311.8%20145.4L317.8%20140.9L319.8%20132.6L324.9%20125.3L324.4%20118.4L329.1%20107.4L328.4%20102.8L324.4%2096.4L326.6%2093.6L333.1%2092.5L333.0%2076.7L318.1%2062.5L311.3%2044.5L302.6%2036.6L297.8%2028.0L295.2%2025.8L273.4%2021.1L268.0%2018.2L264.4%2018.1L243.9%2025.4L233.1%2023.2L213.4%2036.9L201.1%2033.2L178.3%2036.3L182.2%2048.7L181.6%2059.7L178.4%2075.6L173.5%2085.0L150.0%20122.5L144.8%20128.2L142.2%20136.5L136.4%20145.2L128.8%20151.4L115.5%20168.0L110.6%20170.3L99.6%20170.5L96.0%20172.2L93.8%20185.6L90.0%20192.5L90.2%20197.4L94.9%20207.0L91.1%20215.5L89.2%20245.0L86.1%20257.1L91.2%20267.1L93.7%20283.5L104.0%20304.7L108.7%20310.7L129.5%20326.1L140.2%20337.4L154.4%20347.4L163.1%20351.3L169.1%20358.8L183.2%20365.4L190.1%20363.2L200.8%20371.5L208.0%20371.5L211.1%20369.7L214.2%20377.3L216.8%20376.9L220.0%20380.3L230.9%20380.4L246.1%20391.0L251.7%20392.5L260.3%20400.2L267.7%20402.0L279.7%20397.9L280.3%20395.2L278.5%20383.3L271.9%20372.1L271.2%20365.9L274.7%20338.6L282.6%20328.0L280.8%20321.5L282.5%20310.4L281.1%20308.8L285.0%20306.1L299.9%20307.7L304.7%20303.6L303.7%20296.7L305.5%20288.8L302.0%20281.7L298.4%20252.8L300.3%20244.2Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Entre Ríos",
+      "Corrientes",
+      "Santa Fe",
+      "Buenos Aires"
+    ],
+    "a": "Entre Ríos"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-fm",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M21.5%2018.0L21.7%20161.4L46.3%20169.7L56.1%20178.5L66.1%20180.7L71.7%20185.3L75.6%20193.0L82.0%20193.2L83.8%20197.1L92.2%20205.2L110.8%20208.8L115.8%20214.1L121.2%20228.8L124.5%20229.0L143.0%20244.5L155.2%20252.2L166.6%20256.2L172.5%20265.7L177.6%20269.5L178.9%20274.8L182.0%20276.6L183.2%20280.0L187.2%20281.0L187.2%20285.3L192.0%20295.8L194.7%20295.3L202.9%20298.6L204.7%20301.9L216.4%20309.1L217.5%20313.3L224.1%20318.1L229.4%20325.6L231.7%20326.1L232.5%20336.4L251.7%20341.0L254.7%20351.3L257.4%20354.5L263.9%20355.1L272.8%20350.7L277.3%20355.4L288.4%20360.2L295.6%20368.8L318.7%20385.4L327.5%20397.5L333.5%20398.5L334.2%20401.2L337.7%20401.9L338.2%20399.5L335.8%20397.2L336.8%20395.3L340.8%20395.5L340.9%20391.8L344.0%20390.9L345.0%20381.5L349.5%20381.5L348.4%20378.3L350.6%20376.5L346.4%20370.8L349.0%20364.2L346.8%20361.4L350.4%20354.1L350.2%20348.5L355.2%20345.8L351.7%20340.7L353.8%20342.5L356.8%20336.0L364.5%20332.6L373.6%20325.8L374.6%20323.3L371.0%20322.2L375.3%20317.0L373.4%20314.2L379.2%20310.3L377.7%20305.6L384.0%20300.8L381.3%20299.0L384.0%20295.5L388.9%20294.2L389.7%20291.2L393.3%20291.5L397.0%20287.0L398.4%20276.5L391.9%20270.3L389.5%20263.2L385.5%20259.3L383.0%20253.7L373.8%20245.3L364.9%20244.4L363.5%20241.8L353.8%20239.1L345.9%20232.8L337.1%20237.2L326.3%20225.0L299.8%20218.5L284.7%20207.0L257.9%20193.3L248.1%20181.7L236.7%20176.1L231.7%20170.5L203.3%20151.5L194.7%20153.1L179.4%20152.3L176.2%20149.9L160.5%20146.1L159.1%20142.8L156.2%20141.5L140.0%20139.8L132.2%20134.7L129.2%20135.6L126.7%20134.0L117.8%20121.9L118.5%20116.7L105.7%20109.5L103.8%20105.8L87.7%2099.4L85.7%2096.5L86.5%2093.9L69.4%2085.1L66.6%2078.3L51.8%2066.9L47.9%2062.1L45.6%2053.9L33.6%2038.5L33.2%2031.6L28.5%2029.4L29.4%2023.8L26.2%2021.5L25.8%2019.0L21.5%2018.0Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Formosa",
+      "Chaco",
+      "Salta",
+      "Corrientes"
+    ],
+    "a": "Formosa"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-jy",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M18.0%20282.1L31.2%20293.3L39.3%20295.7L49.3%20306.4L50.6%20310.3L55.8%20312.0L64.9%20325.0L78.0%20331.6L89.5%20345.2L98.4%20349.7L110.7%20350.3L114.9%20348.1L121.4%20339.2L125.2%20337.3L129.7%20323.8L131.4%20280.9L122.9%20253.1L126.5%20235.8L130.9%20232.8L141.4%20235.8L147.2%20239.6L152.2%20239.8L169.9%20250.5L175.0%20256.4L174.8%20272.7L173.4%20275.6L175.0%20280.2L170.8%20287.0L170.2%20297.6L174.3%20305.1L173.4%20310.3L178.4%20317.3L185.6%20315.6L194.0%20323.2L203.3%20328.6L204.2%20342.0L224.6%20372.7L232.0%20377.0L238.1%20375.2L244.4%20380.6L263.2%20386.2L277.1%20379.7L279.0%20383.6L289.6%20392.2L305.5%20399.2L309.7%20398.5L318.9%20379.9L344.0%20401.3L346.1%20400.9L350.7%20391.6L359.3%20383.3L366.1%20381.4L370.0%20376.4L381.4%20374.8L384.7%20372.6L395.4%20358.7L402.0%20343.1L398.3%20252.4L376.1%20251.8L372.2%20257.0L370.1%20264.5L367.3%20266.7L352.7%20251.3L343.1%20247.6L339.8%20244.4L328.8%20246.1L322.9%20250.9L313.1%20249.8L311.3%20241.0L303.4%20224.6L294.3%20220.3L292.4%20217.6L296.7%20193.0L295.4%20186.5L290.4%20181.8L274.9%20180.8L268.9%20175.4L264.2%20161.7L262.0%20145.3L262.0%20139.9L264.6%20133.9L259.9%20128.6L254.6%20127.1L256.0%20115.5L267.8%2090.8L268.3%2077.7L273.9%2060.8L240.8%2061.2L225.5%2059.2L222.4%2060.9L205.1%2062.9L201.3%2061.7L181.7%2040.0L167.6%2036.4L165.5%2029.1L161.6%2024.9L145.8%2018.6L143.6%2019.4L135.2%2057.9L131.7%2058.6L126.5%2064.7L95.6%2073.6L93.7%2076.3L86.5%2074.7L82.0%2078.0L75.2%20100.1L75.9%20105.4L57.2%20112.5L51.9%20118.2L45.1%20118.5L45.9%20134.0L35.1%20143.6L25.1%20158.8L47.5%20183.0L18.0%20282.1Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Jujuy",
+      "Salta",
+      "Catamarca",
+      "Tucumán"
+    ],
+    "a": "Jujuy"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-lp",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M262.6%2018.1L262.2%20106.8L40.2%20107.3L38.3%20118.1L40.8%20131.3L41.4%20245.0L69.3%20248.8L76.4%20254.9L79.0%20260.7L78.1%20268.0L69.4%20276.1L67.8%20284.9L69.7%20289.3L74.7%20289.9L79.4%20293.2L87.4%20306.2L90.0%20307.5L102.5%20307.0L107.4%20304.4L116.4%20304.1L119.3%20314.3L123.9%20320.6L153.4%20333.8L157.2%20338.2L159.4%20346.6L171.3%20349.5L183.7%20347.9L201.5%20350.2L220.4%20356.9L229.3%20353.2L243.0%20358.7L260.7%20355.6L270.7%20355.6L305.6%20360.1L337.9%20373.1L345.0%20381.3L353.9%20384.5L358.8%20390.9L372.4%20400.2L381.4%20402.0L381.7%2018.1L262.6%2018.1Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "La Pampa",
+      "Buenos Aires",
+      "Río Negro",
+      "San Luis"
+    ],
+    "a": "La Pampa"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-lr",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M82.0%2021.3L77.5%2037.7L68.5%2042.1L59.2%2061.6L54.7%2059.4L53.6%2060.3L52.0%2066.6L40.5%2078.8L49.4%2082.2L55.0%2081.2L59.1%2085.8L65.9%2086.5L77.5%2096.5L82.0%20104.4L84.5%20113.3L91.1%20119.6L94.7%20128.7L99.6%20133.8L99.1%20138.1L95.5%20140.1L92.8%20144.4L92.7%20155.0L97.3%20162.1L94.4%20166.2L94.3%20175.1L91.1%20181.4L91.3%20190.1L94.4%20191.8L100.9%20190.3L106.8%20191.5L116.5%20188.7L124.2%20192.7L132.8%20192.6L145.6%20196.5L149.4%20201.2L158.2%20207.4L159.9%20211.3L166.3%20214.4L179.3%20229.8L186.4%20233.7L190.4%20239.1L201.5%20247.8L207.0%20259.8L213.2%20264.2L216.7%20270.0L224.7%20277.0L231.7%20287.6L236.8%20290.4L245.4%20306.7L242.9%20320.1L247.3%20324.1L243.8%20349.0L248.0%20358.6L248.2%20364.5L256.5%20372.9L263.7%20374.7L265.1%20385.0L269.4%20387.4L273.6%20396.8L284.4%20400.3L288.7%20399.1L302.0%20402.0L314.5%20401.2L327.5%20396.3L339.2%20399.0L350.9%20397.6L350.3%20325.4L369.5%20263.2L379.5%20237.9L353.3%20179.6L351.3%20162.4L348.3%20156.5L322.1%20131.0L302.9%20120.3L301.6%20117.6L304.9%20109.5L294.7%2099.9L292.3%2087.8L285.2%2079.1L254.0%2066.6L248.7%2068.2L244.2%2073.4L237.2%2074.8L196.0%2073.2L186.4%2077.1L179.2%2064.9L177.8%2053.5L165.0%2056.3L160.3%2051.8L150.3%2050.1L144.6%2043.9L137.1%2042.1L138.1%2033.3L136.6%2028.5L138.3%2021.3L137.1%2018.7L131.8%2018.2L126.4%2021.4L120.0%2019.5L104.7%2023.3L82.0%2021.3Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "La Rioja",
+      "Catamarca",
+      "San Juan",
+      "San Luis"
+    ],
+    "a": "La Rioja"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-mn",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M241.0%2029.6L243.2%2039.7L235.5%2042.2L238.8%2058.4L242.6%2063.8L239.1%2074.2L240.2%2083.4L239.1%2085.6L234.8%2086.2L233.0%2088.2L235.5%20100.2L232.8%20112.7L236.1%20119.7L232.7%20125.3L232.8%20135.8L228.4%20153.1L216.5%20167.6L217.7%20174.4L216.1%20184.5L213.0%20187.5L210.7%20185.9L205.0%20185.9L199.7%20188.7L195.7%20200.8L192.6%20205.2L181.5%20207.7L173.1%20216.1L172.2%20218.6L174.0%20224.3L171.5%20229.2L163.4%20229.4L153.1%20226.4L135.9%20233.0L132.2%20238.1L129.7%20250.1L120.4%20250.3L117.7%20258.1L112.1%20260.1L116.0%20271.5L113.0%20283.4L101.4%20290.8L91.9%20300.1L79.1%20294.0L74.1%20284.4L71.5%20283.3L64.6%20283.9L60.5%20287.6L58.4%20292.9L58.0%20301.2L78.5%20344.9L81.9%20368.8L88.4%20376.6L94.2%20390.2L108.9%20401.5L111.3%20397.5L114.3%20398.1L114.9%20401.5L117.9%20401.7L124.1%20392.0L132.5%20392.0L139.9%20382.7L140.2%20377.5L145.7%20375.3L148.8%20368.3L155.8%20368.9L166.5%20359.4L174.0%20363.4L176.5%20358.0L185.6%20359.0L184.2%20354.5L178.9%20348.5L181.1%20347.5L191.3%20349.5L200.6%20342.5L202.5%20326.1L209.4%20324.4L211.6%20314.8L214.6%20312.1L216.2%20311.6L216.0%20315.4L218.6%20317.5L229.4%20315.7L232.4%20308.8L234.4%20312.0L237.7%20310.5L242.4%20301.4L244.8%20301.8L248.4%20306.4L260.6%20302.3L258.5%20297.2L261.1%20295.1L268.3%20295.4L270.5%20301.7L273.6%20299.0L273.6%20293.0L278.9%20298.0L281.5%20297.9L284.8%20292.1L288.6%20291.0L288.6%20286.8L295.6%20271.1L298.4%20273.2L298.1%20276.3L306.7%20277.2L317.8%20263.1L323.4%20263.6L323.1%20258.2L324.8%20257.3L330.2%20260.2L333.7%20253.2L338.9%20259.5L340.5%20258.6L341.9%20254.9L340.6%20252.4L343.7%20249.5L344.2%20241.5L347.8%20240.3L354.1%20227.3L355.9%20217.6L354.3%20209.0L352.8%20203.7L350.4%20203.1L351.1%20198.1L347.6%20194.5L352.1%20188.9L351.8%20178.1L353.8%20170.5L352.4%20167.2L355.6%20163.6L354.1%20145.6L360.7%20133.5L362.2%20128.8L361.5%20122.9L352.9%20109.4L348.8%2095.2L340.0%2085.7L339.1%2061.0L333.6%2052.9L334.5%2047.4L331.7%2039.0L330.1%2037.5L322.7%2041.0L318.8%2029.6L314.6%2027.8L311.4%2029.0L307.8%2026.0L307.4%2031.9L305.7%2032.9L302.6%2029.2L304.7%2018.9L303.5%2018.0L297.2%2023.8L290.8%2023.3L293.9%2030.5L287.0%2030.0L285.5%2033.1L279.9%2026.4L277.0%2026.8L273.4%2030.7L267.4%2030.5L266.2%2036.1L262.0%2039.8L262.6%2044.3L260.7%2046.2L257.4%2037.0L252.5%2034.2L249.8%2034.8L248.0%2029.6L241.0%2029.6Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Misiones",
+      "Corrientes",
+      "Formosa",
+      "Entre Ríos"
+    ],
+    "a": "Misiones"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-mz",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M121.4%2093.2L121.2%20101.2L126.8%20110.1L130.8%20106.2L134.8%20106.7L137.9%20109.4L139.4%20115.6L136.4%20126.1L134.3%20127.8L133.3%20135.0L135.3%20139.4L132.2%20142.5L132.5%20155.1L135.0%20155.2L135.6%20157.1L134.6%20167.7L137.1%20174.1L132.4%20177.7L128.0%20176.6L124.1%20178.1L123.6%20186.6L114.5%20198.3L113.1%20205.8L109.5%20209.3L111.7%20212.9L107.3%20223.5L105.5%20238.1L96.6%20241.0L94.6%20244.5L95.6%20247.2L100.5%20248.2L103.1%20251.2L100.7%20252.7L104.3%20261.4L103.5%20271.9L107.1%20282.6L103.6%20286.2L103.5%20288.7L105.6%20289.3L104.0%20293.1L105.8%20298.4L103.0%20304.1L107.1%20308.9L106.0%20317.6L108.0%20321.1L112.6%20320.8L118.2%20335.1L123.6%20337.2L129.9%20343.6L132.6%20349.8L139.3%20354.4L139.4%20361.1L137.8%20363.6L144.2%20371.5L154.0%20375.7L166.9%20374.1L175.3%20376.3L180.6%20380.0L182.9%20387.4L184.9%20388.8L197.8%20389.3L202.3%20393.0L212.0%20394.5L216.5%20400.7L226.6%20402.0L226.2%20314.2L224.1%20304.1L224.7%20296.7L226.8%20295.2L319.1%20295.3L319.6%20283.6L324.5%20260.6L325.4%20235.2L322.7%20226.5L323.1%20221.6L312.2%20200.3L308.0%20184.5L307.5%20173.9L308.7%20171.3L311.0%20170.8L311.7%20162.5L306.2%20151.0L301.4%20147.0L296.3%20131.9L288.8%20119.0L284.5%2083.8L286.5%2073.2L282.7%2065.8L279.2%2050.6L276.9%2048.2L275.1%2039.0L270.9%2036.0L255.5%2038.4L250.2%2037.4L239.5%2025.8L231.3%2027.4L225.2%2030.9L218.4%2031.3L201.6%2044.0L190.5%2044.1L188.5%2026.3L182.6%2026.3L176.4%2018.9L173.6%2018.1L167.5%2024.7L158.7%2024.7L149.6%2029.3L148.3%2037.0L146.5%2038.7L128.5%2042.0L122.2%2040.8L112.9%2042.6L113.5%2048.7L117.6%2052.9L119.6%2060.0L117.7%2060.3L117.1%2062.7L118.6%2071.7L122.4%2077.5L127.4%2081.1L125.0%2089.1L121.6%2090.8L121.4%2093.2Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Mendoza",
+      "San Juan",
+      "San Luis",
+      "La Rioja"
+    ],
+    "a": "Mendoza"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-nq",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M182.9%2018.0L180.5%2020.6L173.8%2019.1L172.4%2023.0L166.0%2028.6L165.5%2040.1L160.2%2041.5L155.1%2039.0L152.4%2044.5L145.9%2045.4L144.3%2051.8L145.0%2061.2L139.7%2061.2L136.6%2073.6L140.3%2081.6L138.8%2083.4L136.0%2083.2L139.1%2085.5L140.1%2090.1L143.1%2093.3L140.1%2095.6L139.7%20101.9L136.1%20108.0L141.4%20121.4L140.8%20130.5L137.0%20134.8L137.3%20139.9L148.1%20168.1L147.3%20180.8L150.1%20195.5L157.7%20203.5L158.3%20207.9L155.6%20212.4L156.1%20216.1L151.8%20220.4L145.6%20220.4L139.3%20224.4L134.2%20225.4L123.4%20235.0L123.6%20264.6L119.7%20269.6L120.6%20273.5L115.7%20281.1L118.5%20283.7L118.1%20286.5L112.2%20287.9L107.6%20283.9L105.9%20285.1L105.6%20297.8L107.4%20305.5L111.2%20310.3L107.4%20318.0L107.2%20325.0L102.2%20323.3L99.3%20324.5L99.2%20334.9L103.6%20340.2L107.0%20339.6L107.5%20343.6L104.4%20349.9L100.4%20349.4L96.4%20359.8L96.9%20365.0L90.7%20373.0L97.0%20389.9L96.1%20395.4L115.0%20397.1L126.8%20401.6L137.2%20400.0L145.9%20390.5L146.5%20385.8L141.4%20381.0L140.6%20377.6L143.7%20373.4L147.6%20371.6L150.2%20366.8L159.9%20362.5L167.8%20363.0L176.5%20356.9L182.1%20361.2L196.0%20358.9L198.1%20353.3L201.9%20352.6L203.9%20349.8L204.3%20342.1L208.3%20332.6L209.5%20321.5L212.3%20313.2L228.3%20303.6L238.2%20303.5L247.4%20295.4L254.6%20285.3L271.7%20277.8L275.6%20271.5L279.4%20268.9L281.7%20262.7L289.3%20256.5L293.3%20250.0L301.1%20245.6L310.5%20237.0L314.3%20239.7L329.3%20238.1L314.6%20213.6L314.8%20128.4L304.0%20126.9L299.2%20119.9L288.9%20118.3L284.1%20114.1L270.3%20113.5L268.2%20112.0L265.7%20103.6L260.1%2099.5L251.2%2096.9L237.3%2098.8L226.9%2094.0L220.1%2085.1L221.8%2082.2L221.7%2074.7L214.6%2069.5L211.6%2062.6L204.9%2055.3L199.1%2053.0L193.2%2036.8L187.4%2036.3L185.8%2030.4L187.3%2023.4L182.9%2018.0Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Neuquén",
+      "Río Negro",
+      "Chubut",
+      "Mendoza"
+    ],
+    "a": "Neuquén"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-rn",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M24.6%20331.8L307.2%20332.4L306.3%20329.1L309.5%20320.5L307.9%20313.4L309.8%20305.7L305.1%20295.0L302.1%20275.2L304.3%20267.7L309.0%20264.1L313.3%20264.2L312.7%20262.0L310.2%20261.7L314.1%20260.7L319.1%20262.4L317.9%20263.6L319.8%20266.1L315.0%20265.4L313.2%20267.2L324.4%20268.4L344.2%20277.4L349.0%20276.8L348.9%20279.1L360.8%20285.6L389.5%20285.4L402.0%20279.2L399.5%20273.5L389.3%20263.3L377.3%20260.9L377.3%20184.8L371.9%20183.7L360.7%20174.0L355.4%20172.0L351.1%20166.9L331.7%20158.9L310.7%20156.1L294.0%20158.0L285.8%20154.6L280.5%20156.9L269.1%20152.7L258.3%20151.3L250.9%20152.3L243.7%20150.5L240.1%20142.6L222.4%20134.4L217.9%20124.2L209.5%20126.0L200.4%20125.5L195.6%20117.5L189.8%20115.0L188.6%20112.3L189.6%20106.9L194.9%20101.9L193.8%2093.7L189.5%2089.9L172.7%2087.6L172.6%20148.2L182.8%20165.6L172.3%20166.7L169.7%20164.8L157.8%20174.0L142.7%20193.8L130.9%20199.1L119.4%20212.1L112.5%20212.2L101.4%20219.0L95.0%20246.1L91.5%20247.5L89.0%20252.1L80.3%20253.1L76.5%20250.0L70.4%20254.3L64.9%20254.0L58.2%20257.1L51.5%20264.7L55.9%20271.7L50.7%20279.7L44.5%20282.1L33.7%20278.6L20.5%20277.4L18.9%20297.1L21.1%20308.1L18.0%20312.8L23.6%20324.6L24.6%20331.8Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Río Negro",
+      "Chubut",
+      "Neuquén",
+      "La Pampa"
+    ],
+    "a": "Río Negro"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-sa",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M99.6%20179.2L92.8%20199.2L38.5%20223.1L33.5%20230.7L29.1%20230.9L25.8%20239.5L23.1%20237.7L18.0%20251.6L19.7%20255.7L24.5%20258.3L26.7%20262.8L26.3%20265.9L31.0%20272.8L23.0%20275.3L65.5%20283.6L142.1%20282.8L147.7%20296.8L146.1%20305.5L141.4%20309.4L130.7%20310.1L126.8%20313.7L126.4%20319.2L143.8%20349.4L152.0%20357.9L154.3%20356.9L158.0%20348.4L163.7%20343.0L166.9%20343.3L173.3%20348.9L193.9%20352.0L197.2%20336.9L210.9%20339.9L218.7%20337.0L222.5%20343.5L241.4%20350.3L252.4%20346.1L269.7%20346.7L273.4%20333.7L287.8%20303.6L304.2%20308.4L336.6%20308.9L402.0%20224.3L401.6%2094.2L384.1%2083.0L384.1%2079.1L374.4%2071.2L373.1%2062.7L321.7%2062.3L315.5%2065.8L311.1%2062.6L303.7%2062.6L299.3%2069.1L289.7%2092.0L284.1%2098.8L279.6%20121.2L277.7%20113.1L271.7%20105.7L273.2%2099.0L264.4%2085.5L266.2%2081.0L263.5%2076.8L236.8%2068.9L226.4%2069.1L223.3%2084.0L217.5%2096.3L216.8%20102.1L221.8%20105.4L220.5%20111.7L224.1%20126.5L226.9%20128.8L234.6%20129.2L237.3%20132.1L235.8%20147.7L241.0%20150.6L246.1%20163.2L250.6%20163.6L253.5%20161.2L259.0%20160.4L265.4%20163.8L272.6%20171.5L277.0%20164.1L288.3%20165.2L289.8%20209.5L288.7%20213.4L281.2%20224.2L273.9%20226.1L268.6%20229.5L261.6%20238.5L248.6%20227.8L242.8%20237.5L234.1%20233.9L227.9%20227.7L221.0%20230.9L211.8%20228.2L208.6%20225.5L205.6%20226.4L202.4%20224.6L191.9%20208.9L191.4%20202.3L182.6%20195.8L179.1%20196.7L176.6%20193.2L175.0%20186.9L175.3%20181.6L177.4%20178.2L177.1%20165.7L160.8%20156.1L154.9%20154.6L153.4%20156.1L151.6%20164.7L155.8%20178.5L154.9%20199.9L152.7%20206.6L145.6%20213.1L139.4%20212.8L135.0%20210.6L129.3%20203.8L122.9%20200.5L110.2%20185.9L106.2%20184.7L99.6%20179.2Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Salta",
+      "Jujuy",
+      "Formosa",
+      "Catamarca"
+    ],
+    "a": "Salta"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-sc",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M131.3%2018.0L126.5%2024.8L120.9%2027.2L126.8%2032.7L127.2%2041.6L130.0%2050.4L129.8%2059.5L124.0%2065.4L119.5%2066.9L118.7%2075.0L120.8%2078.0L117.3%2081.8L121.7%2085.4L122.9%2089.9L120.9%2092.2L116.3%2090.0L116.0%2095.4L110.8%20102.6L103.3%20105.2L104.9%20108.1L104.0%20114.3L96.2%20133.1L97.5%20136.6L104.0%20142.4L105.9%20158.2L94.9%20165.4L93.4%20168.8L94.8%20181.6L93.2%20187.4L86.8%20194.3L77.9%20197.7L71.5%20209.7L71.1%20212.6L74.4%20214.3L73.6%20221.9L76.0%20226.9L75.9%20231.6L70.5%20239.3L60.0%20243.9L55.8%20254.3L59.5%20258.9L57.4%20266.8L66.4%20276.4L68.2%20292.8L72.8%20304.6L76.2%20303.9L87.0%20295.6L91.5%20298.5L97.6%20294.5L105.6%20297.3L103.9%20303.0L107.2%20308.6L107.1%20316.1L101.7%20326.0L107.3%20333.2L104.9%20337.2L103.7%20347.0L99.8%20351.6L104.5%20354.5L105.7%20360.0L111.9%20362.9L118.2%20369.2L118.9%20376.8L120.7%20377.9L197.8%20379.0L216.2%20386.5L226.9%20386.8L242.3%20393.1L256.6%20396.5L257.4%20402.0L260.1%20396.9L247.6%20378.8L236.3%20355.7L234.1%20355.3L227.4%20359.7L229.1%20356.6L223.3%20354.1L211.0%20356.0L220.4%20351.9L230.5%20354.8L233.4%20352.3L236.7%20352.1L228.6%20317.1L219.1%20323.5L229.9%20312.6L229.3%20302.9L232.2%20292.0L240.1%20278.2L257.3%20270.4L260.7%20267.3L255.1%20263.2L251.6%20256.6L234.7%20258.8L240.1%20256.1L248.0%20256.5L251.8%20254.0L248.4%20244.4L245.4%20242.0L248.8%20243.8L261.1%20265.4L271.5%20263.6L281.0%20255.6L285.0%20245.2L289.3%20213.3L285.3%20221.8L281.1%20221.1L283.3%20220.8L285.8%20217.2L285.0%20214.8L289.8%20209.0L288.9%20206.1L291.9%20199.2L297.8%20192.5L305.9%20187.4L309.2%20178.7L319.0%20173.6L319.3%20171.1L327.4%20164.1L333.3%20163.1L335.3%20159.2L339.6%20159.4L340.5%20154.1L346.7%20149.3L348.7%20145.6L356.2%20145.0L356.7%20142.9L354.2%20141.0L355.8%20134.7L362.3%20135.1L361.0%20134.3L362.3%20132.9L358.7%20131.0L356.8%20124.4L352.1%20124.4L341.1%20130.5L337.7%20130.0L342.2%20129.8L351.7%20122.5L359.0%20122.7L363.3%20108.7L363.0%2090.4L357.6%2083.9L353.8%2082.1L345.1%2083.5L333.1%2080.6L328.3%2081.2L322.1%2078.5L308.6%2060.5L297.1%2052.1L292.5%2042.1L289.3%2027.9L290.9%2018.0L131.3%2018.0Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Santa Cruz",
+      "Chubut",
+      "Tierra del Fuego",
+      "Río Negro"
+    ],
+    "a": "Santa Cruz"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-se",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M213.4%2024.7L174.5%2024.1L154.7%2018.0L137.4%2055.6L133.4%2068.9L133.0%2080.1L130.2%2090.0L131.8%20110.1L125.9%20110.0L122.9%20119.7L119.0%20120.8L115.0%20136.1L111.5%20141.0L103.8%20163.1L90.2%20176.8L97.1%20180.3L95.3%20183.9L90.6%20185.2L89.7%20187.6L94.9%20202.4L92.6%20203.5L89.5%20211.8L82.4%20213.5L89.0%20244.1L89.5%20256.6L89.1%20261.5L81.6%20271.7L81.6%20275.2L88.0%20281.6L92.3%20329.5L103.6%20351.7L150.1%20340.6L165.3%20344.6L166.9%20350.7L173.9%20355.8L183.2%20359.5L197.7%20358.4L208.7%20359.9L209.0%20364.9L213.6%20366.1L214.5%20369.7L295.6%20370.1L299.0%20372.6L310.5%20402.0L338.5%20221.1L337.5%2031.8L335.2%2024.8L213.4%2024.7Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Santiago del Estero",
+      "Chaco",
+      "Córdoba",
+      "Catamarca"
+    ],
+    "a": "Santiago del Estero"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-sf",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M312.1%2018.0L166.4%2018.1L144.7%20163.4L145.2%20165.9L158.9%20182.4L145.4%20235.1L139.4%20242.5L142.2%20256.4L140.4%20267.0L147.6%20273.4L150.8%20281.9L156.0%20286.5L158.4%20294.0L157.0%20298.3L160.1%20299.4L165.1%20307.6L163.7%20318.8L155.7%20325.7L107.9%20402.0L166.4%20401.7L204.7%20359.6L207.4%20352.8L219.6%20353.6L225.0%20357.4L230.1%20355.7L233.0%20346.5L235.9%20343.9L236.6%20339.7L239.4%20338.0L239.9%20335.5L225.7%20322.5L219.4%20309.6L217.9%20299.6L214.7%20293.5L217.8%20268.1L220.1%20262.9L217.1%20254.0L220.8%20241.6L232.8%20239.0L245.6%20225.1L271.4%20182.6L273.7%20166.2L270.9%20156.0L274.7%20141.3L270.8%20129.2L274.9%20115.2L275.4%20100.9L279.0%2090.7L286.8%2086.8L295.1%2079.5L295.2%2073.5L300.7%2055.8L300.7%2028.6L302.1%2025.8L309.3%2023.7L312.1%2018.0Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Santa Fe",
+      "Entre Ríos",
+      "Córdoba",
+      "Chaco"
+    ],
+    "a": "Santa Fe"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-sj",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M103.6%20146.5L104.2%20168.1L99.3%20181.1L99.9%20182.7L107.7%20183.8L110.3%20186.4L111.4%20189.8L110.3%20193.4L107.2%20195.6L105.8%20204.5L100.6%20210.6L95.1%20212.8L85.3%20208.5L83.1%20209.6L85.6%20216.9L79.4%20224.3L74.5%20239.7L74.5%20244.8L70.9%20252.2L69.2%20265.6L75.3%20275.1L69.1%20275.7L63.4%20286.2L61.1%20285.4L60.1%20281.1L57.4%20281.0L52.7%20288.4L49.9%20301.3L51.1%20307.0L48.2%20327.0L56.9%20342.9L57.8%20351.6L61.7%20356.5L71.4%20357.7L77.1%20363.5L73.8%20373.7L66.3%20372.1L65.1%20373.2L69.5%20382.8L68.7%20386.2L71.7%20397.3L76.2%20399.8L90.0%20397.4L99.2%20399.0L126.0%20394.3L128.6%20391.9L128.7%20384.1L130.5%20380.9L144.0%20374.3L157.1%20374.4L160.3%20369.1L166.9%20364.8L171.2%20367.0L178.3%20376.1L188.1%20376.6L189.8%20400.9L191.1%20402.0L207.6%20401.9L226.7%20389.6L232.4%20383.8L244.3%20382.8L251.5%20378.2L260.8%20375.8L266.7%20377.8L270.5%20384.6L279.6%20392.5L287.3%20393.8L308.0%20390.0L316.4%20394.7L316.1%20375.4L317.9%20367.8L316.8%20358.6L318.6%20355.3L320.5%20354.2L329.7%20356.2L340.4%20354.7L350.6%20358.3L372.0%20357.1L367.6%20347.2L363.0%20344.5L361.6%20333.6L354.0%20331.7L345.2%20322.6L345.1%20316.4L340.6%20306.2L344.3%20279.6L339.7%20275.3L342.3%20261.0L333.2%20243.7L327.9%20240.7L320.6%20229.3L312.1%20221.9L308.4%20215.7L301.8%20211.1L296.1%20198.2L284.5%20188.9L280.2%20183.2L272.7%20179.0L259.0%20162.6L252.3%20159.3L250.5%20155.1L241.2%20148.6L237.3%20143.5L223.8%20139.4L214.7%20139.4L206.7%20135.2L196.4%20138.2L190.2%20136.8L183.4%20138.5L180.1%20136.7L179.9%20127.4L183.3%20120.6L183.3%20111.2L186.4%20106.8L181.5%2099.2L181.7%2088.0L184.5%2083.3L188.3%2081.2L189.2%2077.8L183.7%2071.2L179.9%2061.5L172.9%2054.8L168.0%2039.5L153.3%2026.2L146.3%2025.4L141.9%2020.5L136.0%2021.6L126.7%2018.0L124.6%2034.9L121.0%2038.5L118.3%2044.6L120.1%2056.4L114.2%2070.6L114.1%2086.1L110.7%2089.1L105.1%2090.4L98.5%2097.4L99.3%20100.8L94.2%20105.5L94.1%20111.9L100.3%20133.4L99.9%20141.4L103.6%20146.5Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "San Juan",
+      "Mendoza",
+      "La Rioja",
+      "Catamarca"
+    ],
+    "a": "San Juan"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-sl",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M291.2%20309.6L291.2%20213.5L287.7%20143.6L290.9%20137.2L295.4%20134.9L294.6%20130.1L297.3%20124.1L296.8%20119.8L307.0%2089.4L307.7%2082.9L303.9%2071.8L303.9%2059.8L283.2%2062.4L278.9%2043.7L273.9%2037.8L245.9%2021.6L227.6%2023.0L216.2%2020.3L203.6%2025.3L191.5%2026.0L178.6%2023.1L174.4%2024.3L163.9%2020.7L144.1%2021.8L134.7%2018.5L124.8%2019.8L116.3%2018.0L114.6%2019.0L112.9%2022.7L114.0%2030.9L112.3%2038.0L112.8%2060.3L115.0%2068.8L118.1%2072.0L123.0%2092.6L128.1%20102.5L126.1%20108.7L127.0%20114.7L125.4%20116.8L127.7%20123.3L128.2%20145.7L131.4%20158.4L131.2%20164.2L141.5%20181.6L148.4%20202.0L155.1%20207.4L162.6%20222.9L161.6%20234.1L158.5%20234.8L156.8%20238.2L157.5%20252.6L160.1%20256.6L163.3%20273.9L166.9%20277.8L176.1%20295.9L178.2%20302.5L177.8%20310.4L181.3%20320.9L179.7%20327.9L181.3%20330.4L180.1%20355.1L177.4%20362.2L173.3%20386.2L172.2%20401.7L291.1%20401.8L291.2%20309.6Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "San Luis",
+      "La Pampa",
+      "Córdoba",
+      "Mendoza"
+    ],
+    "a": "San Luis"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-tf",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M18.0%20338.3L24.1%20346.0L27.7%20347.8L42.9%20346.5L45.0%20339.6L51.6%20343.2L59.2%20343.9L62.9%20347.0L74.4%20349.2L146.1%20355.1L152.9%20358.3L164.2%20360.2L178.0%20372.3L185.1%20375.0L192.2%20375.2L198.5%20373.2L198.5%20368.8L202.8%20367.4L218.7%20367.4L228.6%20364.3L232.0%20359.8L229.0%20355.8L230.7%20354.6L235.9%20355.9L237.8%20354.3L243.1%20356.5L250.4%20355.6L251.1%20361.0L254.4%20364.2L257.1%20362.9L258.6%20359.0L267.8%20358.9L270.8%20352.2L275.6%20353.5L276.3%20357.8L279.0%20358.0L281.1%20356.3L283.2%20347.8L288.2%20343.5L287.6%20339.4L290.9%20335.8L289.7%20332.9L292.2%20325.6L296.3%20319.7L283.0%20316.9L277.4%20319.4L271.2%20318.8L252.1%20321.8L240.4%20319.8L198.1%20297.6L189.7%20294.9L188.9%20291.6L176.0%20278.6L172.3%20270.6L167.1%20265.3L155.9%20260.3L146.4%20252.5L137.3%20248.0L103.1%20218.5L101.8%20213.2L102.7%20210.8L104.9%20210.2L104.2%20208.7L96.1%20203.7L92.2%20204.4L92.7%20200.3L70.3%20176.5L65.2%20165.8L63.0%20148.3L60.2%20141.3L54.0%20137.1L45.5%20138.0L33.1%20134.9L25.2%20126.8L24.9%20117.1L27.6%20110.7L41.2%2096.4L44.8%2095.1L46.7%2096.3L50.7%20110.4L51.1%20108.2L47.9%2091.5L44.3%2082.1L35.0%2071.5L22.5%2048.0L19.1%2044.8L18.0%20338.3ZM395.9%20331.1L393.9%20329.1L381.8%20333.9L379.6%20329.1L376.9%20331.1L374.4%20329.1L372.2%20333.4L369.2%20330.1L361.3%20330.0L358.1%20327.8L356.5%20338.5L354.7%20333.0L350.2%20334.8L347.5%20333.9L343.9%20329.1L341.8%20330.0L346.9%20336.7L345.5%20338.2L339.1%20340.4L332.8%20336.6L327.1%20342.5L326.7%20345.1L333.9%20349.8L332.2%20354.4L337.4%20354.9L346.3%20347.0L345.3%20345.9L346.8%20344.4L348.6%20344.1L347.5%20347.0L351.7%20346.6L362.3%20337.6L367.1%20337.5L365.5%20344.1L367.6%20345.7L369.2%20343.6L378.6%20341.3L380.5%20338.1L385.3%20338.2L388.7%20334.8L390.0%20337.1L387.8%20342.2L389.7%20342.7L397.4%20338.2L402.0%20331.1L400.9%20329.0L395.9%20331.1Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Tierra del Fuego",
+      "Santa Cruz",
+      "Chubut",
+      "Neuquén"
+    ],
+    "a": "Tierra del Fuego"
+  },
+  {
+    "c": "Mundo",
+    "t": "mc",
+    "p": 1,
+    "g": "prov-tm",
+    "img": [
+      "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20420%20420%22%3E%3Cpath%20d%3D%22M357.3%2046.2L320.9%2047.1L308.7%2044.5L294.6%2048.6L285.6%2055.6L277.9%2056.7L265.6%2050.3L257.8%2050.5L224.8%2037.0L221.0%2032.9L214.2%2018.3L192.1%2026.8L175.2%2022.9L168.9%2023.2L153.6%2018.0L150.6%2022.3L150.0%2036.6L147.8%2044.8L148.1%2055.1L145.5%2060.8L137.4%2061.6L86.4%2052.7L85.0%2057.0L79.5%2063.2L77.4%2076.9L68.9%20100.0L69.5%20107.9L74.9%20113.7L90.4%20118.3L110.1%20135.4L117.8%20139.1L121.0%20143.8L121.5%20149.5L118.4%20164.9L118.5%20178.3L115.8%20185.9L111.1%20193.7L89.1%20217.6L82.9%20230.7L70.2%20243.6L62.1%20259.4L67.7%20263.0L77.3%20264.5L91.6%20272.7L98.9%20273.9L99.7%20276.3L98.0%20280.9L107.9%20324.4L116.8%20332.7L121.5%20348.8L126.6%20353.8L137.5%20350.4L147.0%20356.1L153.7%20380.8L169.9%20401.2L172.1%20402.0L182.7%20383.9L193.8%20373.9L208.2%20364.9L210.9%20365.0L229.2%20376.6L234.5%20376.2L243.8%20371.7L252.7%20371.9L258.2%20366.3L263.1%20350.8L265.7%20348.4L268.7%20348.4L256.7%20318.5L256.5%20314.0L258.4%20308.6L269.5%20305.5L273.8%20297.1L257.5%20289.1L278.8%20264.5L282.8%20261.1L287.0%20260.4L289.3%20257.5L302.2%20227.3L307.3%20206.4L315.5%20195.1L324.8%20159.6L333.8%20157.1L340.9%20134.8L354.0%20136.1L354.8%20135.0L355.1%20124.3L350.8%2090.1L357.5%2065.6L357.3%2046.2Z%22%20fill%3D%22%23fff6e9%22%20stroke%3D%22%23120b1f%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+    ],
+    "q": "¿Qué provincia argentina tiene este contorno?",
+    "o": [
+      "Tucumán",
+      "Catamarca",
+      "Santiago del Estero",
+      "Jujuy"
+    ],
+    "a": "Tucumán"
+  }
+]

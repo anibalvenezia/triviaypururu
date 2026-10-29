@@ -1,0 +1,875 @@
+[
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué personaje interpretó Agustina Cherri en 'Chiquititas'?",
+    "a": "Mili"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "g": "friends",
+    "q": "¿Cuál es el segundo nombre de Rachel Green en 'Friends'?",
+    "o": [
+      "Karen",
+      "Emma",
+      "Louise",
+      "Anne"
+    ],
+    "a": "Karen"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "g": "friends",
+    "q": "¿Cómo se llama la cafetería donde se juntan los protagonistas de 'Friends'?",
+    "o": [
+      "Central Perk",
+      "Café Nervosa",
+      "Moe's",
+      "The Regal Beagle"
+    ],
+    "a": "Central Perk"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién creó y dirigió la serie 'Los Simuladores'?",
+    "a": "Damián Szifron"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién creó 'Los Simpson'?",
+    "a": "Matt Groening"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "'Game of Thrones' está basada en las novelas de...",
+    "o": [
+      "George R. R. Martin",
+      "J. R. R. Tolkien",
+      "Patrick Rothfuss",
+      "Robert Jordan"
+    ],
+    "a": "George R. R. Martin"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué pueblo ficticio transcurre 'Stranger Things'?",
+    "o": [
+      "Hawkins",
+      "Derry",
+      "Twin Peaks",
+      "Riverdale"
+    ],
+    "a": "Hawkins"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién creó al Chavo del 8?",
+    "a": "Roberto Gómez Bolaños, Chespirito"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué integrante completa a Midachi junto a Dady Brieva y Miguel Del Sel?",
+    "a": "El Chino Volpato"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué vedette popularizó la frase '¿Quiénes son?'?",
+    "o": [
+      "Moria Casán",
+      "Susana Giménez",
+      "Graciela Alfano",
+      "Mirtha Legrand"
+    ],
+    "a": "Moria Casán"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "g": "bcs",
+    "q": "¿Qué serie es una precuela de 'Breaking Bad'?",
+    "o": [
+      "Better Call Saul",
+      "Ozark",
+      "Narcos",
+      "El Marginal"
+    ],
+    "a": "Better Call Saul"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿De qué país es la serie 'El juego del calamar'?",
+    "o": [
+      "Corea del Sur",
+      "Japón",
+      "China",
+      "Taiwán"
+    ],
+    "a": "Corea del Sur"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿En qué ciudad transcurre la serie 'La casa de papel'?",
+    "a": "En Madrid"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué país transcurre la serie 'Dark'?",
+    "o": [
+      "Alemania",
+      "Dinamarca",
+      "Austria",
+      "Noruega"
+    ],
+    "a": "Alemania"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la familia protagonista de 'Los Soprano'?",
+    "a": "La familia Soprano, encabezada por Tony"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué ciudad ficticia viven Los Simpson?",
+    "o": [
+      "Springfield",
+      "Shelbyville",
+      "Quahog",
+      "Langley Falls"
+    ],
+    "a": "Springfield"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la taberna a la que va Homero Simpson?",
+    "a": "La taberna de Moe"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué humorista argentino creó el personaje de la empleada pública?",
+    "a": "Antonio Gasalla"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué humorista creó a Micky Vainilla y a Pomelo?",
+    "o": [
+      "Diego Capusotto",
+      "Alfredo Casero",
+      "Fabio Alberti",
+      "Antonio Gasalla"
+    ],
+    "a": "Diego Capusotto"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Con qué comediante formó dupla Alberto Olmedo en el cine y la televisión de los años 80?",
+    "a": "Jorge Porcel"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué serie argentina de 2000, protagonizada por Rodrigo de la Serna, sigue a un grupo de jóvenes que ocupa una casa en Buenos Aires?",
+    "o": [
+      "Okupas",
+      "El Marginal",
+      "Tumberos",
+      "Disputas"
+    ],
+    "a": "Okupas"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué conductora argentina es famosa por sus almuerzos televisados?",
+    "a": "Mirtha Legrand"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué programa de Marcelo Tinelli marcó la televisión argentina de los años 90?",
+    "o": [
+      "Videomatch",
+      "Sábado Bus",
+      "La noche del domingo",
+      "Feliz Domingo"
+    ],
+    "a": "Videomatch"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué sitcom argentina fue una adaptación de 'Married with Children'?",
+    "a": "Casados con hijos"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué telenovela juvenil de Cris Morena se emitió entre 1995 y 2001?",
+    "o": [
+      "Chiquititas",
+      "Rebelde Way",
+      "Floricienta",
+      "Casi Ángeles"
+    ],
+    "a": "Chiquititas"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué serie estadounidense sigue a una familia de mafiosos de Nueva Jersey?",
+    "o": [
+      "Los Soprano",
+      "Boardwalk Empire",
+      "Peaky Blinders",
+      "The Wire"
+    ],
+    "a": "Los Soprano"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué miniserie de HBO de 2019 reconstruyó el accidente nuclear soviético?",
+    "a": "Chernobyl"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué oficina ficticia transcurre la versión estadounidense de 'The Office'?",
+    "o": [
+      "Dunder Mifflin",
+      "Wernham Hogg",
+      "Initech",
+      "Sterling Cooper"
+    ],
+    "a": "Dunder Mifflin"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué serie argentina sobre una cárcel protagonizaron Juan Minujín y Nicolás Furtado?",
+    "a": "El Marginal"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "g": "tato",
+    "q": "¿Qué humorista argentino se presentaba como 'actor cómico de la Nación' y cerraba sus programas con un monólogo político?",
+    "o": [
+      "Tato Bores",
+      "Juan Carlos Calabró",
+      "Alberto Olmedo",
+      "Antonio Gasalla"
+    ],
+    "a": "Tato Bores",
+    "n": "Estuvo en televisión desde fines de los años 50 hasta 1993."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "vf",
+    "p": 1,
+    "q": "'Los Simpson' es la serie animada en horario central más longeva de la televisión estadounidense.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "vf",
+    "p": 1,
+    "q": "'Breaking Bad' transcurre en Nuevo México.",
+    "a": "Verdadero",
+    "n": "En Albuquerque."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "vf",
+    "p": 1,
+    "q": "'La casa de papel' es una serie de producción italiana.",
+    "a": "Falso",
+    "n": "Es española."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "vf",
+    "p": 1,
+    "q": "'Okupas' se emitió originalmente por la televisión pública argentina.",
+    "a": "Verdadero",
+    "n": "Por Canal 7, en el año 2000."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "vf",
+    "p": 1,
+    "q": "Mirtha Legrand condujo sus almuerzos televisados durante más de cinco décadas.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "vf",
+    "p": 1,
+    "g": "bcs",
+    "q": "'Better Call Saul' es una secuela de 'Breaking Bad'.",
+    "a": "Falso",
+    "n": "Es una precuela, aunque su tramo final avanza más allá."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ord",
+    "p": 2,
+    "q": "Ordená estas series por año de estreno, de la más antigua a la más reciente.",
+    "o": [
+      "Los Simpson",
+      "Los Soprano",
+      "Breaking Bad",
+      "Stranger Things"
+    ],
+    "a": [
+      "Los Simpson",
+      "Los Soprano",
+      "Breaking Bad",
+      "Stranger Things"
+    ],
+    "n": "1989, 1999, 2008 y 2016."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "vf",
+    "p": 1,
+    "g": "friends",
+    "q": "'Friends' transcurre en Nueva York.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué parentesco tienen Jon Snow y Daenerys Targaryen en 'Game of Thrones'?",
+    "o": [
+      "Ella es su tía",
+      "Ella es su prima",
+      "Ella es su hermana",
+      "No son parientes"
+    ],
+    "a": "Ella es su tía"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la hermana melliza de Phoebe en 'Friends'?",
+    "a": "Ursula"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el nombre de pila del doctor House?",
+    "o": [
+      "Gregory",
+      "James",
+      "Robert",
+      "Eric"
+    ],
+    "a": "Gregory"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién es el tercer integrante de Midachi, junto a Dady Brieva y Miguel Del Sel?",
+    "a": "Chino Volpato"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué serie de Cris Morena se emitió entre 2002 y 2003 con Camila Bordonaba y Benjamín Rojas?",
+    "o": [
+      "Rebelde Way",
+      "Floricienta",
+      "Casi Ángeles",
+      "Verano del 98"
+    ],
+    "a": "Rebelde Way"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué serie argentina de Netflix protagonizó Guillermo Francella como un empleado de una empresa de seguridad?",
+    "o": [
+      "El Encargado",
+      "El Reino",
+      "Iosi, el espía arrepentido",
+      "División Palermo"
+    ],
+    "a": "El Encargado",
+    "n": "En realidad es el encargado de un edificio de Palermo."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué comediante argentino creó el personaje de Jorge Serrano en 'Peter Capusotto y sus videos'?",
+    "a": "Diego Capusotto"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Quién escribe los guiones de 'Peter Capusotto y sus videos' junto a Diego Capusotto?",
+    "o": [
+      "Pedro Saborido",
+      "Roberto Fontanarrosa",
+      "Juan Sasturain",
+      "Alejandro Dolina"
+    ],
+    "a": "Pedro Saborido"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama el programa radial de Alejandro Dolina que se emite de trasnoche desde los años 80?",
+    "a": "La venganza será terrible"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué serie española de Netflix sobre un colegio de élite se estrenó en 2018?",
+    "o": [
+      "Élite",
+      "La casa de papel",
+      "Vis a vis",
+      "Las chicas del cable"
+    ],
+    "a": "Élite"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿En qué serie interpretó Bryan Cranston a un profesor de química convertido en fabricante de metanfetamina?",
+    "a": "Breaking Bad"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cómo se llama el dragón favorito de Daenerys en 'Game of Thrones'?",
+    "o": [
+      "Drogon",
+      "Rhaegal",
+      "Viserion",
+      "Balerion"
+    ],
+    "a": "Drogon"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "vf",
+    "p": 1,
+    "g": "simuladores",
+    "q": "'Los Simuladores' se emitió originalmente por Telefe.",
+    "a": "Verdadero",
+    "n": "Entre 2002 y 2003."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "g": "simuladores",
+    "q": "¿Qué cuatro actores protagonizaron 'Los Simuladores'?",
+    "a": "Federico D'Elía, Diego Peretti, Alejandro Fiore y Martín Seefeld"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cómo se llamó el ciclo de Marcelo Tinelli que sucedió a Videomatch y estuvo al aire entre 2005 y 2021?",
+    "o": [
+      "Showmatch",
+      "Ritmo de la noche",
+      "Canta Conmigo Ahora",
+      "El Show del Fútbol"
+    ],
+    "a": "Showmatch"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llamó el certamen de baile que fue el segmento más famoso de Showmatch?",
+    "a": "El Bailando, o Bailando por un Sueño"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Sobre qué mundo gira la serie argentina 'Los Protectores', con Adrián Suar, Gustavo Bermúdez y Andrés Parra?",
+    "o": [
+      "Los representantes de futbolistas",
+      "Los custodios de un banco",
+      "Los bomberos voluntarios",
+      "Los guardavidas de la costa"
+    ],
+    "a": "Los representantes de futbolistas",
+    "n": "Se estrenó en 2022 por Star+, hoy en Disney+."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "g": "simuladores",
+    "q": "¿En qué serie argentina interpretó Diego Peretti a un psiquiatra que integra un grupo que resuelve problemas ajenos?",
+    "a": "Los Simuladores"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué conductor argentino popularizó la frase 'a las cosas por su nombre'?",
+    "o": [
+      "Jorge Lanata",
+      "Mariano Grondona",
+      "Bernardo Neustadt",
+      "Santo Biasatti"
+    ],
+    "a": "Bernardo Neustadt"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué humorista argentino interpretó a la señora Rosa y a la vieja de la cartera?",
+    "a": "Antonio Gasalla"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué serie de HBO sobre una familia dueña de un imperio mediático terminó en 2023?",
+    "o": [
+      "Succession",
+      "Billions",
+      "Industry",
+      "The Newsroom"
+    ],
+    "a": "Succession"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la serie de HBO ambientada en un parque temático de androides?",
+    "a": "Westworld"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué serie aparece el personaje Eleven, una nena con poderes telequinéticos?",
+    "o": [
+      "Stranger Things",
+      "Dark",
+      "The Umbrella Academy",
+      "Locke & Key"
+    ],
+    "a": "Stranger Things"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "vf",
+    "p": 1,
+    "q": "'Casados con hijos' fue una adaptación de una sitcom estadounidense.",
+    "a": "Verdadero",
+    "n": "De 'Married with Children'."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "vf",
+    "p": 1,
+    "g": "tato",
+    "q": "Tato Bores hacía sus monólogos disfrazado de político.",
+    "a": "Falso",
+    "n": "Se presentaba como 'actor cómico de la Nación', con esmoquin y peluca."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "vf",
+    "p": 1,
+    "q": "'Chiquititas' fue creada por Cris Morena.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué canal argentino emitió originalmente 'Los Simuladores'?",
+    "o": [
+      "Telefe",
+      "Canal 13",
+      "América",
+      "Canal 9"
+    ],
+    "a": "Telefe"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué actriz argentina protagonizó 'Muñeca brava' y 'Rebelde Way'?",
+    "a": "Natalia Oreiro protagonizó 'Muñeca brava'; en 'Rebelde Way' el protagónico fue de Camila Bordonaba"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿De qué país es Natalia Oreiro?",
+    "o": [
+      "Uruguay",
+      "Argentina",
+      "Chile",
+      "Paraguay"
+    ],
+    "a": "Uruguay"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué serie británica sigue a la familia Shelby en el Birmingham de los años 20?",
+    "a": "Peaky Blinders"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué serie estadounidense transcurre en la publicidad neoyorquina de los años 60?",
+    "o": [
+      "Mad Men",
+      "The Marvelous Mrs. Maisel",
+      "Boardwalk Empire",
+      "Masters of Sex"
+    ],
+    "a": "Mad Men"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "vf",
+    "p": 1,
+    "q": "'Game of Thrones' está basada en una saga de novelas de George R. R. Martin.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "ord",
+    "p": 2,
+    "q": "Ordená estos programas argentinos por año de estreno, del más antiguo al más reciente.",
+    "o": [
+      "Videomatch",
+      "Los Simuladores",
+      "Casados con hijos",
+      "El Encargado"
+    ],
+    "a": [
+      "Videomatch",
+      "Casados con hijos",
+      "Los Simuladores",
+      "El Encargado"
+    ],
+    "n": "1990, 2000, 2002 y 2022."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "g": "chiquititas-hogar",
+    "q": "¿Cómo se llamaba el hogar donde vivían las huérfanas de 'Chiquititas'?",
+    "o": [
+      "Rincón de Luz",
+      "Hogar del Sol",
+      "La Casita",
+      "Rayito de Luz"
+    ],
+    "a": "Rincón de Luz"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "g": "ninera-argentina",
+    "q": "¿Quién interpretó al señor Iraola, el equivalente del señor Sheffield, en la versión argentina de 'La niñera'?",
+    "o": [
+      "Boy Olmi",
+      "Arturo Puig",
+      "Gustavo Bermúdez",
+      "Pablo Rago"
+    ],
+    "a": "Boy Olmi",
+    "n": "Con Florencia Peña como la niñera."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "g": "coraje-duenos",
+    "q": "¿Cómo se llaman los dueños de Coraje, el perro cobarde?",
+    "o": [
+      "Muriel y Justo Bolsa",
+      "Marta y Justo Bolsa",
+      "Muriel y Eustaquio",
+      "Nora y Justo"
+    ],
+    "a": "Muriel y Justo Bolsa",
+    "n": "Viven en Ningún Lugar, Kansas."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "g": "maria-del-barrio",
+    "q": "¿Cómo se llama la antagonista de 'María la del barrio'?",
+    "o": [
+      "Soraya Montenegro",
+      "Catalina Creel",
+      "Rubí Pérez",
+      "Sarita Bernal"
+    ],
+    "a": "Soraya Montenegro",
+    "n": "Interpretada por Itatí Cantoral."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "g": "patito-feo",
+    "q": "¿Cómo se llamaban los dos grupos rivales de 'Patito feo'?",
+    "o": [
+      "las Divinas y las Populares",
+      "las Divinas y las Rebeldes",
+      "las Reinas y las Populares",
+      "las Bellas y las Divinas"
+    ],
+    "a": "las Divinas y las Populares"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "g": "dulce-amor",
+    "q": "¿De qué trabajaba el personaje de Sebastián Estevanez en 'Dulce amor'?",
+    "o": [
+      "de chofer",
+      "de jardinero",
+      "de mecánico",
+      "de guardaespaldas"
+    ],
+    "a": "de chofer",
+    "n": "Marcos era corredor de autos aficionado y se quedó sin trabajo; terminó como chofer de Victoria, el personaje de Carina Zampini."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "g": "resistire-doval",
+    "q": "¿Qué actor interpretó a Mauricio Doval, el villano de 'Resistiré'?",
+    "o": [
+      "Fabián Vena",
+      "Pablo Echarri",
+      "Daniel Fanego",
+      "Rafael Ferro"
+    ],
+    "a": "Fabián Vena",
+    "n": "Echarri era el protagonista, Diego Moreno."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "g": "piquito",
+    "q": "¿En qué serie argentina se dice la frase «¿No hay un piquito pa' mí?»?",
+    "o": [
+      "'Los simuladores'",
+      "'Todos contra Juan'",
+      "'Casados con hijos'",
+      "'Poliladron'"
+    ],
+    "a": "'Los simuladores'",
+    "n": "La dice el personaje mexicano que interpreta José Andrada, en una escena con Martín Seefeld."
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "g": "alf-melmac",
+    "q": "¿De qué planeta venía Alf?",
+    "o": [
+      "Melmac",
+      "Krypton",
+      "Mongo",
+      "Omicron"
+    ],
+    "a": "Melmac"
+  },
+  {
+    "c": "TV y espectáculos",
+    "t": "mc",
+    "p": 1,
+    "g": "superpoderosas",
+    "q": "¿Cómo se llaman las Chicas Superpoderosas?",
+    "o": [
+      "Bombón, Burbuja y Bellota",
+      "Bombón, Burbuja y Bonita",
+      "Bombón, Bellota y Brisa",
+      "Burbuja, Bellota y Bianca"
+    ],
+    "a": "Bombón, Burbuja y Bellota"
+  }
+]

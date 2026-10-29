@@ -1,0 +1,7 @@
+# Netlify compila solo en cada push a main y arma una vista previa por cada pull request.
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"

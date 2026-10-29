@@ -1,0 +1,2131 @@
+[
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-argentina",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/500px-Flag_of_Argentina.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Argentina",
+      "Uruguay",
+      "Guatemala",
+      "El Salvador"
+    ],
+    "a": "Argentina",
+    "n": "El sol de mayo se agregó al centro en 1818."
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-uruguay",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/500px-Flag_of_Uruguay.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/250px-Flag_of_Uruguay.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Uruguay",
+      "Argentina",
+      "Grecia",
+      "Chile"
+    ],
+    "a": "Uruguay",
+    "n": "Las nueve franjas representan a los nueve departamentos originales."
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-brasil",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/500px-Flag_of_Brazil.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/250px-Flag_of_Brazil.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Brasil",
+      "Portugal",
+      "Camerún",
+      "Jamaica"
+    ],
+    "a": "Brasil",
+    "n": "La leyenda dice 'Ordem e Progresso'."
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-chile",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/500px-Flag_of_Chile.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/250px-Flag_of_Chile.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Chile",
+      "Texas",
+      "Cuba",
+      "Puerto Rico"
+    ],
+    "a": "Chile"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-paraguay",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/500px-Flag_of_Paraguay.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera, la única del mundo con distinto escudo de cada lado?",
+    "o": [
+      "Paraguay",
+      "Países Bajos",
+      "Luxemburgo",
+      "Rusia"
+    ],
+    "a": "Paraguay"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-bolivia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/500px-Flag_of_Bolivia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_(state).svg/500px-Flag_of_Bolivia_(state).svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/250px-Flag_of_Bolivia.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Bolivia",
+      "Ghana",
+      "Etiopía",
+      "Lituania"
+    ],
+    "a": "Bolivia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-peru",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/500px-Flag_of_Peru.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_(state).svg/500px-Flag_of_Peru_(state).svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/250px-Flag_of_Peru.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Perú",
+      "Canadá",
+      "Austria",
+      "Letonia"
+    ],
+    "a": "Perú"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-ecuador",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/500px-Flag_of_Ecuador.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png"
+    ],
+    "q": "¿A qué país sudamericano pertenece esta bandera?",
+    "o": [
+      "Ecuador",
+      "Colombia",
+      "Venezuela",
+      "Rumania"
+    ],
+    "a": "Ecuador",
+    "n": "Ecuador, Colombia y Venezuela comparten los colores de la Gran Colombia."
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-colombia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/500px-Flag_of_Colombia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/250px-Flag_of_Colombia.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Colombia",
+      "Ecuador",
+      "Venezuela",
+      "Rumania"
+    ],
+    "a": "Colombia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-venezuela",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/500px-Flag_of_Venezuela.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Venezuela_(state).svg/500px-Flag_of_Venezuela_(state).svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/250px-Flag_of_Venezuela.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Venezuela",
+      "Colombia",
+      "Ecuador",
+      "Moldavia"
+    ],
+    "a": "Venezuela"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-mexico",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/500px-Flag_of_Mexico.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "México",
+      "Italia",
+      "Irlanda",
+      "Costa de Marfil"
+    ],
+    "a": "México",
+    "n": "En el centro, el águila devorando una serpiente sobre un nopal."
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-cuba",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/500px-Flag_of_Cuba.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/250px-Flag_of_Cuba.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Cuba",
+      "Puerto Rico",
+      "Chile",
+      "Uruguay"
+    ],
+    "a": "Cuba"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-jamaica",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/500px-Flag_of_Jamaica.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/250px-Flag_of_Jamaica.svg.png"
+    ],
+    "q": "¿De qué país caribeño es esta bandera?",
+    "o": [
+      "Jamaica",
+      "Barbados",
+      "Bahamas",
+      "Trinidad y Tobago"
+    ],
+    "a": "Jamaica"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-canada",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/500px-Flag_of_Canada.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_(Pantone).svg/500px-Flag_of_Canada_(Pantone).svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/250px-Flag_of_Canada.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Canadá",
+      "Perú",
+      "Austria",
+      "Dinamarca"
+    ],
+    "a": "Canadá"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-eeuu",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/500px-Flag_of_the_United_States.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/250px-Flag_of_the_United_States.svg.png"
+    ],
+    "q": "¿Cuántas estrellas tiene hoy esta bandera?",
+    "o": [
+      "50",
+      "48",
+      "52",
+      "13"
+    ],
+    "a": "50",
+    "n": "Una por cada estado; las franjas son las trece colonias originales."
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-espana",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/500px-Flag_of_Spain.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/250px-Flag_of_Spain.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "España",
+      "Colombia",
+      "Ecuador",
+      "Austria"
+    ],
+    "a": "España"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-portugal",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/500px-Flag_of_Portugal.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/250px-Flag_of_Portugal.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Portugal",
+      "Brasil",
+      "Italia",
+      "Hungría"
+    ],
+    "a": "Portugal"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-italia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/500px-Flag_of_Italy.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/250px-Flag_of_Italy.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Italia",
+      "México",
+      "Irlanda",
+      "Hungría"
+    ],
+    "a": "Italia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-francia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Francia",
+      "Países Bajos",
+      "Rusia",
+      "Luxemburgo"
+    ],
+    "a": "Francia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-alemania",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/500px-Flag_of_Germany.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Alemania",
+      "Bélgica",
+      "Bolivia",
+      "Lituania"
+    ],
+    "a": "Alemania"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-belgica",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/500px-Flag_of_Belgium.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_(civil).svg/500px-Flag_of_Belgium_(civil).svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/250px-Flag_of_Belgium.svg.png"
+    ],
+    "q": "¿A qué país europeo corresponde esta bandera?",
+    "o": [
+      "Bélgica",
+      "Alemania",
+      "Chad",
+      "Rumania"
+    ],
+    "a": "Bélgica"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-holanda",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/500px-Flag_of_the_Netherlands.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/250px-Flag_of_the_Netherlands.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Países Bajos",
+      "Francia",
+      "Luxemburgo",
+      "Rusia"
+    ],
+    "a": "Países Bajos"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-reinounido",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/500px-Flag_of_the_United_Kingdom.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_(3-5).svg/500px-Flag_of_the_United_Kingdom_(3-5).svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/250px-Flag_of_the_United_Kingdom.svg.png"
+    ],
+    "q": "¿Cómo se conoce popularmente a esta bandera?",
+    "o": [
+      "Union Jack",
+      "Old Glory",
+      "Tricolor",
+      "Cruz del Sur"
+    ],
+    "a": "Union Jack"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-irlanda",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/500px-Flag_of_Ireland.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/250px-Flag_of_Ireland.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Irlanda",
+      "Italia",
+      "Costa de Marfil",
+      "India"
+    ],
+    "a": "Irlanda"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-grecia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/500px-Flag_of_Greece.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/250px-Flag_of_Greece.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Grecia",
+      "Uruguay",
+      "Israel",
+      "Finlandia"
+    ],
+    "a": "Grecia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-suiza",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/500px-Flag_of_Switzerland.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_(Pantone).svg/500px-Flag_of_Switzerland_(Pantone).svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png"
+    ],
+    "q": "¿Qué particularidad tiene esta bandera entre las de los países del mundo?",
+    "o": [
+      "Es cuadrada",
+      "Es la única sin colores",
+      "Es la más antigua",
+      "Tiene forma triangular"
+    ],
+    "a": "Es cuadrada",
+    "n": "Solo Suiza y el Vaticano tienen bandera cuadrada."
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-suecia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/500px-Flag_of_Sweden.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/250px-Flag_of_Sweden.svg.png"
+    ],
+    "q": "¿De qué país nórdico es esta bandera?",
+    "o": [
+      "Suecia",
+      "Noruega",
+      "Dinamarca",
+      "Finlandia"
+    ],
+    "a": "Suecia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-noruega",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/500px-Flag_of_Norway.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Noruega",
+      "Islandia",
+      "Dinamarca",
+      "Finlandia"
+    ],
+    "a": "Noruega"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-dinamarca",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/500px-Flag_of_Denmark.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/250px-Flag_of_Denmark.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera, considerada la más antigua en uso continuo?",
+    "o": [
+      "Dinamarca",
+      "Suecia",
+      "Austria",
+      "Escocia"
+    ],
+    "a": "Dinamarca"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-finlandia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/500px-Flag_of_Finland.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/250px-Flag_of_Finland.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Finlandia",
+      "Suecia",
+      "Islandia",
+      "Grecia"
+    ],
+    "a": "Finlandia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-polonia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/500px-Flag_of_Poland.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/250px-Flag_of_Poland.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Polonia",
+      "Indonesia",
+      "Mónaco",
+      "Austria"
+    ],
+    "a": "Polonia",
+    "n": "Indonesia y Mónaco tienen los mismos colores invertidos."
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-japon",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/500px-Flag_of_Japan.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/250px-Flag_of_Japan.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Japón",
+      "Bangladés",
+      "Palaos",
+      "Corea del Sur"
+    ],
+    "a": "Japón"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-corea",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/500px-Flag_of_South_Korea.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/250px-Flag_of_South_Korea.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera con el símbolo del yin y el yang?",
+    "o": [
+      "Corea del Sur",
+      "Japón",
+      "Mongolia",
+      "Taiwán"
+    ],
+    "a": "Corea del Sur"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-china",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People's_Republic_of_China.svg/500px-Flag_of_the_People's_Republic_of_China.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_China.svg/500px-Flag_of_China.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People's_Republic_of_China.svg/250px-Flag_of_the_People's_Republic_of_China.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "China",
+      "Vietnam",
+      "Turquía",
+      "Marruecos"
+    ],
+    "a": "China"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-india",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/500px-Flag_of_India.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/250px-Flag_of_India.svg.png"
+    ],
+    "q": "¿Qué símbolo aparece en el centro de esta bandera?",
+    "o": [
+      "Una rueda",
+      "Una estrella",
+      "Una media luna",
+      "Un sol"
+    ],
+    "a": "Una rueda",
+    "n": "Es el chakra de Ashoka, con 24 radios."
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-israel",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/500px-Flag_of_Israel.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/250px-Flag_of_Israel.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Israel",
+      "Grecia",
+      "Finlandia",
+      "Uruguay"
+    ],
+    "a": "Israel"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-turquia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/500px-Flag_of_Turkey.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/250px-Flag_of_Turkey.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Turquía",
+      "Túnez",
+      "Marruecos",
+      "Pakistán"
+    ],
+    "a": "Turquía"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-egipto",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/500px-Flag_of_Egypt.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/250px-Flag_of_Egypt.svg.png"
+    ],
+    "q": "¿De qué país africano es esta bandera?",
+    "o": [
+      "Egipto",
+      "Irak",
+      "Siria",
+      "Yemen"
+    ],
+    "a": "Egipto"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-sudafrica",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/500px-Flag_of_South_Africa.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/250px-Flag_of_South_Africa.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera de seis colores?",
+    "o": [
+      "Sudáfrica",
+      "Kenia",
+      "Zimbabue",
+      "Mozambique"
+    ],
+    "a": "Sudáfrica",
+    "n": "Adoptada en 1994, con el fin del apartheid."
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-nigeria",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/500px-Flag_of_Nigeria.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/250px-Flag_of_Nigeria.svg.png"
+    ],
+    "q": "¿De qué país africano es esta bandera?",
+    "o": [
+      "Nigeria",
+      "Senegal",
+      "Costa de Marfil",
+      "Camerún"
+    ],
+    "a": "Nigeria"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-kenia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/500px-Flag_of_Kenya.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/250px-Flag_of_Kenya.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera con un escudo masái?",
+    "o": [
+      "Kenia",
+      "Uganda",
+      "Tanzania",
+      "Malaui"
+    ],
+    "a": "Kenia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-marruecos",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/500px-Flag_of_Morocco.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/250px-Flag_of_Morocco.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera con una estrella verde de cinco puntas?",
+    "o": [
+      "Marruecos",
+      "Turquía",
+      "Túnez",
+      "Argelia"
+    ],
+    "a": "Marruecos"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-australia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/500px-Flag_of_Australia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_(converted).svg/500px-Flag_of_Australia_(converted).svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/250px-Flag_of_Australia.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Australia",
+      "Nueva Zelanda",
+      "Fiyi",
+      "Reino Unido"
+    ],
+    "a": "Australia",
+    "n": "Tiene seis estrellas; la de Nueva Zelanda tiene cuatro y son rojas."
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-nuevazelanda",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/500px-Flag_of_New_Zealand.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/250px-Flag_of_New_Zealand.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Nueva Zelanda",
+      "Australia",
+      "Fiyi",
+      "Tuvalu"
+    ],
+    "a": "Nueva Zelanda"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-nepal",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/500px-Flag_of_Nepal.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/250px-Flag_of_Nepal.svg.png"
+    ],
+    "q": "¿Qué tiene de único esta bandera en el mundo?",
+    "o": [
+      "Es la única que no es rectangular",
+      "Es la única con tres colores",
+      "Es la única sin escudo",
+      "Es la única cuadrada"
+    ],
+    "a": "Es la única que no es rectangular",
+    "n": "Es de Nepal: dos banderines triangulares superpuestos."
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-rusia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/500px-Flag_of_Russia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/250px-Flag_of_Russia.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Rusia",
+      "Países Bajos",
+      "Eslovenia",
+      "Serbia"
+    ],
+    "a": "Rusia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-austria",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/500px-Flag_of_Austria.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/250px-Flag_of_Austria.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Austria",
+      "Letonia",
+      "Perú",
+      "Polonia"
+    ],
+    "a": "Austria"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-croacia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/500px-Flag_of_Croatia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/250px-Flag_of_Croatia.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Croacia",
+      "Eslovaquia",
+      "Serbia",
+      "Eslovenia"
+    ],
+    "a": "Croacia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-serbia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/500px-Flag_of_Serbia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Serbia",
+      "Rusia",
+      "Eslovaquia",
+      "Eslovenia"
+    ],
+    "a": "Serbia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-hungria",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/500px-Flag_of_Hungary.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/250px-Flag_of_Hungary.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "Hungría",
+      "Italia",
+      "Bulgaria",
+      "Irán"
+    ],
+    "a": "Hungría"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-republicacheca",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/500px-Flag_of_the_Czech_Republic.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/250px-Flag_of_the_Czech_Republic.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "República Checa",
+      "Filipinas",
+      "Eslovaquia",
+      "Puerto Rico"
+    ],
+    "a": "República Checa"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-eslovaquia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/500px-Flag_of_Slovakia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/250px-Flag_of_Slovakia.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Eslovaquia",
+      "Eslovenia",
+      "Rusia",
+      "Croacia"
+    ],
+    "a": "Eslovaquia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-rumania",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/500px-Flag_of_Romania.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/250px-Flag_of_Romania.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Rumania",
+      "Chad",
+      "Andorra",
+      "Moldavia"
+    ],
+    "a": "Rumania"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-bulgaria",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/500px-Flag_of_Bulgaria.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/250px-Flag_of_Bulgaria.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "Bulgaria",
+      "Hungría",
+      "Italia",
+      "Irán"
+    ],
+    "a": "Bulgaria"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-ucrania",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/500px-Flag_of_Ukraine.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/250px-Flag_of_Ukraine.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Ucrania",
+      "Suecia",
+      "Kazajistán",
+      "Palaos"
+    ],
+    "a": "Ucrania"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-islandia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/500px-Flag_of_Iceland.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/250px-Flag_of_Iceland.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Islandia",
+      "Noruega",
+      "Finlandia",
+      "Feroe"
+    ],
+    "a": "Islandia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-estonia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/500px-Flag_of_Estonia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/250px-Flag_of_Estonia.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Estonia",
+      "Letonia",
+      "Lituania",
+      "Botsuana"
+    ],
+    "a": "Estonia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-letonia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/500px-Flag_of_Latvia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/250px-Flag_of_Latvia.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "Letonia",
+      "Austria",
+      "Estonia",
+      "Dinamarca"
+    ],
+    "a": "Letonia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-lituania",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/500px-Flag_of_Lithuania.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/250px-Flag_of_Lithuania.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Lituania",
+      "Bolivia",
+      "Ghana",
+      "Etiopía"
+    ],
+    "a": "Lituania"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-eslovenia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/500px-Flag_of_Slovenia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/250px-Flag_of_Slovenia.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Eslovenia",
+      "Eslovaquia",
+      "Rusia",
+      "Serbia"
+    ],
+    "a": "Eslovenia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-albania",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/500px-Flag_of_Albania.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/250px-Flag_of_Albania.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Albania",
+      "Montenegro",
+      "Kosovo",
+      "Macedonia del Norte"
+    ],
+    "a": "Albania"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-monaco",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/500px-Flag_of_Monaco.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/250px-Flag_of_Monaco.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "Mónaco",
+      "Indonesia",
+      "Polonia",
+      "Malta"
+    ],
+    "a": "Mónaco"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-luxemburgo",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/500px-Flag_of_Luxembourg.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/250px-Flag_of_Luxembourg.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Luxemburgo",
+      "Países Bajos",
+      "Francia",
+      "Paraguay"
+    ],
+    "a": "Luxemburgo"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-malta",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/500px-Flag_of_Malta.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/250px-Flag_of_Malta.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Malta",
+      "Mónaco",
+      "Indonesia",
+      "Polonia"
+    ],
+    "a": "Malta"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-chipre",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/500px-Flag_of_Cyprus.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/250px-Flag_of_Cyprus.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Chipre",
+      "Kosovo",
+      "Bosnia",
+      "Malta"
+    ],
+    "a": "Chipre"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-elvaticano",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Vatican_City.svg/500px-Flag_of_Vatican_City.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/500px-Flag_of_the_Vatican_City.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Vatican_City.svg/250px-Flag_of_Vatican_City.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "El Vaticano",
+      "Suiza",
+      "Mónaco",
+      "San Marino"
+    ],
+    "a": "El Vaticano"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-vietnam",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/500px-Flag_of_Vietnam.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/250px-Flag_of_Vietnam.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Vietnam",
+      "China",
+      "Marruecos",
+      "Turquía"
+    ],
+    "a": "Vietnam"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-tailandia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/500px-Flag_of_Thailand.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/250px-Flag_of_Thailand.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Tailandia",
+      "Costa Rica",
+      "Camboya",
+      "Laos"
+    ],
+    "a": "Tailandia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-indonesia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/500px-Flag_of_Indonesia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/250px-Flag_of_Indonesia.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Indonesia",
+      "Mónaco",
+      "Polonia",
+      "Malta"
+    ],
+    "a": "Indonesia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-filipinas",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/500px-Flag_of_the_Philippines.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/250px-Flag_of_the_Philippines.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "Filipinas",
+      "República Checa",
+      "Cuba",
+      "Puerto Rico"
+    ],
+    "a": "Filipinas"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-malasia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/500px-Flag_of_Malaysia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/250px-Flag_of_Malaysia.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Malasia",
+      "Estados Unidos",
+      "Liberia",
+      "Chile"
+    ],
+    "a": "Malasia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-singapur",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/500px-Flag_of_Singapore.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/250px-Flag_of_Singapore.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Singapur",
+      "Indonesia",
+      "Polonia",
+      "Mónaco"
+    ],
+    "a": "Singapur"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-pakistan",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/500px-Flag_of_Pakistan.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/250px-Flag_of_Pakistan.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Pakistán",
+      "Turquía",
+      "Argelia",
+      "Mauritania"
+    ],
+    "a": "Pakistán"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-banglades",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/500px-Flag_of_Bangladesh.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/250px-Flag_of_Bangladesh.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "Bangladés",
+      "Japón",
+      "Palaos",
+      "India"
+    ],
+    "a": "Bangladés"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-srilanka",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/500px-Flag_of_Sri_Lanka.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/250px-Flag_of_Sri_Lanka.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Sri Lanka",
+      "India",
+      "Nepal",
+      "Maldivas"
+    ],
+    "a": "Sri Lanka"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-arabiasaudita",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/500px-Flag_of_Saudi_Arabia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/250px-Flag_of_Saudi_Arabia.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Arabia Saudita",
+      "Pakistán",
+      "Argelia",
+      "Libia"
+    ],
+    "a": "Arabia Saudita"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-iran",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/500px-Flag_of_Iran.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/250px-Flag_of_Iran.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Irán",
+      "Hungría",
+      "Bulgaria",
+      "Tayikistán"
+    ],
+    "a": "Irán"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-irak",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/500px-Flag_of_Iraq.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/250px-Flag_of_Iraq.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "Irak",
+      "Siria",
+      "Egipto",
+      "Yemen"
+    ],
+    "a": "Irak"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-libano",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/500px-Flag_of_Lebanon.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/250px-Flag_of_Lebanon.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Líbano",
+      "Canadá",
+      "Perú",
+      "Austria"
+    ],
+    "a": "Líbano"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-jordania",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/500px-Flag_of_Jordan.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/250px-Flag_of_Jordan.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Jordania",
+      "Palestina",
+      "Sudán",
+      "Kuwait"
+    ],
+    "a": "Jordania"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-catar",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/500px-Flag_of_Qatar.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/250px-Flag_of_Qatar.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Catar",
+      "Baréin",
+      "Letonia",
+      "Emiratos Árabes Unidos"
+    ],
+    "a": "Catar"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-kazajistan",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/500px-Flag_of_Kazakhstan.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/250px-Flag_of_Kazakhstan.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "Kazajistán",
+      "Ucrania",
+      "Uzbekistán",
+      "Mongolia"
+    ],
+    "a": "Kazajistán"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-mongolia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/500px-Flag_of_Mongolia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/250px-Flag_of_Mongolia.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Mongolia",
+      "Kirguistán",
+      "Kazajistán",
+      "Bután"
+    ],
+    "a": "Mongolia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-birmania",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/500px-Flag_of_Myanmar.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/250px-Flag_of_Myanmar.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Birmania",
+      "Etiopía",
+      "Lituania",
+      "Ghana"
+    ],
+    "a": "Birmania"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-camboya",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/500px-Flag_of_Cambodia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/250px-Flag_of_Cambodia.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Camboya",
+      "Tailandia",
+      "Laos",
+      "Costa Rica"
+    ],
+    "a": "Camboya"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-laos",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/500px-Flag_of_Laos.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/250px-Flag_of_Laos.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "Laos",
+      "Camboya",
+      "Tailandia",
+      "Birmania"
+    ],
+    "a": "Laos"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-coreadelnorte",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/500px-Flag_of_North_Korea.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/250px-Flag_of_North_Korea.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Corea del Norte",
+      "Corea del Sur",
+      "China",
+      "Vietnam"
+    ],
+    "a": "Corea del Norte"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-ghana",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/500px-Flag_of_Ghana.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/250px-Flag_of_Ghana.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Ghana",
+      "Bolivia",
+      "Etiopía",
+      "Lituania"
+    ],
+    "a": "Ghana"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-senegal",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/500px-Flag_of_Senegal.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/250px-Flag_of_Senegal.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Senegal",
+      "Malí",
+      "Camerún",
+      "Guinea"
+    ],
+    "a": "Senegal"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-etiopia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/500px-Flag_of_Ethiopia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/250px-Flag_of_Ethiopia.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "Etiopía",
+      "Bolivia",
+      "Ghana",
+      "Lituania"
+    ],
+    "a": "Etiopía"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-tanzania",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/500px-Flag_of_Tanzania.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/250px-Flag_of_Tanzania.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Tanzania",
+      "Kenia",
+      "Uganda",
+      "Sudáfrica"
+    ],
+    "a": "Tanzania"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-angola",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/500px-Flag_of_Angola.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/250px-Flag_of_Angola.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Angola",
+      "Mozambique",
+      "Zimbabue",
+      "Namibia"
+    ],
+    "a": "Angola"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-argelia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/500px-Flag_of_Algeria.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Argelia",
+      "Pakistán",
+      "Túnez",
+      "Turquía"
+    ],
+    "a": "Argelia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-tunez",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/500px-Flag_of_Tunisia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/250px-Flag_of_Tunisia.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "Túnez",
+      "Turquía",
+      "Marruecos",
+      "Argelia"
+    ],
+    "a": "Túnez"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-libia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/500px-Flag_of_Libya.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/250px-Flag_of_Libya.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Libia",
+      "Egipto",
+      "Siria",
+      "Sudán"
+    ],
+    "a": "Libia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-camerun",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/500px-Flag_of_Cameroon.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/250px-Flag_of_Cameroon.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Camerún",
+      "Senegal",
+      "Malí",
+      "Guinea"
+    ],
+    "a": "Camerún"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-zimbabue",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/500px-Flag_of_Zimbabwe.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/250px-Flag_of_Zimbabwe.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Zimbabue",
+      "Mozambique",
+      "Sudáfrica",
+      "Angola"
+    ],
+    "a": "Zimbabue"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-mozambique",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/500px-Flag_of_Mozambique.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/250px-Flag_of_Mozambique.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "Mozambique",
+      "Angola",
+      "Zimbabue",
+      "Tanzania"
+    ],
+    "a": "Mozambique"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-botsuana",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/500px-Flag_of_Botswana.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/250px-Flag_of_Botswana.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Botsuana",
+      "Estonia",
+      "Namibia",
+      "Lesoto"
+    ],
+    "a": "Botsuana"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-namibia",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/500px-Flag_of_Namibia.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/250px-Flag_of_Namibia.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Namibia",
+      "Botsuana",
+      "Zambia",
+      "Angola"
+    ],
+    "a": "Namibia"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-guatemala",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/500px-Flag_of_Guatemala.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/250px-Flag_of_Guatemala.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Guatemala",
+      "Argentina",
+      "El Salvador",
+      "Honduras"
+    ],
+    "a": "Guatemala"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-costarica",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/500px-Flag_of_Costa_Rica.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_(state).svg/500px-Flag_of_Costa_Rica_(state).svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/250px-Flag_of_Costa_Rica.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "Costa Rica",
+      "Tailandia",
+      "Cuba",
+      "Puerto Rico"
+    ],
+    "a": "Costa Rica"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-panama",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/500px-Flag_of_Panama.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Panamá",
+      "Cuba",
+      "Puerto Rico",
+      "Chile"
+    ],
+    "a": "Panamá"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-honduras",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/500px-Flag_of_Honduras.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/250px-Flag_of_Honduras.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Honduras",
+      "El Salvador",
+      "Nicaragua",
+      "Guatemala"
+    ],
+    "a": "Honduras"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-nicaragua",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/500px-Flag_of_Nicaragua.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/250px-Flag_of_Nicaragua.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Nicaragua",
+      "Honduras",
+      "El Salvador",
+      "Guatemala"
+    ],
+    "a": "Nicaragua"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-elsalvador",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/500px-Flag_of_El_Salvador.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/250px-Flag_of_El_Salvador.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "El Salvador",
+      "Nicaragua",
+      "Honduras",
+      "Guatemala"
+    ],
+    "a": "El Salvador"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-republicadominicana",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/500px-Flag_of_the_Dominican_Republic.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/250px-Flag_of_the_Dominican_Republic.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "República Dominicana",
+      "Haití",
+      "Cuba",
+      "Panamá"
+    ],
+    "a": "República Dominicana"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-haiti",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/500px-Flag_of_Haiti.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Haití",
+      "Liechtenstein",
+      "República Dominicana",
+      "Mónaco"
+    ],
+    "a": "Haití"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-guyana",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/500px-Flag_of_Guyana.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/250px-Flag_of_Guyana.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Guyana",
+      "Surinam",
+      "Zimbabue",
+      "Sudáfrica"
+    ],
+    "a": "Guyana"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-surinam",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/500px-Flag_of_Suriname.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/250px-Flag_of_Suriname.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "Surinam",
+      "Guyana",
+      "Madagascar",
+      "Birmania"
+    ],
+    "a": "Surinam"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-belice",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/500px-Flag_of_Belize.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/250px-Flag_of_Belize.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Belice",
+      "Guatemala",
+      "Honduras",
+      "Nicaragua"
+    ],
+    "a": "Belice"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-barbados",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/500px-Flag_of_Barbados.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/250px-Flag_of_Barbados.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Barbados",
+      "Bahamas",
+      "Trinidad y Tobago",
+      "Jamaica"
+    ],
+    "a": "Barbados"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-bahamas",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/500px-Flag_of_the_Bahamas.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/250px-Flag_of_the_Bahamas.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Bahamas",
+      "Barbados",
+      "Jamaica",
+      "Trinidad y Tobago"
+    ],
+    "a": "Bahamas"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-trinidadytobago",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/500px-Flag_of_Trinidad_and_Tobago.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/250px-Flag_of_Trinidad_and_Tobago.svg.png"
+    ],
+    "q": "¿Qué país tiene esta bandera?",
+    "o": [
+      "Trinidad y Tobago",
+      "Barbados",
+      "Bahamas",
+      "Jamaica"
+    ],
+    "a": "Trinidad y Tobago"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-puertorico",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/500px-Flag_of_Puerto_Rico.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/250px-Flag_of_Puerto_Rico.svg.png"
+    ],
+    "q": "¿De qué país es esta bandera?",
+    "o": [
+      "Puerto Rico",
+      "Cuba",
+      "República Dominicana",
+      "Panamá"
+    ],
+    "a": "Puerto Rico"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-fiyi",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/500px-Flag_of_Fiji.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/250px-Flag_of_Fiji.svg.png"
+    ],
+    "q": "¿A qué país corresponde esta bandera?",
+    "o": [
+      "Fiyi",
+      "Tuvalu",
+      "Nueva Zelanda",
+      "Australia"
+    ],
+    "a": "Fiyi"
+  },
+  {
+    "c": "Banderas",
+    "t": "mc",
+    "p": 1,
+    "g": "b-papuanuevaguinea",
+    "img": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/500px-Flag_of_Papua_New_Guinea.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/250px-Flag_of_Papua_New_Guinea.svg.png"
+    ],
+    "q": "¿A qué país pertenece esta bandera?",
+    "o": [
+      "Papúa Nueva Guinea",
+      "Fiyi",
+      "Vanuatu",
+      "Islas Salomón"
+    ],
+    "a": "Papúa Nueva Guinea"
+  }
+]

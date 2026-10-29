@@ -1,0 +1,1343 @@
+[
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama el histórico bar de San Jerónimo y Buenos Aires, frente a la Plaza San Martín, donde está la estatua de Daniel Salzano?",
+    "a": "Bar Sorocabana"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "g": "canada",
+    "q": "¿Qué especie de árbol bordea el arroyo La Cañada?",
+    "a": "Las tipas (Tipuana tipu)",
+    "n": "Fueron plantadas en 1948 por el paisajista Heraldo Nicolea y en 2020 se las declaró Patrimonio Natural Urbano de la ciudad."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "canada",
+    "q": "¿En qué año se plantaron las tipas de La Cañada?",
+    "o": [
+      "1948",
+      "1971",
+      "1930",
+      "1962"
+    ],
+    "a": "1948"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "canada",
+    "q": "¿En qué año se inauguró la obra de canalización de La Cañada que se ve hoy?",
+    "o": [
+      "1944",
+      "1971",
+      "1928",
+      "1955"
+    ],
+    "a": "1944",
+    "n": "El calicanto original, mucho anterior, data de 1671."
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "g": "la-mundial",
+    "q": "¿Cómo se llama el edificio más angosto de Sudamérica, en la esquina de Emilio Olmos y Rivadavia?",
+    "a": "La Mundial",
+    "n": "Inaugurado en 1931, tiene 3,70 metros en su parte más angosta. Los vecinos le dicen 'la Gillette'."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "la-mundial",
+    "q": "¿Qué apodo popular tiene el edificio La Mundial?",
+    "o": [
+      "La Gillette",
+      "El Peine",
+      "La Cuchilla",
+      "El Naipe"
+    ],
+    "a": "La Gillette"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál de estas provincias NO limita con Córdoba?",
+    "o": [
+      "Entre Ríos",
+      "La Rioja",
+      "La Pampa",
+      "Catamarca"
+    ],
+    "a": "Entre Ríos",
+    "n": "Córdoba limita con Santiago del Estero, Santa Fe, Buenos Aires, La Pampa, San Luis, La Rioja y Catamarca."
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "g": "cuarteto-leo",
+    "q": "¿A qué pianista se le atribuye la creación del tunga-tunga, el ritmo que define al cuarteto?",
+    "a": "Leonor Marzano"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "cuarteto-leo",
+    "q": "¿En qué año debutó el Cuarteto Característico Leo, la formación pionera del género?",
+    "o": [
+      "1943",
+      "1928",
+      "1957",
+      "1965"
+    ],
+    "a": "1943",
+    "n": "Debutó el 4 de junio de 1943 en el auditorio de radio LV3."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "cuarteto-leo",
+    "q": "¿Qué día se celebra el Día del Cuarteto?",
+    "o": [
+      "4 de junio",
+      "1 de mayo",
+      "12 de octubre",
+      "20 de agosto"
+    ],
+    "a": "4 de junio"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el nombre real de La Mona Jiménez?",
+    "a": "Juan Carlos Jiménez Rufino"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se apodaba a Rodrigo Bueno?",
+    "a": "El Potro"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué cantante popularizó 'Soy cordobés' en 1999?",
+    "o": [
+      "Rodrigo Bueno",
+      "La Mona Jiménez",
+      "Jean Carlos",
+      "Sebastián Mendoza"
+    ],
+    "a": "Rodrigo Bueno"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "g": "unc",
+    "q": "¿En qué año fue fundada la Universidad Nacional de Córdoba?",
+    "a": "1613"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué año estalló la Reforma Universitaria en Córdoba?",
+    "o": [
+      "1918",
+      "1912",
+      "1930",
+      "1905"
+    ],
+    "a": "1918"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿A quién se atribuye la redacción del Manifiesto Liminar de la Reforma Universitaria de 1918?",
+    "a": "Deodoro Roca"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Quién fundó la ciudad de Córdoba y en qué año?",
+    "a": "Jerónimo Luis de Cabrera, en 1573"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Con qué nombre fundó Cabrera la ciudad de Córdoba?",
+    "o": [
+      "Córdoba de la Nueva Andalucía",
+      "Córdoba del Tucumán",
+      "Villa Rica de Córdoba",
+      "Córdoba de la Sierra"
+    ],
+    "a": "Córdoba de la Nueva Andalucía"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama el río que atraviesa la ciudad de Córdoba?",
+    "a": "El Suquía (o río Primero)"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué año la Manzana Jesuítica y las estancias fueron declaradas Patrimonio de la Humanidad?",
+    "o": [
+      "2000",
+      "1984",
+      "2011",
+      "1995"
+    ],
+    "a": "2000"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Bajo qué avenida del centro se encuentra la Cripta Jesuítica?",
+    "o": [
+      "Colón",
+      "Vélez Sarsfield",
+      "General Paz",
+      "Emilio Olmos"
+    ],
+    "a": "Colón"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué museo funciona hoy en el Palacio Ferreyra?",
+    "a": "El Museo Superior de Bellas Artes Evita"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se conoce popularmente al estadio de Belgrano en barrio Alberdi?",
+    "a": "El Gigante de Alberdi"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué barrio está La Boutique, la cancha de Talleres?",
+    "o": [
+      "Barrio Jardín",
+      "Alta Córdoba",
+      "Alberdi",
+      "General Paz"
+    ],
+    "a": "Barrio Jardín"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cómo se llamaba antes el estadio Mario Alberto Kempes?",
+    "o": [
+      "Chateau Carreras",
+      "Córdoba Bicentenario",
+      "Olímpico Provincial",
+      "Estadio del Parque"
+    ],
+    "a": "Chateau Carreras"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el apodo de Instituto Atlético Central Córdoba?",
+    "o": [
+      "La Gloria",
+      "El Matador",
+      "El Pirata",
+      "El León"
+    ],
+    "a": "La Gloria"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el cerro más alto de la provincia de Córdoba?",
+    "a": "El Champaquí"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la laguna salada del norte cordobés, la mayor de Argentina?",
+    "a": "Mar Chiquita, también llamada Ansenuza"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué cerro de Capilla del Monte concentra las leyendas sobre ovnis?",
+    "o": [
+      "El Uritorco",
+      "El Champaquí",
+      "El Pan de Azúcar",
+      "Los Gigantes"
+    ],
+    "a": "El Uritorco"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿En qué localidad cordobesa transcurrió buena parte de la infancia de Ernesto Che Guevara?",
+    "a": "Alta Gracia"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué compositor español pasó sus últimos años en Alta Gracia?",
+    "o": [
+      "Manuel de Falla",
+      "Isaac Albéniz",
+      "Enrique Granados",
+      "Joaquín Rodrigo"
+    ],
+    "a": "Manuel de Falla"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué festival se realiza cada enero en Cosquín?",
+    "o": [
+      "El Festival Nacional de Folklore",
+      "La Fiesta de la Cerveza",
+      "El Festival de Doma",
+      "La Fiesta del Malbec"
+    ],
+    "a": "El Festival Nacional de Folklore"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué festival identifica a Jesús María?",
+    "o": [
+      "Doma y Folklore",
+      "Cerveza artesanal",
+      "Cine independiente",
+      "Tango"
+    ],
+    "a": "Doma y Folklore"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué localidad cordobesa celebra la Fiesta Nacional de la Cerveza?",
+    "o": [
+      "Villa General Belgrano",
+      "La Cumbrecita",
+      "Mina Clavero",
+      "Río Ceballos"
+    ],
+    "a": "Villa General Belgrano"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "g": "punilla",
+    "q": "¿En qué valle de las sierras cordobesas está el lago San Roque?",
+    "a": "En el valle de Punilla, junto a Villa Carlos Paz"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué paisajista diseñó el Parque Sarmiento de Córdoba?",
+    "a": "Carlos Thays"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama el bar de Obispo Trejo y 27 de Abril famoso por sus lomitos?",
+    "a": "El Ruedo"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿De qué país es originario el fernet?",
+    "o": [
+      "Italia",
+      "Francia",
+      "España",
+      "Argentina"
+    ],
+    "a": "Italia"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué nombre lleva el aeropuerto internacional de Córdoba?",
+    "a": "Ingeniero Aeronáutico Ambrosio Taravella, conocido como Pajas Blancas"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué grupo de cuarteto tuvo entre sus cantantes a Jean Carlos y a 'La Pepa' Brizuela?",
+    "o": [
+      "Trulalá",
+      "La Barra",
+      "Chébere",
+      "Banda XXI"
+    ],
+    "a": "Trulalá"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿En qué año se fundó el diario La Voz del Interior?",
+    "a": "1904"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿De qué ciudad es originaria la banda Eruca Sativa?",
+    "o": [
+      "Córdoba",
+      "Rosario",
+      "La Plata",
+      "Mendoza"
+    ],
+    "a": "Córdoba"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué oficio tenía Daniel Salzano, homenajeado con una estatua en el centro de Córdoba?",
+    "a": "Periodista y escritor"
+  },
+  {
+    "c": "Córdoba",
+    "t": "vf",
+    "p": 1,
+    "g": "cordobazo",
+    "q": "El Cordobazo ocurrió en mayo de 1969.",
+    "a": "Verdadero",
+    "n": "El 29 de mayo de 1969."
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué dirigente de Luz y Fuerza fue una de las grandes figuras del Cordobazo?",
+    "a": "Agustín Tosco"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué golfista cordobés ganó el US Open en 2007 y el Masters de Augusta en 2009?",
+    "a": "Ángel 'Pato' Cabrera"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué particularidad tiene la iglesia del Sagrado Corazón, más conocida como los Capuchinos?",
+    "o": [
+      "Una de sus torres está deliberadamente sin terminar",
+      "Fue construida íntegramente con madera traída de Europa",
+      "Sus vitrales originales se perdieron y nunca se repusieron",
+      "Es la única iglesia del centro que no tiene campanario"
+    ],
+    "a": "Una de sus torres está deliberadamente sin terminar",
+    "n": "La torre trunca simboliza lo humano e imperfecto frente a lo divino."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué apodo tiene la ciudad de Córdoba?",
+    "o": [
+      "La Docta",
+      "La Fina",
+      "La Bella",
+      "La Leal"
+    ],
+    "a": "La Docta",
+    "n": "Por su universidad, la más antigua del país."
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué pueblos originarios habitaban las sierras de Córdoba a la llegada de los españoles?",
+    "a": "Los comechingones y los sanavirones"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la sierra que marca el límite entre Córdoba y San Luis?",
+    "a": "La sierra de Comechingones"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es la segunda ciudad más poblada de la provincia de Córdoba?",
+    "o": [
+      "Río Cuarto",
+      "Villa María",
+      "San Francisco",
+      "Villa Carlos Paz"
+    ],
+    "a": "Río Cuarto"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuántas estancias jesuíticas cordobesas integran el sitio declarado Patrimonio de la Humanidad?",
+    "a": "Cinco: Alta Gracia, Jesús María, Santa Catalina, La Candelaria y Caroya"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué localidad cordobesa funciona la única central nuclear de la provincia?",
+    "o": [
+      "Embalse",
+      "Río Tercero",
+      "Villa María",
+      "Almafuerte"
+    ],
+    "a": "Embalse"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿En qué localidad de Traslasierra está el santuario del Cura Brochero?",
+    "a": "En Villa Cura Brochero"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cómo se conoce popularmente al Cura Brochero?",
+    "o": [
+      "El Cura Gaucho",
+      "El Cura Rojo",
+      "El Cura del Valle",
+      "El Cura Obrero"
+    ],
+    "a": "El Cura Gaucho"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué año fue canonizado el Cura Brochero?",
+    "o": [
+      "2016",
+      "2004",
+      "2010",
+      "2020"
+    ],
+    "a": "2016"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué presidente impulsó la creación del Observatorio Astronómico de Córdoba en 1871?",
+    "o": [
+      "Domingo Faustino Sarmiento",
+      "Bartolomé Mitre",
+      "Nicolás Avellaneda",
+      "Julio A. Roca"
+    ],
+    "a": "Domingo Faustino Sarmiento"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama el principal teatro lírico de Córdoba, inaugurado en 1891?",
+    "a": "El Teatro del Libertador General San Martín"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué automotriz se instaló en Santa Isabel en 1955 y dio origen a la Córdoba industrial?",
+    "o": [
+      "Industrias Kaiser Argentina",
+      "Fiat Concord",
+      "General Motors Argentina",
+      "Chrysler Fevre Argentina"
+    ],
+    "a": "Industrias Kaiser Argentina"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué modelo de auto emblemático fabricó IKA-Renault en Córdoba desde 1966?",
+    "a": "El Torino"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué provincia está la Fábrica Argentina de Aviones?",
+    "o": [
+      "Córdoba",
+      "Buenos Aires",
+      "Santa Fe",
+      "Mendoza"
+    ],
+    "a": "Córdoba"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cuál es el fantasma más famoso del folclore urbano de La Cañada?",
+    "a": "La Pelada de La Cañada"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué altura tiene el cerro Champaquí?",
+    "o": [
+      "2790 metros",
+      "1950 metros",
+      "3400 metros",
+      "2250 metros"
+    ],
+    "a": "2790 metros"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué parque nacional se creó en 2022 alrededor de la laguna Mar Chiquita?",
+    "a": "El Parque Nacional Ansenuza"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué ave es el emblema de la laguna Mar Chiquita?",
+    "o": [
+      "El flamenco",
+      "El hornero",
+      "El cóndor",
+      "El chajá"
+    ],
+    "a": "El flamenco"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿En qué localidad cordobesa nació Mario Kempes?",
+    "a": "En Bell Ville"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué apodo tenía Mario Kempes?",
+    "o": [
+      "El Matador",
+      "El Potro",
+      "El Toro",
+      "El Loco"
+    ],
+    "a": "El Matador"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál es el apodo de Belgrano de Córdoba?",
+    "o": [
+      "El Pirata",
+      "La Gloria",
+      "El Matador",
+      "El Celeste"
+    ],
+    "a": "El Pirata"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué año se fundó el Club Atlético Talleres?",
+    "o": [
+      "1913",
+      "1905",
+      "1921",
+      "1930"
+    ],
+    "a": "1913"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué año se fundó el Club Atlético Belgrano?",
+    "o": [
+      "1905",
+      "1913",
+      "1918",
+      "1926"
+    ],
+    "a": "1905"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué escritora cordobesa ganó el Premio Sor Juana Inés de la Cruz con 'Las malas'?",
+    "a": "Camila Sosa Villada"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿En qué año murió Rodrigo Bueno?",
+    "a": "En 2000"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama el tema de Rodrigo dedicado a Diego Maradona?",
+    "a": "La mano de Dios"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿De qué ciudad es la banda Los Caligaris?",
+    "o": [
+      "Córdoba",
+      "Rosario",
+      "Buenos Aires",
+      "Santa Fe"
+    ],
+    "a": "Córdoba"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué localidad de las Sierras Chicas tiene arquitectura alpina y calles peatonales?",
+    "a": "La Cumbrecita"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué río atraviesa la ciudad de Río Cuarto?",
+    "o": [
+      "El Chocancharava",
+      "El Suquía",
+      "El Ctalamochita",
+      "El Xanaes"
+    ],
+    "a": "El Chocancharava",
+    "n": "También llamado río Cuarto."
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la reserva natural urbana que rodea al río Suquía en el oeste de la ciudad?",
+    "a": "La Reserva San Martín"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué edificio funciona hoy en el antiguo Cabildo de Córdoba, frente a la Plaza San Martín?",
+    "o": [
+      "Un museo y centro cultural",
+      "La Municipalidad",
+      "Un hotel",
+      "La Legislatura"
+    ],
+    "a": "Un museo y centro cultural"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama la iglesia principal de Córdoba que está sobre la Plaza San Martín?",
+    "a": "La Catedral de Córdoba"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué localidad de Punilla es conocida como la capital cordobesa del turismo de verano?",
+    "o": [
+      "Villa Carlos Paz",
+      "La Falda",
+      "Cosquín",
+      "Capilla del Monte"
+    ],
+    "a": "Villa Carlos Paz"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué reloj gigante es el emblema del centro de Villa Carlos Paz?",
+    "a": "El reloj cucú"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿En qué valle cordobés está Mina Clavero?",
+    "o": [
+      "Traslasierra",
+      "Punilla",
+      "Calamuchita",
+      "Paravachasca"
+    ],
+    "a": "Traslasierra"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿En qué valle cordobés está Villa General Belgrano?",
+    "a": "En el valle de Calamuchita"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué camino une el valle de Punilla con Traslasierra por las alturas?",
+    "o": [
+      "El camino de las Altas Cumbres",
+      "El camino de la Historia",
+      "La ruta del Che",
+      "El camino de las Sierras Chicas"
+    ],
+    "a": "El camino de las Altas Cumbres"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué universidad pública cordobesa se creó en Río Cuarto en 1971?",
+    "a": "La Universidad Nacional de Río Cuarto"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama el bulevar que rodea el casco céntrico de Córdoba por el sur?",
+    "a": "El bulevar San Juan"
+  },
+  {
+    "c": "Córdoba",
+    "t": "vf",
+    "p": 1,
+    "g": "unc",
+    "q": "La Universidad Nacional de Córdoba es la más antigua de la Argentina.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Córdoba",
+    "t": "vf",
+    "p": 1,
+    "g": "punilla",
+    "q": "Villa Carlos Paz está en el valle de Calamuchita.",
+    "a": "Falso",
+    "n": "Está en el valle de Punilla."
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué escritor y cronista cordobés tiene una estatua sentada en una silla frente a la Plaza San Martín?",
+    "a": "Daniel Salzano"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Cuál de estas localidades no está en la provincia de Córdoba?",
+    "o": [
+      "La Maruja",
+      "La Falda",
+      "La Cumbre",
+      "La Calera"
+    ],
+    "a": "La Maruja",
+    "n": "Está en La Pampa."
+  },
+  {
+    "c": "Córdoba",
+    "t": "vf",
+    "p": 1,
+    "q": "Todas las provincias que rodean a Córdoba limitan con ella.",
+    "a": "Verdadero",
+    "n": "Son siete: Catamarca, La Rioja, Santiago del Estero, Santa Fe, Buenos Aires, La Pampa y San Luis."
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué se conmemora en Córdoba cada 29 de mayo?",
+    "a": "El Cordobazo, la pueblada de 1969"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué dirigente sindical cordobés, secuestrado y asesinado en 1974, era conocido como el Gringo?",
+    "o": [
+      "Agustín Tosco",
+      "Atilio López",
+      "René Salamanca",
+      "Elpidio Torres"
+    ],
+    "a": "Atilio López"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué sindicato lideraba Agustín Tosco en Córdoba?",
+    "a": "Luz y Fuerza"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué museo cordobés funciona en la antigua cárcel de mujeres del Buen Pastor?",
+    "o": [
+      "Ninguno: es un paseo comercial y cultural",
+      "El Museo Caraffa",
+      "El Museo Genaro Pérez",
+      "El Museo de la Memoria"
+    ],
+    "a": "Ninguno: es un paseo comercial y cultural"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama el museo de bellas artes más importante de Córdoba, frente a la Plaza España?",
+    "a": "El Museo Emilio Caraffa"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué barrio de la ciudad de Córdoba es famoso por sus casonas y por el Paseo del Buen Pastor?",
+    "o": [
+      "Nueva Córdoba",
+      "Güemes",
+      "Alberdi",
+      "General Paz"
+    ],
+    "a": "Nueva Córdoba"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama el paseo de anticuarios y ferias del barrio Güemes?",
+    "a": "El Paseo de las Artes"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué represa cordobesa abastece de agua a la ciudad de Córdoba junto con el San Roque?",
+    "o": [
+      "Los Molinos",
+      "Río Tercero",
+      "Cruz del Eje",
+      "La Viña"
+    ],
+    "a": "Los Molinos"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Cómo se llama el aeropuerto internacional de Córdoba?",
+    "a": "Ingeniero Ambrosio Taravella, conocido como Pajas Blancas"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué festival de doma y folclore se hace cada enero en el norte de Córdoba?",
+    "a": "El Festival Nacional de Doma y Folklore de Jesús María"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Qué compositor argentino vivió en Alta Gracia y tiene allí un museo?",
+    "o": [
+      "Manuel de Falla",
+      "Carlos Guastavino",
+      "Alberto Ginastera",
+      "Astor Piazzolla"
+    ],
+    "a": "Manuel de Falla",
+    "n": "Era español, pero pasó sus últimos años en Alta Gracia."
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué figura del siglo XX vivió de niño en Alta Gracia y tiene allí un museo en su casa?",
+    "a": "Ernesto 'Che' Guevara"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Por qué motivo de salud se mudó la familia Guevara a Alta Gracia?",
+    "o": [
+      "Por el asma del Che",
+      "Por una epidemia en Buenos Aires",
+      "Por la tuberculosis de la madre",
+      "Por indicación médica del padre"
+    ],
+    "a": "Por el asma del Che"
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "q": "¿Qué embalse cordobés se formó con la primera gran presa de Sudamérica, inaugurada en 1891?",
+    "a": "El lago San Roque"
+  },
+  {
+    "c": "Córdoba",
+    "t": "vf",
+    "p": 1,
+    "q": "Córdoba es la provincia argentina con mayor producción de maní.",
+    "a": "Verdadero"
+  },
+  {
+    "c": "Córdoba",
+    "t": "vf",
+    "p": 1,
+    "q": "El Che Guevara nació en Córdoba.",
+    "a": "Falso",
+    "n": "Nació en Rosario, pero se crio en Alta Gracia."
+  },
+  {
+    "c": "Córdoba",
+    "t": "vf",
+    "p": 1,
+    "q": "La ciudad de Córdoba fue fundada antes que Buenos Aires en su fundación definitiva.",
+    "a": "Verdadero",
+    "n": "Córdoba en 1573, Buenos Aires en 1580."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "q": "¿Quién fundó la ciudad de Córdoba en 1573?",
+    "o": [
+      "Jerónimo Luis de Cabrera",
+      "Juan de Garay",
+      "Pedro de Mendoza",
+      "Francisco de Aguirre"
+    ],
+    "a": "Jerónimo Luis de Cabrera"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "chango-rodriguez",
+    "q": "¿Quién es el autor de la zamba 'Luna cautiva'?",
+    "o": [
+      "el Chango Rodríguez",
+      "Atahualpa Yupanqui",
+      "Jorge Cafrune",
+      "Horacio Guarany"
+    ],
+    "a": "el Chango Rodríguez",
+    "n": "José Ignacio Rodríguez, cordobés, también autor de 'De Alberdi' y 'Vidala del Valle'."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "gardel-cordoba-teatro",
+    "q": "El teatro de Córdoba donde cantó Gardel en 1914 funciona hoy con otro nombre. ¿Cuál?",
+    "o": [
+      "Studio Theater",
+      "Teatro Comedia",
+      "Teatro Real",
+      "Teatro Griego"
+    ],
+    "a": "Studio Theater",
+    "n": "Era el Teatro Novedades, en Rosario de Santa Fe al 300; reabrió restaurado en 2010."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "viviana-rivero",
+    "q": "¿Qué escritora cordobesa debutó en 2010 con la novela 'Secreto bien guardado'?",
+    "o": [
+      "Viviana Rivero",
+      "Cristina Bajo",
+      "Eugenia Almeida",
+      "María Teresa Andruetto"
+    ],
+    "a": "Viviana Rivero",
+    "n": "Nació en Córdoba en 1966; la novela fue llevada a la televisión."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "papa-cordoba-jp2",
+    "q": "¿Qué papa visitó Córdoba en abril de 1987?",
+    "o": [
+      "Juan Pablo II",
+      "Pablo VI",
+      "Benedicto XVI",
+      "Francisco"
+    ],
+    "a": "Juan Pablo II",
+    "n": "Fue durante su segunda visita al país, una gira pastoral por diez ciudades."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "papa-leon-xiv",
+    "q": "Según el cronograma oficial de su visita, ¿dónde celebra el papa León XIV la misa masiva en Córdoba?",
+    "o": [
+      "en la explanada de la Escuela de Aviación Militar",
+      "en el estadio Kempes",
+      "en la Plaza San Martín",
+      "en el Parque Sarmiento"
+    ],
+    "a": "en la explanada de la Escuela de Aviación Militar",
+    "n": "Martes 10 de noviembre de 2026, única escala del viaje en el interior del país."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "mona-nacimiento",
+    "q": "¿En qué año nació la Mona Jiménez?",
+    "o": [
+      "1951",
+      "1944",
+      "1958",
+      "1963"
+    ],
+    "a": "1951",
+    "n": "Juan Carlos Jiménez Rufino nació el 11 de enero de 1951 en la ciudad de Córdoba."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "gorillaz-cordoba",
+    "q": "¿Qué banda internacional anunció su primer show en Córdoba para noviembre de 2026, en el playón del Kempes?",
+    "o": [
+      "Gorillaz",
+      "Arctic Monkeys",
+      "The Killers",
+      "Massive Attack"
+    ],
+    "a": "Gorillaz",
+    "n": "26 de noviembre de 2026, con la gira 'The Mountain'."
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "g": "zanetti",
+    "q": "¿Qué cordobés ganó el Oscar a mejor dirección de arte en 1996 por la película 'Restauración'?",
+    "a": "Eugenio Zanetti",
+    "n": "Pintor, escenógrafo y director; nació en Córdoba en 1946 y murió en septiembre de 2026."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "qlokura-chipote",
+    "q": "Antes de fundar Q' Lokura, Nico Sattler y el Chino Herrera tocaban juntos en otra banda. ¿Cuál?",
+    "o": [
+      "Chipote",
+      "La Barra",
+      "Trulalá",
+      "Banda XXI"
+    ],
+    "a": "Chipote",
+    "n": "Estuvieron once años en Chipote antes de armar Q' Lokura."
+  },
+  {
+    "c": "Córdoba",
+    "t": "vf",
+    "p": 1,
+    "g": "phil-collins-cordoba",
+    "q": "Phil Collins tocó alguna vez en Córdoba.",
+    "a": "verdadero",
+    "n": "El 19 de marzo de 2018, en el estadio de Instituto, con la gira 'Not Dead Yet'."
+  },
+  {
+    "c": "Córdoba",
+    "t": "ab",
+    "p": 2,
+    "g": "sigla-epec",
+    "q": "¿Qué significa la sigla EPEC?",
+    "a": "Empresa Provincial de Energía de Córdoba"
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "cuarteto-patrimonio",
+    "q": "¿Cuándo fue declarado el cuarteto Patrimonio Cultural Inmaterial de la Humanidad?",
+    "o": [
+      "en diciembre de 2025",
+      "en 2013",
+      "en 2009",
+      "en 2019"
+    ],
+    "a": "en diciembre de 2025",
+    "n": "Lo inscribió la UNESCO en la Lista Representativa, en la vigésima reunión del comité, en Nueva Delhi."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "mercado-norte",
+    "q": "¿En qué década se construyó el Mercado Norte de Córdoba?",
+    "o": [
+      "en los años 20",
+      "en los años 40",
+      "en los años 60",
+      "a fines del siglo XIX"
+    ],
+    "a": "en los años 20",
+    "n": "Se edificó en 1928, entonces fuera del microcentro, cerca del río Suquía."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "escudo-talleres",
+    "q": "Las estrellas del escudo de Talleres representan sus títulos internacionales. ¿Cuál ganó en 1999?",
+    "o": [
+      "la Copa Conmebol",
+      "la Supercopa Internacional",
+      "la Copa Libertadores",
+      "la Copa Sudamericana"
+    ],
+    "a": "la Copa Conmebol",
+    "n": "La otra estrella es la Supercopa Internacional de 2025."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "escudo-talleres",
+    "q": "¿Qué siglas lleva el escudo de Talleres, sobre bastones azules y blancos?",
+    "o": [
+      "C.A.T.",
+      "C.A.T.C.",
+      "T.C.",
+      "A.T.C."
+    ],
+    "a": "C.A.T."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "escudo-instituto",
+    "q": "¿Qué siglas cruzan en diagonal el escudo de Instituto, sobre bastones rojos y blancos?",
+    "o": [
+      "I.A.C.C.",
+      "I.C.C.",
+      "C.A.I.",
+      "A.C.C."
+    ],
+    "a": "I.A.C.C.",
+    "n": "Por Instituto Atlético Central Córdoba."
+  },
+  {
+    "c": "Córdoba",
+    "t": "mc",
+    "p": 1,
+    "g": "escudo-belgrano",
+    "q": "¿Qué letra va centrada en el escudo celeste y blanco de Belgrano?",
+    "o": [
+      "la B",
+      "la C",
+      "la A",
+      "la M"
+    ],
+    "a": "la B",
+    "n": "Dentro de las siglas CAB, con el nombre del club en un círculo alrededor."
+  },
+  {
+    "c": "Córdoba",
+    "t": "vf",
+    "p": 1,
+    "g": "escudo-cordoba-bastones",
+    "q": "Talleres e Instituto tienen escudos con bastones verticales; solo cambian los colores.",
+    "a": "verdadero",
+    "n": "Azul y blanco en Talleres, rojo y blanco en Instituto. El de Belgrano, en cambio, no lleva bastones."
+  }
+]
