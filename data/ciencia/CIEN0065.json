@@ -1,0 +1,14 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántas vértebras cervicales tiene una jirafa?",
+  "o": [
+    "Siete",
+    "Doce",
+    "Veinte",
+    "Treinta"
+  ],
+  "a": "Siete",
+  "n": "Las mismas que un ser humano, pero mucho más largas."
+}

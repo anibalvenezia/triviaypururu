@@ -1,0 +1,19 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-peru",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/500px-Flag_of_Peru.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_(state).svg/500px-Flag_of_Peru_(state).svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/250px-Flag_of_Peru.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Perú",
+    "Canadá",
+    "Austria",
+    "Letonia"
+  ],
+  "a": "Perú"
+}

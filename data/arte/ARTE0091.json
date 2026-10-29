@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-gongora",
+  "img": [
+    "obras/gongora.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Diego_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez_-_Luis_de_G%C3%B3ngora_y_Argote_-_Google_Art_Project.jpg/960px-Diego_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez_-_Luis_de_G%C3%B3ngora_y_Argote_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Diego_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez_-_Luis_de_G%C3%B3ngora_y_Argote_-_Google_Art_Project.jpg/500px-Diego_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez_-_Luis_de_G%C3%B3ngora_y_Argote_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿A qué poeta del Siglo de Oro español retrató Velázquez acá?",
+  "o": [
+    "Luis de Góngora",
+    "Francisco de Quevedo",
+    "Lope de Vega",
+    "Garcilaso de la Vega"
+  ],
+  "a": "Luis de Góngora",
+  "titulo": "Retrato de Luis de Góngora · Diego Velázquez, 1622"
+}

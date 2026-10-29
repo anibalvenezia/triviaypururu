@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué película argentina de 2019 protagonizada por Ricardo Darín cuenta el robo a un banco durante el corralito?",
+  "o": [
+    "La odisea de los giles",
+    "El Robo del Siglo",
+    "Nueve reinas",
+    "El Aura"
+  ],
+  "a": "La odisea de los giles"
+}

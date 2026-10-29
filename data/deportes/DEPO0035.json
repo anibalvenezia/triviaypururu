@@ -1,0 +1,13 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "q": "¿A qué altura está el aro de básquet?",
+  "o": [
+    "3,05 metros",
+    "2,75 metros",
+    "3,50 metros",
+    "2,50 metros"
+  ],
+  "a": "3,05 metros"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué forma tiene la molécula de ADN?",
+  "o": [
+    "Doble hélice",
+    "Cadena lineal",
+    "Anillo cerrado",
+    "Estrella"
+  ],
+  "a": "Doble hélice"
+}

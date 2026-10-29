@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-fiyi",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/500px-Flag_of_Fiji.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/250px-Flag_of_Fiji.svg.png"
+  ],
+  "q": "¿A qué país corresponde esta bandera?",
+  "o": [
+    "Fiyi",
+    "Tuvalu",
+    "Nueva Zelanda",
+    "Australia"
+  ],
+  "a": "Fiyi"
+}

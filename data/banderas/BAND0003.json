@@ -1,0 +1,19 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-brasil",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/500px-Flag_of_Brazil.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/250px-Flag_of_Brazil.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Brasil",
+    "Portugal",
+    "Camerún",
+    "Jamaica"
+  ],
+  "a": "Brasil",
+  "n": "La leyenda dice 'Ordem e Progresso'."
+}

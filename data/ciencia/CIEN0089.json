@@ -1,0 +1,14 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el hueso más pequeño del cuerpo humano?",
+  "o": [
+    "El estribo",
+    "El martillo",
+    "El yunque",
+    "La falange distal"
+  ],
+  "a": "El estribo",
+  "n": "Está en el oído medio."
+}

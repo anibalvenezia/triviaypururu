@@ -1,0 +1,14 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "g": "mundial1930",
+  "q": "¿Qué selección ganó el primer Mundial de fútbol, en 1930?",
+  "o": [
+    "Uruguay",
+    "Argentina",
+    "Brasil",
+    "Italia"
+  ],
+  "a": "Uruguay"
+}

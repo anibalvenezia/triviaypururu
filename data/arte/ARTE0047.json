@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-parlamento",
+  "img": [
+    "obras/parlamento.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Claude_Monet_-_Houses_of_Parliament%2C_Sunlight_Effect_(Le_Parlement%2C_effet_de_soleil)_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Houses_of_Parliament%2C_Sunlight_Effect_(Le_Parlement%2C_effet_de_soleil)_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Claude_Monet_-_Houses_of_Parliament%2C_Sunlight_Effect_(Le_Parlement%2C_effet_de_soleil)_-_Google_Art_Project.jpg/500px-Claude_Monet_-_Houses_of_Parliament%2C_Sunlight_Effect_(Le_Parlement%2C_effet_de_soleil)_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué edificio pintó Monet entre la niebla en esta serie?",
+  "o": [
+    "El Parlamento de Londres",
+    "La Ópera de París",
+    "El Palacio de Versalles",
+    "La Bolsa de Ámsterdam"
+  ],
+  "a": "El Parlamento de Londres",
+  "titulo": "El Parlamento de Londres, efecto de sol · Claude Monet, 1903"
+}

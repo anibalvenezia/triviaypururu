@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién dirigió '2001: Odisea del espacio'?",
+  "o": [
+    "Stanley Kubrick",
+    "Ridley Scott",
+    "Andrei Tarkovski",
+    "George Lucas"
+  ],
+  "a": "Stanley Kubrick"
+}

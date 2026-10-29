@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué orgánulo se conoce como la central energética de la célula?",
+  "o": [
+    "La mitocondria",
+    "El ribosoma",
+    "El núcleo",
+    "El lisosoma"
+  ],
+  "a": "La mitocondria"
+}

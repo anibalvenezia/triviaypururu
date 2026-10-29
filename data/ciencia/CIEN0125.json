@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué capa de la atmósfera nos protege de la radiación ultravioleta?",
+  "o": [
+    "La capa de ozono",
+    "La troposfera",
+    "La ionosfera",
+    "La exosfera"
+  ],
+  "a": "La capa de ozono"
+}

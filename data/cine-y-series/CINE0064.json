@@ -1,0 +1,14 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es la película española de la que 'Vanilla Sky' es una nueva versión?",
+  "o": [
+    "Abre los ojos",
+    "Tesis",
+    "Los otros",
+    "Mar adentro"
+  ],
+  "a": "Abre los ojos",
+  "n": "Las dos son de Alejandro Amenábar y Penélope Cruz actúa en ambas."
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió 'Drácula'?",
+  "o": [
+    "Bram Stoker",
+    "Edgar Allan Poe",
+    "Mary Shelley",
+    "H. P. Lovecraft"
+  ],
+  "a": "Bram Stoker"
+}

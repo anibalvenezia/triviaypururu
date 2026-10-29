@@ -1,0 +1,19 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-belgica",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/500px-Flag_of_Belgium.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_(civil).svg/500px-Flag_of_Belgium_(civil).svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/250px-Flag_of_Belgium.svg.png"
+  ],
+  "q": "¿A qué país europeo corresponde esta bandera?",
+  "o": [
+    "Bélgica",
+    "Alemania",
+    "Chad",
+    "Rumania"
+  ],
+  "a": "Bélgica"
+}

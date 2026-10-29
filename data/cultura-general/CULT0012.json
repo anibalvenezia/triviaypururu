@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el ave nacional argentina?",
+  "o": [
+    "El hornero",
+    "El cóndor",
+    "El chajá",
+    "El zorzal"
+  ],
+  "a": "El hornero"
+}

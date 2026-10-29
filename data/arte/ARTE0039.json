@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-scheveningen",
+  "img": [
+    "obras/scheveningen.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Vincent_van_Gogh_-_Beach_at_Scheveningen%2C_1882_(Baltimore_Museum_of_Art).jpg/960px-Vincent_van_Gogh_-_Beach_at_Scheveningen%2C_1882_(Baltimore_Museum_of_Art).jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Vincent_van_Gogh_-_Beach_at_Scheveningen%2C_1882_(Baltimore_Museum_of_Art).jpg/500px-Vincent_van_Gogh_-_Beach_at_Scheveningen%2C_1882_(Baltimore_Museum_of_Art).jpg"
+  ],
+  "q": "¿En qué país está la playa de Scheveningen que pintó Van Gogh?",
+  "o": [
+    "Países Bajos",
+    "Bélgica",
+    "Francia",
+    "Dinamarca"
+  ],
+  "a": "Países Bajos",
+  "n": "De su etapa en La Haya, 1882.",
+  "titulo": "Playa de Scheveningen · Vincent van Gogh, 1882"
+}

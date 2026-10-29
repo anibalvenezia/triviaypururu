@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-republicadominicana",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/500px-Flag_of_the_Dominican_Republic.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/250px-Flag_of_the_Dominican_Republic.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "República Dominicana",
+    "Haití",
+    "Cuba",
+    "Panamá"
+  ],
+  "a": "República Dominicana"
+}

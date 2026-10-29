@@ -1,0 +1,14 @@
+{
+  "c": "Quién dijo",
+  "t": "mc",
+  "p": 1,
+  "g": "qd-titanic",
+  "q": "«Soy el rey del mundo». ¿En qué película se grita esa frase desde la proa de un barco?",
+  "o": [
+    "Titanic",
+    "Náufrago",
+    "Master and Commander",
+    "La tormenta perfecta"
+  ],
+  "a": "Titanic"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién dirigió 'Terminator'?",
+  "o": [
+    "James Cameron",
+    "Ridley Scott",
+    "Paul Verhoeven",
+    "John Carpenter"
+  ],
+  "a": "James Cameron"
+}

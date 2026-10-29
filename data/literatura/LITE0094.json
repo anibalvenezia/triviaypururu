@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió 'Cuentos de la selva'?",
+  "o": [
+    "Horacio Quiroga",
+    "Ricardo Güiraldes",
+    "Leopoldo Lugones",
+    "Benito Lynch"
+  ],
+  "a": "Horacio Quiroga"
+}

@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-egipto",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/500px-Flag_of_Egypt.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/250px-Flag_of_Egypt.svg.png"
+  ],
+  "q": "¿De qué país africano es esta bandera?",
+  "o": [
+    "Egipto",
+    "Irak",
+    "Siria",
+    "Yemen"
+  ],
+  "a": "Egipto"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿La falta de qué vitamina provoca escorbuto?",
+  "o": [
+    "Vitamina C",
+    "Vitamina D",
+    "Vitamina A",
+    "Vitamina B12"
+  ],
+  "a": "Vitamina C"
+}

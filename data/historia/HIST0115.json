@@ -1,0 +1,15 @@
+{
+  "c": "Historia",
+  "t": "mc",
+  "p": 1,
+  "g": "ley-tierras-2026",
+  "q": "En septiembre de 2026 la Corte Suprema dejó firme la derogación por decreto de una ley. ¿Cuál?",
+  "o": [
+    "la Ley de Tierras",
+    "la Ley de Alquileres",
+    "la Ley de Góndolas",
+    "la Ley de Medios"
+  ],
+  "a": "la Ley de Tierras",
+  "n": "La ley 26.737 limitaba la venta de tierras rurales a extranjeros."
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué unidad mide la potencia?",
+  "o": [
+    "El vatio",
+    "El julio",
+    "El newton",
+    "El amperio"
+  ],
+  "a": "El vatio"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Historia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué ciudad europea murió San Martín?",
+  "o": [
+    "Boulogne-sur-Mer",
+    "París",
+    "Madrid",
+    "Londres"
+  ],
+  "a": "Boulogne-sur-Mer"
+}

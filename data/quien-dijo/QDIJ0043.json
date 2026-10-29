@@ -1,0 +1,15 @@
+{
+  "c": "Quién dijo",
+  "t": "mc",
+  "p": 1,
+  "g": "qd-holmes",
+  "q": "«Elemental, mi querido Watson». ¿Dónde aparece esa frase?",
+  "o": [
+    "En ninguna novela de Conan Doyle",
+    "En 'Estudio en escarlata'",
+    "En 'El sabueso de los Baskerville'",
+    "En 'El signo de los cuatro'"
+  ],
+  "a": "En ninguna novela de Conan Doyle",
+  "n": "Se popularizó en el cine y el teatro, no en los libros originales."
+}

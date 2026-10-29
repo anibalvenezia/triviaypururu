@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-arabiasaudita",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/500px-Flag_of_Saudi_Arabia.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/250px-Flag_of_Saudi_Arabia.svg.png"
+  ],
+  "q": "¿A qué país corresponde esta bandera?",
+  "o": [
+    "Arabia Saudita",
+    "Pakistán",
+    "Argelia",
+    "Libia"
+  ],
+  "a": "Arabia Saudita"
+}

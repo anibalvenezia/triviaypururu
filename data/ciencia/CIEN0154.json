@@ -1,0 +1,15 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "g": "tunel-tierra",
+  "q": "Si cavaras un túnel que pase por el centro de la Tierra y te tiraras, ¿cuánto tardarías en llegar al otro lado?",
+  "o": [
+    "unos 42 minutos",
+    "unas 3 horas",
+    "unos 10 minutos",
+    "unos 8 días"
+  ],
+  "a": "unos 42 minutos",
+  "n": "Es el 'tren de gravedad': la caída libre sin rozamiento da unos 42 minutos, independientemente de por dónde se cave."
+}

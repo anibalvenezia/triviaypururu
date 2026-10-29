@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué provoca las mareas?",
+  "o": [
+    "La atracción de la Luna y el Sol",
+    "Los vientos",
+    "La rotación de la Tierra sola",
+    "Las corrientes submarinas"
+  ],
+  "a": "La atracción de la Luna y el Sol"
+}

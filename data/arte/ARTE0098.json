@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-pisa",
+  "img": [
+    "obras/pisa.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/El_Greco_(Domenikos_Theotokopoulos)_-_Portrait_of_Dr._Francisco_de_Pisa_-_Google_Art_Project.jpg/960px-El_Greco_(Domenikos_Theotokopoulos)_-_Portrait_of_Dr._Francisco_de_Pisa_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/El_Greco_(Domenikos_Theotokopoulos)_-_Portrait_of_Dr._Francisco_de_Pisa_-_Google_Art_Project.jpg/500px-El_Greco_(Domenikos_Theotokopoulos)_-_Portrait_of_Dr._Francisco_de_Pisa_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿De dónde era originario El Greco, el autor de este retrato?",
+  "o": [
+    "De la isla de Creta",
+    "De Grecia continental",
+    "De Chipre",
+    "De Sicilia"
+  ],
+  "a": "De la isla de Creta",
+  "n": "Su nombre real era Doménikos Theotokópoulos.",
+  "titulo": "Retrato del doctor Francisco de Pisa · El Greco"
+}

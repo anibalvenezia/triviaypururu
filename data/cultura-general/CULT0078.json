@@ -1,0 +1,14 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántas cartas tiene una baraja española completa de naipes criollos?",
+  "o": [
+    "50",
+    "40",
+    "48",
+    "52"
+  ],
+  "a": "50",
+  "n": "Las de 40 son las que se usan para el truco, sin ochos, nueves ni comodines."
+}

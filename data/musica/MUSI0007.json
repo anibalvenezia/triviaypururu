@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué disco de Radiohead está 'No Surprises'?",
+  "o": [
+    "OK Computer",
+    "Kid A",
+    "The Bends",
+    "In Rainbows"
+  ],
+  "a": "OK Computer"
+}

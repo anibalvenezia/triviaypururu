@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué científica hizo las imágenes de difracción clave para descubrir la estructura del ADN?",
+  "o": [
+    "Rosalind Franklin",
+    "Marie Curie",
+    "Barbara McClintock",
+    "Lise Meitner"
+  ],
+  "a": "Rosalind Franklin"
+}

@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-lituania",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/500px-Flag_of_Lithuania.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/250px-Flag_of_Lithuania.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Lituania",
+    "Bolivia",
+    "Ghana",
+    "Etiopía"
+  ],
+  "a": "Lituania"
+}

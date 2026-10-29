@@ -1,0 +1,19 @@
+{
+  "c": "Historia",
+  "t": "ord",
+  "p": 2,
+  "q": "Ordená estos hechos del más antiguo al más reciente.",
+  "o": [
+    "Revolución de Mayo",
+    "Declaración de la Independencia",
+    "Sanción de la Constitución Nacional",
+    "Reforma Universitaria"
+  ],
+  "a": [
+    "Revolución de Mayo",
+    "Declaración de la Independencia",
+    "Sanción de la Constitución Nacional",
+    "Reforma Universitaria"
+  ],
+  "n": "1810, 1816, 1853 y 1918."
+}

@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-guyana",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/500px-Flag_of_Guyana.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/250px-Flag_of_Guyana.svg.png"
+  ],
+  "q": "¿A qué país pertenece esta bandera?",
+  "o": [
+    "Guyana",
+    "Surinam",
+    "Zimbabue",
+    "Sudáfrica"
+  ],
+  "a": "Guyana"
+}

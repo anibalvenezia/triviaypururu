@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-sombrero",
+  "img": [
+    "obras/sombrero.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pierre_Auguste_Renoir_-_Woman_in_a_Flowered_Hat_-_Google_Art_Project.jpg/960px-Pierre_Auguste_Renoir_-_Woman_in_a_Flowered_Hat_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pierre_Auguste_Renoir_-_Woman_in_a_Flowered_Hat_-_Google_Art_Project.jpg/500px-Pierre_Auguste_Renoir_-_Woman_in_a_Flowered_Hat_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿De qué pintor impresionista es este retrato femenino?",
+  "o": [
+    "Pierre-Auguste Renoir",
+    "Berthe Morisot",
+    "Mary Cassatt",
+    "Édouard Manet"
+  ],
+  "a": "Pierre-Auguste Renoir",
+  "titulo": "Mujer con sombrero florido · Pierre-Auguste Renoir"
+}

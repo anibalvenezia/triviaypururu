@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-isaac",
+  "img": [
+    "obras/isaac.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Caravaggio_-_Sacrificio_di_Isacco_-_Google_Art_Project.jpg/960px-Caravaggio_-_Sacrificio_di_Isacco_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Caravaggio_-_Sacrificio_di_Isacco_-_Google_Art_Project.jpg/500px-Caravaggio_-_Sacrificio_di_Isacco_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué episodio bíblico muestra este cuadro de Caravaggio?",
+  "o": [
+    "El sacrificio de Isaac",
+    "El diluvio",
+    "La torre de Babel",
+    "David y Goliat"
+  ],
+  "a": "El sacrificio de Isaac",
+  "titulo": "El sacrificio de Isaac · Caravaggio, 1603"
+}

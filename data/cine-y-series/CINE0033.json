@@ -1,0 +1,14 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cómo se llama el café de Rick en 'Casablanca'?",
+  "o": [
+    "Rick's Café Américain",
+    "La Belle Aurore",
+    "El Gato Azul",
+    "Café Casbah"
+  ],
+  "a": "Rick's Café Américain",
+  "n": "La Belle Aurore es el bar de París que aparece en el flashback."
+}

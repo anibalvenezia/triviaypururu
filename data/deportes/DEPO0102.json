@@ -1,0 +1,14 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "g": "titulos-mundiales",
+  "q": "¿Cuántos Mundiales ganó Italia?",
+  "o": [
+    "Cuatro",
+    "Tres",
+    "Cinco",
+    "Dos"
+  ],
+  "a": "Cuatro"
+}

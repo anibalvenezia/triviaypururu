@@ -1,0 +1,15 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "g": "escudo-huracan",
+  "q": "¿Qué objeto aparece en el escudo de Huracán?",
+  "o": [
+    "un globo aerostático",
+    "un rayo",
+    "un ancla",
+    "un tornado"
+  ],
+  "a": "un globo aerostático",
+  "n": "Es el globo 'Huracán' de Jorge Newbery, que autorizó al club a usarlo como emblema y fue nombrado presidente honorario. De ahí viene también el apodo 'el Globo'."
+}

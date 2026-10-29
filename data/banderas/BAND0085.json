@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-camboya",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/500px-Flag_of_Cambodia.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/250px-Flag_of_Cambodia.svg.png"
+  ],
+  "q": "¿A qué país pertenece esta bandera?",
+  "o": [
+    "Camboya",
+    "Tailandia",
+    "Laos",
+    "Costa Rica"
+  ],
+  "a": "Camboya"
+}

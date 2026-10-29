@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué tipo de sangre es receptor universal?",
+  "o": [
+    "AB positivo",
+    "0 negativo",
+    "A negativo",
+    "B positivo"
+  ],
+  "a": "AB positivo"
+}

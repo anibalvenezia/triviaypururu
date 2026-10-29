@@ -1,0 +1,14 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es la capital constitucional de Bolivia?",
+  "o": [
+    "Sucre",
+    "La Paz",
+    "Santa Cruz",
+    "Cochabamba"
+  ],
+  "a": "Sucre",
+  "n": "La Paz es la sede del gobierno."
+}

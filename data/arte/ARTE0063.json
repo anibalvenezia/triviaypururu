@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-novia",
+  "img": [
+    "obras/novia.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren%2C_genaamd_'Het_Joodse_bruidje'_-_Google_Art_ProjectFXD.jpg/960px-Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren%2C_genaamd_'Het_Joodse_bruidje'_-_Google_Art_ProjectFXD.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren%2C_genaamd_'Het_Joodse_bruidje'_-_Google_Art_ProjectFXD.jpg/500px-Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren%2C_genaamd_'Het_Joodse_bruidje'_-_Google_Art_ProjectFXD.jpg"
+  ],
+  "q": "¿Quién pintó esta pareja conocida como 'La novia judía'?",
+  "o": [
+    "Rembrandt",
+    "Peter Paul Rubens",
+    "Anthony van Dyck",
+    "Johannes Vermeer"
+  ],
+  "a": "Rembrandt",
+  "n": "Van Gogh dijo que daría diez años de vida por poder sentarse frente a este cuadro.",
+  "titulo": "La novia judía · Rembrandt, 1667"
+}

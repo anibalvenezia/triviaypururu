@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué elemento tiene por símbolo Au?",
+  "o": [
+    "Oro",
+    "Plata",
+    "Aluminio",
+    "Azufre"
+  ],
+  "a": "Oro"
+}

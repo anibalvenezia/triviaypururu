@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-austria",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/500px-Flag_of_Austria.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/250px-Flag_of_Austria.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Austria",
+    "Letonia",
+    "Perú",
+    "Polonia"
+  ],
+  "a": "Austria"
+}

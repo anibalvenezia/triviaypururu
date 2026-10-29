@@ -1,0 +1,14 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál fue la primera película argentina en ganar el Oscar a mejor película extranjera?",
+  "o": [
+    "La historia oficial",
+    "Camila",
+    "La tregua",
+    "El hijo de la novia"
+  ],
+  "a": "La historia oficial",
+  "n": "Lo ganó en la ceremonia de 1986, por la película de 1985."
+}

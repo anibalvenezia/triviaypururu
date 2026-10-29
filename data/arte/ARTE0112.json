@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-medusa",
+  "img": [
+    "obras/medusa.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Caravaggio_-_Medusa_-_Google_Art_Project.jpg/960px-Caravaggio_-_Medusa_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Caravaggio_-_Medusa_-_Google_Art_Project.jpg/500px-Caravaggio_-_Medusa_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué personaje mitológico pintó Caravaggio sobre un escudo redondo?",
+  "o": [
+    "Medusa",
+    "Atenea",
+    "Circe",
+    "Hera"
+  ],
+  "a": "Medusa",
+  "n": "1597, en la Galería Uffizi. Está pintado sobre un escudo de torneo.",
+  "titulo": "Medusa · Caravaggio, 1597"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué actor interpretó a Héctor en 'Troya'?",
+  "o": [
+    "Eric Bana",
+    "Orlando Bloom",
+    "Sean Bean",
+    "Brad Pitt"
+  ],
+  "a": "Eric Bana"
+}

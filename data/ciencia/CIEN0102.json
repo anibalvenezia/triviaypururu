@@ -1,0 +1,14 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál de estos números no es primo?",
+  "o": [
+    "33",
+    "31",
+    "37",
+    "41"
+  ],
+  "a": "33",
+  "n": "33 es 3 por 11."
+}

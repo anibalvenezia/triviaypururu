@@ -1,0 +1,14 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el primer álbum de estudio de Adele?",
+  "o": [
+    "19",
+    "21",
+    "25",
+    "30"
+  ],
+  "a": "19",
+  "n": "Cada disco lleva la edad que tenía al componerlo."
+}

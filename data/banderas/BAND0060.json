@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-eslovenia",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/500px-Flag_of_Slovenia.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/250px-Flag_of_Slovenia.svg.png"
+  ],
+  "q": "¿A qué país corresponde esta bandera?",
+  "o": [
+    "Eslovenia",
+    "Eslovaquia",
+    "Rusia",
+    "Serbia"
+  ],
+  "a": "Eslovenia"
+}

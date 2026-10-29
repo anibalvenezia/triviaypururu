@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál de estas bandas nunca tocó en Argentina?",
+  "o": [
+    "Led Zeppelin",
+    "Queen",
+    "AC/DC",
+    "The Rolling Stones"
+  ],
+  "a": "Led Zeppelin"
+}

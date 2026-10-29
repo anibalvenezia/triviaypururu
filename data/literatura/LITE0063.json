@@ -1,0 +1,19 @@
+{
+  "c": "Literatura",
+  "t": "ord",
+  "p": 2,
+  "q": "Ordená a estos autores argentinos por año de nacimiento, del más antiguo al más reciente.",
+  "o": [
+    "Jorge Luis Borges",
+    "Julio Cortázar",
+    "Ricardo Piglia",
+    "Mariana Enriquez"
+  ],
+  "a": [
+    "Jorge Luis Borges",
+    "Julio Cortázar",
+    "Ricardo Piglia",
+    "Mariana Enriquez"
+  ],
+  "n": "1899, 1914, 1941 y 1973."
+}

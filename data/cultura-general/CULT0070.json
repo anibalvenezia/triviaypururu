@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántas sílabas tiene un verso endecasílabo?",
+  "o": [
+    "Once",
+    "Nueve",
+    "Trece",
+    "Diez"
+  ],
+  "a": "Once"
+}

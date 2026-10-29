@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-puente",
+  "img": [
+    "obras/puente.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bridge_Over_a_Pond_of_Water_Lilies%2C_Claude_Monet_1899.jpg/960px-Bridge_Over_a_Pond_of_Water_Lilies%2C_Claude_Monet_1899.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bridge_Over_a_Pond_of_Water_Lilies%2C_Claude_Monet_1899.jpg/500px-Bridge_Over_a_Pond_of_Water_Lilies%2C_Claude_Monet_1899.jpg"
+  ],
+  "q": "¿Quién pintó este puente japonés de su jardín?",
+  "o": [
+    "Claude Monet",
+    "Édouard Manet",
+    "Alfred Sisley",
+    "Camille Pissarro"
+  ],
+  "a": "Claude Monet",
+  "n": "El puente de Giverny, 1899.",
+  "titulo": "El puente japonés · Claude Monet, 1899"
+}

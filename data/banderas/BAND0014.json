@@ -1,0 +1,19 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-canada",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/500px-Flag_of_Canada.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_(Pantone).svg/500px-Flag_of_Canada_(Pantone).svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/250px-Flag_of_Canada.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Canadá",
+    "Perú",
+    "Austria",
+    "Dinamarca"
+  ],
+  "a": "Canadá"
+}

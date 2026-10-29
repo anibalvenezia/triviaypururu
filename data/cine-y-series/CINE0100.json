@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién dirigió 'Blade Runner' y 'Alien, el octavo pasajero'?",
+  "o": [
+    "Ridley Scott",
+    "James Cameron",
+    "John Carpenter",
+    "Paul Verhoeven"
+  ],
+  "a": "Ridley Scott"
+}

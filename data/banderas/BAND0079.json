@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-libano",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/500px-Flag_of_Lebanon.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/250px-Flag_of_Lebanon.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Líbano",
+    "Canadá",
+    "Perú",
+    "Austria"
+  ],
+  "a": "Líbano"
+}

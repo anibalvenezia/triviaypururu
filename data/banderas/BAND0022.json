@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-holanda",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/500px-Flag_of_the_Netherlands.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/250px-Flag_of_the_Netherlands.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Países Bajos",
+    "Francia",
+    "Luxemburgo",
+    "Rusia"
+  ],
+  "a": "Países Bajos"
+}

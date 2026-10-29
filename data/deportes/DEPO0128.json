@@ -1,0 +1,14 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "g": "escudo-river",
+  "q": "¿El escudo de qué club argentino lleva una banda roja en diagonal sobre fondo blanco?",
+  "o": [
+    "River Plate",
+    "Rosario Central",
+    "Estudiantes de La Plata",
+    "Chacarita Juniors"
+  ],
+  "a": "River Plate"
+}

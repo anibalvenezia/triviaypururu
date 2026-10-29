@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-collar",
+  "img": [
+    "obras/collar.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg/960px-Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg/500px-Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué objeto aparece una y otra vez en los interiores de Vermeer, también acá?",
+  "o": [
+    "Una ventana a la izquierda como única fuente de luz",
+    "Un reloj de pie",
+    "Un espejo circular",
+    "Una chimenea encendida"
+  ],
+  "a": "Una ventana a la izquierda como única fuente de luz",
+  "titulo": "Mujer con collar de perlas · Johannes Vermeer, 1664"
+}

@@ -1,0 +1,19 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-elvaticano",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Vatican_City.svg/500px-Flag_of_Vatican_City.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/500px-Flag_of_the_Vatican_City.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Vatican_City.svg/250px-Flag_of_Vatican_City.svg.png"
+  ],
+  "q": "¿Qué país tiene esta bandera?",
+  "o": [
+    "El Vaticano",
+    "Suiza",
+    "Mónaco",
+    "San Marino"
+  ],
+  "a": "El Vaticano"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿De qué provincia es originaria la chacarera?",
+  "o": [
+    "Santiago del Estero",
+    "Salta",
+    "Corrientes",
+    "La Rioja"
+  ],
+  "a": "Santiago del Estero"
+}

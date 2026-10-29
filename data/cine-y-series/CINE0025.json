@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué película del Studio Ghibli ganó el Oscar a mejor película animada en 2003?",
+  "o": [
+    "El viaje de Chihiro",
+    "La princesa Mononoke",
+    "Mi vecino Totoro",
+    "El castillo ambulante"
+  ],
+  "a": "El viaje de Chihiro"
+}

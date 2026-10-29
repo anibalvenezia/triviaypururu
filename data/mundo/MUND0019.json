@@ -1,0 +1,14 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "g": "sinmar",
+  "q": "¿Cuáles son los dos países de Sudamérica sin salida al mar?",
+  "o": [
+    "Bolivia y Paraguay",
+    "Bolivia y Uruguay",
+    "Paraguay y Ecuador",
+    "Paraguay y Guyana"
+  ],
+  "a": "Bolivia y Paraguay"
+}

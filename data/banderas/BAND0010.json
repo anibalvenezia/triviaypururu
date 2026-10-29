@@ -1,0 +1,19 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-venezuela",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/500px-Flag_of_Venezuela.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Venezuela_(state).svg/500px-Flag_of_Venezuela_(state).svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/250px-Flag_of_Venezuela.svg.png"
+  ],
+  "q": "¿A qué país corresponde esta bandera?",
+  "o": [
+    "Venezuela",
+    "Colombia",
+    "Ecuador",
+    "Moldavia"
+  ],
+  "a": "Venezuela"
+}

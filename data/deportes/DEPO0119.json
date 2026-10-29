@@ -1,0 +1,15 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "g": "f1-bandera-amarilla",
+  "q": "¿De qué color es la bandera que se despliega en Fórmula 1 cuando los pilotos deben ir con precaución?",
+  "o": [
+    "amarilla",
+    "roja",
+    "blanca",
+    "azul"
+  ],
+  "a": "amarilla",
+  "n": "La roja detiene la carrera; la azul avisa que viene un auto más rápido."
+}

@@ -1,0 +1,15 @@
+{
+  "c": "Quién dijo",
+  "t": "mc",
+  "p": 1,
+  "g": "qd-einstein",
+  "q": "«Dios no juega a los dados». ¿Quién lo escribió, discutiendo la física cuántica?",
+  "o": [
+    "Albert Einstein",
+    "Niels Bohr",
+    "Max Planck",
+    "Werner Heisenberg"
+  ],
+  "a": "Albert Einstein",
+  "n": "Bohr le habría respondido que dejara de decirle a Dios qué hacer."
+}

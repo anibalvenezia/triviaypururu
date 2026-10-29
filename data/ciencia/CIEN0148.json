@@ -1,0 +1,15 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "g": "melatonina",
+  "q": "¿Qué hormona regula el ciclo del sueño?",
+  "o": [
+    "la melatonina",
+    "la serotonina",
+    "el cortisol",
+    "la oxitocina"
+  ],
+  "a": "la melatonina",
+  "n": "La produce la glándula pineal y su secreción aumenta con la oscuridad."
+}

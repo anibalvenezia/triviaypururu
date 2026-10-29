@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-piel",
+  "img": [
+    "obras/piel.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Titian_-_Girl_in_a_Fur_Coat_-_Google_Art_Project.jpg/960px-Titian_-_Girl_in_a_Fur_Coat_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Titian_-_Girl_in_a_Fur_Coat_-_Google_Art_Project.jpg/500px-Titian_-_Girl_in_a_Fur_Coat_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿De qué escuela pictórica del Renacimiento es este pintor?",
+  "o": [
+    "De la escuela veneciana",
+    "De la escuela florentina",
+    "De la escuela flamenca",
+    "De la escuela de Toledo"
+  ],
+  "a": "De la escuela veneciana",
+  "n": "Tiziano fue la gran figura de la pintura veneciana del siglo XVI.",
+  "titulo": "Muchacha con abrigo de piel · Tiziano, 1535"
+}

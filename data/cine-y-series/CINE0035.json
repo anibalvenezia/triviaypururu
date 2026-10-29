@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué actriz tiene el récord de premios Oscar de interpretación, con cuatro?",
+  "o": [
+    "Katharine Hepburn",
+    "Meryl Streep",
+    "Ingrid Bergman",
+    "Bette Davis"
+  ],
+  "a": "Katharine Hepburn"
+}

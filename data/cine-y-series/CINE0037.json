@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién dirigió 'El laberinto del fauno'?",
+  "o": [
+    "Guillermo del Toro",
+    "Alfonso Cuarón",
+    "Alejandro González Iñárritu",
+    "Pedro Almodóvar"
+  ],
+  "a": "Guillermo del Toro"
+}

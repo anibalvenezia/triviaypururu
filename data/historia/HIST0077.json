@@ -1,0 +1,13 @@
+{
+  "c": "Historia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué imperio conquistó Hernán Cortés?",
+  "o": [
+    "El azteca",
+    "El inca",
+    "El maya",
+    "El chibcha"
+  ],
+  "a": "El azteca"
+}

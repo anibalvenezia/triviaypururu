@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién le dio a Teseo el hilo para salir del laberinto?",
+  "o": [
+    "Ariadna",
+    "Medea",
+    "Fedra",
+    "Andrómeda"
+  ],
+  "a": "Ariadna"
+}

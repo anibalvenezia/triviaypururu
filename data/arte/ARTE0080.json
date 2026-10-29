@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-dante",
+  "img": [
+    "obras/dante.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sandro_Botticelli_-_Drawings_for_Dante%C2%B4s_Divine_Comedy_(Purgatorio_17)_-_Google_Art_Project.jpg/960px-Sandro_Botticelli_-_Drawings_for_Dante%C2%B4s_Divine_Comedy_(Purgatorio_17)_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sandro_Botticelli_-_Drawings_for_Dante%C2%B4s_Divine_Comedy_(Purgatorio_17)_-_Google_Art_Project.jpg/500px-Sandro_Botticelli_-_Drawings_for_Dante%C2%B4s_Divine_Comedy_(Purgatorio_17)_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué obra literaria ilustró Botticelli con esta serie de dibujos?",
+  "o": [
+    "La Divina Comedia",
+    "El Decamerón",
+    "La Eneida",
+    "El Cantar de Roldán"
+  ],
+  "a": "La Divina Comedia",
+  "n": "Botticelli dibujó casi cien láminas para el poema de Dante.",
+  "titulo": "Dibujos para la Divina Comedia (Purgatorio 17) · Sandro Botticelli"
+}

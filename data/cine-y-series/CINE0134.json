@@ -1,0 +1,20 @@
+{
+  "c": "Cine y series",
+  "t": "ord",
+  "p": 2,
+  "g": "ord-oscars-2010s",
+  "q": "Ordená por fecha de estreno, de la más antigua a la más reciente, estas cuatro películas premiadas en los Oscar.",
+  "o": [
+    "'La La Land'",
+    "'Coco'",
+    "'Bohemian Rhapsody'",
+    "'Parasite'"
+  ],
+  "a": [
+    "'La La Land'",
+    "'Coco'",
+    "'Bohemian Rhapsody'",
+    "'Parasite'"
+  ],
+  "n": "2016, 2017, 2018 y 2019."
+}

@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-promenade",
+  "img": [
+    "obras/promenade.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pierre-Auguste_Renoir_(French_-_La_Promenade_-_Google_Art_Project.jpg/960px-Pierre-Auguste_Renoir_(French_-_La_Promenade_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pierre-Auguste_Renoir_(French_-_La_Promenade_-_Google_Art_Project.jpg/500px-Pierre-Auguste_Renoir_(French_-_La_Promenade_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿A qué movimiento pertenece esta escena de una pareja en el bosque?",
+  "o": [
+    "Al impresionismo",
+    "Al realismo",
+    "Al simbolismo",
+    "Al fauvismo"
+  ],
+  "a": "Al impresionismo",
+  "n": "'La promenade' de Renoir, 1870.",
+  "titulo": "La promenade · Pierre-Auguste Renoir, 1870"
+}

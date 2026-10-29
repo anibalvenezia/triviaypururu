@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-vialactea",
+  "img": [
+    "obras/vialactea.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jacopo_Tintoretto_-_The_Origin_of_the_Milky_Way_-_Google_Art_Project.jpg/960px-Jacopo_Tintoretto_-_The_Origin_of_the_Milky_Way_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jacopo_Tintoretto_-_The_Origin_of_the_Milky_Way_-_Google_Art_Project.jpg/500px-Jacopo_Tintoretto_-_The_Origin_of_the_Milky_Way_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué fenómeno explica el mito representado en este cuadro?",
+  "o": [
+    "El origen de la Vía Láctea",
+    "El origen de las mareas",
+    "El origen de los eclipses",
+    "El origen del arcoíris"
+  ],
+  "a": "El origen de la Vía Láctea",
+  "n": "De Tintoretto: la leche de Hera derramada al amamantar a Hércules.",
+  "titulo": "El origen de la Vía Láctea · Tintoretto, 1575"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántas cuerdas tiene una guitarra española estándar?",
+  "o": [
+    "Seis",
+    "Cuatro",
+    "Siete",
+    "Doce"
+  ],
+  "a": "Seis"
+}

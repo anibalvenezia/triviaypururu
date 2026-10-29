@@ -1,0 +1,14 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántas provincias tiene Argentina?",
+  "o": [
+    "23",
+    "24",
+    "22",
+    "25"
+  ],
+  "a": "23",
+  "n": "23 provincias más la Ciudad Autónoma de Buenos Aires."
+}

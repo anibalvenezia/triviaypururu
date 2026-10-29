@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-leccion",
+  "img": [
+    "obras/leccion.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman%2C_'The_Music_Lesson'_-_Google_Art_Project.jpg/960px-Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman%2C_'The_Music_Lesson'_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman%2C_'The_Music_Lesson'_-_Google_Art_Project.jpg/500px-Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman%2C_'The_Music_Lesson'_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Cómo se llama el instrumento de teclado que aparece en esta obra de Vermeer?",
+  "o": [
+    "Virginal",
+    "Clavicémbalo de cola",
+    "Órgano positivo",
+    "Fortepiano"
+  ],
+  "a": "Virginal",
+  "n": "'La lección de música'. El virginal es un pariente pequeño del clave.",
+  "titulo": "La lección de música · Johannes Vermeer, 1662"
+}

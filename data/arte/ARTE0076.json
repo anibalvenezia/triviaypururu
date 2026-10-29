@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-venus",
+  "img": [
+    "obras/venus.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/960px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/500px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg"
+  ],
+  "q": "¿Quién pintó esta Venus saliendo del mar sobre una caracola?",
+  "o": [
+    "Sandro Botticelli",
+    "Rafael",
+    "Tiziano",
+    "Piero della Francesca"
+  ],
+  "a": "Sandro Botticelli",
+  "n": "'El nacimiento de Venus', hacia 1485, en la Galería Uffizi de Florencia.",
+  "titulo": "El nacimiento de Venus · Sandro Botticelli, 1485"
+}

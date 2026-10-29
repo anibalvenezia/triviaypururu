@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-srilanka",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/500px-Flag_of_Sri_Lanka.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/250px-Flag_of_Sri_Lanka.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Sri Lanka",
+    "India",
+    "Nepal",
+    "Maldivas"
+  ],
+  "a": "Sri Lanka"
+}

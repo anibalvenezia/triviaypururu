@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-botas",
+  "img": [
+    "obras/botas.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vincent_van_Gogh_-_A_Pair_of_Boots%2C_1887_(Baltimore_Museum_of_Art).jpg/960px-Vincent_van_Gogh_-_A_Pair_of_Boots%2C_1887_(Baltimore_Museum_of_Art).jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vincent_van_Gogh_-_A_Pair_of_Boots%2C_1887_(Baltimore_Museum_of_Art).jpg/500px-Vincent_van_Gogh_-_A_Pair_of_Boots%2C_1887_(Baltimore_Museum_of_Art).jpg"
+  ],
+  "q": "¿De qué pintor es esta naturaleza muerta con un par de botas?",
+  "o": [
+    "Vincent van Gogh",
+    "Paul Cézanne",
+    "Édouard Vuillard",
+    "Giorgio Morandi"
+  ],
+  "a": "Vincent van Gogh",
+  "n": "Van Gogh pintó varias veces zapatos gastados.",
+  "titulo": "Un par de botas · Vincent van Gogh, 1887"
+}

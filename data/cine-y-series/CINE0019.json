@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién dirigió 'E.T., el extraterrestre'?",
+  "o": [
+    "Steven Spielberg",
+    "George Lucas",
+    "Robert Zemeckis",
+    "Ron Howard"
+  ],
+  "a": "Steven Spielberg"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué torneo de Grand Slam se juega sobre polvo de ladrillo?",
+  "o": [
+    "Roland Garros",
+    "Wimbledon",
+    "US Open",
+    "Abierto de Australia"
+  ],
+  "a": "Roland Garros"
+}

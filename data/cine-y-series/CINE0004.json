@@ -1,0 +1,19 @@
+{
+  "c": "Cine y series",
+  "t": "ord",
+  "p": 2,
+  "q": "Ordená estas películas de Star Wars según su fecha de estreno, de la más antigua a la más nueva.",
+  "o": [
+    "Una nueva esperanza",
+    "El imperio contraataca",
+    "El retorno del Jedi",
+    "La amenaza fantasma"
+  ],
+  "a": [
+    "Una nueva esperanza",
+    "El imperio contraataca",
+    "El retorno del Jedi",
+    "La amenaza fantasma"
+  ],
+  "n": "1977, 1980, 1983 y 1999."
+}

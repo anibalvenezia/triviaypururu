@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió 'El retrato de Dorian Gray'?",
+  "o": [
+    "Oscar Wilde",
+    "Bram Stoker",
+    "Robert Louis Stevenson",
+    "Charles Dickens"
+  ],
+  "a": "Oscar Wilde"
+}

@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-titus",
+  "img": [
+    "obras/titus.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rembrandt_-_Titus%2C_the_Artist's_Son%2C_1660_(Baltimore_Museum_of_Art).jpg/960px-Rembrandt_-_Titus%2C_the_Artist's_Son%2C_1660_(Baltimore_Museum_of_Art).jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rembrandt_-_Titus%2C_the_Artist's_Son%2C_1660_(Baltimore_Museum_of_Art).jpg/500px-Rembrandt_-_Titus%2C_the_Artist's_Son%2C_1660_(Baltimore_Museum_of_Art).jpg"
+  ],
+  "q": "¿A quién retrató Rembrandt en este cuadro?",
+  "o": [
+    "A su hijo Titus",
+    "A su maestro",
+    "A un mecenas",
+    "A un rey"
+  ],
+  "a": "A su hijo Titus",
+  "titulo": "Titus, el hijo del artista · Rembrandt, 1660"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué es un eagle en golf?",
+  "o": [
+    "Dos golpes bajo el par",
+    "Un golpe bajo el par",
+    "Tres golpes bajo el par",
+    "Embocar de un solo golpe"
+  ],
+  "a": "Dos golpes bajo el par"
+}

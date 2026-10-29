@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-crau",
+  "img": [
+    "obras/crau.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Vincent_van_Gogh_-_Vue_de_la_Crau_(1888).jpg/960px-Vincent_van_Gogh_-_Vue_de_la_Crau_(1888).jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Vincent_van_Gogh_-_Vue_de_la_Crau_(1888).jpg/500px-Vincent_van_Gogh_-_Vue_de_la_Crau_(1888).jpg"
+  ],
+  "q": "¿De quién es esta vista de la llanura de la Crau, en Provenza?",
+  "o": [
+    "Vincent van Gogh",
+    "Paul Cézanne",
+    "Camille Pissarro",
+    "Alfred Sisley"
+  ],
+  "a": "Vincent van Gogh",
+  "titulo": "Vista de la Crau · Vincent van Gogh, 1888"
+}

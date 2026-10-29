@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el órgano más extenso del cuerpo humano?",
+  "o": [
+    "La piel",
+    "El hígado",
+    "El intestino",
+    "El pulmón"
+  ],
+  "a": "La piel"
+}

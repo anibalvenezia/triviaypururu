@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-marta",
+  "img": [
+    "obras/marta.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Johannes_(Jan)_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project_(cropped2).jpg/960px-Johannes_(Jan)_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project_(cropped2).jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Johannes_(Jan)_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project_(cropped2).jpg/500px-Johannes_(Jan)_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project_(cropped2).jpg"
+  ],
+  "q": "¿De qué relato bíblico es esta escena pintada por Vermeer?",
+  "o": [
+    "Cristo en casa de Marta y María",
+    "La última cena",
+    "Las bodas de Caná",
+    "La Anunciación"
+  ],
+  "a": "Cristo en casa de Marta y María",
+  "n": "Es una de sus pocas pinturas de tema religioso.",
+  "titulo": "Cristo en casa de Marta y María · Johannes Vermeer, 1655"
+}

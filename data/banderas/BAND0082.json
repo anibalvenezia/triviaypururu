@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-kazajistan",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/500px-Flag_of_Kazakhstan.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/250px-Flag_of_Kazakhstan.svg.png"
+  ],
+  "q": "¿Qué país tiene esta bandera?",
+  "o": [
+    "Kazajistán",
+    "Ucrania",
+    "Uzbekistán",
+    "Mongolia"
+  ],
+  "a": "Kazajistán"
+}

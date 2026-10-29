@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿De qué país era la cantante Celia Cruz?",
+  "o": [
+    "Cuba",
+    "Puerto Rico",
+    "República Dominicana",
+    "Colombia"
+  ],
+  "a": "Cuba"
+}

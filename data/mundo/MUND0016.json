@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el país más extenso del mundo?",
+  "o": [
+    "Rusia",
+    "Canadá",
+    "China",
+    "Estados Unidos"
+  ],
+  "a": "Rusia"
+}

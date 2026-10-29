@@ -1,0 +1,14 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Con cuántos países limita Argentina?",
+  "o": [
+    "Cinco",
+    "Cuatro",
+    "Seis",
+    "Tres"
+  ],
+  "a": "Cinco",
+  "n": "Chile, Bolivia, Paraguay, Brasil y Uruguay."
+}

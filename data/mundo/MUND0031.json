@@ -1,0 +1,15 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "g": "desiertos",
+  "q": "¿Cuál es el desierto cálido más extenso del mundo?",
+  "o": [
+    "El Sahara",
+    "El de Atacama",
+    "El de Gobi",
+    "El de Arabia"
+  ],
+  "a": "El Sahara",
+  "n": "El mayor desierto del planeta, si se cuentan los fríos, es la Antártida."
+}

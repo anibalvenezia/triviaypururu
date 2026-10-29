@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from "react";
-import PREGUNTAS from "./data/index.js";
+import PREGUNTAS from "banco-de-preguntas"; // generado por build.mjs desde data/
 
 /* ============================================================
    TRIVIA Y PURURÚ — práctica para la mesa de Córdoba

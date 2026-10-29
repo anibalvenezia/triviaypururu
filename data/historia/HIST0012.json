@@ -1,0 +1,13 @@
+{
+  "c": "Historia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué civilización construyó Machu Picchu?",
+  "o": [
+    "Inca",
+    "Maya",
+    "Azteca",
+    "Chimú"
+  ],
+  "a": "Inca"
+}

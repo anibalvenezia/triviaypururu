@@ -1,0 +1,15 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "g": "mitosis",
+  "q": "¿Cómo se llama el proceso de división celular que da dos células hijas idénticas a la original?",
+  "o": [
+    "la mitosis",
+    "la meiosis",
+    "la apoptosis",
+    "la mitocondria"
+  ],
+  "a": "la mitosis",
+  "n": "La meiosis, en cambio, reduce a la mitad los cromosomas y produce gametos."
+}

@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-peces",
+  "img": [
+    "obras/peces.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pieter_Bruegel_the_Elder_-_Big_Fish_Eat_Little_Fish%2C_1556_-_Google_Art_Project.jpg/960px-Pieter_Bruegel_the_Elder_-_Big_Fish_Eat_Little_Fish%2C_1556_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pieter_Bruegel_the_Elder_-_Big_Fish_Eat_Little_Fish%2C_1556_-_Google_Art_Project.jpg/500px-Pieter_Bruegel_the_Elder_-_Big_Fish_Eat_Little_Fish%2C_1556_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué género recorre buena parte de la obra de Bruegel, también acá?",
+  "o": [
+    "La ilustración de refranes populares",
+    "El retrato de corte",
+    "La pintura de batallas navales",
+    "El desnudo mitológico"
+  ],
+  "a": "La ilustración de refranes populares",
+  "n": "Acá, el pez grande que se come al chico.",
+  "titulo": "El pez grande se come al chico · Pieter Bruegel el Viejo, 1556"
+}

@@ -1,0 +1,15 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "g": "spiderman-actores",
+  "q": "¿Cuál de estos actores nunca interpretó a Spiderman?",
+  "o": [
+    "Jake Gyllenhaal",
+    "Tobey Maguire",
+    "Andrew Garfield",
+    "Tom Holland"
+  ],
+  "a": "Jake Gyllenhaal",
+  "n": "Gyllenhaal hizo de Mysterio en 'Lejos de casa'."
+}

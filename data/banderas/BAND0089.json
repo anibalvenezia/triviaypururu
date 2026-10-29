@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-senegal",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/500px-Flag_of_Senegal.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/250px-Flag_of_Senegal.svg.png"
+  ],
+  "q": "¿A qué país pertenece esta bandera?",
+  "o": [
+    "Senegal",
+    "Malí",
+    "Camerún",
+    "Guinea"
+  ],
+  "a": "Senegal"
+}

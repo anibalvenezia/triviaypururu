@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-soldado",
+  "img": [
+    "obras/soldado.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Johannes_Vermeer_-_De_Soldaat_en_het_Lachende_Meisje_-_Google_Art_Project.jpg/960px-Johannes_Vermeer_-_De_Soldaat_en_het_Lachende_Meisje_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Johannes_Vermeer_-_De_Soldaat_en_het_Lachende_Meisje_-_Google_Art_Project.jpg/500px-Johannes_Vermeer_-_De_Soldaat_en_het_Lachende_Meisje_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿De quién es esta escena de un soldado y una muchacha que ríe?",
+  "o": [
+    "Johannes Vermeer",
+    "Frans Hals",
+    "Jan Steen",
+    "Rembrandt"
+  ],
+  "a": "Johannes Vermeer",
+  "titulo": "El soldado y la muchacha que ríe · Johannes Vermeer, 1658"
+}

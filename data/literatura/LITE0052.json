@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué escritor portugués ganó el Nobel de Literatura en 1998?",
+  "o": [
+    "José Saramago",
+    "Fernando Pessoa",
+    "António Lobo Antunes",
+    "Eça de Queirós"
+  ],
+  "a": "José Saramago"
+}

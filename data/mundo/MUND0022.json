@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es la moneda del Reino Unido?",
+  "o": [
+    "La libra esterlina",
+    "El euro",
+    "La corona",
+    "El chelín"
+  ],
+  "a": "La libra esterlina"
+}

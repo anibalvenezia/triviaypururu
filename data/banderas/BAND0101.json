@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-guatemala",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/500px-Flag_of_Guatemala.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/250px-Flag_of_Guatemala.svg.png"
+  ],
+  "q": "¿A qué país pertenece esta bandera?",
+  "o": [
+    "Guatemala",
+    "Argentina",
+    "El Salvador",
+    "Honduras"
+  ],
+  "a": "Guatemala"
+}

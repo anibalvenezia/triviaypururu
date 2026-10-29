@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-singapur",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/500px-Flag_of_Singapore.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/250px-Flag_of_Singapore.svg.png"
+  ],
+  "q": "¿A qué país corresponde esta bandera?",
+  "o": [
+    "Singapur",
+    "Indonesia",
+    "Polonia",
+    "Mónaco"
+  ],
+  "a": "Singapur"
+}

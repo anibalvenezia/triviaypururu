@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué director dirigió la trilogía de 'El Señor de los Anillos'?",
+  "o": [
+    "Peter Jackson",
+    "Guillermo del Toro",
+    "Christopher Nolan",
+    "Sam Raimi"
+  ],
+  "a": "Peter Jackson"
+}

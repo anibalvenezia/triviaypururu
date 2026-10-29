@@ -1,0 +1,14 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál de estas películas no dirigió Tim Burton?",
+  "o": [
+    "El extraño mundo de Jack",
+    "Beetlejuice",
+    "El joven manos de tijera",
+    "Charlie y la fábrica de chocolate"
+  ],
+  "a": "El extraño mundo de Jack",
+  "n": "La dirigió Henry Selick; Burton la produjo y creó la historia."
+}

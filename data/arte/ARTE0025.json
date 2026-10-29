@@ -1,0 +1,13 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué artista callejero británico es famoso por sus esténciles anónimos?",
+  "o": [
+    "Banksy",
+    "Shepard Fairey",
+    "Jean-Michel Basquiat",
+    "Keith Haring"
+  ],
+  "a": "Banksy"
+}

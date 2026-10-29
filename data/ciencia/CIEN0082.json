@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué instrumento mide la presión atmosférica?",
+  "o": [
+    "El barómetro",
+    "El termómetro",
+    "El higrómetro",
+    "El anemómetro"
+  ],
+  "a": "El barómetro"
+}

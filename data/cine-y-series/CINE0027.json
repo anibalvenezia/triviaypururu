@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué tres películas comparten el récord de once premios Oscar?",
+  "o": [
+    "Ben-Hur, Titanic y El retorno del Rey",
+    "Casablanca, El padrino y Gladiador",
+    "Amadeus, Rain Man y Forrest Gump",
+    "Chicago, Alien y Rocky"
+  ],
+  "a": "Ben-Hur, Titanic y El retorno del Rey"
+}

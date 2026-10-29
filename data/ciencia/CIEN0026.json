@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el planeta más denso del Sistema Solar?",
+  "o": [
+    "La Tierra",
+    "Júpiter",
+    "Mercurio",
+    "Saturno"
+  ],
+  "a": "La Tierra"
+}

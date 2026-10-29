@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-olivos",
+  "img": [
+    "obras/olivos.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Vincent_van_Gogh_-_Olive_Orchard_-_Google_Art_Project.jpg/960px-Vincent_van_Gogh_-_Olive_Orchard_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Vincent_van_Gogh_-_Olive_Orchard_-_Google_Art_Project.jpg/500px-Vincent_van_Gogh_-_Olive_Orchard_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Quién pintó este olivar?",
+  "o": [
+    "Vincent van Gogh",
+    "Paul Cézanne",
+    "Alfred Sisley",
+    "Camille Corot"
+  ],
+  "a": "Vincent van Gogh",
+  "n": "Los olivos fueron uno de sus motivos favoritos en Provenza.",
+  "titulo": "El olivar · Vincent van Gogh, 1889"
+}

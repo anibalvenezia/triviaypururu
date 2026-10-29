@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué órgano produce la insulina?",
+  "o": [
+    "El páncreas",
+    "El hígado",
+    "El riñón",
+    "La tiroides"
+  ],
+  "a": "El páncreas"
+}

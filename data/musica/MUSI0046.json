@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿De qué ciudad colombiana es Shakira?",
+  "o": [
+    "Barranquilla",
+    "Bogotá",
+    "Medellín",
+    "Cali"
+  ],
+  "a": "Barranquilla"
+}

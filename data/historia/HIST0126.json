@@ -1,0 +1,15 @@
+{
+  "c": "Historia",
+  "t": "mc",
+  "p": 1,
+  "g": "ana-frank",
+  "q": "¿En qué ciudad está la casa de Ana Frank?",
+  "o": [
+    "Ámsterdam",
+    "Fráncfort",
+    "Berlín",
+    "Amberes"
+  ],
+  "a": "Ámsterdam",
+  "n": "En Prinsengracht 263; la familia era alemana, de Fráncfort, y se exilió en los Países Bajos."
+}

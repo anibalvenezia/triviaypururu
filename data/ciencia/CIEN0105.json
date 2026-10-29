@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el grupo sanguíneo considerado donante universal?",
+  "o": [
+    "0 negativo",
+    "AB positivo",
+    "A positivo",
+    "B negativo"
+  ],
+  "a": "0 negativo"
+}

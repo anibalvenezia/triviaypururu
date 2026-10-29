@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-argelia",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/500px-Flag_of_Algeria.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png"
+  ],
+  "q": "¿A qué país pertenece esta bandera?",
+  "o": [
+    "Argelia",
+    "Pakistán",
+    "Túnez",
+    "Turquía"
+  ],
+  "a": "Argelia"
+}

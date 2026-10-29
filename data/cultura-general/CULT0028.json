@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántas letras tiene el alfabeto español?",
+  "o": [
+    "27",
+    "26",
+    "28",
+    "29"
+  ],
+  "a": "27"
+}

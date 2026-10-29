@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-juegos",
+  "img": [
+    "obras/juegos.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg/960px-Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg/500px-Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Cuántos juegos distintos identificaron los estudiosos en este cuadro?",
+  "o": [
+    "Más de ochenta",
+    "Menos de diez",
+    "Alrededor de veinte",
+    "Exactamente cuarenta"
+  ],
+  "a": "Más de ochenta",
+  "n": "'Juegos de niños' de Bruegel, 1560, funciona como un catálogo de la infancia del siglo XVI.",
+  "titulo": "Juegos de niños · Pieter Bruegel el Viejo, 1560"
+}

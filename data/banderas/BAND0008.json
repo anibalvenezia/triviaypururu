@@ -1,0 +1,19 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-ecuador",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/500px-Flag_of_Ecuador.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png"
+  ],
+  "q": "¿A qué país sudamericano pertenece esta bandera?",
+  "o": [
+    "Ecuador",
+    "Colombia",
+    "Venezuela",
+    "Rumania"
+  ],
+  "a": "Ecuador",
+  "n": "Ecuador, Colombia y Venezuela comparten los colores de la Gran Colombia."
+}

@@ -1,0 +1,15 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "g": "futbol-americano-duracion",
+  "q": "¿Cuánto dura el tiempo de juego de un partido de fútbol americano?",
+  "o": [
+    "60 minutos",
+    "80 minutos",
+    "90 minutos",
+    "48 minutos"
+  ],
+  "a": "60 minutos",
+  "n": "Cuatro cuartos de 15 minutos, aunque el partido real dura más de tres horas."
+}

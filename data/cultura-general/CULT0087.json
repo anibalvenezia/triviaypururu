@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el idioma con más hablantes totales del mundo, sumando nativos y no nativos?",
+  "o": [
+    "El inglés",
+    "El chino mandarín",
+    "El español",
+    "El hindi"
+  ],
+  "a": "El inglés"
+}

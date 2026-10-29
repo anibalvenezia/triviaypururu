@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-marruecos",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/500px-Flag_of_Morocco.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/250px-Flag_of_Morocco.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera con una estrella verde de cinco puntas?",
+  "o": [
+    "Marruecos",
+    "Turquía",
+    "Túnez",
+    "Argelia"
+  ],
+  "a": "Marruecos"
+}

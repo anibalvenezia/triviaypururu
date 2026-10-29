@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántas piezas tiene cada jugador al empezar una partida de ajedrez?",
+  "o": [
+    "16",
+    "12",
+    "18",
+    "20"
+  ],
+  "a": "16"
+}

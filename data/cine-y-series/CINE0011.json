@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién dirigió 'Titanic' y 'Avatar'?",
+  "o": [
+    "James Cameron",
+    "Steven Spielberg",
+    "Ridley Scott",
+    "Peter Jackson"
+  ],
+  "a": "James Cameron"
+}

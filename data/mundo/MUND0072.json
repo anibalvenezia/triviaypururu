@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el país más poblado de África?",
+  "o": [
+    "Nigeria",
+    "Egipto",
+    "Etiopía",
+    "Sudáfrica"
+  ],
+  "a": "Nigeria"
+}

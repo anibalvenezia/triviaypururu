@@ -1,0 +1,13 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué club argentino juega de local en el estadio Monumental?",
+  "o": [
+    "River Plate",
+    "Boca Juniors",
+    "Racing",
+    "San Lorenzo"
+  ],
+  "a": "River Plate"
+}

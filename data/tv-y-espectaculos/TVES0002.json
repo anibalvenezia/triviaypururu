@@ -1,0 +1,14 @@
+{
+  "c": "TV y espectáculos",
+  "t": "mc",
+  "p": 1,
+  "g": "friends",
+  "q": "¿Cuál es el segundo nombre de Rachel Green en 'Friends'?",
+  "o": [
+    "Karen",
+    "Emma",
+    "Louise",
+    "Anne"
+  ],
+  "a": "Karen"
+}

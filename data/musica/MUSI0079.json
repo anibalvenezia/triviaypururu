@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿De qué país es el cantautor Silvio Rodríguez?",
+  "o": [
+    "Cuba",
+    "Uruguay",
+    "Chile",
+    "México"
+  ],
+  "a": "Cuba"
+}

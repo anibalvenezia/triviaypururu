@@ -1,0 +1,15 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "g": "tendon",
+  "q": "¿Cómo se llama el tejido que une los músculos con los huesos?",
+  "o": [
+    "el tendón",
+    "el ligamento",
+    "el cartílago",
+    "la fascia"
+  ],
+  "a": "el tendón",
+  "n": "Los ligamentos unen hueso con hueso."
+}

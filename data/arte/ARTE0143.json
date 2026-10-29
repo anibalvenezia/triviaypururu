@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-ferrocarril",
+  "img": [
+    "obras/ferrocarril.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Edouard_Manet_-_The_Railway_-_Google_Art_Project.jpg/960px-Edouard_Manet_-_The_Railway_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Edouard_Manet_-_The_Railway_-_Google_Art_Project.jpg/500px-Edouard_Manet_-_The_Railway_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Junto a qué estación parisina pintó Manet esta escena?",
+  "o": [
+    "Saint-Lazare",
+    "Montparnasse",
+    "Gare du Nord",
+    "Austerlitz"
+  ],
+  "a": "Saint-Lazare",
+  "n": "La misma estación que Monet pintaría en una serie pocos años después.",
+  "titulo": "El ferrocarril · Édouard Manet, 1873"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué planeta tiene el sistema de anillos más visible?",
+  "o": [
+    "Saturno",
+    "Júpiter",
+    "Urano",
+    "Neptuno"
+  ],
+  "a": "Saturno"
+}

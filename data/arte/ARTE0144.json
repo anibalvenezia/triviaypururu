@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-osny",
+  "img": [
+    "obras/osny.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Paul_Gauguin_-_Entrance_to_the_Village_of_Osny_-_Google_Art_Project.jpg/960px-Paul_Gauguin_-_Entrance_to_the_Village_of_Osny_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Paul_Gauguin_-_Entrance_to_the_Village_of_Osny_-_Google_Art_Project.jpg/500px-Paul_Gauguin_-_Entrance_to_the_Village_of_Osny_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué pintor francés terminó instalándose en Tahití?",
+  "o": [
+    "Paul Gauguin",
+    "Paul Cézanne",
+    "Camille Pissarro",
+    "Georges Seurat"
+  ],
+  "a": "Paul Gauguin",
+  "titulo": "Entrada al pueblo de Osny · Paul Gauguin, 1883"
+}

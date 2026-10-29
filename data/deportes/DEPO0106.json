@@ -1,0 +1,13 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántos puntos vale un try en rugby?",
+  "o": [
+    "Cinco",
+    "Tres",
+    "Siete",
+    "Cuatro"
+  ],
+  "a": "Cinco"
+}

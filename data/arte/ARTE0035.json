@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-segador",
+  "img": [
+    "obras/segador.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vincent_van_Gogh_-_Wheat_Fields_with_Reaper%2C_Auvers_-_Google_Art_Project.jpg/960px-Vincent_van_Gogh_-_Wheat_Fields_with_Reaper%2C_Auvers_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vincent_van_Gogh_-_Wheat_Fields_with_Reaper%2C_Auvers_-_Google_Art_Project.jpg/500px-Vincent_van_Gogh_-_Wheat_Fields_with_Reaper%2C_Auvers_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Quién pintó este trigal con un segador?",
+  "o": [
+    "Vincent van Gogh",
+    "Jean-François Millet",
+    "Gustave Courbet",
+    "Camille Pissarro"
+  ],
+  "a": "Vincent van Gogh",
+  "n": "De sus últimos meses en Auvers-sur-Oise, 1890.",
+  "titulo": "Trigal con segador · Vincent van Gogh, 1889"
+}

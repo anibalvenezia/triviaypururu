@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-panama",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/500px-Flag_of_Panama.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Panamá",
+    "Cuba",
+    "Puerto Rico",
+    "Chile"
+  ],
+  "a": "Panamá"
+}

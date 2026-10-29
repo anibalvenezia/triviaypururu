@@ -1,0 +1,15 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "g": "poker-manos",
+  "q": "¿Cuál de estas manos vale más en el póker?",
+  "o": [
+    "el full",
+    "el color",
+    "la escalera",
+    "el trío"
+  ],
+  "a": "el full",
+  "n": "El orden de menor a mayor es trío, escalera, color y full."
+}

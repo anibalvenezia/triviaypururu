@@ -1,0 +1,13 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién esculpió el 'David' de Florencia?",
+  "o": [
+    "Miguel Ángel",
+    "Donatello",
+    "Bernini",
+    "Rodin"
+  ],
+  "a": "Miguel Ángel"
+}
