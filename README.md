@@ -102,11 +102,26 @@ consumado, en vez de a "actualmente" o "el último".
 
 ## Cómo se trabaja entre varios
 
-1. Cada cambio va en una **rama** propia (`astronomia-ronda-1`, `fix-ruleta`...).
-2. Se abre un **pull request** hacia `main`. GitHub corre `npm test` solo y Netlify
-   publica una **vista previa** con un link propio, para probar el cambio jugando.
-3. Con una persona que lo revise y el visto bueno de la validación, se mezcla a
-   `main` y Netlify actualiza el sitio.
+Hay dos ramas que se publican en Netlify:
+
+| Rama | Sitio | Para qué |
+|---|---|---|
+| `main` | https://triviapururu.netlify.app | Lo que usa el grupo. Solo entra lo ya probado. |
+| `testing` | https://testing--triviapururu.netlify.app | Ensayo compartido: se prueba en el celular antes de pasar a `main`. |
+
+El camino de un cambio:
+
+1. Se crea una **rama de trabajo** desde `testing` (`astronomia-ronda-1`, `fix-ruleta`...)
+   y se prueba en local con `npm test` y `npm run build`.
+2. Se abre un **pull request hacia `testing`**. GitHub corre la validación sola y
+   Netlify publica una vista previa con link propio del cambio.
+3. Una vez mezclado, se prueba `testing` en Netlify jugando de verdad (una partida
+   hasta responder preguntas, no solo ver el menú).
+4. Si anda bien, se abre un **pull request de `testing` hacia `main`**.
+5. Después de mezclar a `main`, se trae `main` de vuelta a `testing` para que no se
+   desvíen: `git switch testing && git pull && git merge main && git push`.
+
+Nadie sube directo a `main` ni a `testing`: todo entra por pull request.
 
 Para agregar preguntas no hace falta programar: alcanza con editar el `.json` de la
 categoría desde la web de GitHub. Ver `data/README.md`.
