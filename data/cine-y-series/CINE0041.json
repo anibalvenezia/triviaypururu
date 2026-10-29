@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién dirigió 'La lista de Schindler'?",
+  "o": [
+    "Steven Spielberg",
+    "Roman Polanski",
+    "Oliver Stone",
+    "Sydney Pollack"
+  ],
+  "a": "Steven Spielberg"
+}

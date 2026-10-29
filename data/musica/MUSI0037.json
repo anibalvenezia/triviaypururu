@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué músico ganó el Premio Nobel de Literatura en 2016?",
+  "o": [
+    "Bob Dylan",
+    "Leonard Cohen",
+    "Paul McCartney",
+    "Bruce Springsteen"
+  ],
+  "a": "Bob Dylan"
+}

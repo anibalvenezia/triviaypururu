@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué diosa griega nació de la cabeza de Zeus?",
+  "o": [
+    "Atenea",
+    "Afrodita",
+    "Artemisa",
+    "Deméter"
+  ],
+  "a": "Atenea"
+}

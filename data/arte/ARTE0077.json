@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-simonetta",
+  "img": [
+    "obras/simonetta.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sandro_Botticelli_-_Idealized_Portrait_of_a_Lady_(Portrait_of_Simonetta_Vespucci_as_Nymph)_-_Google_Art_ProjectFXD.jpg/960px-Sandro_Botticelli_-_Idealized_Portrait_of_a_Lady_(Portrait_of_Simonetta_Vespucci_as_Nymph)_-_Google_Art_ProjectFXD.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sandro_Botticelli_-_Idealized_Portrait_of_a_Lady_(Portrait_of_Simonetta_Vespucci_as_Nymph)_-_Google_Art_ProjectFXD.jpg/500px-Sandro_Botticelli_-_Idealized_Portrait_of_a_Lady_(Portrait_of_Simonetta_Vespucci_as_Nymph)_-_Google_Art_ProjectFXD.jpg"
+  ],
+  "q": "¿A qué período pertenece este retrato femenino de perfil?",
+  "o": [
+    "Al Renacimiento italiano",
+    "Al Barroco",
+    "Al Gótico",
+    "Al Neoclasicismo"
+  ],
+  "a": "Al Renacimiento italiano",
+  "n": "De Botticelli. Se cree que retrata a Simonetta Vespucci.",
+  "titulo": "Retrato idealizado de una dama (Simonetta Vespucci) · Sandro Botticelli"
+}

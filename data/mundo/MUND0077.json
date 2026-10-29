@@ -1,0 +1,14 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué ciudad es la capital de Sudáfrica donde funciona el Poder Ejecutivo?",
+  "o": [
+    "Pretoria",
+    "Ciudad del Cabo",
+    "Johannesburgo",
+    "Durban"
+  ],
+  "a": "Pretoria",
+  "n": "Sudáfrica tiene tres capitales: ejecutiva, legislativa y judicial."
+}

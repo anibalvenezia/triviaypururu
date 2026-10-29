@@ -1,0 +1,15 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "g": "auto-a-la-luna",
+  "q": "¿Cuánto tardaría un auto a 100 km/h constantes en llegar a la Luna?",
+  "o": [
+    "unos 160 días",
+    "unos 20 días",
+    "unos 3 años",
+    "unas 40 horas"
+  ],
+  "a": "unos 160 días",
+  "n": "384.400 km dividido 100 km/h son 3.844 horas, es decir unos 160 días."
+}

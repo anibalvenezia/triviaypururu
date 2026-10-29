@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió 'El juguete rabioso'?",
+  "o": [
+    "Roberto Arlt",
+    "Ernesto Sabato",
+    "Adolfo Bioy Casares",
+    "Leopoldo Marechal"
+  ],
+  "a": "Roberto Arlt"
+}

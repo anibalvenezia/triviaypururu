@@ -1,0 +1,13 @@
+{
+  "c": "Córdoba",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué provincia está la Fábrica Argentina de Aviones?",
+  "o": [
+    "Córdoba",
+    "Buenos Aires",
+    "Santa Fe",
+    "Mendoza"
+  ],
+  "a": "Córdoba"
+}

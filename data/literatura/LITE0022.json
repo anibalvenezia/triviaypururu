@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió 'Fahrenheit 451'?",
+  "o": [
+    "Ray Bradbury",
+    "Isaac Asimov",
+    "Philip K. Dick",
+    "Arthur C. Clarke"
+  ],
+  "a": "Ray Bradbury"
+}

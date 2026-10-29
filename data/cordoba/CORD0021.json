@@ -1,0 +1,13 @@
+{
+  "c": "Córdoba",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Bajo qué avenida del centro se encuentra la Cripta Jesuítica?",
+  "o": [
+    "Colón",
+    "Vélez Sarsfield",
+    "General Paz",
+    "Emilio Olmos"
+  ],
+  "a": "Colón"
+}

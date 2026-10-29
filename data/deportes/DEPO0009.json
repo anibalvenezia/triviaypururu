@@ -1,0 +1,14 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "g": "titulos-mundiales",
+  "q": "¿Cuál de estas selecciones nunca salió campeona del mundo?",
+  "o": [
+    "Países Bajos",
+    "Inglaterra",
+    "España",
+    "Uruguay"
+  ],
+  "a": "Países Bajos"
+}

@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-suecia",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/500px-Flag_of_Sweden.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/250px-Flag_of_Sweden.svg.png"
+  ],
+  "q": "¿De qué país nórdico es esta bandera?",
+  "o": [
+    "Suecia",
+    "Noruega",
+    "Dinamarca",
+    "Finlandia"
+  ],
+  "a": "Suecia"
+}

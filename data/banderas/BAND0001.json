@@ -1,0 +1,19 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-argentina",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/500px-Flag_of_Argentina.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Argentina",
+    "Uruguay",
+    "Guatemala",
+    "El Salvador"
+  ],
+  "a": "Argentina",
+  "n": "El sol de mayo se agregó al centro en 1818."
+}

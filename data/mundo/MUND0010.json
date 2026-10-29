@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es la capital de Australia?",
+  "o": [
+    "Canberra",
+    "Sídney",
+    "Melbourne",
+    "Brisbane"
+  ],
+  "a": "Canberra"
+}

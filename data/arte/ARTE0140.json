@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-planchadora",
+  "img": [
+    "obras/planchadora.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Edgar_Degas_-_Woman_Ironing_-_Google_Art_Project_(27443345).jpg/960px-Edgar_Degas_-_Woman_Ironing_-_Google_Art_Project_(27443345).jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Edgar_Degas_-_Woman_Ironing_-_Google_Art_Project_(27443345).jpg/500px-Edgar_Degas_-_Woman_Ironing_-_Google_Art_Project_(27443345).jpg"
+  ],
+  "q": "¿Quién pintó esta mujer planchando?",
+  "o": [
+    "Edgar Degas",
+    "Gustave Caillebotte",
+    "Honoré Daumier",
+    "Jean-François Millet"
+  ],
+  "a": "Edgar Degas",
+  "n": "Degas también retrató el trabajo urbano, no solo el ballet.",
+  "titulo": "Mujer planchando · Edgar Degas, 1873"
+}

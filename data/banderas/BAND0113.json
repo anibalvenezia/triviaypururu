@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-bahamas",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/500px-Flag_of_the_Bahamas.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/250px-Flag_of_the_Bahamas.svg.png"
+  ],
+  "q": "¿A qué país pertenece esta bandera?",
+  "o": [
+    "Bahamas",
+    "Barbados",
+    "Jamaica",
+    "Trinidad y Tobago"
+  ],
+  "a": "Bahamas"
+}

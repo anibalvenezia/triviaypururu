@@ -1,0 +1,20 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-suiza",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/500px-Flag_of_Switzerland.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_(Pantone).svg/500px-Flag_of_Switzerland_(Pantone).svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png"
+  ],
+  "q": "¿Qué particularidad tiene esta bandera entre las de los países del mundo?",
+  "o": [
+    "Es cuadrada",
+    "Es la única sin colores",
+    "Es la más antigua",
+    "Tiene forma triangular"
+  ],
+  "a": "Es cuadrada",
+  "n": "Solo Suiza y el Vaticano tienen bandera cuadrada."
+}

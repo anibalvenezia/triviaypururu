@@ -1,0 +1,15 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "g": "hobbes",
+  "q": "¿Quién escribió 'Leviatán', el tratado que funda la idea del contrato social con un Estado soberano absoluto?",
+  "o": [
+    "Thomas Hobbes",
+    "John Locke",
+    "Jean-Jacques Rousseau",
+    "Baruch Spinoza"
+  ],
+  "a": "Thomas Hobbes",
+  "n": "Publicado en 1651. El nombre viene del monstruo marino bíblico."
+}

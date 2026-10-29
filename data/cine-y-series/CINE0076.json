@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué actor interpretó al Joker en 'El caballero de la noche'?",
+  "o": [
+    "Heath Ledger",
+    "Joaquin Phoenix",
+    "Jack Nicholson",
+    "Jared Leto"
+  ],
+  "a": "Heath Ledger"
+}

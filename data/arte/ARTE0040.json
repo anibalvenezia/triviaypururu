@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-cipres",
+  "img": [
+    "obras/cipres.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vincent_van_Gogh_-_Paysage_avec_cypr%C3%A8s_(1889).jpg/960px-Vincent_van_Gogh_-_Paysage_avec_cypr%C3%A8s_(1889).jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vincent_van_Gogh_-_Paysage_avec_cypr%C3%A8s_(1889).jpg/500px-Vincent_van_Gogh_-_Paysage_avec_cypr%C3%A8s_(1889).jpg"
+  ],
+  "q": "¿En qué localidad provenzal pintó Van Gogh esta serie de cipreses?",
+  "o": [
+    "Saint-Rémy",
+    "Auvers-sur-Oise",
+    "Giverny",
+    "Pont-Aven"
+  ],
+  "a": "Saint-Rémy",
+  "n": "Los pintó durante su internación en el sanatorio, en 1889.",
+  "titulo": "Paisaje con ciprés · Vincent van Gogh, 1889"
+}

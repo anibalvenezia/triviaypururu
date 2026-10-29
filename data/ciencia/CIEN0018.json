@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántas cavidades tiene el corazón humano?",
+  "o": [
+    "Cuatro",
+    "Dos",
+    "Tres",
+    "Seis"
+  ],
+  "a": "Cuatro"
+}

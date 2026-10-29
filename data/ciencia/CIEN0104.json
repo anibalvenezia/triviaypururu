@@ -1,0 +1,14 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el gas que más respiramos?",
+  "o": [
+    "Nitrógeno",
+    "Oxígeno",
+    "Dióxido de carbono",
+    "Argón"
+  ],
+  "a": "Nitrógeno",
+  "n": "Compone alrededor del 78 % del aire."
+}

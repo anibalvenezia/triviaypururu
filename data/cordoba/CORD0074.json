@@ -1,0 +1,13 @@
+{
+  "c": "Córdoba",
+  "t": "mc",
+  "p": 1,
+  "q": "¿De qué ciudad es la banda Los Caligaris?",
+  "o": [
+    "Córdoba",
+    "Rosario",
+    "Buenos Aires",
+    "Santa Fe"
+  ],
+  "a": "Córdoba"
+}

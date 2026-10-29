@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Entre qué dos países se reparte el lago Titicaca?",
+  "o": [
+    "Perú y Bolivia",
+    "Bolivia y Chile",
+    "Perú y Ecuador",
+    "Bolivia y Paraguay"
+  ],
+  "a": "Perú y Bolivia"
+}

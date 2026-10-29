@@ -1,0 +1,15 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "g": "sigla-pami",
+  "q": "PAMI es el nombre con el que se conoce a la obra social de los jubilados. ¿Qué organismo la administra?",
+  "o": [
+    "el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados",
+    "la ANSES",
+    "el Ministerio de Salud",
+    "la Superintendencia de Servicios de Salud"
+  ],
+  "a": "el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados",
+  "n": "El INSSJP, creado por la ley 19.032, es una persona jurídica de derecho público no estatal."
+}

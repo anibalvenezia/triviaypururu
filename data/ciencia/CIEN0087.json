@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué animal es el único que no puede saltar entre estos?",
+  "o": [
+    "El elefante",
+    "El canguro",
+    "La liebre",
+    "La rana"
+  ],
+  "a": "El elefante"
+}

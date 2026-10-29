@@ -1,0 +1,13 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué museo se exhibe la Mona Lisa?",
+  "o": [
+    "El Louvre",
+    "El Prado",
+    "El British Museum",
+    "Los Uffizi"
+  ],
+  "a": "El Louvre"
+}

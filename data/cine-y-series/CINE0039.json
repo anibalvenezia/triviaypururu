@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién dirigió 'Interestelar' y 'El origen'?",
+  "o": [
+    "Christopher Nolan",
+    "Denis Villeneuve",
+    "Ridley Scott",
+    "James Cameron"
+  ],
+  "a": "Christopher Nolan"
+}

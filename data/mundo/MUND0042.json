@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es la capital de la provincia de Santa Cruz?",
+  "o": [
+    "Río Gallegos",
+    "El Calafate",
+    "Caleta Olivia",
+    "Puerto Deseado"
+  ],
+  "a": "Río Gallegos"
+}

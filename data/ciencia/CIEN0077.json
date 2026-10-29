@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué escala se usa para medir la acidez de una sustancia?",
+  "o": [
+    "La escala de pH",
+    "La escala Mohs",
+    "La escala Richter",
+    "La escala Kelvin"
+  ],
+  "a": "La escala de pH"
+}

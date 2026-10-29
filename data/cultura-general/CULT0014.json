@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el deporte nacional argentino por ley?",
+  "o": [
+    "El pato",
+    "El fútbol",
+    "El rugby",
+    "El polo"
+  ],
+  "a": "El pato"
+}

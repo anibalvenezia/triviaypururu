@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué ciudad murió Carlos Gardel en 1935?",
+  "o": [
+    "Medellín",
+    "Bogotá",
+    "Caracas",
+    "La Habana"
+  ],
+  "a": "Medellín"
+}

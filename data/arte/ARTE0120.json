@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-aurora",
+  "img": [
+    "obras/aurora.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Peter_Paul_Rubens_-_Aurora_abducting_Cephalus_-_Google_Art_Project.jpg/960px-Peter_Paul_Rubens_-_Aurora_abducting_Cephalus_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Peter_Paul_Rubens_-_Aurora_abducting_Cephalus_-_Google_Art_Project.jpg/500px-Peter_Paul_Rubens_-_Aurora_abducting_Cephalus_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿A qué movimiento pertenece esta escena mitológica de figuras exuberantes?",
+  "o": [
+    "Al Barroco",
+    "Al Renacimiento",
+    "Al Neoclasicismo",
+    "Al Rococó"
+  ],
+  "a": "Al Barroco",
+  "titulo": "Aurora raptando a Céfalo · Peter Paul Rubens, 1636"
+}

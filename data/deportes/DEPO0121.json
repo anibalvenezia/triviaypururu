@@ -1,0 +1,15 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "g": "mundial-femenino-vigente",
+  "q": "¿Qué selección ganó el Mundial de fútbol femenino de 2023?",
+  "o": [
+    "España",
+    "Estados Unidos",
+    "Inglaterra",
+    "Alemania"
+  ],
+  "a": "España",
+  "n": "Le ganó la final a Inglaterra."
+}

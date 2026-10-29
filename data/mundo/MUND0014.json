@@ -1,0 +1,14 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué país abarca más husos horarios, contando sus territorios de ultramar?",
+  "o": [
+    "Francia",
+    "Rusia",
+    "Estados Unidos",
+    "Reino Unido"
+  ],
+  "a": "Francia",
+  "n": "Doce husos gracias a sus territorios de ultramar. Rusia, con once, es el que más abarca en territorio continuo."
+}

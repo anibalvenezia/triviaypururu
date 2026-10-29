@@ -1,0 +1,18 @@
+{
+  "c": "Mundo",
+  "t": "ord",
+  "p": 2,
+  "q": "Ordená estas ciudades argentinas de norte a sur.",
+  "o": [
+    "Salta",
+    "Córdoba",
+    "Bariloche",
+    "Ushuaia"
+  ],
+  "a": [
+    "Salta",
+    "Córdoba",
+    "Bariloche",
+    "Ushuaia"
+  ]
+}

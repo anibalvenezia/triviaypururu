@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué instrumento tocaba Bruno Gelber?",
+  "o": [
+    "Piano",
+    "Violín",
+    "Guitarra",
+    "Bandoneón"
+  ],
+  "a": "Piano"
+}

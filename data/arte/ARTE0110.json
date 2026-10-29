@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-david-tinto",
+  "img": [
+    "obras/david-tinto.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tintoretto_(Jacopo_Robusti)_-_Portrait_of_a_Young_Man_as_David_-_Google_Art_Project.jpg/960px-Tintoretto_(Jacopo_Robusti)_-_Portrait_of_a_Young_Man_as_David_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tintoretto_(Jacopo_Robusti)_-_Portrait_of_a_Young_Man_as_David_-_Google_Art_Project.jpg/500px-Tintoretto_(Jacopo_Robusti)_-_Portrait_of_a_Young_Man_as_David_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿A qué siglo pertenece este retrato veneciano?",
+  "o": [
+    "Al siglo XVI",
+    "Al siglo XIV",
+    "Al siglo XVIII",
+    "Al siglo XIX"
+  ],
+  "a": "Al siglo XVI",
+  "titulo": "Retrato de un joven como David · Tintoretto"
+}

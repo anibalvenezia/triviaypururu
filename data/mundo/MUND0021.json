@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué país está el Salto Ángel, la cascada más alta del mundo?",
+  "o": [
+    "Venezuela",
+    "Brasil",
+    "Colombia",
+    "Guyana"
+  ],
+  "a": "Venezuela"
+}

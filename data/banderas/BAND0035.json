@@ -1,0 +1,19 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-india",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/500px-Flag_of_India.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/250px-Flag_of_India.svg.png"
+  ],
+  "q": "¿Qué símbolo aparece en el centro de esta bandera?",
+  "o": [
+    "Una rueda",
+    "Una estrella",
+    "Una media luna",
+    "Un sol"
+  ],
+  "a": "Una rueda",
+  "n": "Es el chakra de Ashoka, con 24 radios."
+}

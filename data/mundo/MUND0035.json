@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es la capital de la provincia de Misiones?",
+  "o": [
+    "Posadas",
+    "Oberá",
+    "Eldorado",
+    "Iguazú"
+  ],
+  "a": "Posadas"
+}

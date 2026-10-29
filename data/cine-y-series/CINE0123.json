@@ -1,0 +1,15 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "g": "poni-pisador",
+  "q": "¿Cómo se llama la taberna donde Aragorn se encuentra con los hobbits?",
+  "o": [
+    "El Poni Pisador",
+    "El Dragón Verde",
+    "La Última Morada",
+    "El Caballo Blanco"
+  ],
+  "a": "El Poni Pisador",
+  "n": "Está en Bree."
+}

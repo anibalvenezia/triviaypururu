@@ -1,0 +1,14 @@
+{
+  "c": "Historia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál de estas NO fue una de las diez plagas de Egipto?",
+  "o": [
+    "La sequía",
+    "Las ranas",
+    "La muerte de los primogénitos",
+    "El agua convertida en sangre"
+  ],
+  "a": "La sequía",
+  "n": "Fueron diez plagas, no siete."
+}

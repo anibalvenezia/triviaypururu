@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-bordighera",
+  "img": [
+    "obras/bordighera.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Claude_Monet_-_Villas_at_Bordighera_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Villas_at_Bordighera_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Claude_Monet_-_Villas_at_Bordighera_-_Google_Art_Project.jpg/500px-Claude_Monet_-_Villas_at_Bordighera_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿En qué país está Bordighera, el pueblo que pintó Monet acá?",
+  "o": [
+    "Italia",
+    "Francia",
+    "España",
+    "Grecia"
+  ],
+  "a": "Italia",
+  "n": "Monet viajó a la Riviera italiana en 1884.",
+  "titulo": "Villas en Bordighera · Claude Monet, 1884"
+}

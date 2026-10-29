@@ -1,0 +1,15 @@
+{
+  "c": "Quién dijo",
+  "t": "mc",
+  "p": 1,
+  "g": "qd-socrates",
+  "q": "«Solo sé que no sé nada» se le atribuye a un filósofo griego. ¿A cuál?",
+  "o": [
+    "Sócrates",
+    "Platón",
+    "Aristóteles",
+    "Diógenes"
+  ],
+  "a": "Sócrates",
+  "n": "La frase no aparece literal en ningún texto: es una síntesis posterior de su método."
+}

@@ -1,0 +1,15 @@
+{
+  "c": "Córdoba",
+  "t": "mc",
+  "p": 1,
+  "g": "gardel-cordoba-teatro",
+  "q": "El teatro de Córdoba donde cantó Gardel en 1914 funciona hoy con otro nombre. ¿Cuál?",
+  "o": [
+    "Studio Theater",
+    "Teatro Comedia",
+    "Teatro Real",
+    "Teatro Griego"
+  ],
+  "a": "Studio Theater",
+  "n": "Era el Teatro Novedades, en Rosario de Santa Fe al 300; reabrió restaurado en 2010."
+}

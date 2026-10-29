@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es la capital de Canadá?",
+  "o": [
+    "Ottawa",
+    "Toronto",
+    "Montreal",
+    "Vancouver"
+  ],
+  "a": "Ottawa"
+}

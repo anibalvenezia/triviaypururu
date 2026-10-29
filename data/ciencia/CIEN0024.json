@@ -1,0 +1,14 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál de estas palabras es grave?",
+  "o": [
+    "Árbol",
+    "Sofá",
+    "Camión",
+    "Reloj"
+  ],
+  "a": "Árbol",
+  "n": "Grave o llana: acento en la penúltima sílaba."
+}

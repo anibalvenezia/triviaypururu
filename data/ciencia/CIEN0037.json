@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el animal terrestre más rápido?",
+  "o": [
+    "El guepardo",
+    "El leopardo",
+    "El antílope",
+    "El caballo"
+  ],
+  "a": "El guepardo"
+}

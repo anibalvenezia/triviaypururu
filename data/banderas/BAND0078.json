@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-irak",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/500px-Flag_of_Iraq.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/250px-Flag_of_Iraq.svg.png"
+  ],
+  "q": "¿Qué país tiene esta bandera?",
+  "o": [
+    "Irak",
+    "Siria",
+    "Egipto",
+    "Yemen"
+  ],
+  "a": "Irak"
+}

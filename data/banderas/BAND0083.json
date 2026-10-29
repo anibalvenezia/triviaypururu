@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-mongolia",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/500px-Flag_of_Mongolia.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/250px-Flag_of_Mongolia.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Mongolia",
+    "Kirguistán",
+    "Kazajistán",
+    "Bután"
+  ],
+  "a": "Mongolia"
+}

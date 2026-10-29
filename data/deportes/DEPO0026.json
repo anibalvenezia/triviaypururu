@@ -1,0 +1,13 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántos aros tiene la bandera olímpica?",
+  "o": [
+    "5",
+    "4",
+    "6",
+    "3"
+  ],
+  "a": "5"
+}

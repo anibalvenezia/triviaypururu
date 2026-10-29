@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Sobre qué océano está Mar del Plata?",
+  "o": [
+    "Atlántico",
+    "Pacífico",
+    "Índico",
+    "Ártico"
+  ],
+  "a": "Atlántico"
+}

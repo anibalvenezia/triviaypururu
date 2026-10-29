@@ -1,0 +1,15 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "g": "curling",
+  "q": "¿Cuál de estos deportes se juega con una escoba?",
+  "o": [
+    "el curling",
+    "el bandy",
+    "el hurling",
+    "el shinty"
+  ],
+  "a": "el curling",
+  "n": "La escoba se usa para barrer el hielo y modificar la trayectoria de la piedra."
+}

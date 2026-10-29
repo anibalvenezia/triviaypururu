@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-malta",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/500px-Flag_of_Malta.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/250px-Flag_of_Malta.svg.png"
+  ],
+  "q": "¿A qué país corresponde esta bandera?",
+  "o": [
+    "Malta",
+    "Mónaco",
+    "Indonesia",
+    "Polonia"
+  ],
+  "a": "Malta"
+}

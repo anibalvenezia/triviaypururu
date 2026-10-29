@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-barbados",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/500px-Flag_of_Barbados.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/250px-Flag_of_Barbados.svg.png"
+  ],
+  "q": "¿A qué país corresponde esta bandera?",
+  "o": [
+    "Barbados",
+    "Bahamas",
+    "Trinidad y Tobago",
+    "Jamaica"
+  ],
+  "a": "Barbados"
+}

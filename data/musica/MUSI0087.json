@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿De qué país es el grupo Café Tacvba?",
+  "o": [
+    "México",
+    "Chile",
+    "Colombia",
+    "España"
+  ],
+  "a": "México"
+}

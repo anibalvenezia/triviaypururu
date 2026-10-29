@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-fuji-rojo",
+  "img": [
+    "obras/fuji-rojo.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Katsushika_Hokusai_-_Fine_Wind%2C_Clear_Morning_(Gaif%C5%AB_kaisei)_-_Google_Art_Project.jpg/960px-Katsushika_Hokusai_-_Fine_Wind%2C_Clear_Morning_(Gaif%C5%AB_kaisei)_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Katsushika_Hokusai_-_Fine_Wind%2C_Clear_Morning_(Gaif%C5%AB_kaisei)_-_Google_Art_Project.jpg/500px-Katsushika_Hokusai_-_Fine_Wind%2C_Clear_Morning_(Gaif%C5%AB_kaisei)_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué montaña es esta, de la misma serie que 'La gran ola'?",
+  "o": [
+    "El monte Fuji",
+    "El monte Aso",
+    "El monte Hiei",
+    "El monte Koya"
+  ],
+  "a": "El monte Fuji",
+  "n": "Conocida como 'El Fuji rojo', de las Treinta y seis vistas del monte Fuji.",
+  "titulo": "Viento fresco, mañana clara (el Fuji rojo) · Katsushika Hokusai, 1831"
+}

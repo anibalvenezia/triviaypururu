@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-baltasar",
+  "img": [
+    "obras/baltasar.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Diego_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez_-_Don_Baltasar_Carlos_with_a_Dwarf_-_Google_Art_Project.jpg/960px-Diego_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez_-_Don_Baltasar_Carlos_with_a_Dwarf_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Diego_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez_-_Don_Baltasar_Carlos_with_a_Dwarf_-_Google_Art_Project.jpg/500px-Diego_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez_-_Don_Baltasar_Carlos_with_a_Dwarf_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿De qué corte europea era pintor el autor de este retrato infantil?",
+  "o": [
+    "De la corte española",
+    "De la corte francesa",
+    "De la corte inglesa",
+    "De la corte austríaca"
+  ],
+  "a": "De la corte española",
+  "n": "Velázquez fue pintor de cámara de Felipe IV.",
+  "titulo": "El príncipe Baltasar Carlos con un enano · Diego Velázquez, 1631"
+}

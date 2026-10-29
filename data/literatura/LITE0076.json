@@ -1,0 +1,14 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "g": "bioy",
+  "q": "¿Qué autor de 'La invención de Morel' ganó el Premio Cervantes en 1990?",
+  "o": [
+    "Adolfo Bioy Casares",
+    "Julio Cortázar",
+    "Ernesto Sabato",
+    "Silvina Ocampo"
+  ],
+  "a": "Adolfo Bioy Casares"
+}

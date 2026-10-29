@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué provincia está el Parque Nacional Ischigualasto, el Valle de la Luna?",
+  "o": [
+    "San Juan",
+    "La Rioja",
+    "Mendoza",
+    "Catamarca"
+  ],
+  "a": "San Juan"
+}

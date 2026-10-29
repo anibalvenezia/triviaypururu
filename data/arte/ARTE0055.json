@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-escribiendo",
+  "img": [
+    "obras/escribiendo.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Johannes_Vermeer_-_A_Lady_Writing_-_Google_Art_Project.jpg/960px-Johannes_Vermeer_-_A_Lady_Writing_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Johannes_Vermeer_-_A_Lady_Writing_-_Google_Art_Project.jpg/500px-Johannes_Vermeer_-_A_Lady_Writing_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿De qué pintor holandés es esta mujer escribiendo una carta?",
+  "o": [
+    "Johannes Vermeer",
+    "Rembrandt",
+    "Gerard ter Borch",
+    "Jan Steen"
+  ],
+  "a": "Johannes Vermeer",
+  "titulo": "Mujer escribiendo una carta · Johannes Vermeer, 1665"
+}

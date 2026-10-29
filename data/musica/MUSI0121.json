@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué instrumento tocaba Luis Alberto Spinetta?",
+  "o": [
+    "La guitarra",
+    "El piano",
+    "El bajo",
+    "La batería"
+  ],
+  "a": "La guitarra"
+}

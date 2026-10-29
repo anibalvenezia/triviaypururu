@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál de estas palabras es esdrújula?",
+  "o": [
+    "Brújula",
+    "Cráter",
+    "Bailé",
+    "Cárcel"
+  ],
+  "a": "Brújula"
+}

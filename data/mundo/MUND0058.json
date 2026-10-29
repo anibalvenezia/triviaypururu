@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué país tiene más costa sobre el mar Caribe?",
+  "o": [
+    "Venezuela",
+    "Colombia",
+    "México",
+    "Cuba"
+  ],
+  "a": "Venezuela"
+}

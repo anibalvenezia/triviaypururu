@@ -1,0 +1,13 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántos jugadores tiene un equipo de rugby en cancha?",
+  "o": [
+    "15",
+    "13",
+    "11",
+    "16"
+  ],
+  "a": "15"
+}

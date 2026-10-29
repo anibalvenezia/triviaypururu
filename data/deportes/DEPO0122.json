@@ -1,0 +1,15 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "g": "rugby-duracion",
+  "q": "¿Cuánto dura un partido de rugby?",
+  "o": [
+    "80 minutos",
+    "60 minutos",
+    "90 minutos",
+    "70 minutos"
+  ],
+  "a": "80 minutos",
+  "n": "Dos tiempos de 40 minutos."
+}

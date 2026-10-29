@@ -1,0 +1,15 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "g": "cumparsita",
+  "q": "¿De qué país es originaria 'La cumparsita'?",
+  "o": [
+    "Uruguay",
+    "Argentina",
+    "Chile",
+    "Paraguay"
+  ],
+  "a": "Uruguay",
+  "n": "La compuso Gerardo Matos Rodríguez en Montevideo."
+}

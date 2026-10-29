@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-gracias",
+  "img": [
+    "obras/gracias.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rapha%C3%ABl_-_Les_Trois_Gr%C3%A2ces_-_Google_Art_ProjectFXD.jpg/960px-Rapha%C3%ABl_-_Les_Trois_Gr%C3%A2ces_-_Google_Art_ProjectFXD.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rapha%C3%ABl_-_Les_Trois_Gr%C3%A2ces_-_Google_Art_ProjectFXD.jpg/500px-Rapha%C3%ABl_-_Les_Trois_Gr%C3%A2ces_-_Google_Art_ProjectFXD.jpg"
+  ],
+  "q": "¿Qué frutas sostienen las figuras de esta obra de Rafael?",
+  "o": [
+    "Manzanas doradas",
+    "Uvas",
+    "Granadas",
+    "Higos"
+  ],
+  "a": "Manzanas doradas",
+  "n": "'Las tres Gracias', hacia 1504: se cree que son las manzanas del jardín de las Hespérides.",
+  "titulo": "Las tres Gracias · Rafael, 1504"
+}

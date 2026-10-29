@@ -1,0 +1,15 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "g": "messi-mundiales",
+  "q": "¿Cuántos Mundiales jugó Messi entre 2006 y 2026?",
+  "o": [
+    "seis",
+    "cinco",
+    "cuatro",
+    "siete"
+  ],
+  "a": "seis",
+  "n": "2006, 2010, 2014, 2018, 2022 y 2026; el de 2026 fue el último."
+}

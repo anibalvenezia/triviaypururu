@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué escritor mexicano ganó el Nobel de Literatura en 1990?",
+  "o": [
+    "Octavio Paz",
+    "Carlos Fuentes",
+    "Juan Rulfo",
+    "José Emilio Pacheco"
+  ],
+  "a": "Octavio Paz"
+}

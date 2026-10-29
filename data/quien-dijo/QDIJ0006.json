@@ -1,0 +1,15 @@
+{
+  "c": "Quién dijo",
+  "t": "mc",
+  "p": 1,
+  "g": "qd-armstrong",
+  "q": "«Un pequeño paso para el hombre, un gran salto para la humanidad». ¿Quién lo dijo?",
+  "o": [
+    "Neil Armstrong",
+    "Yuri Gagarin",
+    "Buzz Aldrin",
+    "John Glenn"
+  ],
+  "a": "Neil Armstrong",
+  "n": "Al pisar la Luna, en julio de 1969."
+}

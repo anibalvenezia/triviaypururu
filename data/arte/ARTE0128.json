@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-arrieta",
+  "img": [
+    "obras/arrieta.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Francisco_de_Goya_-_Self-Portrait_with_Dr._Arrieta_-_Google_Art_Project.jpg/960px-Francisco_de_Goya_-_Self-Portrait_with_Dr._Arrieta_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Francisco_de_Goya_-_Self-Portrait_with_Dr._Arrieta_-_Google_Art_Project.jpg/500px-Francisco_de_Goya_-_Self-Portrait_with_Dr._Arrieta_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿Qué hizo Goya con este cuadro una vez terminado?",
+  "o": [
+    "Se lo regaló a su médico en agradecimiento",
+    "Lo vendió a la corte",
+    "Lo destruyó",
+    "Lo escondió durante veinte años"
+  ],
+  "a": "Se lo regaló a su médico en agradecimiento",
+  "n": "Lo pintó en 1820, tras una enfermedad que casi lo mata.",
+  "titulo": "Autorretrato con el doctor Arrieta · Francisco de Goya, 1820"
+}

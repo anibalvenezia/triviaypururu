@@ -1,0 +1,15 @@
+{
+  "c": "Historia",
+  "t": "mc",
+  "p": 1,
+  "g": "avion-flydubai",
+  "q": "¿A qué ciudad se dirigía el avión de Flydubai que sufrió un intento de secuestro el 30 de septiembre de 2026?",
+  "o": [
+    "Tel Aviv",
+    "Estambul",
+    "El Cairo",
+    "Ammán"
+  ],
+  "a": "Tel Aviv",
+  "n": "Salió de Dubái y aterrizó de emergencia en Arabia Saudita."
+}

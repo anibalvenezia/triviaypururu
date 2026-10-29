@@ -1,0 +1,14 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el país más poblado del mundo?",
+  "o": [
+    "India",
+    "China",
+    "Estados Unidos",
+    "Indonesia"
+  ],
+  "a": "India",
+  "n": "Superó a China en 2023."
+}

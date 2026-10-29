@@ -1,0 +1,19 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-china",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People's_Republic_of_China.svg/500px-Flag_of_the_People's_Republic_of_China.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_China.svg/500px-Flag_of_China.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People's_Republic_of_China.svg/250px-Flag_of_the_People's_Republic_of_China.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "China",
+    "Vietnam",
+    "Turquía",
+    "Marruecos"
+  ],
+  "a": "China"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió 'Guerra y paz'?",
+  "o": [
+    "León Tolstói",
+    "Fiódor Dostoievski",
+    "Iván Turguénev",
+    "Máximo Gorki"
+  ],
+  "a": "León Tolstói"
+}

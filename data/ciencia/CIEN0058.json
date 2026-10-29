@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué gas absorben las plantas durante la fotosíntesis?",
+  "o": [
+    "Dióxido de carbono",
+    "Oxígeno",
+    "Nitrógeno",
+    "Metano"
+  ],
+  "a": "Dióxido de carbono"
+}

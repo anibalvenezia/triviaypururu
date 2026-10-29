@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el océano más grande del planeta?",
+  "o": [
+    "El Pacífico",
+    "El Atlántico",
+    "El Índico",
+    "El Ártico"
+  ],
+  "a": "El Pacífico"
+}

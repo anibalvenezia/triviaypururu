@@ -1,0 +1,13 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué director dirigió 'Psicosis'?",
+  "o": [
+    "Alfred Hitchcock",
+    "Orson Welles",
+    "Billy Wilder",
+    "John Huston"
+  ],
+  "a": "Alfred Hitchcock"
+}

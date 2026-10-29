@@ -1,0 +1,13 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué deporte se compite por el Tour de France?",
+  "o": [
+    "Ciclismo",
+    "Automovilismo",
+    "Atletismo",
+    "Motociclismo"
+  ],
+  "a": "Ciclismo"
+}

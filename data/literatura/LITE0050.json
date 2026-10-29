@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió 'Orgullo y prejuicio'?",
+  "o": [
+    "Jane Austen",
+    "Emily Brontë",
+    "Virginia Woolf",
+    "George Eliot"
+  ],
+  "a": "Jane Austen"
+}

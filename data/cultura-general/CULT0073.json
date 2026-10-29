@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es la moneda de Perú?",
+  "o": [
+    "El sol",
+    "El peso",
+    "El bolívar",
+    "El quetzal"
+  ],
+  "a": "El sol"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuánto suman los ángulos interiores de un triángulo?",
+  "o": [
+    "180 grados",
+    "360 grados",
+    "90 grados",
+    "270 grados"
+  ],
+  "a": "180 grados"
+}

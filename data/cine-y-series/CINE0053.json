@@ -1,0 +1,19 @@
+{
+  "c": "Cine y series",
+  "t": "ord",
+  "p": 2,
+  "q": "Ordená estas películas de la más antigua a la más reciente.",
+  "o": [
+    "Casablanca",
+    "El padrino",
+    "Titanic",
+    "Parásitos"
+  ],
+  "a": [
+    "Casablanca",
+    "El padrino",
+    "Titanic",
+    "Parásitos"
+  ],
+  "n": "1942, 1972, 1997 y 2019."
+}

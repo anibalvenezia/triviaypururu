@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-hungria",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/500px-Flag_of_Hungary.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/250px-Flag_of_Hungary.svg.png"
+  ],
+  "q": "¿Qué país tiene esta bandera?",
+  "o": [
+    "Hungría",
+    "Italia",
+    "Bulgaria",
+    "Irán"
+  ],
+  "a": "Hungría"
+}

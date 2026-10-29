@@ -1,0 +1,15 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "g": "mundiales-arg",
+  "q": "¿Cuántos Mundiales ganó la Selección argentina?",
+  "o": [
+    "3",
+    "2",
+    "4",
+    "5"
+  ],
+  "a": "3",
+  "n": "1978, 1986 y 2022."
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿De qué país era Wolfgang Amadeus Mozart?",
+  "o": [
+    "Austria",
+    "Alemania",
+    "Hungría",
+    "Italia"
+  ],
+  "a": "Austria"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Deportes",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuánto dura un tiempo reglamentario de fútbol?",
+  "o": [
+    "45 minutos",
+    "40 minutos",
+    "50 minutos",
+    "30 minutos"
+  ],
+  "a": "45 minutos"
+}

@@ -1,0 +1,14 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué animal aparece en el escudo de la bandera de México?",
+  "o": [
+    "Un águila",
+    "Un jaguar",
+    "Una serpiente sola",
+    "Un cóndor"
+  ],
+  "a": "Un águila",
+  "n": "Un águila devorando una serpiente sobre un nopal."
+}

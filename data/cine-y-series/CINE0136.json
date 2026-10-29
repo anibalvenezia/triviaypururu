@@ -1,0 +1,15 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "g": "dracula-region",
+  "q": "Según la novela de Bram Stoker, ¿de qué región es originario el conde Drácula?",
+  "o": [
+    "Transilvania",
+    "Valaquia",
+    "Moldavia",
+    "Bucovina"
+  ],
+  "a": "Transilvania",
+  "n": "Su castillo está en los Cárpatos, en la frontera de Transilvania."
+}

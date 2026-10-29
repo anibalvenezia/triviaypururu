@@ -1,0 +1,15 @@
+{
+  "c": "Cine y series",
+  "t": "mc",
+  "p": 1,
+  "g": "delorean",
+  "q": "¿A qué velocidad tiene que llegar el DeLorean para viajar en el tiempo?",
+  "o": [
+    "88 millas por hora",
+    "120 millas por hora",
+    "66 millas por hora",
+    "100 millas por hora"
+  ],
+  "a": "88 millas por hora",
+  "n": "Unos 142 km/h, con 1,21 gigavatios de potencia."
+}

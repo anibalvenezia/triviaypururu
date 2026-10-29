@@ -1,0 +1,14 @@
+{
+  "c": "Córdoba",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál de estas localidades no está en la provincia de Córdoba?",
+  "o": [
+    "La Maruja",
+    "La Falda",
+    "La Cumbre",
+    "La Calera"
+  ],
+  "a": "La Maruja",
+  "n": "Está en La Pampa."
+}

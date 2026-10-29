@@ -1,0 +1,23 @@
+# A main solo se llega desde la rama testing de este repo.
+# Esta validación falla en cualquier otro pull request hacia main.
+# Se marca como obligatoria en el ruleset "main-solo-desde-testing" (solo apunta a main).
+name: Origen del PR
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  solo-desde-testing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verificar que el PR venga de testing
+        env:
+          # por variable de entorno y no dentro del script: el nombre de la rama lo controla quien abre el PR
+          RAMA: ${{ github.head_ref }}
+          REPO_ORIGEN: ${{ github.event.pull_request.head.repo.full_name }}
+        run: |
+          if [ "$RAMA" != "testing" ] || [ "$REPO_ORIGEN" != "$GITHUB_REPOSITORY" ]; then
+            echo "A main solo se llega desde la rama testing de este repo (este PR viene de $REPO_ORIGEN:$RAMA)."
+            exit 1
+          fi
+          echo "OK: el PR viene de testing."

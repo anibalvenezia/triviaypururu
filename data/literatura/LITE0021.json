@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió '1984'?",
+  "o": [
+    "George Orwell",
+    "Aldous Huxley",
+    "Ray Bradbury",
+    "H. G. Wells"
+  ],
+  "a": "George Orwell"
+}

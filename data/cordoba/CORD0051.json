@@ -1,0 +1,13 @@
+{
+  "c": "Córdoba",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es la segunda ciudad más poblada de la provincia de Córdoba?",
+  "o": [
+    "Río Cuarto",
+    "Villa María",
+    "San Francisco",
+    "Villa Carlos Paz"
+  ],
+  "a": "Río Cuarto"
+}

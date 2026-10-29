@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál de estos libros es de Jorge Luis Borges?",
+  "o": [
+    "Ficciones",
+    "Bestiario",
+    "Los siete locos",
+    "Sobre héroes y tumbas"
+  ],
+  "a": "Ficciones"
+}

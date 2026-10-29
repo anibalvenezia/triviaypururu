@@ -1,0 +1,19 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-costarica",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/500px-Flag_of_Costa_Rica.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_(state).svg/500px-Flag_of_Costa_Rica_(state).svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/250px-Flag_of_Costa_Rica.svg.png"
+  ],
+  "q": "¿Qué país tiene esta bandera?",
+  "o": [
+    "Costa Rica",
+    "Tailandia",
+    "Cuba",
+    "Puerto Rico"
+  ],
+  "a": "Costa Rica"
+}

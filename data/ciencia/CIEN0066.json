@@ -1,0 +1,13 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "q": "¿De qué está hecho el esqueleto de un tiburón?",
+  "o": [
+    "Cartílago",
+    "Hueso",
+    "Queratina",
+    "Calcio puro"
+  ],
+  "a": "Cartílago"
+}

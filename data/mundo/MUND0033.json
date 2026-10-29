@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es la capital de Uruguay?",
+  "o": [
+    "Montevideo",
+    "Punta del Este",
+    "Salto",
+    "Colonia"
+  ],
+  "a": "Montevideo"
+}

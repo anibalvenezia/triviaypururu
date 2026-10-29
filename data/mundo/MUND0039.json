@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué provincia argentina está la Quebrada de Humahuaca?",
+  "o": [
+    "Jujuy",
+    "Salta",
+    "Tucumán",
+    "Catamarca"
+  ],
+  "a": "Jujuy"
+}

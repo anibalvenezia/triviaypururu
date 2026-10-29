@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿En qué provincia está el Aconcagua?",
+  "o": [
+    "Mendoza",
+    "San Juan",
+    "La Rioja",
+    "Neuquén"
+  ],
+  "a": "Mendoza"
+}

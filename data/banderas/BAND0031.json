@@ -1,0 +1,19 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-polonia",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/500px-Flag_of_Poland.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/250px-Flag_of_Poland.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "Polonia",
+    "Indonesia",
+    "Mónaco",
+    "Austria"
+  ],
+  "a": "Polonia",
+  "n": "Indonesia y Mónaco tienen los mismos colores invertidos."
+}

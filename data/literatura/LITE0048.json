@@ -1,0 +1,13 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién escribió 'Los miserables'?",
+  "o": [
+    "Victor Hugo",
+    "Alexandre Dumas",
+    "Émile Zola",
+    "Honoré de Balzac"
+  ],
+  "a": "Victor Hugo"
+}

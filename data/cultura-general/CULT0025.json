@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es el equivalente romano de la diosa griega Afrodita?",
+  "o": [
+    "Venus",
+    "Juno",
+    "Minerva",
+    "Diana"
+  ],
+  "a": "Venus"
+}

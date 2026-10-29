@@ -1,0 +1,13 @@
+{
+  "c": "Córdoba",
+  "t": "mc",
+  "p": 1,
+  "q": "¿De qué ciudad es originaria la banda Eruca Sativa?",
+  "o": [
+    "Córdoba",
+    "Rosario",
+    "La Plata",
+    "Mendoza"
+  ],
+  "a": "Córdoba"
+}

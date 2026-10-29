@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-namibia",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/500px-Flag_of_Namibia.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/250px-Flag_of_Namibia.svg.png"
+  ],
+  "q": "¿A qué país corresponde esta bandera?",
+  "o": [
+    "Namibia",
+    "Botsuana",
+    "Zambia",
+    "Angola"
+  ],
+  "a": "Namibia"
+}

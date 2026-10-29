@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-europa",
+  "img": [
+    "obras/europa.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Titian_-_Rape_of_Europa_-_Google_Art_Project.jpg/960px-Titian_-_Rape_of_Europa_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Titian_-_Rape_of_Europa_-_Google_Art_Project.jpg/500px-Titian_-_Rape_of_Europa_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿En qué animal se transforma Zeus en el mito que ilustra este cuadro de Tiziano?",
+  "o": [
+    "En un toro",
+    "En un cisne",
+    "En un águila",
+    "En una lluvia de oro"
+  ],
+  "a": "En un toro",
+  "n": "'El rapto de Europa', 1562.",
+  "titulo": "El rapto de Europa · Tiziano, 1562"
+}

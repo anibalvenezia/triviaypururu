@@ -1,0 +1,15 @@
+{
+  "c": "Ciencia",
+  "t": "mc",
+  "p": 1,
+  "g": "turing",
+  "q": "¿Para qué servía originalmente el test de Turing?",
+  "o": [
+    "para saber si una máquina puede pasar por humana en una conversación",
+    "para medir la velocidad de cálculo de una computadora",
+    "para descifrar la máquina Enigma",
+    "para medir el coeficiente intelectual"
+  ],
+  "a": "para saber si una máquina puede pasar por humana en una conversación",
+  "n": "Turing lo llamó 'el juego de la imitación' en 1950, para reemplazar la pregunta '¿pueden pensar las máquinas?'."
+}

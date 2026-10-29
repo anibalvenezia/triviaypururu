@@ -1,0 +1,13 @@
+{
+  "c": "Mundo",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es la capital de la provincia de Santiago del Estero?",
+  "o": [
+    "Santiago del Estero",
+    "La Banda",
+    "Termas de Río Hondo",
+    "Añatuya"
+  ],
+  "a": "Santiago del Estero"
+}

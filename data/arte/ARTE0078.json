@@ -1,0 +1,20 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-angeles",
+  "img": [
+    "obras/angeles.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sandro_Botticelli_-_Mary_with_the_Child_and_Singing_Angels_-_Google_Art_Project.jpg/960px-Sandro_Botticelli_-_Mary_with_the_Child_and_Singing_Angels_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sandro_Botticelli_-_Mary_with_the_Child_and_Singing_Angels_-_Google_Art_Project.jpg/500px-Sandro_Botticelli_-_Mary_with_the_Child_and_Singing_Angels_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿De qué pintor florentino es esta Virgen rodeada de ángeles?",
+  "o": [
+    "Sandro Botticelli",
+    "Fra Angelico",
+    "Rafael",
+    "Andrea Mantegna"
+  ],
+  "a": "Sandro Botticelli",
+  "titulo": "La Virgen con el Niño y ángeles cantores · Sandro Botticelli, 1477"
+}

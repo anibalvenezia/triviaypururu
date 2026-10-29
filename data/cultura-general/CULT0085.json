@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué animal representa el año en el horóscopo chino que se repite cada doce años junto al dragón y el tigre?",
+  "o": [
+    "Cualquiera de los doce animales del ciclo",
+    "Solo el dragón",
+    "Solo el tigre",
+    "Ninguno: el ciclo es de diez años"
+  ],
+  "a": "Cualquiera de los doce animales del ciclo"
+}

@@ -1,0 +1,14 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "q": "¿De qué cuadro tomó su nombre el movimiento impresionista?",
+  "o": [
+    "Impresión, sol naciente",
+    "Los nenúfares",
+    "El almuerzo campestre",
+    "Baile en el Moulin de la Galette"
+  ],
+  "a": "Impresión, sol naciente",
+  "n": "Es de Claude Monet, expuesto en 1874. El nombre salió de la burla de un crítico."
+}

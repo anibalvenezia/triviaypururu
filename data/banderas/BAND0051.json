@@ -1,0 +1,18 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-republicacheca",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/500px-Flag_of_the_Czech_Republic.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/250px-Flag_of_the_Czech_Republic.svg.png"
+  ],
+  "q": "¿De qué país es esta bandera?",
+  "o": [
+    "República Checa",
+    "Filipinas",
+    "Eslovaquia",
+    "Puerto Rico"
+  ],
+  "a": "República Checa"
+}

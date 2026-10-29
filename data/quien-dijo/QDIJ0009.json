@@ -1,0 +1,15 @@
+{
+  "c": "Quién dijo",
+  "t": "mc",
+  "p": 1,
+  "g": "qd-churchill",
+  "q": "«No tengo nada que ofrecer salvo sangre, esfuerzo, lágrimas y sudor». ¿Quién lo dijo?",
+  "o": [
+    "Winston Churchill",
+    "Charles de Gaulle",
+    "Franklin D. Roosevelt",
+    "Neville Chamberlain"
+  ],
+  "a": "Winston Churchill",
+  "n": "En su primer discurso como primer ministro, en 1940."
+}

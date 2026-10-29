@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué banda grabó el disco 'The Dark Side of the Moon'?",
+  "o": [
+    "Pink Floyd",
+    "Genesis",
+    "Yes",
+    "King Crimson"
+  ],
+  "a": "Pink Floyd"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Música",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué banda grabó 'Stairway to Heaven'?",
+  "o": [
+    "Led Zeppelin",
+    "Deep Purple",
+    "Black Sabbath",
+    "The Doors"
+  ],
+  "a": "Led Zeppelin"
+}

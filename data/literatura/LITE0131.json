@@ -1,0 +1,15 @@
+{
+  "c": "Literatura",
+  "t": "mc",
+  "p": 1,
+  "g": "woolf-cuarto",
+  "q": "¿Quién escribió 'Un cuarto propio', sobre las condiciones materiales que necesita una mujer para escribir?",
+  "o": [
+    "Virginia Woolf",
+    "Simone de Beauvoir",
+    "Katherine Mansfield",
+    "Doris Lessing"
+  ],
+  "a": "Virginia Woolf",
+  "n": "Es un ensayo de 1929, basado en dos conferencias en Cambridge."
+}

@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-durero-madonna",
+  "img": [
+    "obras/durero-madonna.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Albrecht_D%C3%BCrer_-_Madonna_and_Child_(obverse)_-_Google_Art_Project.jpg/960px-Albrecht_D%C3%BCrer_-_Madonna_and_Child_(obverse)_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Albrecht_D%C3%BCrer_-_Madonna_and_Child_(obverse)_-_Google_Art_Project.jpg/500px-Albrecht_D%C3%BCrer_-_Madonna_and_Child_(obverse)_-_Google_Art_Project.jpg"
+  ],
+  "q": "¿De qué país era el autor de esta obra del Renacimiento?",
+  "o": [
+    "Alemania",
+    "Italia",
+    "Países Bajos",
+    "Francia"
+  ],
+  "a": "Alemania",
+  "n": "Alberto Durero, de Núremberg.",
+  "titulo": "La Virgen con el Niño · Alberto Durero, 1496"
+}

@@ -1,0 +1,13 @@
+{
+  "c": "Historia",
+  "t": "mc",
+  "p": 1,
+  "q": "En un mapa de 1989, ¿cuál de estos países aparecía?",
+  "o": [
+    "Yugoslavia",
+    "Croacia",
+    "Eslovenia",
+    "Serbia y Montenegro"
+  ],
+  "a": "Yugoslavia"
+}

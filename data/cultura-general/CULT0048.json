@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuántos lados tiene un hexágono?",
+  "o": [
+    "Seis",
+    "Cinco",
+    "Siete",
+    "Ocho"
+  ],
+  "a": "Seis"
+}

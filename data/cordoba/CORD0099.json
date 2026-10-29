@@ -1,0 +1,13 @@
+{
+  "c": "Córdoba",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué represa cordobesa abastece de agua a la ciudad de Córdoba junto con el San Roque?",
+  "o": [
+    "Los Molinos",
+    "Río Tercero",
+    "Cruz del Eje",
+    "La Viña"
+  ],
+  "a": "Los Molinos"
+}

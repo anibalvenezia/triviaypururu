@@ -1,0 +1,13 @@
+{
+  "c": "TV y espectáculos",
+  "t": "mc",
+  "p": 1,
+  "q": "¿De qué país es Natalia Oreiro?",
+  "o": [
+    "Uruguay",
+    "Argentina",
+    "Chile",
+    "Paraguay"
+  ],
+  "a": "Uruguay"
+}

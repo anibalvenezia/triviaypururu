@@ -2,7 +2,33 @@
    Uso:  npm install  &&  npm run build   ->  dist/index.html
    (Netlify publica la carpeta dist/; con Netlify Drop se arrastra dist/)     */
 import { build } from "esbuild";
-import { writeFileSync, statSync, mkdirSync } from "node:fs";
+import { writeFileSync, statSync, mkdirSync, readFileSync, readdirSync } from "node:fs";
+
+
+/* El banco vive en data/<carpeta>/<CODIGO>0001.json, un archivo por pregunta.
+   Este plugin lo junta en un módulo virtual: categorías en el orden de
+   data/categorias.json (define el orden de la ruleta) y, dentro de cada una,
+   por nombre de archivo. */
+function leerBanco(dir = "data") {
+  const categorias = JSON.parse(readFileSync(`${dir}/categorias.json`, "utf8"));
+  return categorias.flatMap((c) =>
+    readdirSync(`${dir}/${c.carpeta}`)
+      .filter((f) => f.endsWith(".json"))
+      .sort()
+      .map((f) => JSON.parse(readFileSync(`${dir}/${c.carpeta}/${f}`, "utf8")))
+  );
+}
+
+const bancoDePreguntas = {
+  name: "banco-de-preguntas",
+  setup(b) {
+    b.onResolve({ filter: /^banco-de-preguntas$/ }, () => ({ path: "banco", namespace: "banco" }));
+    b.onLoad({ filter: /.*/, namespace: "banco" }, () => ({
+      contents: `export default ${JSON.stringify(leerBanco())};`,
+      loader: "js",
+    }));
+  },
+};
 
 const SALIDA = "dist/index.html";
 mkdirSync("dist", { recursive: true });
@@ -13,6 +39,7 @@ const resultado = await build({
   minify: true,
   write: false,
   loader: { ".jsx": "jsx" },
+  plugins: [bancoDePreguntas],
   define: { "process.env.NODE_ENV": '"production"' },
 });
 

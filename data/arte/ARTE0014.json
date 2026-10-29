@@ -1,0 +1,13 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Quién pintó 'El nacimiento de Venus'?",
+  "o": [
+    "Sandro Botticelli",
+    "Rafael",
+    "Tiziano",
+    "Caravaggio"
+  ],
+  "a": "Sandro Botticelli"
+}

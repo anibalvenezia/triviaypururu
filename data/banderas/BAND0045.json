@@ -1,0 +1,19 @@
+{
+  "c": "Banderas",
+  "t": "mc",
+  "p": 1,
+  "g": "b-nepal",
+  "img": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/500px-Flag_of_Nepal.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/250px-Flag_of_Nepal.svg.png"
+  ],
+  "q": "¿Qué tiene de único esta bandera en el mundo?",
+  "o": [
+    "Es la única que no es rectangular",
+    "Es la única con tres colores",
+    "Es la única sin escudo",
+    "Es la única cuadrada"
+  ],
+  "a": "Es la única que no es rectangular",
+  "n": "Es de Nepal: dos banderines triangulares superpuestos."
+}

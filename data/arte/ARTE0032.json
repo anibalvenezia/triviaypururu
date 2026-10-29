@@ -1,0 +1,21 @@
+{
+  "c": "Arte",
+  "t": "mc",
+  "p": 1,
+  "g": "o-girasoles",
+  "img": [
+    "obras/girasoles.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vincent_Willem_van_Gogh_127.jpg/960px-Vincent_Willem_van_Gogh_127.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vincent_Willem_van_Gogh_127.jpg/500px-Vincent_Willem_van_Gogh_127.jpg"
+  ],
+  "q": "¿Qué pintor hizo célebre este motivo floral en Arlés?",
+  "o": [
+    "Vincent van Gogh",
+    "Paul Gauguin",
+    "Pierre-Auguste Renoir",
+    "Édouard Manet"
+  ],
+  "a": "Vincent van Gogh",
+  "n": "Los girasoles. Pintó varias versiones entre 1888 y 1889.",
+  "titulo": "Jarrón con quince girasoles · Vincent van Gogh, 1888"
+}

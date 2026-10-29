@@ -1,0 +1,13 @@
+{
+  "c": "Cultura general",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Cuál es la lengua materna más hablada del mundo?",
+  "o": [
+    "El chino mandarín",
+    "El inglés",
+    "El español",
+    "El hindi"
+  ],
+  "a": "El chino mandarín"
+}

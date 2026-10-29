@@ -1,0 +1,14 @@
+{
+  "c": "Córdoba",
+  "t": "mc",
+  "p": 1,
+  "q": "¿Qué río atraviesa la ciudad de Río Cuarto?",
+  "o": [
+    "El Chocancharava",
+    "El Suquía",
+    "El Ctalamochita",
+    "El Xanaes"
+  ],
+  "a": "El Chocancharava",
+  "n": "También llamado río Cuarto."
+}
