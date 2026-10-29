@@ -1,7 +1,8 @@
 {
-  "c": "Ciencia",
+  "c": "Astronomía",
   "t": "vf",
   "p": 1,
+  "g": "astr-polvo-estrellas",
   "q": "Estamos hechos de átomos formados en el interior de las estrellas.",
   "a": "Verdadero"
 }

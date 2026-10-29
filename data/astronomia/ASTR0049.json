@@ -1,7 +1,8 @@
 {
-  "c": "Ciencia",
+  "c": "Astronomía",
   "t": "mc",
   "p": 1,
+  "g": "astr-mercurio",
   "q": "¿Cuál es el planeta más cercano al Sol?",
   "o": [
     "Mercurio",

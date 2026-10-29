@@ -1,7 +1,8 @@
 {
-  "c": "Ciencia",
+  "c": "Astronomía",
   "t": "ab",
   "p": 2,
+  "g": "astr-galileo-lunas",
   "q": "¿Qué instrumento inventado por Galileo le permitió observar las lunas de Júpiter?",
   "a": "El telescopio, que perfeccionó pero no inventó"
 }

@@ -1,7 +1,8 @@
 {
-  "c": "Ciencia",
+  "c": "Astronomía",
   "t": "ab",
   "p": 2,
+  "g": "astr-anio-luz",
   "q": "¿Qué es un año luz?",
   "a": "La distancia que recorre la luz en un año, no una unidad de tiempo"
 }

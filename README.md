@@ -82,19 +82,19 @@ anchos estándar (250, 500, 960, 1280…); cualquier otro ancho devuelve HTTP 40
 
 ## Estado del banco
 
-1658 preguntas, 14 categorías.
+1656 preguntas, 14 categorías.
 
 | Categoría | | Categoría | |
 |---|---|---|---|
-| Arte | 160 | Ciencia | 158 |
-| Música | 144 | Cultura general | 143 |
-| Literatura | 142 | Cine y series | 139 |
+| Arte | 160 | Música | 144 |
+| Cultura general | 143 | Literatura | 142 |
+| Cine y series | 139 | Ciencia | 133 |
 | Historia | 129 | Deportes | 128 |
 | Córdoba | 127 | Banderas | 117 |
 | Mundo | 102 | TV y espectáculos | 81 |
-| Quién dijo | 47 | Astronomía | 41 |
+| Astronomía | 64 | Quién dijo | 47 |
 
-Formatos: 972 opción múltiple, 514 sin opciones, 153 verdadero o falso,
+Formatos: 971 opción múltiple, 514 sin opciones, 152 verdadero o falso,
 19 de ordenar.
 
 Ninguna pregunta caduca: todas están ancladas a una fecha o a un hecho

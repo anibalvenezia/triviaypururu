@@ -1,7 +1,8 @@
 {
-  "c": "Ciencia",
+  "c": "Astronomía",
   "t": "vf",
   "p": 1,
+  "g": "astr-sol-estrella",
   "q": "El Sol es una estrella.",
   "a": "Verdadero"
 }

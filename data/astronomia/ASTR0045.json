@@ -1,7 +1,8 @@
 {
-  "c": "Ciencia",
+  "c": "Astronomía",
   "t": "mc",
   "p": 1,
+  "g": "astr-jupiter",
   "q": "¿Cuál es el planeta más grande del Sistema Solar?",
   "o": [
     "Júpiter",

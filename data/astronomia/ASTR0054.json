@@ -1,7 +1,8 @@
 {
-  "c": "Ciencia",
+  "c": "Astronomía",
   "t": "mc",
   "p": 1,
+  "g": "astr-big-bang",
   "q": "¿Qué teoría explica el origen y la expansión del universo?",
   "o": [
     "El Big Bang",

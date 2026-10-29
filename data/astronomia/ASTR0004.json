@@ -1,15 +1,9 @@
 {
   "c": "Astronomía",
-  "t": "mc",
+  "t": "vf",
   "p": 1,
-  "g": "astr-luz-sol",
-  "q": "¿Cuánto tarda la luz del Sol en llegar a la Tierra?",
-  "o": [
-    "Unos 8 segundos",
-    "Unas 8 horas",
-    "Unos 8 minutos",
-    "Unos 8 días"
-  ],
-  "a": "Unos 8 minutos",
-  "n": "Unos 8 minutos y 20 segundos: el Sol que vemos es el de hace ocho minutos."
+  "g": "astr-polvo-estrellas",
+  "q": "Estamos formados por polvo de estrellas.",
+  "a": "Verdadero",
+  "n": "Casi todos los elementos más pesados que el hidrógeno se formaron dentro de estrellas."
 }
