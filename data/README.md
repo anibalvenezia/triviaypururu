@@ -51,6 +51,7 @@ orden es el orden de las categorías en el juego** (ruleta, etc.).
 | `a` | Respuesta. En `mc` tiene que ser **idéntica** a una de las opciones; en `vf`, `"Verdadero"` o `"Falso"`; en `ord`, la lista en el orden correcto (se puede omitir: se usa `o`) |
 | `n` | Nota explicativa (opcional) |
 | `img` | Lista de URLs de imagen, con alternativas en cadena (opcional) |
+| `titulo` | Ficha de la imagen que se muestra al revelar la respuesta, por ejemplo en obras de arte (opcional) |
 
 ## Cargar preguntas desde el panel
 
