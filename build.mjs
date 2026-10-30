@@ -3,6 +3,7 @@
    (Netlify publica la carpeta dist/; con Netlify Drop se arrastra dist/)     */
 import { build } from "esbuild";
 import { writeFileSync, statSync, mkdirSync, readFileSync, readdirSync } from "node:fs";
+import { configuracion } from "./scripts/generar-panel.mjs";
 
 
 /* El banco vive en data/<carpeta>/<CODIGO>0001.json, un archivo por pregunta.
@@ -16,6 +17,8 @@ function leerBanco(dir = "data") {
       .filter((f) => f.endsWith(".json"))
       .sort()
       .map((f) => JSON.parse(readFileSync(`${dir}/${c.carpeta}/${f}`, "utf8")))
+      // las de ordenar cargadas desde el panel traen solo o (ya en orden); a = o
+      .map((x) => (x.t === "ord" && x.a === undefined ? { ...x, a: x.o } : x))
   );
 }
 
@@ -73,3 +76,9 @@ writeFileSync(
 );
 
 console.log(`${SALIDA} · ${(statSync(SALIDA).size / 1024).toFixed(0)} KB`);
+
+/* Panel de carga de preguntas: admin/index.html + config.yml generado desde categorias.json */
+mkdirSync("dist/admin", { recursive: true });
+writeFileSync("dist/admin/index.html", readFileSync("admin/index.html"));
+writeFileSync("dist/admin/config.yml", configuracion(JSON.parse(readFileSync("data/categorias.json", "utf8"))));
+console.log("dist/admin · panel de carga");
