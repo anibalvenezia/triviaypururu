@@ -48,9 +48,22 @@ orden es el orden de las categorías en el juego** (ruleta, etc.).
 | `g` | Grupo temático (opcional). Preguntas sobre el mismo hecho comparten grupo para que no salgan dos en la misma partida |
 | `q` | Enunciado |
 | `o` | Opciones (solo `mc` y `ord`) |
-| `a` | Respuesta. En `mc` tiene que ser **idéntica** a una de las opciones; en `vf`, `"Verdadero"` o `"Falso"`; en `ord`, la lista en el orden correcto |
+| `a` | Respuesta. En `mc` tiene que ser **idéntica** a una de las opciones; en `vf`, `"Verdadero"` o `"Falso"`; en `ord`, la lista en el orden correcto (se puede omitir: se usa `o`) |
 | `n` | Nota explicativa (opcional) |
 | `img` | Lista de URLs de imagen, con alternativas en cadena (opcional) |
+
+## Cargar preguntas desde el panel
+
+El panel (`/admin` en el sitio) crea los archivos por vos. Los nombres que genera son
+`CODIGO-AAAAMMDD-HHMMSS.json` (por ejemplo `HIST-20261030-134512.json`) y el validador los
+acepta junto con los `CODIGO0001.json` escritos a mano.
+
+- El formulario tiene cuatro tipos: opción múltiple, verdadero/falso, sin opciones y ordenar.
+- **Ordenar:** cargá los elementos ya en el orden correcto en *Opciones* y dejá *Respuesta* vacía.
+  El archivo queda sin `a`; el validador y el build usan `o` como respuesta.
+- Cada opción va en su propio ítem (pueden llevar comas).
+- El panel se arma solo desde `categorias.json` (`scripts/generar-panel.mjs`); una categoría nueva aparece sin tocar nada.
+- En la compu: `npx decap-server` en la raíz del repo y abrir `/admin/` del sitio compilado.
 
 ## Sumar una categoría nueva
 
