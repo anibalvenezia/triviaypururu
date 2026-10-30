@@ -29,7 +29,8 @@ const camposComunes = (cat) => `
       - { label: Respuesta, name: a, widget: string, required: false, hint: "Opción múltiple: idéntica a una de las opciones. Verdadero/falso: Verdadero o Falso. Sin opciones: la respuesta corta. Ordenar: dejar vacía." }
       - { label: Nota, name: n, widget: text, required: false, hint: "Se muestra al revelar la respuesta." }
       - { label: Grupo temático, name: g, widget: string, required: false, hint: "Preguntas sobre el mismo hecho comparten grupo, así no salen dos en la misma partida. Ej: planeta-mas-grande." }
-      - { label: Imágenes (URLs), name: img, widget: list, required: false, field: { label: URL, name: url, widget: string }, hint: "Opcional. Si hay varias, las siguientes son alternativas por si la primera no carga." }`;
+      - { label: Imágenes (URLs), name: img, widget: list, required: false, field: { label: URL, name: url, widget: string }, hint: "Opcional. Pegá la dirección de la imagen (por ejemplo de Wikimedia), una por ítem. Si hay varias, las siguientes son alternativas por si la primera no carga: conviene cargar un tamaño grande y uno chico de la misma imagen." }
+      - { label: Ficha de la imagen, name: titulo, widget: string, required: false, hint: "Opcional, para obras de arte: se muestra al revelar la respuesta. Ej: La noche estrellada · Vincent van Gogh, 1889." }`;
 
 export function configuracion(categorias) {
   const porCategoria = categorias.map(
