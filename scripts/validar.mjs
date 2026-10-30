@@ -34,7 +34,8 @@ for (const cat of categorias) {
       avisos.push(`${archivo}: no es .json, el juego lo ignora`);
       continue;
     }
-    if (!new RegExp(`^${cat.codigo}\\d{4}\\.json$`).test(nombre))
+    // CODIGO0001.json (a mano) · CODIGO-AAAAMMDD-HHMMSS.json y ORD-AAAAMMDD-HHMMSS.json (los crea el panel de carga)
+    if (!new RegExp(`^(${cat.codigo}\\d{4}|(${cat.codigo}|ORD)-[A-Za-z0-9-]{6,})\\.json$`).test(nombre))
       errores.push(`${archivo}: el nombre tiene que ser ${cat.codigo} + 4 dígitos, por ejemplo ${cat.codigo}0001.json`);
     let x;
     try {
@@ -85,8 +86,10 @@ for (const { archivo, x } of porArchivo) {
       if (x.o) err("ab no lleva opciones (o)");
       if (x.p !== 2) av("las preguntas sin opciones suelen valer 2 puntos");
     } else if (x.t === "ord") {
-      if (!Array.isArray(x.o) || !Array.isArray(x.a)) err("ord necesita opciones (o) y respuesta (a) como listas");
-      else if ([...x.o].sort().join("\u0000") !== [...x.a].sort().join("\u0000")) err("en ord, a tiene que tener los mismos elementos que o, en el orden correcto");
+      // a se puede omitir: el juego usa o, que ya viene en el orden correcto
+      const a = x.a === undefined ? x.o : x.a;
+      if (!Array.isArray(x.o) || !Array.isArray(a)) err("ord necesita opciones (o) como lista, y si lleva respuesta (a), también como lista");
+      else if ([...x.o].sort().join("\u0000") !== [...a].sort().join("\u0000")) err("en ord, a tiene que tener los mismos elementos que o, en el orden correcto");
     }
 
     // misma huella = el juego las trataría como la misma pregunta
