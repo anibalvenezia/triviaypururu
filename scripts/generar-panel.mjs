@@ -51,6 +51,8 @@ backend:
   name: github
   repo: anibalvenezia/triviaypururu
   branch: testing
+  # Publicar desde el panel hace squash (una sola entrada por pregunta en testing)
+  squash_merges: true
 
 # Solo se usa con "npx decap-server" en la compu; en el sitio publicado se ignora.
 local_backend: true
