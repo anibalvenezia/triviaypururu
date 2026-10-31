@@ -81,4 +81,15 @@ console.log(`${SALIDA} · ${(statSync(SALIDA).size / 1024).toFixed(0)} KB`);
 mkdirSync("dist/admin", { recursive: true });
 writeFileSync("dist/admin/index.html", readFileSync("admin/index.html"));
 writeFileSync("dist/admin/config.yml", configuracion(JSON.parse(readFileSync("data/categorias.json", "utf8"))));
-console.log("dist/admin · panel de carga");
+
+/* Vista previa del panel: estilos del juego (extraídos de app.jsx para que no se desfasen)
+   y la lista de colecciones, que es la misma que arma generar-panel.mjs. */
+const css = readFileSync("app.jsx", "utf8").match(/^const CSS = `([\s\S]*?)^`;/m);
+if (!css) throw new Error("No encontré «const CSS = `…`;» en app.jsx: la vista previa del panel necesita ese bloque.");
+writeFileSync("dist/admin/juego.css", css[1]);
+const colecciones = JSON.parse(readFileSync("data/categorias.json", "utf8")).map((c) => c.carpeta.replace(/-/g, "_"));
+writeFileSync(
+  "dist/admin/preview.js",
+  readFileSync("admin/preview.js", "utf8").replace("/*COLECCIONES*/[]", JSON.stringify(colecciones))
+);
+console.log("dist/admin · panel de carga y vista previa");

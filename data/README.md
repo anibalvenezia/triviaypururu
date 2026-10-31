@@ -64,6 +64,7 @@ acepta junto con los `CODIGO0001.json` escritos a mano.
   El archivo queda sin `a`; el validador y el build usan `o` como respuesta.
 - Cada opción va en su propio ítem (pueden llevar comas).
 - El panel se arma solo desde `categorias.json` (`scripts/generar-panel.mjs`); una categoría nueva aparece sin tocar nada.
+- Mientras editás, el panel muestra a la derecha una **vista previa** con el aspecto del juego (respuesta revelada, imagen, ficha y nota) y avisa en rojo de los errores que si no marcaría la validación de GitHub. Vive en `admin/preview.js`; los estilos se extraen de `app.jsx` en cada build (`dist/admin/juego.css`), así que si se cambia `const CSS` de la app la vista previa lo acompaña.
 - En la compu: `npx decap-server` en la raíz del repo y abrir `/admin/` del sitio compilado.
 
 ## Sumar una categoría nueva
