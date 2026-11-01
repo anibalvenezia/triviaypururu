@@ -66,7 +66,8 @@ for (const { archivo, x } of porArchivo) {
     if (typeof x.q !== "string" || !x.q.trim()) err("falta el enunciado (q)");
     if (x.g !== undefined && (typeof x.g !== "string" || !x.g.trim())) err("el grupo (g) tiene que ser texto no vacío");
     if (x.n !== undefined && typeof x.n !== "string") err("la nota (n) tiene que ser texto");
-    if (x.img !== undefined && (!Array.isArray(x.img) || !x.img.length || x.img.some((u) => typeof u !== "string")))
+    // img: [] es válido (el panel lo deja al quitar la imagen) y equivale a no tener imagen
+    if (x.img !== undefined && (!Array.isArray(x.img) || x.img.some((u) => typeof u !== "string" || !u.trim())))
       err("img tiene que ser una lista de URLs");
 
     if (x.t === "mc") {
