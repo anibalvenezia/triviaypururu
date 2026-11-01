@@ -1,0 +1,33 @@
+# Cuando se mezcla el pull request de carga-en-lotes a testing, la rama de carga se
+# reinicia para quedar igual que testing y arrancar la próxima tanda sin diferencias.
+# Solo la mueve si nadie guardó preguntas nuevas después de lo que se mezcló
+# (--force-with-lease contra el último commit del pull request).
+name: Reiniciar carga-en-lotes
+on:
+  pull_request:
+    types: [closed]
+    branches: [testing]
+
+permissions:
+  contents: write
+
+jobs:
+  reiniciar:
+    if: >-
+      github.event.pull_request.merged == true &&
+      github.event.pull_request.head.ref == 'carga-en-lotes' &&
+      github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: testing
+      - name: Dejar carga-en-lotes igual que testing
+        env:
+          ULTIMO_COMMIT: ${{ github.event.pull_request.head.sha }}
+        run: |
+          if git push --force-with-lease="carga-en-lotes:$ULTIMO_COMMIT" origin HEAD:refs/heads/carga-en-lotes; then
+            echo "carga-en-lotes reiniciada a $(git rev-parse --short HEAD)."
+          else
+            echo "::warning::Hay commits en carga-en-lotes posteriores a este pull request; no se reinició. Hay que traer testing a esa rama a mano."
+          fi
