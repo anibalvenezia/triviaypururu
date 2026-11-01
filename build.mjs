@@ -19,6 +19,8 @@ function leerBanco(dir = "data") {
       .map((f) => JSON.parse(readFileSync(`${dir}/${c.carpeta}/${f}`, "utf8")))
       // las de ordenar cargadas desde el panel traen solo o (ya en orden); a = o
       .map((x) => (x.t === "ord" && x.a === undefined ? { ...x, a: x.o } : x))
+      // el panel deja img: [] al quitar la imagen de una pregunta: equivale a no tener imagen
+      .map((x) => (Array.isArray(x.img) && !x.img.length ? (({ img, ...resto }) => resto)(x) : x))
   );
 }
 
