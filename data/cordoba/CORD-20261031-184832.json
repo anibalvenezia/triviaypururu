@@ -4,13 +4,11 @@
   "p": 1,
   "q": "¿En dónde se encuentra ubicada la sede del Club Atlético Talleres?",
   "o": [
-    "En la plaza San Martín",
     "En la galería Cinerama",
-    "Paseo del Buen Pastor ",
+    "En la plaza San Martín",
+    "Paseo del Buen Pastor",
     "Paseo del Jockey"
   ],
   "a": "En la plaza San Martín",
-  "img": [
-    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Escudo_Talleres_2015.svg/960px-Escudo_Talleres_2015.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ]
+  "img": []
 }
