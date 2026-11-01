@@ -50,15 +50,14 @@ export function configuracion(categorias) {
 backend:
   name: github
   repo: anibalvenezia/triviaypururu
-  branch: testing
-  # Publicar desde el panel hace squash (una sola entrada por pregunta en testing)
-  squash_merges: true
+  # Rama de carga: el panel guarda cada pregunta como un commit acá, sin pull request.
+  # Al terminar la tanda se abre UN solo pull request de carga-en-lotes hacia testing.
+  branch: carga-en-lotes
 
 # Solo se usa con "npx decap-server" en la compu; en el sitio publicado se ignora.
 local_backend: true
 
-# Cada pregunta nueva abre un pull request hacia testing, que revisan Anibal y su prima.
-publish_mode: editorial_workflow
+# Modo simple (sin flujo editorial): "Guardar" commitea directo en carga-en-lotes.
 locale: es
 site_url: https://triviapururu.netlify.app
 media_folder: admin/media

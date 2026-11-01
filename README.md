@@ -123,5 +123,9 @@ El camino de un cambio:
 
 Nadie sube directo a `main` ni a `testing`: todo entra por pull request.
 
+Las preguntas cargadas desde el panel (`/admin`) van primero a la rama `carga-en-lotes`,
+sin pull request por pregunta; al terminar la tanda se abre **un solo pull request**
+de `carga-en-lotes` hacia `testing` y sigue el mismo camino (ver `data/README.md`).
+
 Para agregar una pregunta no hace falta programar: alcanza con crear un archivo nuevo en
 la carpeta de su categoría desde la web de GitHub. Ver `data/README.md`.
