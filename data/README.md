@@ -67,6 +67,15 @@ acepta junto con los `CODIGO0001.json` escritos a mano.
 - Mientras editás, el panel muestra a la derecha una **vista previa** con el aspecto del juego (respuesta revelada, imagen, ficha y nota) y avisa en rojo de los errores que si no marcaría la validación de GitHub. Vive en `admin/preview.js`; los estilos se extraen de `app.jsx` en cada build (`dist/admin/juego.css`), así que si se cambia `const CSS` de la app la vista previa lo acompaña.
 - En la compu: `npx decap-server` en la raíz del repo y abrir `/admin/` del sitio compilado.
 
+## Probar una pregunta sin esperar a que salga
+
+Agregá `?q=` con el ID de la pregunta al final de la dirección del sitio. El ID es el nombre del archivo sin `.json`:
+
+- Una: `https://triviapururu.netlify.app/?q=CORD-20261031-184832`
+- Varias, separadas por coma: `https://triviapururu.netlify.app/?q=ARTE0001,ARTE0002`
+
+Abre el **Modo prueba**: muestra esas preguntas una tras otra, como en el juego. No modifica la lista de preguntas ya vistas. Sirve en `testing` y en las vistas previas de los pull requests, para revisar una carga antes de mergearla (la pregunta tiene que estar en esa versión del sitio).
+
 ## Sumar una categoría nueva
 
 1. Elegir un código de 3 a 5 letras mayúsculas y crear la carpeta `data/<carpeta>/`.

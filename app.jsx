@@ -1283,7 +1283,84 @@ function Festejo({ color }) {
   );
 }
 
-export default function TriviaYPururu() {
+/* ============================================================
+   MODO PRUEBA: ?q=ID o ?q=ID1,ID2,ID3 abre esas preguntas sueltas
+   (para revisar una carga sin esperar a que salga en una partida).
+   No toca la huella de preguntas vistas ni usa el almacenamiento.
+   ============================================================ */
+
+function idsDePrueba() {
+  try {
+    const crudo = new URLSearchParams(window.location.search).getAll("q").join(",");
+    const ids = crudo.split(",").map((x) => x.trim().replace(/\.json$/i, "").toUpperCase()).filter(Boolean);
+    return ids.length ? [...new Set(ids)] : null;
+  } catch (e) { return null; }
+}
+
+function ModoPrueba({ ids }) {
+  const porId = useMemo(() => new Map(PREGUNTAS.map((q) => [String(q.id).toUpperCase(), q])), []);
+  const lista = ids.map((id) => porId.get(id)).filter(Boolean);
+  const faltan = ids.filter((id) => !porId.has(id));
+  const [i, setI] = useState(0);
+  const [vuelta, setVuelta] = useState(0);
+  const salir = () => { window.location.href = window.location.pathname; };
+  const fin = i >= lista.length;
+
+  return (
+    <div className="tb">
+      <style>{CSS}</style>
+      <BarraJuego
+        titulo="Modo prueba"
+        detalle={lista.length && !fin ? `Pregunta ${i + 1} de ${lista.length}` : "Preguntas sueltas"}
+        onSalir={salir}
+      />
+      <div className="tb-wrap contenido">
+        {faltan.length > 0 && (
+          <div className="tarjeta tarjeta-suave" style={{ marginBottom: 12 }}>
+            <div className="eyebrow">No encontré {faltan.length === 1 ? "esta pregunta" : "estas preguntas"}</div>
+            <p className="ayuda" style={{ wordBreak: "break-all" }}>{faltan.join(", ")}</p>
+            <p className="ayuda">El ID es el nombre del archivo sin «.json». Si la cargaste hace poco, puede que esta versión del sitio todavía no la tenga.</p>
+          </div>
+        )}
+        {!lista.length && (
+          <div className="stack" style={{ marginTop: 16 }}>
+            <button className="btn btn-primario grande" onClick={salir}>Ir al juego</button>
+          </div>
+        )}
+        {lista.length > 0 && fin && (
+          <div className="centro">
+            <Logo size={56} />
+            <h2 className="titulo" style={{ marginTop: 16 }}>Listo</h2>
+            <p className="bajada">Probaste {lista.length} pregunta{lista.length === 1 ? "" : "s"}.</p>
+            <div className="stack" style={{ marginTop: 22 }}>
+              <button className="btn btn-borde" onClick={() => { setI(0); setVuelta((v) => v + 1); }}>Probar de nuevo</button>
+              <button className="btn btn-primario grande" onClick={salir}>Ir al juego</button>
+            </div>
+          </div>
+        )}
+      </div>
+      {lista.length > 0 && !fin && (
+        <Pregunta
+          key={vuelta + ":" + lista[i].id}
+          pregunta={{ ...lista[i], uid: lista[i].id }}
+          equipos={[{ id: 1, nombre: "Contala como acierto", puntos: 0, color: "#4EE1B0" }]}
+          solo
+          segundos={0}
+          onResolver={() => setI((n) => n + 1)}
+          encabezado={<div className="eyebrow centro">{lista[i].id}</div>}
+          etiquetaAccion={i + 1 >= lista.length ? "Terminar" : "Siguiente"}
+        />
+      )}
+    </div>
+  );
+}
+
+export default function Raiz() {
+  const ids = useMemo(idsDePrueba, []);
+  return ids ? <ModoPrueba ids={ids} /> : <TriviaYPururu />;
+}
+
+function TriviaYPururu() {
   const [pantalla, setPantalla] = useState("inicio");
   const [equipos, setEquipos] = useState([
     { id: 1, nombre: "Jugador 1", puntos: 0, color: COLORES[0] },
