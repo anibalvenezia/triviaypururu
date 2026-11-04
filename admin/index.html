@@ -12,17 +12,65 @@
 <script src="https://unpkg.com/decap-cms@3.8.4/dist/decap-cms.js"></script>
 <!-- Vista previa de las preguntas: ver admin/preview.js -->
 <script src="/admin/preview.js"></script>
-<!-- Enlace para abrir el pull request con todas las preguntas cargadas (carga-en-lotes → testing).
-     Decap 3.8 no trae API para enlaces propios, así que es un botón fijo fuera de su interfaz. -->
+<!-- Aviso de preguntas sin publicar (carga-en-lotes → testing).
+     Decap 3.8 no trae API para enlaces propios, así que es un aviso fijo fuera de su interfaz.
+     Solo se muestra si carga-en-lotes tiene cambios que testing no tiene. -->
 <style>
-  #abrir-pr-tanda { position: fixed; left: 16px; bottom: 16px; z-index: 9999; padding: 10px 14px;
-    background: #1d6b4f; color: #fff; font: 600 14px/1.2 system-ui, sans-serif; text-decoration: none;
-    border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,.3); }
-  #abrir-pr-tanda:hover { background: #15533d; }
+  #aviso-tanda { display: none; position: fixed; left: 16px; bottom: 16px; z-index: 9999; max-width: calc(100vw - 32px);
+    padding: 10px 12px; background: #fff; color: #1b2733; border: 1px solid #1d6b4f; border-left-width: 6px;
+    border-radius: 6px; box-shadow: 0 2px 10px rgba(0,0,0,.25); font: 14px/1.3 system-ui, sans-serif; }
+  #aviso-tanda strong { display: block; margin-bottom: 6px; }
+  #aviso-tanda a { display: inline-block; padding: 7px 12px; background: #1d6b4f; color: #fff; font-weight: 600;
+    text-decoration: none; border-radius: 5px; }
+  #aviso-tanda a:hover { background: #15533d; }
 </style>
-<a id="abrir-pr-tanda" target="_blank" rel="noopener"
-   href="https://github.com/anibalvenezia/triviaypururu/compare/testing...carga-en-lotes?expand=1&title=Tanda%20de%20preguntas">
-  Terminé la tanda: abrir pull request
-</a>
+<div id="aviso-tanda" role="status"><strong></strong><a target="_blank" rel="noopener"></a></div>
+<script>
+  (function () {
+    var REPO = "anibalvenezia/triviaypururu", RAMA = "carga-en-lotes";
+    var caja = document.getElementById("aviso-tanda");
+    var texto = caja.querySelector("strong"), enlace = caja.querySelector("a");
+    function cabeceras() {
+      var h = { Accept: "application/vnd.github+json" };
+      try { // con la sesión del panel el límite de consultas de GitHub es mucho mayor
+        var u = JSON.parse(localStorage.getItem("decap-cms-user") || localStorage.getItem("netlify-cms-user") || "null");
+        if (u && u.token) h.Authorization = "Bearer " + u.token;
+      } catch (e) { /* sin sesión: consulta anónima */ }
+      return h;
+    }
+    function pedir(ruta) {
+      return fetch("https://api.github.com/repos/" + REPO + ruta, { headers: cabeceras() }).then(function (r) {
+        if (!r.ok) throw new Error(r.status);
+        return r.json();
+      });
+    }
+    function plural(n, uno, varios) { return n + " " + (n === 1 ? uno : varios); }
+    function revisar() {
+      if (document.hidden) return;
+      Promise.all([
+        pedir("/compare/testing..." + RAMA),
+        pedir("/pulls?state=open&base=testing&head=" + REPO.split("/")[0] + ":" + RAMA),
+      ]).then(function (r) {
+        var cmp = r[0], abiertos = r[1];
+        var n = (cmp.files || []).filter(function (f) { return /^data\/.+\.json$/.test(f.filename) && f.status !== "removed"; }).length;
+        if (!cmp.ahead_by) { caja.style.display = "none"; return; }
+        var que = n ? plural(n, "pregunta", "preguntas") : plural(cmp.ahead_by, "cambio", "cambios");
+        if (abiertos.length) {
+          texto.textContent = "Hay " + que + " en un pull request esperando revisión";
+          enlace.textContent = "Ver el pull request #" + abiertos[0].number;
+          enlace.href = abiertos[0].html_url;
+        } else {
+          texto.textContent = "Hay " + que + " sin publicar";
+          enlace.textContent = "Terminé la tanda: abrir pull request";
+          enlace.href = "https://github.com/" + REPO + "/compare/testing..." + RAMA + "?expand=1&title=Tanda%20de%20preguntas";
+        }
+        caja.style.display = "block";
+      }).catch(function () { /* sin red o límite de GitHub: se deja el estado anterior */ });
+    }
+    revisar();
+    setInterval(revisar, 120000);
+    document.addEventListener("visibilitychange", revisar);
+  })();
+</script>
 </body>
 </html>
