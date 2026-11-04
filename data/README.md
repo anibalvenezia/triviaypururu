@@ -59,6 +59,7 @@ El panel (`/admin` en el sitio) crea los archivos por vos. Los nombres que gener
 `CODIGO-AAAAMMDD-HHMMSS.json` (por ejemplo `HIST-20261030-134512.json`) y el validador los
 acepta junto con los `CODIGO0001.json` escritos a mano.
 
+- **Cómo llegan al juego:** el panel guarda cada pregunta como un commit en la rama `carga-en-lotes`, sin pull request. Cuando se terminó de cargar la tanda, se abre **un solo pull request** de `carga-en-lotes` a `testing` con el enlace «Terminé la tanda: abrir pull request» del panel, o directo en https://github.com/anibalvenezia/triviaypururu/compare/testing...carga-en-lotes?expand=1. Ahí corre la validación y se revisan todas juntas (con el Modo prueba: `?q=ID1,ID2,…` en la vista previa del pull request). Al mezclarlo, un workflow (`reiniciar-carga.yml`) deja `carga-en-lotes` igual que `testing`. Conviene no seguir cargando entre que se abre el pull request y se mezcla.
 - El formulario tiene cuatro tipos: opción múltiple, verdadero/falso, sin opciones y ordenar.
 - **Ordenar:** cargá los elementos ya en el orden correcto en *Opciones* y dejá *Respuesta* vacía.
   El archivo queda sin `a`; el validador y el build usan `o` como respuesta.

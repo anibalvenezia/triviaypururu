@@ -12,5 +12,18 @@
 <script src="https://unpkg.com/decap-cms@3.8.4/dist/decap-cms.js"></script>
 <!-- Vista previa de las preguntas: ver admin/preview.js -->
 <script src="/admin/preview.js"></script>
+<!-- Enlace para abrir el pull request con todas las preguntas cargadas (carga-en-lotes → testing) -->
+<script>
+  try {
+    if (window.CMS && CMS.registerAdditionalLink) {
+      CMS.registerAdditionalLink({
+        id: "abrir-pr-tanda",
+        title: "Terminé la tanda: abrir pull request",
+        data: "https://github.com/anibalvenezia/triviaypururu/compare/testing...carga-en-lotes?expand=1&title=Tanda%20de%20preguntas",
+        options: { icon: "page" },
+      });
+    }
+  } catch (e) { /* si esta versión de Decap no lo soporta, el enlace está en data/README.md */ }
+</script>
 </body>
 </html>
